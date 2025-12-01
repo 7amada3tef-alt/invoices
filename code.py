@@ -4,7 +4,7 @@ import json
 import pandas as pd
 
 # ==========================
-# قراءة المتغيرات من GitHub Secrets
+# Environment Variables
 # ==========================
 client_id = os.getenv("CLIENT_ID")
 client_secret = os.getenv("CLIENT_SECRET")
@@ -14,7 +14,7 @@ org_id = os.getenv("ORG_ID")
 TOKEN_FILE = "zoho_token.json"
 
 # ==========================
-# الحصول على access token
+# ACCESS TOKEN MANAGEMENT
 # ==========================
 def get_access_token():
     url = "https://accounts.zoho.com/oauth/v2/token"
@@ -24,17 +24,13 @@ def get_access_token():
         "client_secret": client_secret,
         "grant_type": "refresh_token"
     }
-
     response = requests.post(url, data=data)
+
     if response.status_code == 200:
-        token_data = response.json()
-        access_token = token_data.get("access_token")
-        print("✅ New Zoho access token received.")
-        save_token(access_token)
-        return access_token
-    else:
-        print(f"❌ Failed to refresh token: {response.text}")
-        return None
+        token = response.json().get("access_token")
+        save_token(token)
+        return token
+    return None
 
 def save_token(token):
     with open(TOKEN_FILE, "w") as f:
@@ -43,19 +39,18 @@ def save_token(token):
 def load_token():
     if os.path.exists(TOKEN_FILE):
         with open(TOKEN_FILE, "r") as f:
-            data = json.load(f)
-            return data.get("access_token")
+            return json.load(f).get("access_token")
     return None
 
 
-# =======================================
-#   جلب الفواتير مع التعامل مع كل الصفحات
-# =======================================
-def get_all_invoices(access_token):
-    url = "https://www.zohoapis.com/books/v3/invoices"
+# ==========================
+#   GENERIC PAGINATION FETCHER
+# ==========================
+def fetch_all_pages(endpoint, access_token, key_name):
+    url = f"https://www.zohoapis.com/books/v3/{endpoint}"
     headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
 
-    all_invoices = []
+    all_data = []
     page = 1
     per_page = 200
 
@@ -67,42 +62,56 @@ def get_all_invoices(access_token):
         }
 
         response = requests.get(url, headers=headers, params=params)
-
         if response.status_code != 200:
-            print(f"❌ Failed to fetch invoices (page {page}): {response.text}")
             break
 
         data = response.json()
+        items = data.get(key_name, [])
 
-        invoices = data.get("invoices", [])
-        if not invoices:
-            break  # انتهت الصفحات
+        if not items:
+            break
 
-        print(f"📄 Loaded page {page} - {len(invoices)} invoices")
-
-        all_invoices.extend(invoices)
+        all_data.extend(items)
         page += 1
 
-    print(f"✅ Total invoices fetched: {len(all_invoices)}")
-    return all_invoices
+    return all_data
 
 
-# ==============================
-#   الجزء الرئيسي للتنفيذ
-# ==============================
+# ==========================
+#   SPECIFIC DATA FUNCTIONS
+# ==========================
+def get_invoices(token):
+    return fetch_all_pages("invoices", token, "invoices")
+
+def get_bills(token):
+    return fetch_all_pages("bills", token, "bills")
+
+def get_expenses(token):
+    return fetch_all_pages("expenses", token, "expenses")
+
+def get_creditnotes(token):
+    return fetch_all_pages("creditnotes", token, "creditnotes")
+
+
+# ==========================
+#   SAVE FUNCTION
+# ==========================
+def save_json(data, filename):
+    if data:
+        df = pd.json_normalize(data)
+        df.to_json(filename, orient="records", indent=4, force_ascii=False)
+
+
+# ==========================
+#   MAIN SCRIPT
+# ==========================
 if __name__ == "__main__":
-
     token = load_token()
     if not token:
-        print("🔄 Requesting new Zoho access token...")
         token = get_access_token()
-    else:
-        print("✅ Using cached Zoho access token")
 
     if token:
-        invoices = get_all_invoices(token)
-
-        if invoices:
-            df = pd.json_normalize(invoices)
-            df.to_json("invoices.json", orient="records", indent=4, force_ascii=False)
-            print("💾 invoices.json created successfully!")
+        save_json(get_invoices(token), "invoices.json")
+        save_json(get_bills(token), "bills.json")
+        save_json(get_expenses(token), "expenses.json")
+        save_json(get_creditnotes(token), "creditnotes.json")
