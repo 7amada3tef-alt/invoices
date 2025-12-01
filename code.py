@@ -115,7 +115,7 @@ if __name__ == "__main__":
         token = get_access_token()
 
     if token:
-        save_json(get_invoices(token), "invoices.json")
+        # save_json(get_invoices(token), "invoices.json")
         save_json(get_bills(token), "bills.json")
         save_json(get_expenses(token), "expenses.json")
         save_json(get_creditnotes(token), "creditnotes.json")
