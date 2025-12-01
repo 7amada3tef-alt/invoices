@@ -1,24 +1,25 @@
-name: Run Zoho Script Hourly
+name: Auto Refresh Zoho Data
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # Run every hour
   workflow_dispatch:
 
+permissions:
+  contents: write   # Allow workflow to push commits
+
 jobs:
-  run-script:
+  refresh:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -31,12 +32,32 @@ jobs:
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           ORG_ID: ${{ secrets.ORG_ID }}
-        run: python code.py
+        run: |
+          python code.py   # سكربتك الجديد
 
-      - name: Commit & Push Output JSON
+      - name: List files (Debug)
+        run: ls -la
+
+      - name: Commit and Push Updated JSON Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Auto-update invoices JSON [CI SKIP]" || exit 0
-          git push
+
+          FILES=("invoices.json" "bills.json" "expenses.json" "creditnotes.json")
+
+          for FILE in "${FILES[@]}"; do
+            if [ -f "$FILE" ]; then
+              echo "Found $FILE — checking for changes..."
+              git add "$FILE"
+
+              if ! git diff --cached --quiet; then
+                git commit -m "Auto-update $FILE [CI SKIP]"
+                git push
+                echo "✅ $FILE committed and pushed."
+              else
+                echo "ℹ️ No changes in $FILE."
+              fi
+            else
+              echo "⚠️ $FILE not found — skipping"
+            fi
+          done
