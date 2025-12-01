@@ -96,10 +96,14 @@ def get_creditnotes(token):
 # ==========================
 #   SAVE FUNCTION
 # ==========================
+REPO_DIR = os.getcwd()   # current repo folder
+
 def save_json(data, filename):
     if data:
         df = pd.json_normalize(data)
-        df.to_json(filename, orient="records", indent=4, force_ascii=False)
+        filepath = os.path.join(REPO_DIR, filename)
+        df.to_json(filepath, orient="records", indent=4, force_ascii=False)
+
 
 
 # ==========================
