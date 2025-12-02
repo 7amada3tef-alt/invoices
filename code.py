@@ -1,134 +1,84 @@
 import os
 import requests
-import json
 import pandas as pd
+import json
 
-# ==========================
-# Environment Variables
-# ==========================
-client_id = os.getenv("CLIENT_ID")
+# ==============================
+# قراءة بيانات الربط من Environment Variables
+# ==============================
+client_id     = os.getenv("CLIENT_ID")
 client_secret = os.getenv("CLIENT_SECRET")
 refresh_token = os.getenv("REFRESH_TOKEN")
-org_id = os.getenv("ORG_ID")
+org_id        = os.getenv("ORG_ID")
 
-TOKEN_FILE = "zoho_token.json"
-
-
-# ==========================
-# ACCESS TOKEN MANAGEMENT
-# ==========================
+# ==============================
+# الحصول على Access Token
+# ==============================
 def get_access_token():
     url = "https://accounts.zoho.com/oauth/v2/token"
     data = {
         "refresh_token": refresh_token,
         "client_id": client_id,
         "client_secret": client_secret,
-        "grant_type": "refresh_token",
+        "grant_type": "refresh_token"
     }
-    response = requests.post(url, data=data)
+    response = requests.post(url, data=data).json()
+    return response["access_token"]
 
-    if response.status_code == 200:
-        token = response.json().get("access_token")
-        save_token(token)
-        return token
-    return None
+access_token = get_access_token()
 
-
-def save_token(token):
-    with open(TOKEN_FILE, "w") as f:
-        json.dump({"access_token": token}, f)
-
-
-def load_token():
-    if os.path.exists(TOKEN_FILE):
-        with open(TOKEN_FILE, "r") as f:
-            return json.load(f).get("access_token")
-    return None
-
-
-# ==========================
-# GENERIC PAGINATION FETCHER
-# ==========================
-def fetch_all_pages(endpoint, access_token, key_name):
-    url = f"https://www.zohoapis.com/books/v3/{endpoint}"
-    headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
-
-    all_data = []
+# ==============================
+# دالة عامة لجلب الصفحات
+# ==============================
+def fetch_all(endpoint, item_key):
+    all_items = []
     page = 1
-    per_page = 200
+    has_more = True
+    headers = {
+        "Authorization": f"Zoho-oauthtoken {access_token}"
+    }
 
-    while True:
+    while has_more and page <= 100:
+        url = f"https://www.zohoapis.com/books/v3/{endpoint}"
         params = {
             "organization_id": org_id,
             "page": page,
-            "per_page": per_page,
+            "per_page": 200
         }
 
-        response = requests.get(url, headers=headers, params=params)
-        if response.status_code != 200:
-            break
+        response = requests.get(url, headers=headers, params=params).json()
 
-        data = response.json()
-        items = data.get(key_name, [])
+        if item_key in response:
+            items = response[item_key]
+            all_items.extend(items)
 
-        if not items:
-            break
+            has_more = response.get("page_context", {}).get("has_more_page", False)
+            page += 1
+        else:
+            has_more = False
 
-        all_data.extend(items)
-        page += 1
+    return all_items
 
-    return all_data
+# ==============================
+# جلب البيانات
+# ==============================
+invoices    = fetch_all("invoices", "invoices")
+bills       = fetch_all("bills", "bills")
+expenses    = fetch_all("expenses", "expenses")
+creditnotes = fetch_all("creditnotes", "creditnotes")
 
+# ==============================
+# تحويل إلى DataFrame
+# ==============================
+df_invoices    = pd.DataFrame(invoices)
+df_bills       = pd.DataFrame(bills)
+df_expenses    = pd.DataFrame(expenses)
+df_creditnotes = pd.DataFrame(creditnotes)
 
-# ==========================
-# SPECIFIC DATA FUNCTIONS
-# ==========================
-def get_invoices(token):
-    return fetch_all_pages("invoices", token, "invoices")
-
-
-def get_bills(token):
-    return fetch_all_pages("bills", token, "bills")
-
-
-def get_expenses(token):
-    return fetch_all_pages("expenses", token, "expenses")
-
-
-def get_creditnotes(token):
-    return fetch_all_pages("creditnotes", token, "creditnotes")
-
-
-# ==========================
-# SAVE FUNCTION
-# ==========================
-WORKSPACE = os.getenv("GITHUB_WORKSPACE", os.getcwd())
-
-
-def save_json(data, filename):
-    if data:
-        df = pd.json_normalize(data)
-
-        filepath = os.path.join(WORKSPACE, filename)
-
-        df.to_json(
-            filepath,
-            orient="records",
-            indent=4,
-            force_ascii=False,
-        )
-
-
-# ==========================
-# MAIN SCRIPT
-# ==========================
-if __name__ == "__main__":
-    token = load_token()
-    if not token:
-        token = get_access_token()
-
-    if token:
-        save_json(get_invoices(token), "invoices.json")
-        save_json(get_bills(token), "bills.json")
-        save_json(get_expenses(token), "expenses.json")
-        save_json(get_creditnotes(token), "creditnotes.json")
+# ==============================
+# حفظ الملفات JSON
+# ==============================
+df_invoices.to_json("invoices.json", orient="records", force_ascii=False, indent=4)
+df_bills.to_json("bills.json", orient="records", force_ascii=False, indent=4)
+df_expenses.to_json("expenses.json", orient="records", force_ascii=False, indent=4)
+df_creditnotes.to_json("creditnotes.json", orient="records", force_ascii=False, indent=4)
