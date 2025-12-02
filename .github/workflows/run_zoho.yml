@@ -2,11 +2,11 @@ name: Auto Refresh Zoho Data
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # Run every hour
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # Allow pushing changes
 
 jobs:
   refresh:
@@ -34,19 +34,24 @@ jobs:
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           ORG_ID: ${{ secrets.ORG_ID }}
+          GITHUB_WORKSPACE: ${{ github.workspace }}
         run: |
           python code.py
 
-      - name: List files (Debug)
+      - name: Debug — List Workspace Files
         run: |
-          echo "PWD: $(pwd)"
-          ls -la
+          echo "Workspace path: $GITHUB_WORKSPACE"
+          ls -la $GITHUB_WORKSPACE
 
       - name: Commit and Push Updated JSON Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          cd $GITHUB_WORKSPACE
+
           git add invoices.json bills.json expenses.json creditnotes.json || true
+
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update Zoho JSON files [CI SKIP]" || true
             git push
