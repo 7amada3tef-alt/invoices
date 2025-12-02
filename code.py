@@ -13,6 +13,7 @@ org_id = os.getenv("ORG_ID")
 
 TOKEN_FILE = "zoho_token.json"
 
+
 # ==========================
 # ACCESS TOKEN MANAGEMENT
 # ==========================
@@ -22,7 +23,7 @@ def get_access_token():
         "refresh_token": refresh_token,
         "client_id": client_id,
         "client_secret": client_secret,
-        "grant_type": "refresh_token"
+        "grant_type": "refresh_token",
     }
     response = requests.post(url, data=data)
 
@@ -32,9 +33,11 @@ def get_access_token():
         return token
     return None
 
+
 def save_token(token):
     with open(TOKEN_FILE, "w") as f:
         json.dump({"access_token": token}, f)
+
 
 def load_token():
     if os.path.exists(TOKEN_FILE):
@@ -44,7 +47,7 @@ def load_token():
 
 
 # ==========================
-#   GENERIC PAGINATION FETCHER
+# GENERIC PAGINATION FETCHER
 # ==========================
 def fetch_all_pages(endpoint, access_token, key_name):
     url = f"https://www.zohoapis.com/books/v3/{endpoint}"
@@ -58,7 +61,7 @@ def fetch_all_pages(endpoint, access_token, key_name):
         params = {
             "organization_id": org_id,
             "page": page,
-            "per_page": per_page
+            "per_page": per_page,
         }
 
         response = requests.get(url, headers=headers, params=params)
@@ -78,36 +81,46 @@ def fetch_all_pages(endpoint, access_token, key_name):
 
 
 # ==========================
-#   SPECIFIC DATA FUNCTIONS
+# SPECIFIC DATA FUNCTIONS
 # ==========================
 def get_invoices(token):
     return fetch_all_pages("invoices", token, "invoices")
 
+
 def get_bills(token):
     return fetch_all_pages("bills", token, "bills")
 
+
 def get_expenses(token):
     return fetch_all_pages("expenses", token, "expenses")
+
 
 def get_creditnotes(token):
     return fetch_all_pages("creditnotes", token, "creditnotes")
 
 
 # ==========================
-#   SAVE FUNCTION
+# SAVE FUNCTION
 # ==========================
-REPO_DIR = os.getcwd()   # current repo folder
+WORKSPACE = os.getenv("GITHUB_WORKSPACE", os.getcwd())
+
 
 def save_json(data, filename):
     if data:
         df = pd.json_normalize(data)
-        filepath = os.path.join(REPO_DIR, filename)
-        df.to_json(filepath, orient="records", indent=4, force_ascii=False)
 
+        filepath = os.path.join(WORKSPACE, filename)
+
+        df.to_json(
+            filepath,
+            orient="records",
+            indent=4,
+            force_ascii=False,
+        )
 
 
 # ==========================
-#   MAIN SCRIPT
+# MAIN SCRIPT
 # ==========================
 if __name__ == "__main__":
     token = load_token()
@@ -115,7 +128,7 @@ if __name__ == "__main__":
         token = get_access_token()
 
     if token:
-        # save_json(get_invoices(token), "invoices.json")
+        save_json(get_invoices(token), "invoices.json")
         save_json(get_bills(token), "bills.json")
         save_json(get_expenses(token), "expenses.json")
         save_json(get_creditnotes(token), "creditnotes.json")
