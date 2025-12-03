@@ -68,7 +68,7 @@ def fetch_journals(access_token, org_id):
     headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
 
     while True:
-        url = f"https://books.zoho.com/api/v3/journalentries"
+        url = f"https://www.zohoapis.com/books/v3/journals"
         params = {
             "organization_id": org_id,
             "page": page,
