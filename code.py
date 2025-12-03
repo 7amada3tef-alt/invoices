@@ -84,4 +84,5 @@ df_invoices.to_json("invoices.json", orient="records", force_ascii=False, indent
 df_bills.to_json("bills.json", orient="records", force_ascii=False, indent=4)
 df_expenses.to_json("expenses.json", orient="records", force_ascii=False, indent=4)
 df_creditnotes.to_json("creditnotes.json", orient="records", force_ascii=False, indent=4)
-df_journals.to_json("creditnotes.json", orient="records", force_ascii=False, indent=4)
+df_journals.to_json("journals.json", orient="records", force_ascii=False, indent=4)
+
