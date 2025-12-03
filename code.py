@@ -63,12 +63,32 @@ def fetch_all(endpoint, item_key):
 # دالة خاصة للـ Journals
 # ==============================
 def fetch_journals(access_token, org_id):
-    url = f"https://books.zoho.com/api/v3/journals?organization_id={org_id}"
+    all_items = []
+    page = 1
     headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
 
-    response = requests.get(url, headers=headers)
-    data = response.json()
-    return data.get("journals", [])
+    while True:
+        url = f"https://books.zoho.com/api/v3/journalentries"
+        params = {
+            "organization_id": org_id,
+            "page": page,
+            "per_page": 200
+        }
+
+        response = requests.get(url, headers=headers, params=params)
+        if response.status_code != 200:
+            break
+
+        data = response.json()
+        journals = data.get("journal_entries", [])
+        if not journals:
+            break
+
+        all_items.extend(journals)
+        page += 1
+
+    return all_items
+
 
 # ==============================
 # جلب البيانات
