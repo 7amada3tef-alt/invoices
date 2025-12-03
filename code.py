@@ -66,7 +66,8 @@ invoices    = fetch_all("invoices", "invoices")
 bills       = fetch_all("bills", "bills")
 expenses    = fetch_all("expenses", "expenses")
 creditnotes = fetch_all("creditnotes", "creditnotes")
-journals = fetch_all("journals", "journals")
+journals = fetch_all("journalentries", "journal_entries")
+
 
 # ==============================
 # تحويل إلى DataFrame
