@@ -66,6 +66,7 @@ invoices    = fetch_all("invoices", "invoices")
 bills       = fetch_all("bills", "bills")
 expenses    = fetch_all("expenses", "expenses")
 creditnotes = fetch_all("creditnotes", "creditnotes")
+journals = fetch_all("journals", "journals")
 
 # ==============================
 # تحويل إلى DataFrame
@@ -74,6 +75,7 @@ df_invoices    = pd.DataFrame(invoices)
 df_bills       = pd.DataFrame(bills)
 df_expenses    = pd.DataFrame(expenses)
 df_creditnotes = pd.DataFrame(creditnotes)
+df_journals = pd.DataFrame(journals)
 
 # ==============================
 # حفظ الملفات JSON
@@ -82,3 +84,4 @@ df_invoices.to_json("invoices.json", orient="records", force_ascii=False, indent
 df_bills.to_json("bills.json", orient="records", force_ascii=False, indent=4)
 df_expenses.to_json("expenses.json", orient="records", force_ascii=False, indent=4)
 df_creditnotes.to_json("creditnotes.json", orient="records", force_ascii=False, indent=4)
+df_journals.to_json("creditnotes.json", orient="records", force_ascii=False, indent=4)
