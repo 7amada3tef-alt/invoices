@@ -100,6 +100,8 @@ bills       = fetch_all("bills", "bills")
 expenses    = fetch_all("expenses", "expenses")
 creditnotes = fetch_all("creditnotes", "creditnotes")
 journals    = fetch_journals(access_token, org_id)
+chartofaccounts = fetch_all("chartofaccounts", "chartofaccounts")
+
 
 # ==============================
 # تحويل إلى DataFrame
@@ -109,6 +111,7 @@ df_bills       = pd.DataFrame(bills)
 df_expenses    = pd.DataFrame(expenses)
 df_creditnotes = pd.DataFrame(creditnotes)
 df_journals    = pd.DataFrame(journals)
+df_chartofaccounts = pd.DataFrame(chartofaccounts)
 
 # ==============================
 # حفظ الملفات JSON
@@ -118,3 +121,10 @@ df_bills.to_json("bills.json", orient="records", force_ascii=False, indent=4)
 df_expenses.to_json("expenses.json", orient="records", force_ascii=False, indent=4)
 df_creditnotes.to_json("creditnotes.json", orient="records", force_ascii=False, indent=4)
 df_journals.to_json("journals.json", orient="records", force_ascii=False, indent=4)
+df_chartofaccounts.to_json(
+    "chartofaccounts.json",
+    orient="records",
+    force_ascii=False,
+    indent=4
+)
+
