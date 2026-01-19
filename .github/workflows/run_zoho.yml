@@ -52,6 +52,7 @@ jobs:
           cd $GITHUB_WORKSPACE
 
           git add invoices.json bills.json expenses.json creditnotes.json || true
+          git add chartofaccounts.json
 
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update Zoho JSON files [CI SKIP]" || true
