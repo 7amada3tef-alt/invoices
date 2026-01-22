@@ -121,10 +121,27 @@ df_bills.to_json("bills.json", orient="records", force_ascii=False, indent=4)
 df_expenses.to_json("expenses.json", orient="records", force_ascii=False, indent=4)
 df_creditnotes.to_json("creditnotes.json", orient="records", force_ascii=False, indent=4)
 df_journals.to_json("journals.json", orient="records", force_ascii=False, indent=4)
-df_chartofaccounts.to_json(
-    "chartofaccounts.json",
-    orient="records",
-    force_ascii=False,
-    indent=4
-)
+df_chartofaccounts.to_json("chartofaccounts.json", orient="records",force_ascii=False,indent=4)
+
+# --------------
+
+def fetch_invoice_line_items(invoice_id, access_token, org_id):
+    url = f"https://www.zohoapis.com/books/v3/invoices/{invoice_id}"
+    headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
+    params = {"organization_id": org_id}
+
+    response = requests.get(url, headers=headers, params=params).json()
+    invoice = response.get("invoice", {})
+    return invoice.get("line_items", [])
+
+
+invoice_lines = []
+for invoice_id in df_invoices["invoice_id"]:
+    line_items = fetch_invoice_line_items(invoice_id, access_token, org_id)
+
+    for line in line_items:
+        line["invoice_id"] = invoice_id
+        invoice_lines.append(line)
+df_invoice_lines = pd.DataFrame(invoice_lines)
+df_invoice_lines.to_json("df_invoice_lines_itmes.json", orient="records", force_ascii=False, indent=4)
 
