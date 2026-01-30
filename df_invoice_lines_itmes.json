@@ -80,7 +80,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002242004"
@@ -160,7 +161,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002168362"
@@ -246,7 +248,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002084025"
@@ -332,7 +335,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002084025"
@@ -418,7 +422,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002084025"
@@ -504,7 +509,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002084025"
@@ -590,7 +596,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002084025"
@@ -676,7 +683,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002084025"
@@ -762,7 +770,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002090040"
@@ -848,7 +857,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002090040"
@@ -934,7 +944,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002090040"
@@ -1020,7 +1031,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002090040"
@@ -1106,7 +1118,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000002090040"
@@ -1192,7 +1205,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001940056"
@@ -1278,7 +1292,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001858023"
@@ -1364,7 +1379,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001797057"
@@ -1450,7 +1466,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001748030"
@@ -1536,7 +1553,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001409071"
@@ -1622,7 +1640,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001409071"
@@ -1708,7 +1727,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001409071"
@@ -1794,7 +1814,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001409071"
@@ -1880,7 +1901,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001409071"
@@ -1966,7 +1988,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001409071"
@@ -2052,7 +2075,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001415049"
@@ -2138,7 +2162,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001033057"
@@ -2224,7 +2249,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001033057"
@@ -2310,7 +2336,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001033057"
@@ -2396,7 +2423,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001033057"
@@ -2482,7 +2510,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001033057"
@@ -2568,7 +2597,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001033057"
@@ -2654,7 +2684,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000001033057"
@@ -2740,7 +2771,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000883104"
@@ -2826,7 +2858,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000883104"
@@ -2912,7 +2945,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000754001"
@@ -2998,7 +3032,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000754001"
@@ -3084,7 +3119,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000547240"
@@ -3170,7 +3206,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000547240"
@@ -3256,7 +3293,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000547240"
@@ -3342,7 +3380,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000547240"
@@ -3428,7 +3467,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000547240"
@@ -3514,7 +3554,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000547240"
@@ -3600,7 +3641,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000547240"
@@ -3686,7 +3728,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000547240"
@@ -3772,7 +3815,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000506175"
@@ -3858,7 +3902,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000506175"
@@ -3944,7 +3989,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000506175"
@@ -4030,7 +4076,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000506175"
@@ -4116,7 +4163,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000506175"
@@ -4202,7 +4250,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000506175"
@@ -4288,7 +4337,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000506175"
@@ -4374,7 +4424,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000482780"
@@ -4460,7 +4511,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000482780"
@@ -4546,7 +4598,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000482780"
@@ -4632,7 +4685,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000482780"
@@ -4718,7 +4772,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000482780"
@@ -4804,7 +4859,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000482780"
@@ -4890,7 +4946,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000482780"
@@ -4976,7 +5033,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000482780"
@@ -5062,7 +5120,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000436670"
@@ -5148,7 +5207,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5234,7 +5294,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5320,7 +5381,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5406,7 +5468,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5492,7 +5555,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5578,7 +5642,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5664,7 +5729,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5750,7 +5816,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5836,7 +5903,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000412036"
@@ -5922,7 +5990,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000388041"
@@ -6008,7 +6077,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000388041"
@@ -6094,7 +6164,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000339345"
@@ -6180,7 +6251,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000339345"
@@ -6266,7 +6338,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000339345"
@@ -6352,7 +6425,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000339345"
@@ -6438,7 +6512,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000339345"
@@ -6524,7 +6599,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000339345"
@@ -6610,7 +6686,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000331031"
@@ -6696,7 +6773,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -6776,7 +6854,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -6856,7 +6935,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -6936,7 +7016,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7016,7 +7097,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7096,7 +7178,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7176,7 +7259,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7256,7 +7340,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7336,7 +7421,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7416,7 +7502,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7496,7 +7583,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7576,7 +7664,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7656,7 +7745,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7736,7 +7826,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7816,7 +7907,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7896,7 +7988,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -7976,7 +8069,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -8056,7 +8150,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000260019"
@@ -8142,7 +8237,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000219129"
@@ -8228,7 +8324,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000212267"
@@ -8314,7 +8411,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -8394,7 +8492,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -8474,7 +8573,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -8554,7 +8654,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -8634,7 +8735,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -8714,7 +8816,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -8794,7 +8897,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -8874,7 +8978,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -8954,7 +9059,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -9034,7 +9140,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -9114,7 +9221,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -9194,7 +9302,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -9274,7 +9383,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -9354,7 +9464,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -9434,7 +9545,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -9514,7 +9626,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000194037"
@@ -9600,7 +9713,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000192001"
@@ -9686,7 +9800,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000179312"
@@ -9772,7 +9887,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000179312"
@@ -9858,7 +9974,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000179312"
@@ -9944,7 +10061,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000179312"
@@ -10030,7 +10148,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000179312"
@@ -10116,7 +10235,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000179312"
@@ -10202,7 +10322,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000179312"
@@ -10288,7 +10409,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148302"
@@ -10374,7 +10496,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148302"
@@ -10460,7 +10583,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148302"
@@ -10546,7 +10670,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148302"
@@ -10632,7 +10757,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148302"
@@ -10718,7 +10844,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148302"
@@ -10804,7 +10931,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148302"
@@ -10890,7 +11018,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148184"
@@ -10976,7 +11105,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148131"
@@ -11062,7 +11192,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000148015"
@@ -11148,7 +11279,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000146051"
@@ -11234,7 +11366,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000146051"
@@ -11320,7 +11453,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000146051"
@@ -11406,7 +11540,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000146015"
@@ -11492,7 +11627,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000144001"
@@ -11578,7 +11714,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000144001"
@@ -11664,7 +11801,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000144001"
@@ -11750,7 +11888,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000144001"
@@ -11836,7 +11975,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000144001"
@@ -11922,7 +12062,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000141015"
@@ -12008,7 +12149,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000139001"
@@ -12094,7 +12236,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000139001"
@@ -12180,7 +12323,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000139001"
@@ -12266,7 +12410,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000139001"
@@ -12352,7 +12497,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000139001"
@@ -12438,7 +12584,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136196"
@@ -12524,7 +12671,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136196"
@@ -12610,7 +12758,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136196"
@@ -12696,7 +12845,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136112"
@@ -12782,7 +12932,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136112"
@@ -12868,7 +13019,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136112"
@@ -12954,7 +13106,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136112"
@@ -13040,7 +13193,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136112"
@@ -13126,7 +13280,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136112"
@@ -13212,7 +13367,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000136112"
@@ -13298,7 +13454,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000134001"
@@ -13384,7 +13541,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000134001"
@@ -13470,7 +13628,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000132043"
@@ -13556,7 +13715,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119194"
@@ -13642,7 +13802,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119158"
@@ -13728,7 +13889,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -13814,7 +13976,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -13900,7 +14063,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -13986,7 +14150,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14072,7 +14237,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14158,7 +14324,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14244,7 +14411,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14330,7 +14498,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14416,7 +14585,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14502,7 +14672,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14588,7 +14759,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14674,7 +14846,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14760,7 +14933,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
@@ -14846,7 +15020,8 @@
         "product_tax_category":{
             "tax_category_code":"",
             "tax_category_name":"",
-            "description":""
+            "description":"",
+            "master_tax_category_code":""
         },
         "line_item_type":"line_item",
         "invoice_id":"5975823000000119049"
