@@ -38,7 +38,7 @@ jobs:
           GITHUB_WORKSPACE: ${{ github.workspace }}
         run: |
           python code.py || true
-          python balancesheet.py || true
+          python balance_sheet.py || true
 
 
       - name: Debug — List Workspace Files
