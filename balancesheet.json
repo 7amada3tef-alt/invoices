@@ -1,0 +1,877 @@
+{
+  "code": 0,
+  "message": "success",
+  "balance_sheet": [
+    {
+      "total": 16110427.4,
+      "total_label": "TOTAL ASSETS",
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 15983816.85,
+          "total_label": "Total Current Assets",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total": -31064.53,
+              "previous_values": [],
+              "account_transactions": [
+                {
+                  "total_sub_account": 0.0,
+                  "total": -67397.78,
+                  "account_id": "5975823000000099215",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Ahmed Baesmaeil custody - 120101 - عهدة احمد باسماعيل",
+                  "previous_total_sub_account": [],
+                  "account_code": "120101",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 0.51,
+                  "account_id": "5975823000000100011",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Ahmed Fatani custody - 120103 - عهدة احمد فطاني",
+                  "previous_total_sub_account": [],
+                  "account_code": "120103",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 15340.95,
+                  "account_id": "5975823000000168013",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Anas Lutfi custody - 120102 - عهدة انس لطفي",
+                  "previous_total_sub_account": [],
+                  "account_code": "120102",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 13536.0,
+                  "account_id": "5975823000000209178",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Ibrahim Baesmaeil custody - 120106 - عهدة ابراهيم باسماعيل",
+                  "previous_total_sub_account": [],
+                  "account_code": "120106",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 5033.81,
+                  "account_id": "5975823000000188325",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Mohammed Alsadawi custody - 120105 - عهدة محمد السعداوي",
+                  "previous_total_sub_account": [],
+                  "account_code": "120105",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 2003.0,
+                  "account_id": "5975823000000353048",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Riyad Massoud custody - 120109 - عهدة رياض المسعود",
+                  "previous_total_sub_account": [],
+                  "account_code": "120109",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 418.98,
+                  "account_id": "5975823000000274459",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Safwan Almahdi custody - 120108 - عهدة صفوان المهدي",
+                  "previous_total_sub_account": [],
+                  "account_code": "120108",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                }
+              ],
+              "name": "Cash",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            },
+            {
+              "total": 4818080.61,
+              "previous_values": [],
+              "account_transactions": [
+                {
+                  "total_sub_account": 0.0,
+                  "total": 135993.77,
+                  "account_id": "5975823000000101937",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Bank Al-Inma - 120206 - حساب مصرف الانماء",
+                  "previous_total_sub_account": [],
+                  "account_code": "120206",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 84.2,
+                  "account_id": "5975823000000101925",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Bank Al-Jazera Expenses - 120202 - حساب بنك الجزيرة الفرعي",
+                  "previous_total_sub_account": [],
+                  "account_code": "120202",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 4659241.63,
+                  "account_id": "5975823000000101921",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Bank Al-Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+                  "previous_total_sub_account": [],
+                  "account_code": "120201",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 22761.01,
+                  "account_id": "5975823000000101941",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+                  "previous_total_sub_account": [],
+                  "account_code": "120207",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                }
+              ],
+              "name": "Bank",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            },
+            {
+              "account_transactions": [
+                {
+                  "total_sub_account": 0.0,
+                  "total": 5501912.03,
+                  "account_id": "5975823000000000364",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Accounts Receivable",
+                  "previous_total_sub_account": [],
+                  "account_code": "12000",
+                  "is_collapsed_view": false,
+                  "previous_total": [],
+                  "account_constant": ""
+                }
+              ]
+            },
+            {
+              "total": 5694888.74,
+              "previous_values": [],
+              "account_transactions": [
+                {
+                  "total_sub_account": 0.0,
+                  "total": -93326.64,
+                  "account_id": "5975823000000100097",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Aathar holding company - شركة اثار الخير القابضة",
+                  "previous_total_sub_account": [],
+                  "account_code": "121211",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 102145.68,
+                  "account_id": "5975823000000102681",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Advance medical inurnace - 120602 - تأمين طبي مدفوع مقدم",
+                  "previous_total_sub_account": [],
+                  "account_code": "120602",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 141874.47,
+                  "account_id": "5975823000000309103",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Advance payment to Ahmed Baesmaeil - 120405 - سلفة احمد باسماعيل",
+                  "previous_total_sub_account": [],
+                  "account_code": "120405 ",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 19200.0,
+                  "account_id": "5975823000000263225",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Advance payment to Mansour Aljabri - 120404 - سلفة منصور الجبري",
+                  "previous_total_sub_account": [],
+                  "account_code": "120404",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 1813842.0,
+                  "account_id": "5975823000000102645",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Bank guarantees - 120901 - ضمانات بنكية",
+                  "previous_total_sub_account": [],
+                  "account_code": "120901",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 2676129.75,
+                  "account_id": "5975823000000100103",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Ghadan  - شركة التنمية وغدن للتجارة",
+                  "previous_total_sub_account": [],
+                  "account_code": "121212",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 436317.4,
+                  "account_id": "5975823000000091047",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Input VAT",
+                  "previous_total_sub_account": [],
+                  "account_code": "12001",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": -35.0,
+                  "account_id": "5975823000000102699",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Prepaid - Chamber of Commerce certification - 120605 - تصاديق الغرفة التجارية مدفوعة مقدما",
+                  "previous_total_sub_account": [],
+                  "account_code": "120605",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 104440.56,
+                  "account_id": "5975823000000091011",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Prepaid Expenses - 120609 - مصروفات مدفوعة للموردين مقدما",
+                  "previous_total_sub_account": [],
+                  "account_code": "120609",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 1949.93,
+                  "account_id": "5975823000000102705",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Prepaid Iqama Fee - 120606 - رسوم إقامة مدفوعة مقدما",
+                  "previous_total_sub_account": [],
+                  "account_code": "120606",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 25499.89,
+                  "account_id": "5975823000000301037",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Prepaid Labor Office Fee - 120607 - رسوم مكتب العمل مدفوعة مقدما",
+                  "previous_total_sub_account": [],
+                  "account_code": "120607 ",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 32599.99,
+                  "account_id": "5975823000000102675",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Prepaid rent - 120601 - ايجار مدفوع مقدم",
+                  "previous_total_sub_account": [],
+                  "account_code": "120601",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 14497.05,
+                  "account_id": "5975823000000100109",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Rakeen - شركة ركين العطاء للتجارة",
+                  "previous_total_sub_account": [],
+                  "account_code": "121213",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 250000.0,
+                  "account_id": "5975823000000155039",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Samawah - 120502 - ذمة شركة سماوة",
+                  "previous_total_sub_account": [],
+                  "account_code": "120502",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 7150.0,
+                  "account_id": "5975823000000100121",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Warif - شركة وارف المعرفة",
+                  "previous_total_sub_account": [],
+                  "account_code": "121215",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 162603.66,
+                  "account_id": "5975823000001427081",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Zoho Payroll - Loan Account",
+                  "previous_total_sub_account": [],
+                  "account_code": "120401",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                }
+              ],
+              "name": "Other Current Assets",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            }
+          ],
+          "name": "Current Assets",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        },
+        {
+          "total": 0.0,
+          "total_label": "Total Other Assets",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Other Assets",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        },
+        {
+          "total": 126610.55,
+          "total_label": "Total Fixed Assets",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0.0,
+              "total": -295.17,
+              "account_id": "5975823000000290253",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Acc Amo - Softwares - 112001 - مجمع اطفاء برامج الحاسب الالي",
+              "previous_total_sub_account": [],
+              "account_code": "112001",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": -33734.09,
+              "account_id": "5975823000000290193",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Acc Dep - Computers - 111007 - مجمع اهلاك اجهزة حاسب الي",
+              "previous_total_sub_account": [],
+              "account_code": "111007",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": -23426.0,
+              "account_id": "5975823000000290245",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Acc Dep - Display showcases - 111003 - مجمع اهلاك بترينات عرض",
+              "previous_total_sub_account": [],
+              "account_code": "111003",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": -20902.66,
+              "account_id": "5975823000000290213",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Acc Dep - Electrical Devices - 111006 - مجمع اهلاك اجهزة كهربائية",
+              "previous_total_sub_account": [],
+              "account_code": "111006",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": -32833.02,
+              "account_id": "5975823000000290205",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Acc Dep - Furniture - 111008 - مجمع اهلاك الاثاث والمفروشات",
+              "previous_total_sub_account": [],
+              "account_code": "111008",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": -1541.79,
+              "account_id": "5975823000000290221",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Acc Dep - Lease bulding improvements - 111009 - مجمع اهلاك تحسينات مباني مستأجرة",
+              "previous_total_sub_account": [],
+              "account_code": "111009",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": -19284.0,
+              "account_id": "5975823000000290229",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Acc Dep - Tools - 111005 - مجمع اهلاك عدد وادوات",
+              "previous_total_sub_account": [],
+              "account_code": "111005",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 99709.71,
+              "account_id": "5975823000000099525",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Computers - 110107 - اجهزة حاسب الي",
+              "previous_total_sub_account": [],
+              "account_code": "110107",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 23427.0,
+              "account_id": "5975823000000099549",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Display showcases - 110103 - بترينات عرض",
+              "previous_total_sub_account": [],
+              "account_code": "110103",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 28411.82,
+              "account_id": "5975823000000099513",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Electrical Devices - 110106 - اجهزة كهربائية",
+              "previous_total_sub_account": [],
+              "account_code": "110106",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 53608.22,
+              "account_id": "5975823000000099537",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Furnitures - 110108 - اثاث ومفروشات",
+              "previous_total_sub_account": [],
+              "account_code": "110108",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 16475.53,
+              "account_id": "5975823000000099555",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+              "previous_total_sub_account": [],
+              "account_code": "110109",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 17710.0,
+              "account_id": "5975823000000099585",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Softarwes - 110201 - برامج حاسب الي",
+              "previous_total_sub_account": [],
+              "account_code": "110201",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 19285.0,
+              "account_id": "5975823000000099507",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Tools - 110105 - عدد وادوات",
+              "previous_total_sub_account": [],
+              "account_code": "110105",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Fixed Assets",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        }
+      ],
+      "name": "Assets",
+      "previous_total_sub_account": [],
+      "previous_total": []
+    },
+    {
+      "total": 16110427.4,
+      "total_label": "TOTAL LIABILITIES & EQUITIES",
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 7288380.99,
+          "total_label": "Total Liabilities",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total": 7109437.2,
+              "total_label": "Total Current Liabilities",
+              "previous_values": [],
+              "account_transactions": [
+                {
+                  "total_sub_account": 0.0,
+                  "total": 848520.25,
+                  "account_id": "5975823000000000373",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Accounts Payable",
+                  "previous_total_sub_account": [],
+                  "account_code": "22000",
+                  "is_collapsed_view": false,
+                  "previous_total": [],
+                  "account_constant": ""
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 64100.06,
+                  "account_id": "5975823000000102789",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
+                  "previous_total_sub_account": [],
+                  "account_code": "220203",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 3322400.0,
+                  "account_id": "5975823000000102783",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Accrued professional fees - 220202 - مصروفات مستحقة اتعاب مهنية",
+                  "previous_total_sub_account": [],
+                  "account_code": "220202",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 1718.0,
+                  "account_id": "5975823000002162115",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Accrued Withholding Tax - ضريبة الاستقطاع المستحقة",
+                  "previous_total_sub_account": [],
+                  "account_code": "220208",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 785613.0,
+                  "account_id": "5975823000000103235",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Creditor- Aathar - ذمة دائنة ـ شركة اثار الخيرالقابضة",
+                  "previous_total_sub_account": [],
+                  "account_code": "220103",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 1876935.89,
+                  "account_id": "5975823000000091224",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "GCC VAT Payable",
+                  "previous_total_sub_account": [],
+                  "account_code": "22002",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 210150.0,
+                  "account_id": "5975823000000091049",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Output VAT",
+                  "previous_total_sub_account": [],
+                  "account_code": "22001",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                }
+              ],
+              "name": "Current Liabilities",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            },
+            {
+              "total": 178943.79,
+              "total_label": "Total Long Term Liabilities",
+              "previous_values": [],
+              "account_transactions": [
+                {
+                  "total_sub_account": 0.0,
+                  "total": 178943.79,
+                  "account_id": "5975823000000289799",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+                  "previous_total_sub_account": [],
+                  "account_code": "210301",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                }
+              ],
+              "name": "Long Term Liabilities",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            },
+            {
+              "total": 0.0,
+              "total_label": "Total Other Liabilities",
+              "previous_values": [],
+              "account_transactions": [],
+              "name": "Other Liabilities",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            }
+          ],
+          "name": "Liabilities",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        },
+        {
+          "total": 8822046.41,
+          "total_label": "Total Equities",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total": 4806568.83,
+              "account_id": "",
+              "previous_values": [],
+              "name": "Current Year Earnings",
+              "previous_total": []
+            },
+            {
+              "total": 3982977.58,
+              "account_id": "5975823000000000379",
+              "previous_values": [],
+              "name": "Retained Earnings - الارباح المحتجزة",
+              "account_code": "34",
+              "previous_total": [],
+              "is_retained_earnings": true
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 25000.0,
+              "account_id": "5975823000000100389",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Share capital - رأس المال",
+              "previous_total_sub_account": [],
+              "account_code": "3101",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0.0,
+              "total": 7500.0,
+              "account_id": "5975823000000100429",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Statutary reserve - احتياطي نظامي",
+              "previous_total_sub_account": [],
+              "account_code": "3301",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Equities",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        }
+      ],
+      "name": "Liabilities & Equities",
+      "previous_total_sub_account": [],
+      "previous_total": []
+    }
+  ],
+  "page_context": {
+    "can_show_reports_banner": false,
+    "can_schedule": true,
+    "is_inv_txn_job_in_progress": false,
+    "report_basis": "Accrual",
+    "is_already_scheduled": false,
+    "report_type": "balance_sheet",
+    "applied_filter": "TransactionDate.Today",
+    "as_of_date": "2026-02-04",
+    "to_date": "2026-02-04",
+    "previous_date_range": [],
+    "show_rows": "non_zero",
+    "last_accessed_time_formatted": "04 Feb 2026 12:33 PM",
+    "select_columns": [
+      {
+        "field": "name",
+        "group": "report"
+      },
+      {
+        "field": "account_code",
+        "group": "report"
+      },
+      {
+        "field": "total",
+        "group": "report"
+      }
+    ],
+    "group_by": [
+      {
+        "field": "none",
+        "group": "report"
+      }
+    ],
+    "date_range_label": "",
+    "fifo_scheduler_status": {
+      "is_queue_entry_present": false,
+      "is_job_status_completed": true
+    },
+    "date_range_list": [
+      {
+        "date_range_label": "04 Feb 2026",
+        "from_date": "2026-02-04",
+        "to_date": "2026-02-04"
+      }
+    ],
+    "sort_column": "account",
+    "sort_order": "A"
+  }
+}

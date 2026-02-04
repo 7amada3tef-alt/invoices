@@ -4050,6 +4050,31 @@
         "last_modified_time":"2025-08-08T05:03:14+0300"
     },
     {
+        "account_id":"5975823000002725001",
+        "account_name":"Gratuity Payable",
+        "account_code":"Payroll-006",
+        "account_type":"long_term_liability",
+        "description":"",
+        "placeholder":"gl_gratuity_payable",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "can_show_in_ze":false,
+        "parent_account_id":"",
+        "parent_account_name":"",
+        "depth":0,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2026-02-04T10:18:36+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-02-04T10:18:36+0300"
+    },
+    {
         "account_id":"5975823000000100307",
         "account_name":"Provision for investment losses - مخصص خسائر استثمارات",
         "account_code":"2101",
@@ -5416,7 +5441,7 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":33,
+        "child_count":32,
         "documents":[
 
         ],
@@ -6225,31 +6250,6 @@
         "last_modified_time":"2025-01-27T14:59:28+0300"
     },
     {
-        "account_id":"5975823000000103159",
-        "account_name":"Training fees - 730501 - رسوم تدريب",
-        "account_code":"730501",
-        "account_type":"expense",
-        "description":"",
-        "placeholder":"",
-        "is_register_supported_account":false,
-        "is_user_created":true,
-        "is_system_account":false,
-        "is_active":true,
-        "can_show_in_ze":false,
-        "parent_account_id":"5975823000000102967",
-        "parent_account_name":"Marketing expenses - 72 -  مصاريف تسويقية",
-        "depth":2,
-        "has_attachment":false,
-        "is_child_present":false,
-        "child_count":"",
-        "documents":[
-
-        ],
-        "created_time":"2025-01-27T14:59:28+0300",
-        "is_standalone_account":false,
-        "last_modified_time":"2025-01-27T14:59:28+0300"
-    },
-    {
         "account_id":"5975823000000032023",
         "account_name":"Lodging",
         "account_code":"",
@@ -6816,7 +6816,7 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":94,
+        "child_count":93,
         "documents":[
 
         ],
@@ -9150,31 +9150,6 @@
         "last_modified_time":"2025-01-27T14:57:59+0300"
     },
     {
-        "account_id":"5975823000000101879",
-        "account_name":"SMS fees - 621306 - شحن رسائل SMS",
-        "account_code":"621306",
-        "account_type":"expense",
-        "description":"",
-        "placeholder":"",
-        "is_register_supported_account":false,
-        "is_user_created":true,
-        "is_system_account":false,
-        "is_active":true,
-        "can_show_in_ze":false,
-        "parent_account_id":"5975823000000101327",
-        "parent_account_name":"G & A Expenses- 62 - مصاريف ادارية وعمومية",
-        "depth":2,
-        "has_attachment":false,
-        "is_child_present":false,
-        "child_count":"",
-        "documents":[
-
-        ],
-        "created_time":"2025-01-27T14:58:08+0300",
-        "is_standalone_account":false,
-        "last_modified_time":"2025-01-27T14:58:08+0300"
-    },
-    {
         "account_id":"5975823000000102001",
         "account_name":"Fuel\/Mileage Expenses",
         "account_code":"",
@@ -9223,6 +9198,31 @@
         "created_time":"2025-01-27T14:56:15+0300",
         "is_standalone_account":false,
         "last_modified_time":"2025-01-27T14:56:15+0300"
+    },
+    {
+        "account_id":"5975823000002725003",
+        "account_name":"Gratuity Expense",
+        "account_code":"Payroll-007",
+        "account_type":"expense",
+        "description":"",
+        "placeholder":"gl_gratuity_expense",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "can_show_in_ze":false,
+        "parent_account_id":"",
+        "parent_account_name":"",
+        "depth":0,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2026-02-04T10:18:36+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-02-04T10:18:36+0300"
     },
     {
         "account_id":"5975823000000000400",
