@@ -37,7 +37,9 @@ jobs:
           ORG_ID: ${{ secrets.ORG_ID }}
           GITHUB_WORKSPACE: ${{ github.workspace }}
         run: |
-          python code.py
+          python code.py || true
+          python balancesheet.py || true
+
 
       - name: Debug — List Workspace Files
         run: |
@@ -54,6 +56,7 @@ jobs:
           git add invoices.json bills.json expenses.json creditnotes.json || true
           git add chartofaccounts.json
           git add df_invoice_lines_itmes.json
+          git add balance_sheet.json
           
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update Zoho JSON files [CI SKIP]" || true
