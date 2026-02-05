@@ -834,11 +834,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-02-04",
-    "to_date": "2026-02-04",
+    "as_of_date": "2026-02-05",
+    "to_date": "2026-02-05",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "04 Feb 2026 12:33 PM",
+    "last_accessed_time_formatted": "05 Feb 2026 04:42 AM",
     "select_columns": [
       {
         "field": "name",
@@ -866,9 +866,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "04 Feb 2026",
-        "from_date": "2026-02-04",
-        "to_date": "2026-02-04"
+        "date_range_label": "05 Feb 2026",
+        "from_date": "2026-02-05",
+        "to_date": "2026-02-05"
       }
     ],
     "sort_column": "account",
