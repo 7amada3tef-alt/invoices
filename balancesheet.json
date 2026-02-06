@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 16110427.4,
+      "total": 16105627.4,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 15983816.85,
+          "total": 15979016.85,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -192,7 +192,7 @@
               ]
             },
             {
-              "total": 5694888.74,
+              "total": 5690088.74,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -262,6 +262,19 @@
                 },
                 {
                   "total_sub_account": 0.0,
+                  "total": -5520.0,
+                  "account_id": "5975823000000100187",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "CPEF Alwaqf - مؤسسة المشاركة الاجتماعية الوقفية",
+                  "previous_total_sub_account": [],
+                  "account_code": "121210",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
                   "total": 2676129.75,
                   "account_id": "5975823000000100103",
                   "depth": 0,
@@ -275,7 +288,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 436317.4,
+                  "total": 437037.4,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -620,7 +633,7 @@
       "previous_total": []
     },
     {
-      "total": 16110427.4,
+      "total": 16105627.4,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -769,12 +782,12 @@
           "previous_total": []
         },
         {
-          "total": 8822046.41,
+          "total": 8817246.41,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 4806568.83,
+              "total": 4801768.83,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -834,11 +847,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-02-05",
-    "to_date": "2026-02-05",
+    "as_of_date": "2026-02-06",
+    "to_date": "2026-02-06",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "05 Feb 2026 04:42 AM",
+    "last_accessed_time_formatted": "06 Feb 2026 04:43 AM",
     "select_columns": [
       {
         "field": "name",
@@ -866,9 +879,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "05 Feb 2026",
-        "from_date": "2026-02-05",
-        "to_date": "2026-02-05"
+        "date_range_label": "06 Feb 2026",
+        "from_date": "2026-02-06",
+        "to_date": "2026-02-06"
       }
     ],
     "sort_column": "account",
