@@ -13,7 +13,7 @@
           "previous_values": [],
           "account_transactions": [
             {
-              "total": -31064.53,
+              "total": -37364.53,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -78,6 +78,19 @@
                   "name": "Mohammed Alsadawi custody - 120105 - عهدة محمد السعداوي",
                   "previous_total_sub_account": [],
                   "account_code": "120105",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": -6300.0,
+                  "account_id": "5975823000000000361",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Petty Cash - العهد النقدية",
+                  "previous_total_sub_account": [],
+                  "account_code": "1201",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -192,7 +205,7 @@
               ]
             },
             {
-              "total": 5690088.74,
+              "total": 5696388.74,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -405,7 +418,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 162603.66,
+                  "total": 168903.66,
                   "account_id": "5975823000001427081",
                   "depth": 0,
                   "previous_values": [],
@@ -847,11 +860,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-02-08",
-    "to_date": "2026-02-08",
+    "as_of_date": "2026-02-09",
+    "to_date": "2026-02-09",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "08 Feb 2026 05:06 AM",
+    "last_accessed_time_formatted": "09 Feb 2026 04:49 AM",
     "select_columns": [
       {
         "field": "name",
@@ -879,9 +892,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "08 Feb 2026",
-        "from_date": "2026-02-08",
-        "to_date": "2026-02-08"
+        "date_range_label": "09 Feb 2026",
+        "from_date": "2026-02-09",
+        "to_date": "2026-02-09"
       }
     ],
     "sort_column": "account",
