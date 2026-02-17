@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 16008397.75,
+      "total": 16149893.75,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 15881787.2,
+          "total": 16023283.2,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -126,7 +126,7 @@
               "previous_total": []
             },
             {
-              "total": 3720485.11,
+              "total": 3706985.61,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -157,7 +157,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 3561646.13,
+                  "total": 3548146.63,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -190,7 +190,7 @@
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 5501912.03,
+                  "total": 5654412.03,
                   "account_id": "5975823000000000364",
                   "depth": 0,
                   "previous_values": [],
@@ -205,7 +205,7 @@
               ]
             },
             {
-              "total": 6696754.59,
+              "total": 6699250.09,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -327,7 +327,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 104440.56,
+                  "total": 106936.06,
                   "account_id": "5975823000000091011",
                   "depth": 0,
                   "previous_values": [],
@@ -646,17 +646,17 @@
       "previous_total": []
     },
     {
-      "total": 16008397.75,
+      "total": 16149893.75,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 7222562.93,
+          "total": 7242454.23,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 7043619.14,
+              "total": 7063510.44,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
@@ -715,7 +715,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 210150.0,
+                  "total": 230041.3,
                   "account_id": "5975823000000091049",
                   "depth": 0,
                   "previous_values": [],
@@ -769,12 +769,12 @@
           "previous_total": []
         },
         {
-          "total": 8785834.82,
+          "total": 8907439.52,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 4770357.24,
+              "total": 4891961.94,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -834,11 +834,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-02-16",
-    "to_date": "2026-02-16",
+    "as_of_date": "2026-02-17",
+    "to_date": "2026-02-17",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "16 Feb 2026 04:47 AM",
+    "last_accessed_time_formatted": "17 Feb 2026 04:45 AM",
     "select_columns": [
       {
         "field": "name",
@@ -866,9 +866,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "16 Feb 2026",
-        "from_date": "2026-02-16",
-        "to_date": "2026-02-16"
+        "date_range_label": "17 Feb 2026",
+        "from_date": "2026-02-17",
+        "to_date": "2026-02-17"
       }
     ],
     "sort_column": "account",
