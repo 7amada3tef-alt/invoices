@@ -2594,7 +2594,7 @@
         "reference_number":"تاسيس المكتب موكيت - شركة طارق الحربي ",
         "date":"2025-07-01",
         "due_date":"2025-07-01",
-        "due_days":"Overdue by 237 days",
+        "due_days":"Overdue by 238 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -2621,7 +2621,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":2499.5
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000483856",
@@ -2881,7 +2881,7 @@
         "reference_number":"تاسيس مكتب الرياض - عمومية وادارية - مؤسسة دانة",
         "date":"2025-08-13",
         "due_date":"2025-08-13",
-        "due_days":"Overdue by 194 days",
+        "due_days":"Overdue by 195 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -2908,7 +2908,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":850.0
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000451232",
@@ -3414,7 +3414,7 @@
         "reference_number":"فاتورة تأسيس وتشغيل معامل الابتكار والحضانة",
         "date":"2025-09-18",
         "due_date":"2025-11-01",
-        "due_days":"Overdue by 114 days",
+        "due_days":"Overdue by 115 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -3441,7 +3441,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":586420.75
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000407143",
@@ -4644,7 +4644,7 @@
         "reference_number":"الرسوم الادارية لشهر ابريل ومايو ويونيو 2025م",
         "date":"2025-07-14",
         "due_date":"2025-07-14",
-        "due_days":"Overdue by 224 days",
+        "due_days":"Overdue by 225 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -4671,7 +4671,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":258750.0
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000281097",
