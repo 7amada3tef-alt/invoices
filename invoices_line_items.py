@@ -1,13 +1,14 @@
+import os
+import json
 import requests
-import pandas as pd
 
 # ==============================
-# Credentials (local test)
+# Credentials (from environment)
 # ==============================
-client_id = "1000.A3WYEEJWFJYUZUXWENEPG8WSCK5J3L"
-client_secret = "ba9a512df0141f214d828e9a3bfb9ffe9fa95db299"
-refresh_token = "1000.e6943f399b78c7d5894de9908b25b732.fbaaefccaa134cabf75915033033d0f8"
-org_id = "877151597"
+client_id     = os.getenv("CLIENT_ID")
+client_secret = os.getenv("CLIENT_SECRET")
+refresh_token = os.getenv("REFRESH_TOKEN")
+org_id        = os.getenv("ORG_ID")
 
 # ==============================
 # Get Access Token
@@ -82,4 +83,4 @@ for invoice_id in df_invoices["invoice_id"]:
         invoice_lines.append(line)
 df_invoice_lines = pd.DataFrame(invoice_lines)
 
-df_invoice_lines.to_json(r'D:\Projects Folder\excel\df_invoice_lines.json', orient="records", indent=4, force_ascii=False)
+df_invoice_lines.to_json("df_invoice_lines_items.json", orient="records", force_ascii=False, indent=4)
