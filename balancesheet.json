@@ -3,17 +3,17 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 16106471.65,
+      "total": 15792688.05,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 15982614.14,
+          "total": 15668830.54,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": -31118.04,
+              "total": -41231.04,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -31,7 +31,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 15340.95,
+                  "total": 48067.95,
                   "account_id": "5975823000000168013",
                   "depth": 0,
                   "previous_values": [],
@@ -52,6 +52,19 @@
                   "name": "Ibrahim Baesmaeil custody - 120106 - عهدة ابراهيم باسماعيل",
                   "previous_total_sub_account": [],
                   "account_code": "120106",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": -42840.0,
+                  "account_id": "5975823000000182429",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Mohammed Abbas custody - 120104 - عهدة محمد عباس",
+                  "previous_total_sub_account": [],
+                  "account_code": "120104",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -113,12 +126,12 @@
               "previous_total": []
             },
             {
-              "total": 3650844.33,
+              "total": 3402592.73,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 385993.77,
+                  "total": 138244.11,
                   "account_id": "5975823000000101937",
                   "depth": 0,
                   "previous_values": [],
@@ -144,7 +157,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 3242005.35,
+                  "total": 3241503.41,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -192,12 +205,12 @@
               ]
             },
             {
-              "total": 6656600.82,
+              "total": 6601181.82,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": -93326.64,
+                  "total": -179576.64,
                   "account_id": "5975823000000100097",
                   "depth": 0,
                   "previous_values": [],
@@ -231,6 +244,19 @@
                   "name": "Advance payment to Ahmed Baesmaeil - 120405 - سلفة احمد باسماعيل",
                   "previous_total_sub_account": [],
                   "account_code": "120405 ",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 9468.0,
+                  "account_id": "5975823000000164245",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Advance payment to Anas Lutfi - 120412 - سلفة أنس لطفي",
+                  "previous_total_sub_account": [],
+                  "account_code": "120412",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -288,7 +314,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 437978.15,
+                  "total": 449228.15,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -405,7 +431,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 159640.32,
+                  "total": 169753.32,
                   "account_id": "5975823000001427081",
                   "depth": 0,
                   "previous_values": [],
@@ -633,17 +659,17 @@
       "previous_total": []
     },
     {
-      "total": 16106471.65,
+      "total": 15792688.05,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 7527512.9,
+          "total": 7290449.39,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 7348569.11,
+              "total": 7100934.78,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
@@ -671,19 +697,6 @@
                   "name": "Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
                   "previous_total_sub_account": [],
                   "account_code": "220203",
-                  "is_collapsed_view": false,
-                  "previous_total": []
-                },
-                {
-                  "total_sub_account": 0.0,
-                  "total": 247634.33,
-                  "account_id": "5975823000000102807",
-                  "depth": 0,
-                  "previous_values": [],
-                  "is_child_present": false,
-                  "name": "Accrued payroll - 220206 - رواتب مستحقة",
-                  "previous_total_sub_account": [],
-                  "account_code": "220206",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -758,13 +771,13 @@
               "previous_total": []
             },
             {
-              "total": 178943.79,
+              "total": 189514.61,
               "total_label": "Total Long Term Liabilities",
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 178943.79,
+                  "total": 189514.61,
                   "account_id": "5975823000000289799",
                   "depth": 0,
                   "previous_values": [],
@@ -795,12 +808,12 @@
           "previous_total": []
         },
         {
-          "total": 8578958.75,
+          "total": 8502238.66,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 4563481.17,
+              "total": 4486761.08,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -860,11 +873,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-03-01",
-    "to_date": "2026-03-01",
+    "as_of_date": "2026-03-02",
+    "to_date": "2026-03-02",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "01 Mar 2026 04:52 AM",
+    "last_accessed_time_formatted": "02 Mar 2026 04:44 AM",
     "select_columns": [
       {
         "field": "name",
@@ -892,9 +905,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "01 Mar 2026",
-        "from_date": "2026-03-01",
-        "to_date": "2026-03-01"
+        "date_range_label": "02 Mar 2026",
+        "from_date": "2026-03-02",
+        "to_date": "2026-03-02"
       }
     ],
     "sort_column": "account",
