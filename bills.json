@@ -41,8 +41,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000003124142",
@@ -86,8 +86,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000003027928",
@@ -131,8 +131,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000003027593",
@@ -176,8 +176,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000003027137",
@@ -221,8 +221,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000003027071",
@@ -266,8 +266,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000003027005",
@@ -311,8 +311,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002789461",
@@ -356,8 +356,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002789283",
@@ -401,8 +401,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002789163",
@@ -446,8 +446,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002789041",
@@ -491,8 +491,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002746017",
@@ -536,8 +536,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002709851",
@@ -581,8 +581,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002709756",
@@ -626,8 +626,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002709661",
@@ -671,8 +671,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002709542",
@@ -716,8 +716,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002677099",
@@ -761,8 +761,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002664003",
@@ -806,8 +806,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002542957",
@@ -851,8 +851,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002542844",
@@ -896,8 +896,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002542717",
@@ -941,8 +941,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002542633",
@@ -986,8 +986,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002542579",
@@ -1031,8 +1031,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002533028",
@@ -1076,8 +1076,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002517898",
@@ -1121,8 +1121,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002517463",
@@ -1166,8 +1166,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002517265",
@@ -1211,8 +1211,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002514631",
@@ -1256,8 +1256,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002514005",
@@ -1301,8 +1301,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002174360",
@@ -1346,8 +1346,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002142003",
@@ -1391,8 +1391,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002117177",
@@ -1436,8 +1436,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002117090",
@@ -1481,8 +1481,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002110730",
@@ -1526,8 +1526,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000002109069",
@@ -1571,8 +1571,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001987698",
@@ -1616,8 +1616,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001987392",
@@ -1661,8 +1661,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001987144",
@@ -1706,8 +1706,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001950497",
@@ -1751,8 +1751,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001950341",
@@ -1796,8 +1796,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001950237",
@@ -1841,8 +1841,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001950099",
@@ -1886,8 +1886,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001797003",
@@ -1931,8 +1931,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001659003",
@@ -1976,8 +1976,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001577616",
@@ -2021,8 +2021,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001555144",
@@ -2066,8 +2066,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001336231",
@@ -2111,8 +2111,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001235152",
@@ -2156,8 +2156,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001212708",
@@ -2201,8 +2201,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001212013",
@@ -2246,8 +2246,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001089035",
@@ -2291,8 +2291,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001049234",
@@ -2336,8 +2336,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001049081",
@@ -2381,8 +2381,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000001022079",
@@ -2426,8 +2426,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000996273",
@@ -2471,8 +2471,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000996219",
@@ -2516,8 +2516,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000969258",
@@ -2561,8 +2561,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000969200",
@@ -2606,8 +2606,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000969060",
@@ -2651,8 +2651,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000969010",
@@ -2696,8 +2696,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000887009",
@@ -2741,8 +2741,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000863869",
@@ -2786,8 +2786,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000825053",
@@ -2831,8 +2831,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000805451",
@@ -2876,8 +2876,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000732003",
@@ -2921,8 +2921,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000650506",
@@ -2966,8 +2966,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000559452",
@@ -3011,8 +3011,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000559349",
@@ -3056,8 +3056,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000547018",
@@ -3101,8 +3101,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000498893",
@@ -3146,8 +3146,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000498287",
@@ -3161,7 +3161,7 @@
         "reference_number":"تاسيس المكتب موكيت - شركة طارق الحربي ",
         "date":"2025-07-01",
         "due_date":"2025-07-01",
-        "due_days":"Overdue by 260 days",
+        "due_days":"Overdue by 261 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -3189,10 +3189,10 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
+        "balance_due":2499.5,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000483856",
@@ -3236,8 +3236,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000483546",
@@ -3281,8 +3281,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000482421",
@@ -3326,8 +3326,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000472168",
@@ -3371,8 +3371,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000460437",
@@ -3416,8 +3416,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000460273",
@@ -3461,8 +3461,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000460003",
@@ -3476,7 +3476,7 @@
         "reference_number":"تاسيس مكتب الرياض - عمومية وادارية - مؤسسة دانة",
         "date":"2025-08-13",
         "due_date":"2025-08-13",
-        "due_days":"Overdue by 217 days",
+        "due_days":"Overdue by 218 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -3504,10 +3504,10 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
+        "balance_due":850.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000451232",
@@ -3551,8 +3551,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000451110",
@@ -3596,8 +3596,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000424776",
@@ -3641,8 +3641,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000421189",
@@ -3686,8 +3686,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000421062",
@@ -3731,8 +3731,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000420869",
@@ -3776,8 +3776,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000420716",
@@ -3821,8 +3821,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000419085",
@@ -3866,8 +3866,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000418187",
@@ -3911,8 +3911,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000418003",
@@ -3956,8 +3956,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000416055",
@@ -4001,8 +4001,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000416003",
@@ -4046,8 +4046,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000412149",
@@ -4061,7 +4061,7 @@
         "reference_number":"فاتورة تأسيس وتشغيل معامل الابتكار والحضانة",
         "date":"2025-09-18",
         "due_date":"2025-11-01",
-        "due_days":"Overdue by 137 days",
+        "due_days":"Overdue by 138 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -4089,10 +4089,10 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
+        "balance_due":586420.75,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000407143",
@@ -4136,8 +4136,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000402232",
@@ -4181,8 +4181,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000402120",
@@ -4226,8 +4226,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000401297",
@@ -4271,8 +4271,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000397003",
@@ -4316,8 +4316,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000395083",
@@ -4361,8 +4361,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000394837",
@@ -4406,8 +4406,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000394694",
@@ -4451,8 +4451,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000394458",
@@ -4496,8 +4496,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000394305",
@@ -4541,8 +4541,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000388548",
@@ -4586,8 +4586,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000376003",
@@ -4631,8 +4631,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000371263",
@@ -4676,8 +4676,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000363074",
@@ -4721,8 +4721,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000360699",
@@ -4766,8 +4766,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000358423",
@@ -4811,8 +4811,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000358017",
@@ -4856,8 +4856,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000339069",
@@ -4901,8 +4901,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000330039",
@@ -4946,8 +4946,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000329216",
@@ -4991,8 +4991,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000327944",
@@ -5036,8 +5036,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000327610",
@@ -5081,8 +5081,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000327510",
@@ -5126,8 +5126,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000327102",
@@ -5171,8 +5171,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000324378",
@@ -5216,8 +5216,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000324048",
@@ -5261,8 +5261,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000318882",
@@ -5306,8 +5306,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000318024",
@@ -5351,8 +5351,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000300195",
@@ -5396,8 +5396,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000287017",
@@ -5411,7 +5411,7 @@
         "reference_number":"الرسوم الادارية لشهر ابريل ومايو ويونيو 2025م",
         "date":"2025-07-14",
         "due_date":"2025-07-14",
-        "due_days":"Overdue by 247 days",
+        "due_days":"Overdue by 248 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -5439,10 +5439,10 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
+        "balance_due":258750.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000281097",
@@ -5486,8 +5486,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000276419",
@@ -5531,8 +5531,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000274584",
@@ -5576,8 +5576,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000270190",
@@ -5621,8 +5621,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000270054",
@@ -5666,8 +5666,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000268884",
@@ -5711,8 +5711,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000268759",
@@ -5756,8 +5756,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000261018",
@@ -5801,8 +5801,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000251102",
@@ -5846,8 +5846,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000251003",
@@ -5891,8 +5891,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000231754",
@@ -5936,8 +5936,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000228565",
@@ -5981,8 +5981,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000225771",
@@ -6026,8 +6026,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000225556",
@@ -6071,8 +6071,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000225455",
@@ -6116,8 +6116,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000225218",
@@ -6161,8 +6161,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000225003",
@@ -6206,8 +6206,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000222298",
@@ -6251,8 +6251,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000222201",
@@ -6296,8 +6296,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000222098",
@@ -6341,8 +6341,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000222003",
@@ -6386,8 +6386,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000216015",
@@ -6431,8 +6431,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000214313",
@@ -6476,8 +6476,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000214241",
@@ -6521,8 +6521,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000214173",
@@ -6566,8 +6566,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000214095",
@@ -6611,8 +6611,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000213036",
@@ -6656,8 +6656,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205958",
@@ -6701,8 +6701,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205880",
@@ -6746,8 +6746,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205806",
@@ -6791,8 +6791,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205690",
@@ -6836,8 +6836,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205616",
@@ -6881,8 +6881,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205500",
@@ -6926,8 +6926,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205434",
@@ -6971,8 +6971,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205321",
@@ -7016,8 +7016,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205243",
@@ -7061,8 +7061,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000205117",
@@ -7106,8 +7106,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000204003",
@@ -7151,8 +7151,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000201311",
@@ -7196,8 +7196,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000200125",
@@ -7241,8 +7241,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000200017",
@@ -7286,8 +7286,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000189637",
@@ -7331,8 +7331,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000189161",
@@ -7376,8 +7376,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000189015",
@@ -7421,8 +7421,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000187827",
@@ -7466,8 +7466,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000186671",
@@ -7511,8 +7511,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000186439",
@@ -7556,8 +7556,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000186125",
@@ -7601,8 +7601,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000186047",
@@ -7646,8 +7646,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000185655",
@@ -7691,8 +7691,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000185431",
@@ -7736,8 +7736,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000185353",
@@ -7781,8 +7781,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000183203",
@@ -7826,8 +7826,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000183115",
@@ -7871,8 +7871,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000182563",
@@ -7916,8 +7916,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000182477",
@@ -7961,8 +7961,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000181048",
@@ -8006,8 +8006,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000180771",
@@ -8051,8 +8051,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000180451",
@@ -8096,8 +8096,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000180332",
@@ -8141,8 +8141,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000176944",
@@ -8186,8 +8186,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000179399",
@@ -8231,8 +8231,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000177280",
@@ -8276,8 +8276,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000176829",
@@ -8321,8 +8321,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000173722",
@@ -8366,8 +8366,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000169499",
@@ -8411,8 +8411,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000169009",
@@ -8456,8 +8456,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000168344",
@@ -8501,8 +8501,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000165937",
@@ -8546,8 +8546,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000165835",
@@ -8591,8 +8591,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000165633",
@@ -8636,8 +8636,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000165061",
@@ -8681,8 +8681,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000164295",
@@ -8726,8 +8726,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000164055",
@@ -8771,8 +8771,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000163941",
@@ -8816,8 +8816,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000163811",
@@ -8861,8 +8861,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000163565",
@@ -8906,8 +8906,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000154017",
@@ -8951,8 +8951,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000136061",
@@ -8996,8 +8996,8 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     },
     {
         "bill_id":"5975823000000136027",
@@ -9041,7 +9041,7 @@
         "is_bill_reconciliation_violated":false,
         "balance_due":0.0,
         "fcy_tds_balance":0.0,
-        "ap_account_id":"5975823000000000373",
-        "ap_account_name":"Accounts Payable"
+        "ap_account_id":"",
+        "ap_account_name":""
     }
 ]
