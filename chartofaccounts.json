@@ -4075,6 +4075,31 @@
         "last_modified_time":"2026-02-04T10:18:36+0300"
     },
     {
+        "account_id":"5975823000003524001",
+        "account_name":"Air Travel Allowance Payable",
+        "account_code":"Payroll-008",
+        "account_type":"long_term_liability",
+        "description":"",
+        "placeholder":"gl_ata_accrual_payable",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "can_show_in_ze":false,
+        "parent_account_id":"",
+        "parent_account_name":"",
+        "depth":0,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2026-03-24T12:43:02+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-03-24T12:43:02+0300"
+    },
+    {
         "account_id":"5975823000000100307",
         "account_name":"Provision for investment losses - مخصص خسائر استثمارات",
         "account_code":"2101",
@@ -6816,7 +6841,7 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":93,
+        "child_count":92,
         "documents":[
 
         ],
@@ -9125,31 +9150,6 @@
         "last_modified_time":"2025-01-27T14:57:50+0300"
     },
     {
-        "account_id":"5975823000000101621",
-        "account_name":"Gifts - 621203 - هدايا",
-        "account_code":"621203",
-        "account_type":"expense",
-        "description":"",
-        "placeholder":"",
-        "is_register_supported_account":false,
-        "is_user_created":true,
-        "is_system_account":false,
-        "is_active":true,
-        "can_show_in_ze":false,
-        "parent_account_id":"5975823000000101327",
-        "parent_account_name":"G & A Expenses- 62 - مصاريف ادارية وعمومية",
-        "depth":2,
-        "has_attachment":false,
-        "is_child_present":false,
-        "child_count":"",
-        "documents":[
-
-        ],
-        "created_time":"2025-01-27T14:57:59+0300",
-        "is_standalone_account":false,
-        "last_modified_time":"2025-01-27T14:57:59+0300"
-    },
-    {
         "account_id":"5975823000000102001",
         "account_name":"Fuel\/Mileage Expenses",
         "account_code":"",
@@ -9400,6 +9400,31 @@
         "last_modified_time":"2025-01-27T10:54:26+0300"
     },
     {
+        "account_id":"5975823000003524003",
+        "account_name":"Air Travel Allowance Expense",
+        "account_code":"Payroll-009",
+        "account_type":"expense",
+        "description":"",
+        "placeholder":"gl_ata_accrual_expense",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "can_show_in_ze":false,
+        "parent_account_id":"",
+        "parent_account_name":"",
+        "depth":0,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2026-03-24T12:43:02+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-03-24T12:43:02+0300"
+    },
+    {
         "account_id":"5975823000000000421",
         "account_name":"Telephone Expense",
         "account_code":"",
@@ -9616,7 +9641,7 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":6,
+        "child_count":5,
         "documents":[
 
         ],
@@ -9748,31 +9773,6 @@
         "created_time":"2025-01-27T14:59:09+0300",
         "is_standalone_account":false,
         "last_modified_time":"2025-08-18T09:58:27+0300"
-    },
-    {
-        "account_id":"5975823000000102901",
-        "account_name":"Depreciation - Electrical Devices - 810006 - اهلاك اجهزة كهربائية",
-        "account_code":"810006",
-        "account_type":"expense",
-        "description":"Depreciation - Electrical Devices - 810006 - اهلاك اجهزة كهربائية",
-        "placeholder":"",
-        "is_register_supported_account":false,
-        "is_user_created":true,
-        "is_system_account":false,
-        "is_active":true,
-        "can_show_in_ze":false,
-        "parent_account_id":"5975823000000102877",
-        "parent_account_name":"Depreciation of fixed assets - 81 - اهلاك الأصول الثابتة",
-        "depth":2,
-        "has_attachment":false,
-        "is_child_present":false,
-        "child_count":"",
-        "documents":[
-
-        ],
-        "created_time":"2025-01-27T14:59:10+0300",
-        "is_standalone_account":false,
-        "last_modified_time":"2025-08-08T17:31:48+0300"
     },
     {
         "account_id":"5975823000000000436",
