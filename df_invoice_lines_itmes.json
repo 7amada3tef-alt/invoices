@@ -61,6 +61,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -148,6 +152,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -235,6 +243,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -322,6 +334,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -409,6 +425,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -496,6 +516,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -583,6 +607,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -670,6 +698,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -757,6 +789,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -844,6 +880,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -931,6 +971,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1018,6 +1062,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1105,6 +1153,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1186,6 +1238,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1273,6 +1329,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1360,6 +1420,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1447,6 +1511,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1534,6 +1602,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1621,6 +1693,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1708,6 +1784,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1795,6 +1875,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1882,6 +1966,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1969,6 +2057,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2056,6 +2148,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2143,6 +2239,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2230,6 +2330,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2317,6 +2421,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -2404,6 +2512,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -2491,6 +2603,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2578,6 +2694,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -2665,6 +2785,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -2752,6 +2876,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -2839,6 +2967,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -2926,6 +3058,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3013,6 +3149,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3100,6 +3240,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3187,6 +3331,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3274,6 +3422,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3361,6 +3513,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3448,6 +3604,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3535,6 +3695,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3622,6 +3786,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3709,6 +3877,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3796,6 +3968,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3883,6 +4059,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3970,6 +4150,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4057,6 +4241,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4144,6 +4332,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4231,6 +4423,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4318,6 +4514,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4405,6 +4605,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4492,6 +4696,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4579,6 +4787,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4666,6 +4878,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4753,6 +4969,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4840,6 +5060,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4927,6 +5151,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5014,6 +5242,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5101,6 +5333,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5188,6 +5424,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5275,6 +5515,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5362,6 +5606,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5449,6 +5697,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5536,6 +5788,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5623,6 +5879,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5710,6 +5970,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5797,6 +6061,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5884,6 +6152,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -5971,6 +6243,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6058,6 +6334,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6145,6 +6425,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6232,6 +6516,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6319,6 +6607,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6406,6 +6698,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6493,6 +6789,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6580,6 +6880,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6667,6 +6971,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6754,6 +7062,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6841,6 +7153,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6928,6 +7244,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7015,6 +7335,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7102,6 +7426,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7189,6 +7517,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7276,6 +7608,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7363,6 +7699,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7450,6 +7790,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7537,6 +7881,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7624,6 +7972,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7711,6 +8063,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7798,6 +8154,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -7879,6 +8239,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7960,6 +8324,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8041,6 +8409,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8122,6 +8494,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8203,6 +8579,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8284,6 +8664,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8365,6 +8749,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8446,6 +8834,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8527,6 +8919,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8608,6 +9004,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8689,6 +9089,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8770,6 +9174,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8851,6 +9259,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8932,6 +9344,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9013,6 +9429,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9094,6 +9514,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9175,6 +9599,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9262,6 +9690,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -9349,6 +9781,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9436,6 +9872,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -9517,6 +9957,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9598,6 +10042,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9679,6 +10127,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9760,6 +10212,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9841,6 +10297,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9922,6 +10382,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10003,6 +10467,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10084,6 +10552,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10165,6 +10637,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10246,6 +10722,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10327,6 +10807,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10408,6 +10892,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10489,6 +10977,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10570,6 +11062,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10651,6 +11147,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10738,6 +11238,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -10825,6 +11329,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10912,6 +11420,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10999,6 +11511,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11086,6 +11602,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11173,6 +11693,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11260,6 +11784,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11347,6 +11875,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11434,6 +11966,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11521,6 +12057,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11608,6 +12148,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11695,6 +12239,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11782,6 +12330,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11869,6 +12421,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -11956,6 +12512,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12043,6 +12603,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12130,6 +12694,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12217,6 +12785,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12304,6 +12876,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12391,6 +12967,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12478,6 +13058,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12565,6 +13149,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12652,6 +13240,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12739,6 +13331,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12826,6 +13422,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12913,6 +13513,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13000,6 +13604,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13087,6 +13695,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13174,6 +13786,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13261,6 +13877,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13348,6 +13968,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13435,6 +14059,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13522,6 +14150,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13609,6 +14241,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13696,6 +14332,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13783,6 +14423,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13870,6 +14514,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13957,6 +14605,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14044,6 +14696,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14131,6 +14787,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14218,6 +14878,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14305,6 +14969,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14392,6 +15060,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14479,6 +15151,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14566,6 +15242,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14653,6 +15333,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14740,6 +15424,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14827,6 +15515,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14914,6 +15606,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15001,6 +15697,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15088,6 +15788,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15175,6 +15879,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15262,6 +15970,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15349,6 +16061,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15436,6 +16152,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15523,6 +16243,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15610,6 +16334,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15697,6 +16425,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15784,6 +16516,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15871,6 +16607,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15958,6 +16698,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16045,6 +16789,10 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 

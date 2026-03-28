@@ -187,6 +187,8 @@
               "previous_total": []
             },
             {
+              "total": 5706287.03,
+              "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
@@ -202,7 +204,10 @@
                   "previous_total": [],
                   "account_constant": ""
                 }
-              ]
+              ],
+              "name": "Accounts Receivable",
+              "previous_total_sub_account": [],
+              "previous_total": []
             },
             {
               "total": 6582916.81,
@@ -446,6 +451,15 @@
               "name": "Other Current Assets",
               "previous_total_sub_account": [],
               "previous_total": []
+            },
+            {
+              "total": 0.0,
+              "total_label": "Total Assets Held For Sale",
+              "previous_values": [],
+              "account_transactions": [],
+              "name": "Assets Held For Sale",
+              "previous_total_sub_account": [],
+              "previous_total": []
             }
           ],
           "name": "Current Assets",
@@ -454,10 +468,10 @@
         },
         {
           "total": 0.0,
-          "total_label": "Total Other Assets",
+          "total_label": "Total Non Current Assets",
           "previous_values": [],
           "account_transactions": [],
-          "name": "Other Assets",
+          "name": "Non Current Assets",
           "previous_total_sub_account": [],
           "previous_total": []
         },
@@ -652,6 +666,15 @@
           "name": "Fixed Assets",
           "previous_total_sub_account": [],
           "previous_total": []
+        },
+        {
+          "total": 0.0,
+          "total_label": "Total Other Assets",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Other Assets",
+          "previous_total_sub_account": [],
+          "previous_total": []
         }
       ],
       "name": "Assets",
@@ -785,7 +808,7 @@
             },
             {
               "total": 189514.61,
-              "total_label": "Total Long Term Liabilities",
+              "total_label": "Total Non Current Liabilities",
               "previous_values": [],
               "account_transactions": [
                 {
@@ -802,7 +825,7 @@
                   "previous_total": []
                 }
               ],
-              "name": "Long Term Liabilities",
+              "name": "Non Current Liabilities",
               "previous_total_sub_account": [],
               "previous_total": []
             },
@@ -886,11 +909,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-03-27",
-    "to_date": "2026-03-27",
+    "as_of_date": "2026-03-28",
+    "to_date": "2026-03-28",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "27 Mar 2026 04:55 AM",
+    "last_accessed_time_formatted": "28 Mar 2026 04:47 AM",
     "select_columns": [
       {
         "field": "name",
@@ -918,9 +941,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "27 Mar 2026",
-        "from_date": "2026-03-27",
-        "to_date": "2026-03-27"
+        "date_range_label": "28 Mar 2026",
+        "from_date": "2026-03-28",
+        "to_date": "2026-03-28"
       }
     ],
     "sort_column": "account",
