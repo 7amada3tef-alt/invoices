@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 15772898.04,
+      "total": 15535146.07,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 15649040.53,
+          "total": 15411288.56,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -126,12 +126,12 @@
               "previous_total": []
             },
             {
-              "total": 3402592.73,
+              "total": 3164840.76,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 138244.11,
+                  "total": -99507.86,
                   "account_id": "5975823000000101937",
                   "depth": 0,
                   "previous_values": [],
@@ -682,17 +682,17 @@
       "previous_total": []
     },
     {
-      "total": 15772898.04,
+      "total": 15535146.07,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 7558265.83,
+          "total": 7320513.86,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 7368751.22,
+              "total": 7130999.25,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
@@ -720,19 +720,6 @@
                   "name": "Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
                   "previous_total_sub_account": [],
                   "account_code": "220203",
-                  "is_collapsed_view": false,
-                  "previous_total": []
-                },
-                {
-                  "total_sub_account": 0.0,
-                  "total": 237751.97,
-                  "account_id": "5975823000000102807",
-                  "depth": 0,
-                  "previous_values": [],
-                  "is_child_present": false,
-                  "name": "Accrued payroll - 220206 - رواتب مستحقة",
-                  "previous_total_sub_account": [],
-                  "account_code": "220206",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -909,11 +896,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-03-29",
-    "to_date": "2026-03-29",
+    "as_of_date": "2026-03-30",
+    "to_date": "2026-03-30",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "29 Mar 2026 04:58 AM",
+    "last_accessed_time_formatted": "30 Mar 2026 05:01 AM",
     "select_columns": [
       {
         "field": "name",
@@ -941,9 +928,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "29 Mar 2026",
-        "from_date": "2026-03-29",
-        "to_date": "2026-03-29"
+        "date_range_label": "30 Mar 2026",
+        "from_date": "2026-03-30",
+        "to_date": "2026-03-30"
       }
     ],
     "sort_column": "account",
