@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 15535146.07,
+      "total": 15521965.66,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 15411288.56,
+          "total": 15400421.89,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -210,7 +210,7 @@
               "previous_total": []
             },
             {
-              "total": 6581391.81,
+              "total": 6570525.14,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -384,7 +384,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 21733.32,
+                  "total": 10866.65,
                   "account_id": "5975823000000102675",
                   "depth": 0,
                   "previous_values": [],
@@ -476,13 +476,13 @@
           "previous_total": []
         },
         {
-          "total": 123857.51,
+          "total": 121543.77,
           "total_label": "Total Fixed Assets",
           "previous_values": [],
           "account_transactions": [
             {
               "total_sub_account": 0.0,
-              "total": -590.34,
+              "total": -885.51,
               "account_id": "5975823000000290253",
               "depth": 0,
               "previous_values": [],
@@ -495,7 +495,7 @@
             },
             {
               "total_sub_account": 0.0,
-              "total": -35397.89,
+              "total": -36622.39,
               "account_id": "5975823000000290193",
               "depth": 0,
               "previous_values": [],
@@ -521,7 +521,7 @@
             },
             {
               "total_sub_account": 0.0,
-              "total": -21038.44,
+              "total": -21174.22,
               "account_id": "5975823000000290213",
               "depth": 0,
               "previous_values": [],
@@ -534,7 +534,7 @@
             },
             {
               "total_sub_account": 0.0,
-              "total": -33216.72,
+              "total": -33600.42,
               "account_id": "5975823000000290205",
               "depth": 0,
               "previous_values": [],
@@ -547,7 +547,7 @@
             },
             {
               "total_sub_account": 0.0,
-              "total": -1816.38,
+              "total": -2090.97,
               "account_id": "5975823000000290221",
               "depth": 0,
               "previous_values": [],
@@ -682,7 +682,7 @@
       "previous_total": []
     },
     {
-      "total": 15535146.07,
+      "total": 15521965.66,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -831,12 +831,12 @@
           "previous_total": []
         },
         {
-          "total": 8214632.21,
+          "total": 8201451.8,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 4199154.63,
+              "total": 4185974.22,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -896,11 +896,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-03-30",
-    "to_date": "2026-03-30",
+    "as_of_date": "2026-03-31",
+    "to_date": "2026-03-31",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "30 Mar 2026 05:01 AM",
+    "last_accessed_time_formatted": "31 Mar 2026 04:57 AM",
     "select_columns": [
       {
         "field": "name",
@@ -928,9 +928,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "30 Mar 2026",
-        "from_date": "2026-03-30",
-        "to_date": "2026-03-30"
+        "date_range_label": "31 Mar 2026",
+        "from_date": "2026-03-31",
+        "to_date": "2026-03-31"
       }
     ],
     "sort_column": "account",
