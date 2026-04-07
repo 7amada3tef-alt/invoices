@@ -896,11 +896,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-04-06",
-    "to_date": "2026-04-06",
+    "as_of_date": "2026-04-07",
+    "to_date": "2026-04-07",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "06 Apr 2026 05:01 AM",
+    "last_accessed_time_formatted": "07 Apr 2026 04:58 AM",
     "select_columns": [
       {
         "field": "name",
@@ -928,9 +928,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "06 Apr 2026",
-        "from_date": "2026-04-06",
-        "to_date": "2026-04-06"
+        "date_range_label": "07 Apr 2026",
+        "from_date": "2026-04-07",
+        "to_date": "2026-04-07"
       }
     ],
     "sort_column": "account",
