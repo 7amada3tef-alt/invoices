@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 16065938.71,
+      "total": 16064391.87,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 15944834.26,
+          "total": 15943287.42,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -223,12 +223,12 @@
               "previous_total": []
             },
             {
-              "total": 6366210.93,
+              "total": 6364664.09,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": -316973.39,
+                  "total": -318520.23,
                   "account_id": "5975823000000100097",
                   "depth": 0,
                   "previous_values": [],
@@ -682,7 +682,7 @@
       "previous_total": []
     },
     {
-      "total": 16065938.71,
+      "total": 16064391.87,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -818,7 +818,7 @@
           "previous_total": []
         },
         {
-          "total": 8642458.17,
+          "total": 8640911.33,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
@@ -830,7 +830,7 @@
               "previous_total": []
             },
             {
-              "total": 8508243.97,
+              "total": 8506697.13,
               "account_id": "5975823000000000379",
               "previous_values": [],
               "name": "Retained Earnings - الارباح المحتجزة",
@@ -883,11 +883,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-04-12",
-    "to_date": "2026-04-12",
+    "as_of_date": "2026-04-13",
+    "to_date": "2026-04-13",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "12 Apr 2026 05:04 AM",
+    "last_accessed_time_formatted": "13 Apr 2026 05:09 AM",
     "select_columns": [
       {
         "field": "name",
@@ -915,9 +915,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "12 Apr 2026",
-        "from_date": "2026-04-12",
-        "to_date": "2026-04-12"
+        "date_range_label": "13 Apr 2026",
+        "from_date": "2026-04-13",
+        "to_date": "2026-04-13"
       }
     ],
     "sort_column": "account",
