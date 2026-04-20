@@ -3,22 +3,22 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 12352505.53,
+      "total": 12320986.73,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 12231401.08,
+          "total": 12199882.28,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": -29822.53,
+              "total": -29822.71,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": -67397.78,
+                  "total": -67397.96,
                   "account_id": "5975823000000099215",
                   "depth": 0,
                   "previous_values": [],
@@ -139,7 +139,7 @@
               "previous_total": []
             },
             {
-              "total": 5311887.5,
+              "total": 5397028.08,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -170,7 +170,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 5276222.86,
+                  "total": 5361363.44,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -200,12 +200,12 @@
               "previous_total": []
             },
             {
-              "total": 5966072.01,
+              "total": 5849100.68,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 5966072.01,
+                  "total": 5849100.68,
                   "account_id": "5975823000000000364",
                   "depth": 0,
                   "previous_values": [],
@@ -223,7 +223,7 @@
               "previous_total": []
             },
             {
-              "total": 983264.1,
+              "total": 983576.23,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -319,7 +319,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 1269843.34,
+                  "total": 1270155.47,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -682,7 +682,7 @@
       "previous_total": []
     },
     {
-      "total": 12352505.53,
+      "total": 12320986.73,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -805,7 +805,7 @@
           "previous_total": []
         },
         {
-          "total": 8033662.34,
+          "total": 8002143.54,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
@@ -817,7 +817,7 @@
               "previous_total": []
             },
             {
-              "total": 6447697.14,
+              "total": 6416178.34,
               "account_id": "5975823000000000379",
               "previous_values": [],
               "name": "Retained Earnings - الارباح المحتجزة",
@@ -870,11 +870,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-04-19",
-    "to_date": "2026-04-19",
+    "as_of_date": "2026-04-20",
+    "to_date": "2026-04-20",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "19 Apr 2026 05:08 AM",
+    "last_accessed_time_formatted": "20 Apr 2026 05:09 AM",
     "select_columns": [
       {
         "field": "name",
@@ -902,9 +902,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "19 Apr 2026",
-        "from_date": "2026-04-19",
-        "to_date": "2026-04-19"
+        "date_range_label": "20 Apr 2026",
+        "from_date": "2026-04-20",
+        "to_date": "2026-04-20"
       }
     ],
     "sort_column": "account",
