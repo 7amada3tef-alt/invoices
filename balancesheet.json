@@ -3,17 +3,17 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 12321039.73,
+      "total": 12316181.36,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 12199935.28,
+          "total": 12195076.91,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 13070.29,
+              "total": -4585.97,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -31,7 +31,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 11408.51,
+                  "total": 6252.25,
                   "account_id": "5975823000000100011",
                   "depth": 0,
                   "previous_values": [],
@@ -78,6 +78,19 @@
                   "name": "Mohammed Alsadawi custody - 120105 - عهدة محمد السعداوي",
                   "previous_total_sub_account": [],
                   "account_code": "120105",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": -12500.0,
+                  "account_id": "5975823000000000361",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Petty Cash - العهد النقدية",
+                  "previous_total_sub_account": [],
+                  "account_code": "1201",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -197,7 +210,7 @@
               "previous_total": []
             },
             {
-              "total": 940736.23,
+              "total": 953534.12,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -293,7 +306,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 1270155.47,
+                  "total": 1270453.36,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -410,7 +423,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 113483.31,
+                  "total": 125983.31,
                   "account_id": "5975823000001427081",
                   "depth": 0,
                   "previous_values": [],
@@ -656,7 +669,7 @@
       "previous_total": []
     },
     {
-      "total": 12321039.73,
+      "total": 12316181.36,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -779,7 +792,7 @@
           "previous_total": []
         },
         {
-          "total": 8002196.54,
+          "total": 7997338.17,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
@@ -791,7 +804,7 @@
               "previous_total": []
             },
             {
-              "total": 6416231.34,
+              "total": 6411372.97,
               "account_id": "5975823000000000379",
               "previous_values": [],
               "name": "Retained Earnings - الارباح المحتجزة",
@@ -844,11 +857,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-04-22",
-    "to_date": "2026-04-22",
+    "as_of_date": "2026-04-23",
+    "to_date": "2026-04-23",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "22 Apr 2026 05:04 AM",
+    "last_accessed_time_formatted": "23 Apr 2026 05:07 AM",
     "select_columns": [
       {
         "field": "name",
@@ -876,9 +889,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "22 Apr 2026",
-        "from_date": "2026-04-22",
-        "to_date": "2026-04-22"
+        "date_range_label": "23 Apr 2026",
+        "from_date": "2026-04-23",
+        "to_date": "2026-04-23"
       }
     ],
     "sort_column": "account",
