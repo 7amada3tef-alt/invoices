@@ -2495,7 +2495,13 @@
         ],
         "pricing_scheme":"unit",
         "tags":[
-
+            {
+                "tag_option_id":"5975823000000171260",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025010 - مشروع العربة"
+            }
         ],
         "documents":[
 
