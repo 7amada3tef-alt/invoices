@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 10990861.31,
+      "total": 10753311.0,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 10869756.86,
+          "total": 10632206.55,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -126,12 +126,12 @@
               "previous_total": []
             },
             {
-              "total": 5526403.08,
+              "total": 6088852.77,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 6819.43,
+                  "total": 698644.12,
                   "account_id": "5975823000000101937",
                   "depth": 0,
                   "previous_values": [],
@@ -170,7 +170,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 158136.01,
+                  "total": 28761.01,
                   "account_id": "5975823000000101941",
                   "depth": 0,
                   "previous_values": [],
@@ -187,12 +187,12 @@
               "previous_total": []
             },
             {
-              "total": 5719725.68,
+              "total": 4919725.68,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 5719725.68,
+                  "total": 4919725.68,
                   "account_id": "5975823000000000364",
                   "depth": 0,
                   "previous_values": [],
@@ -656,17 +656,17 @@
       "previous_total": []
     },
     {
-      "total": 10990861.31,
+      "total": 10753311.0,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 3311047.64,
+          "total": 3073497.33,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 3109829.63,
+              "total": 2872279.32,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
@@ -694,19 +694,6 @@
                   "name": "Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
                   "previous_total_sub_account": [],
                   "account_code": "220203",
-                  "is_collapsed_view": false,
-                  "previous_total": []
-                },
-                {
-                  "total_sub_account": 0.0,
-                  "total": 237550.31,
-                  "account_id": "5975823000000102807",
-                  "depth": 0,
-                  "previous_values": [],
-                  "is_child_present": false,
-                  "name": "Accrued payroll - 220206 - رواتب مستحقة",
-                  "previous_total_sub_account": [],
-                  "account_code": "220206",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -857,11 +844,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-04-27",
-    "to_date": "2026-04-27",
+    "as_of_date": "2026-04-28",
+    "to_date": "2026-04-28",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "27 Apr 2026 05:14 AM",
+    "last_accessed_time_formatted": "28 Apr 2026 05:29 AM",
     "select_columns": [
       {
         "field": "name",
@@ -889,9 +876,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "27 Apr 2026",
-        "from_date": "2026-04-27",
-        "to_date": "2026-04-27"
+        "date_range_label": "28 Apr 2026",
+        "from_date": "2026-04-28",
+        "to_date": "2026-04-28"
       }
     ],
     "sort_column": "account",
