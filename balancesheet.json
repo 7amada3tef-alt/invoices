@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 10753311.0,
+      "total": 10751786.0,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 10632206.55,
+          "total": 10630681.55,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -210,7 +210,7 @@
               "previous_total": []
             },
             {
-              "total": -371785.93,
+              "total": -373310.93,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -332,7 +332,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 1516.59,
+                  "total": 1408.26,
                   "account_id": "5975823000000102705",
                   "depth": 0,
                   "previous_values": [],
@@ -345,7 +345,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 19833.19,
+                  "total": 18416.52,
                   "account_id": "5975823000000301037",
                   "depth": 0,
                   "previous_values": [],
@@ -656,7 +656,7 @@
       "previous_total": []
     },
     {
-      "total": 10753311.0,
+      "total": 10751786.0,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -779,12 +779,12 @@
           "previous_total": []
         },
         {
-          "total": 7679813.67,
+          "total": 7678288.67,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1275277.24,
+              "total": 1273752.24,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -844,11 +844,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-04-28",
-    "to_date": "2026-04-28",
+    "as_of_date": "2026-04-29",
+    "to_date": "2026-04-29",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "28 Apr 2026 05:29 AM",
+    "last_accessed_time_formatted": "29 Apr 2026 05:30 AM",
     "select_columns": [
       {
         "field": "name",
@@ -876,9 +876,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "28 Apr 2026",
-        "from_date": "2026-04-28",
-        "to_date": "2026-04-28"
+        "date_range_label": "29 Apr 2026",
+        "from_date": "2026-04-29",
+        "to_date": "2026-04-29"
       }
     ],
     "sort_column": "account",
