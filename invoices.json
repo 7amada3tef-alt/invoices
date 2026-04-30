@@ -13,7 +13,7 @@
         "date":"2026-04-09",
         "due_date":"2026-04-09",
         "issued_date":"2026-04-14",
-        "due_days":"Overdue by 20 days",
+        "due_days":"Overdue by 21 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -114,7 +114,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d4484be9afc36832b183a132eb2cab745537e891be81841b841750147c9e0d39f1a2a5436c2e473dfee684ce97711a133b4c9f103be90e3c3e408132263acd5d ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d4484be9afc36832b183a132eb2cab74cf3c45593fa402604f4e050b1b74f3b5f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e0394f8c6d25bb4c1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -126,11 +126,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":1669513.6499999999,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -247,7 +243,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258771a6cfe3c4b6b86e694cb43fa5771af5537e891be81841b41fa089701eef06af1a2a5436c2e473dfee684ce97711a133b4c9f103be90e3c2ccda8bc1c3f1f4e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258771a6cfe3c4b6b86e694cb43fa5771afcf3c45593fa402603e57f74d74e7d713f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8ed03c6869c9c96085 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -259,11 +255,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -380,7 +372,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258728e2613e6109ffce694cb43fa5771af5537e891be81841b84954670a05de3f0f1a2a5436c2e473dfee684ce97711a133b4c9f103be90e3c3e31f0c3f1970f51 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258728e2613e6109ffce694cb43fa5771afcf3c45593fa40260f01fc3f3e530b658f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e290972db18db4c90 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -392,11 +384,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -513,7 +501,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16bea71c18b7b5ff1d135537e891be81841b44e785535ad9e202f1a2a5436c2e473dfee684ce97711a133b4c9f103be90e3cc0b29e7309a26e04 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16bea71c18b7b5ff1d13cf3c45593fa40260362023aef069fd84f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e631f15c7b27dae4e ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -525,11 +513,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -647,7 +631,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16be7f2082fb6a99a7c45537e891be81841b0b50eccafbad3814f1a2a5436c2e473dfee684ce97711a133b4c9f103be90e3c11e80a707f5b3196 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16be7f2082fb6a99a7c4cf3c45593fa402606693973181726ca0f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e5931504ad805a6ed ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -659,11 +643,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.761,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -780,7 +760,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588d6141eae6c41569f850e6505617a24a5537e891be81841ba079fd597678895ef1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a8b1cbbd04251293e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588d6141eae6c41569f850e6505617a24acf3c45593fa4026023a50a3282916027f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8ea465b6cc8b7851c7 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -792,11 +772,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -913,7 +889,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d7120e184b73f4f81b7c27e56c7b9e095537e891be81841b43fba2be5d1a64f4f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a00c7033f1f64f728 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d7120e184b73f4f81b7c27e56c7b9e09cf3c45593fa40260acd5632169624a0ff1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e778bc4aaca2884ab ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -925,11 +901,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -1046,7 +1018,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce58746b6a7db33329be5537e891be81841be67e6a6ff035a4a3f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a0394f8c6d25bb4c1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce58746b6a7db33329becf3c45593fa4026084a3183ad2687b99f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e8e26465a7c3b715e ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1058,11 +1030,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -1179,7 +1147,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce587f2082fb6a99a7c45537e891be81841b68b7fa21be278db7f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17ab1415971ddcf656b ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce587f2082fb6a99a7c4cf3c45593fa40260fc832066dd81d72bf1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e7485212df6a468b7 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1191,11 +1159,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -1312,7 +1276,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258009befdba6d08ca5171ed2c05c3af9e45537e891be81841b29ab75231d24d5adf1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17ad03c6869c9c96085 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258009befdba6d08ca5171ed2c05c3af9e4cf3c45593fa40260b19391d904540feff1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8ed0b4a499fe2293cf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1324,11 +1288,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -1445,7 +1405,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585fcde54e201f26288dd45175dceff70a5537e891be81841b8b3c909c35d5c228f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a0332fb14bc787af1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585fcde54e201f26288dd45175dceff70acf3c45593fa402605132bf22fc3aac5ef1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8ebf9aa568d2e39356 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1457,11 +1417,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -1477,7 +1433,7 @@
         "date":"2026-01-04",
         "due_date":"2026-02-18",
         "issued_date":"",
-        "due_days":"Overdue by 70 days",
+        "due_days":"Overdue by 71 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -1578,7 +1534,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bd86736c01d9fc69bda3d9f777b2d0075537e891be81841bc787d5ecbe696909f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17adf85343568c1b376 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bd86736c01d9fc69bda3d9f777b2d007cf3c45593fa402607eab15a48fb3f01bf1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8eafc79af1c396fa42 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1590,11 +1546,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":1535250.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -1711,7 +1663,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b8fe6a8a85599d3cd2880c964d97b6bf5537e891be81841b369819393bf7b68af1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17af06e84307ab8d9d7 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b8fe6a8a85599d3cd2880c964d97b6bfcf3c45593fa402604fcfbfea246ab6e2f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e0441cc9a10765ec5 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1723,11 +1675,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -1844,7 +1792,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a109103825367047f850e6505617a24a5537e891be81841bbe11a36aa6040927f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17af90ef48059cf7a7e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a109103825367047f850e6505617a24acf3c45593fa402609c807edabf2f9a54f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8eebedf8637b5bd31c ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1856,11 +1804,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -1977,7 +1921,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fc90be45e996ca2858fbcb29d55a41265537e891be81841b95497f6a80ec516df1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a441a8d9266c10eed ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fc90be45e996ca2858fbcb29d55a4126cf3c45593fa40260153131431f3b35def1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8eca1a52bc330a19c7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1989,11 +1933,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -2110,7 +2050,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f3768172a4332885d358a8094a6e71485537e891be81841b2445190d14bb3bcff1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a6759fec5f9f3f9ed ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f3768172a4332885d358a8094a6e7148cf3c45593fa40260303d7b1087f4ad41f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8eed84780b66c7cafb ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2122,11 +2062,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -2243,7 +2179,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258448f8e158ed9d991f82767726f8661ed5537e891be81841bcd4fc3aed3caa163f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a3cac44edc835bd59 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258448f8e158ed9d991f82767726f8661edcf3c45593fa402605e8e5e9eab698ef0f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e28d5c3839737af65 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2255,11 +2191,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -2275,7 +2207,7 @@
         "date":"2025-11-25",
         "due_date":"2025-12-11",
         "issued_date":"",
-        "due_days":"Overdue by 139 days",
+        "due_days":"Overdue by 140 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -2376,7 +2308,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e1ced53e9aa3a623e57b5a9b5ed1d2925537e891be81841b1c3eb86e591004d2f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a778bc4aaca2884ab ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e1ced53e9aa3a623e57b5a9b5ed1d292cf3c45593fa4026003cfeee4d5c4a13ff1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e24e989b001e5ceaf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2388,11 +2320,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":1084402.0800000001,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -2509,7 +2437,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ec985cc55fe9398e4206510dd12f97dc5537e891be81841bc1319b27837f3d40f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a891c50ceded3a541 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ec985cc55fe9398e4206510dd12f97dccf3c45593fa402602fec115bd045f74bf1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8ef81c9c2849ddba7c ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2521,11 +2449,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -2643,7 +2567,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258758b7f846da2c60fd358a8094a6e71485537e891be81841bd3bcf93ab84ef677f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a8e26465a7c3b715e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258758b7f846da2c60fd358a8094a6e7148cf3c45593fa402607eecb744db565f2df1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e682a6a761cb49291 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2655,11 +2579,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.761,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -2776,7 +2696,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258279b8ec074e6f83aafcc52b156360d335537e891be81841b4dc199cea78b33cdf1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a7485212df6a468b7 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258279b8ec074e6f83aafcc52b156360d33cf3c45593fa4026096fb65eaf75d4bc3f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e3ee4114a09dd0932 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2788,11 +2708,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -2909,7 +2825,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258db1e5704943cdb00e694cb43fa5771af5537e891be81841b0c34d0fac72a7cabf1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a27b1de37f42d34d0 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258db1e5704943cdb00e694cb43fa5771afcf3c45593fa40260e20cce7a0d37d647f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8efcf75db29097f18c ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2921,11 +2837,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -2941,7 +2853,7 @@
         "date":"2025-10-09",
         "due_date":"2025-10-09",
         "issued_date":"",
-        "due_days":"Overdue by 202 days",
+        "due_days":"Overdue by 203 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -3042,7 +2954,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bf3712f8b26e0a29dda7ae2e00cc0b695537e891be81841b62a09dd3cd7c3045f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17ad204482178ea78e1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bf3712f8b26e0a29dda7ae2e00cc0b69cf3c45593fa402608137685451bbe9a6f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8ed990aa6cf55d30c4 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3054,11 +2966,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":630559.95,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -3175,7 +3083,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a0074238226b31aa7c00a8289a5ed7e5537e891be81841bc5c164deed3f22d0f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a0e137a4cbe99fea1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a0074238226b31aa7c00a8289a5ed7ecf3c45593fa4026010b1cfd6b32f6f6bf1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e7a11647a16fe4ab4 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3187,11 +3095,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -3308,7 +3212,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425807d6fe4e33898279b9e56bbd70b79c0c5537e891be81841be1c09ad976e41adff1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a25b5ca8022e35981 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425807d6fe4e33898279b9e56bbd70b79c0ccf3c45593fa4026040afd4483fa50cddf1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e773145eff044b5ed ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3320,11 +3224,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -3441,7 +3341,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585053e60ff22381bd2c7f7bdb5c0c0c755537e891be81841b23a4a501277e95def1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a8dc16af40f4ee70a ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585053e60ff22381bd2c7f7bdb5c0c0c75cf3c45593fa40260e99b50b6eddf7021f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e85070fd2e404bc39 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3453,11 +3353,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -3574,7 +3470,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a5ac779606a8d6d0907cc4e636ad1135537e891be81841b48b1da0de052668af1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17acc95eaca56088cc1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a5ac779606a8d6d0907cc4e636ad113cf3c45593fa4026083ed67198de3146df1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e5d684f14615a7df3 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3586,11 +3482,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -3707,7 +3599,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ca865a37458abfb614bf29ab695742915537e891be81841b15f829f9dcafd3b9f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17aebedf8637b5bd31c ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ca865a37458abfb614bf29ab69574291cf3c45593fa4026013c78c1467b465bef1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e3c99cfc92dc9f642 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3719,11 +3611,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -3840,7 +3728,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e559f0b17bbe6b1f48a56b52bb2d94a5537e891be81841b32e775cc2141f2bdf1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a210f164be1b8919a ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e559f0b17bbe6b1f48a56b52bb2d94acf3c45593fa40260bdf4039e0d75872df1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e4d85f3f82df208db ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3852,11 +3740,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -3973,7 +3857,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583527a07dc29bcd5ee3cb47ce10a480a95537e891be81841b1b982d39ee1ba71af1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a3a3947bcffd00d39 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583527a07dc29bcd5ee3cb47ce10a480a9cf3c45593fa402605c56d7722c43c5a2f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8eefcfa85d8d1ca9e1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3985,11 +3869,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -4106,7 +3986,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b4dd71ba54c9e848fc03f8b92474d8525537e891be81841b6a5006c361ecae9ff1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17aed84780b66c7cafb ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b4dd71ba54c9e848fc03f8b92474d852cf3c45593fa402604d278a36a8f60f39f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e3e408132263acd5d ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4118,11 +3998,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -4239,7 +4115,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585cc9f7e68c115115eab5bf068d9bf6825537e891be81841b9c919a4350b182edf1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a28d5c3839737af65 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585cc9f7e68c115115eab5bf068d9bf682cf3c45593fa402608313d46f0beca772f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e42a1a40f3032cdd5 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4251,11 +4127,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.744509,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -4364,7 +4236,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587dd826f0e2d7b11a692a4090cad9c79c5537e891be81841b87877cc571eaace0f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17af5ae03dfe0982a9f ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587dd826f0e2d7b11a692a4090cad9c79ccf3c45593fa40260568e4a6c1c5eec74f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8ed719da9c9fd2f9f0 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4376,11 +4248,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -4489,7 +4357,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425856210687af81b8372168c7d00325acce5537e891be81841b85ce09bd716842fdf1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a24e989b001e5ceaf ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425856210687af81b8372168c7d00325accecf3c45593fa40260b3ddf2723b142d97f1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e3e31f0c3f1970f51 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4501,11 +4369,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -4614,7 +4478,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a77a087dfbe2a15e694cb43fa5771af5537e891be81841b9599e65ef3564062f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17af81c9c2849ddba7c ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a77a087dfbe2a15e694cb43fa5771afcf3c45593fa40260683dd0a02936ccaef1a2a5436c2e473dfee684ce97711a13ed57a819d8c41b8e1e4e43ff8cfb89da ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4626,11 +4490,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -4739,7 +4599,7 @@
         "template_type":"standard",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a4d2f78d0c4b1402778776c226d4de505537e891be81841b8ab6e48dd30f7fb8f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a41aed7ed7f520336 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a4d2f78d0c4b1402778776c226d4de50cf3c45593fa40260a360e3a7493ef5aaf1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad8b1cbbd04251293e ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4751,11 +4611,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -4864,7 +4720,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991ac6d3cf532f3ff9e5537e891be81841b0dc2b881d2ef6f91f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a8f3f677844e78f9f ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991ac6d3cf532f3ff9ecf3c45593fa4026069098d61cbbb460ff1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad0394f8c6d25bb4c1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4876,11 +4732,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -4989,7 +4841,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991337ac5e7f3793f3f5537e891be81841b1ac9771850732a4df1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a3ee4114a09dd0932 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991337ac5e7f3793f3fcf3c45593fa402604d19ca467bd70ce9f1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad3dc6aa691b36dd00 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5001,11 +4853,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -5114,7 +4962,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991888e87ac762668985537e891be81841bc2d579879c3f8eb5f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17afcf75db29097f18c ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991888e87ac76266898cf3c45593fa4026054bb51d379ef6b7df1a2a5436c2e473dfee684ce97711a13fe7013926a6535addf85343568c1b376 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5126,11 +4974,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -5239,7 +5083,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e1849917f2082fb6a99a7c45537e891be81841b3580a4a0bd2aa222f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a32f2d422110cf256 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e1849917f2082fb6a99a7c4cf3c45593fa4026095c960e3e0cd0352f1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad64f095070335b8bd ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5251,11 +5095,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -5364,7 +5204,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc91969e250db6bf56b5537e891be81841b77db3bee5c34f3e1f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a08e2d34ebcf4dd20 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc91969e250db6bf56bcf3c45593fa402609cf374f6ef71ec2ef1a2a5436c2e473dfee684ce97711a13fe7013926a6535ada465b6cc8b7851c7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5376,11 +5216,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -5489,7 +5325,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc97f2082fb6a99a7c45537e891be81841b1d07c480598bafeaf1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a7a11647a16fe4ab4 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc97f2082fb6a99a7c4cf3c45593fa40260027579851abbd48df1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad778bc4aaca2884ab ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5501,11 +5337,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -5614,7 +5446,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258122d4664499a3184e694cb43fa5771af5537e891be81841bff766e5340db3fc3f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a54e8cf85437a7c68 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258122d4664499a3184e694cb43fa5771afcf3c45593fa4026065d5405864fc133ef1a2a5436c2e473dfee684ce97711a13fe7013926a6535adb9ffaf52a02f68a1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5626,11 +5458,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -5739,7 +5567,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584f51cc665953b37a7f2082fb6a99a7c45537e891be81841bef0def3b669092b1f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17ae958e333bdaeb0c3 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584f51cc665953b37a7f2082fb6a99a7c4cf3c45593fa402608148d8feff87dad0f1a2a5436c2e473dfee684ce97711a13fe7013926a6535add0b4a499fe2293cf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5751,11 +5579,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -5864,7 +5688,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42582133933efe3a9208e694cb43fa5771af5537e891be81841b4e6db21fb9dc96a1f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17aab2e67f7acee8330 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42582133933efe3a9208e694cb43fa5771afcf3c45593fa4026086d08b6c57214209f1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad25b5ca8022e35981 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5876,11 +5700,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -5989,7 +5809,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f66513e4bc2fa239ffae5537e891be81841be4c3957eddc0f34ff1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17abb7a2cb97c14bf49 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f66513e4bc2fa239ffaecf3c45593fa402601c7169c4713a2ef2f1a2a5436c2e473dfee684ce97711a13fe7013926a6535adcc95eaca56088cc1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6001,11 +5821,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -6114,7 +5930,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f665293104aaabb6a4675537e891be81841bbf4912fbecf4cf33f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a8c0bb4b8c6566587 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f665293104aaabb6a467cf3c45593fa402607ec287bb4a02bac5f1a2a5436c2e473dfee684ce97711a13fe7013926a6535adca1a52bc330a19c7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6126,11 +5942,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -6239,7 +6051,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258512bf09531b89abee694cb43fa5771af5537e891be81841bb0ffd8b83305a24ef1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17ab4ebdaa271957460 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258512bf09531b89abee694cb43fa5771afcf3c45593fa40260eebb7db473ca6fcdf1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad8e7934623c2a5e69 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6251,11 +6063,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -6364,7 +6172,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425847db98267a2a2166e4efb058d06099d05537e891be81841b06dcd88e5b87fe45f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a294034916e1623a5 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425847db98267a2a2166e4efb058d06099d0cf3c45593fa4026068b5108c09e50dbdf1a2a5436c2e473dfee684ce97711a13fe7013926a6535adf5ae03dfe0982a9f ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6376,11 +6184,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -6489,7 +6293,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a1e8bdd53e0e735e305537e891be81841b407cf87b6c67f9aff1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a4d85f3f82df208db ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a1e8bdd53e0e735e30cf3c45593fa40260ea46a6c31d500b57f1a2a5436c2e473dfee684ce97711a13fe7013926a6535adf81c9c2849ddba7c ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6501,11 +6305,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -6614,7 +6414,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a131de972e15c03e525537e891be81841be568b7f79bf71a87f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17a0bb81609babad15f ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a131de972e15c03e52cf3c45593fa4026022cd70ed3f008532f1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad41aed7ed7f520336 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6626,11 +6426,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     },
     {
         "ach_payment_initiated":false,
@@ -6748,7 +6544,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a14206510dd12f97dc5537e891be81841b0b7bb9973f614c42f1a2a5436c2e473dfee684ce97711a13e3c44de47be3b17aefcfa85d8d1ca9e1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a14206510dd12f97dccf3c45593fa402600024923e438089e1f1a2a5436c2e473dfee684ce97711a13fe7013926a6535ad3ee4114a09dd0932 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6760,10 +6556,6 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "amount_due":0.0,
-        "unprocessed_payment_amount":0.0,
-        "ar_account_id":"5975823000000000364",
-        "ar_account_name":"Accounts Receivable",
-        "fcy_tds_balance":0.0
+        "unprocessed_payment_amount":0.0
     }
 ]

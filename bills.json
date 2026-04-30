@@ -27,7 +27,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003727839",
-        "amount_due":0.0,
         "attachment_name":"فاتورة - وصلة الفن.pdf",
         "has_attachment":true,
         "tags":[
@@ -39,10 +38,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003727797",
@@ -72,7 +68,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003727797",
-        "amount_due":0.0,
         "attachment_name":"فاتورة - رؤية فنية.pdf",
         "has_attachment":true,
         "tags":[
@@ -84,10 +79,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003727755",
@@ -117,7 +109,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003727755",
-        "amount_due":0.0,
         "attachment_name":"فاتورة - ألوان الريشة.pdf",
         "has_attachment":true,
         "tags":[
@@ -129,10 +120,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003727697",
@@ -162,7 +150,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003727697",
-        "amount_due":0.0,
         "attachment_name":"فاتورة - فندق فوكو1.pdf",
         "has_attachment":true,
         "tags":[
@@ -174,10 +161,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003727651",
@@ -207,7 +191,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003727651",
-        "amount_due":0.0,
         "attachment_name":"فاتورة - أصيل الشدوي.pdf",
         "has_attachment":true,
         "tags":[
@@ -219,10 +202,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003693557",
@@ -252,7 +232,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003693557",
-        "amount_due":0.0,
         "attachment_name":"310094748200003_20260406T151158_INV-000405.pdf",
         "has_attachment":true,
         "tags":[
@@ -264,10 +243,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003693487",
@@ -297,7 +273,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003693487",
-        "amount_due":0.0,
         "attachment_name":"310094748200003_20260406T151124_INV-000404.pdf",
         "has_attachment":true,
         "tags":[
@@ -309,10 +284,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003693407",
@@ -342,7 +314,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003693407",
-        "amount_due":0.0,
         "attachment_name":"310094748200003_20260406T150918_INV-000403.pdf",
         "has_attachment":true,
         "tags":[
@@ -354,10 +325,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003693327",
@@ -387,7 +355,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003693327",
-        "amount_due":0.0,
         "attachment_name":"310094748200003_20260406T150817_INV-000402.pdf",
         "has_attachment":true,
         "tags":[
@@ -399,10 +366,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003693247",
@@ -432,7 +396,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003693247",
-        "amount_due":0.0,
         "attachment_name":"310094748200003_20260406T150740_INV-000401.pdf",
         "has_attachment":true,
         "tags":[
@@ -444,10 +407,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003693167",
@@ -477,7 +437,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003693167",
-        "amount_due":0.0,
         "attachment_name":"310094748200003_20260406T150639_INV-000400.pdf",
         "has_attachment":true,
         "tags":[
@@ -489,10 +448,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003693087",
@@ -522,7 +478,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003693087",
-        "amount_due":0.0,
         "attachment_name":"310094748200003_20260406T150448_INV-000399.pdf",
         "has_attachment":true,
         "tags":[
@@ -534,10 +489,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003666101",
@@ -567,7 +519,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003666101",
-        "amount_due":0.0,
         "attachment_name":"310282775400003_20260409T130515_INV-000409.pdf",
         "has_attachment":true,
         "tags":[
@@ -579,10 +530,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003658706",
@@ -612,7 +560,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003658706",
-        "amount_due":0.0,
         "attachment_name":"",
         "has_attachment":false,
         "tags":[
@@ -624,10 +571,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003658555",
@@ -657,7 +601,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003658555",
-        "amount_due":0.0,
         "attachment_name":"فاتورة الخدمات الاستاشرية لمشروع منهجية التعزيز.pdf",
         "has_attachment":true,
         "tags":[
@@ -669,10 +612,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003658485",
@@ -702,7 +642,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003658485",
-        "amount_due":0.0,
         "attachment_name":"310282775400003_20260328T062415_INV-000400.pdf",
         "has_attachment":true,
         "tags":[
@@ -714,10 +653,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003658367",
@@ -747,7 +683,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003658367",
-        "amount_due":0.0,
         "attachment_name":"تقسيم تكاليف رواتب مصر - مارس 2026.xlsx",
         "has_attachment":true,
         "tags":[
@@ -759,10 +694,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003657869",
@@ -792,7 +724,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003657869",
-        "amount_due":0.0,
         "attachment_name":"الفاتورة الثالثة - مشروع تطوير الحقائب.pdf",
         "has_attachment":true,
         "tags":[
@@ -804,10 +735,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003657633",
@@ -837,7 +765,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003657633",
-        "amount_due":0.0,
         "attachment_name":"429 طلب توفير ادوات عمل.pdf",
         "has_attachment":true,
         "tags":[
@@ -849,10 +776,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003655663",
@@ -882,7 +806,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003655663",
-        "amount_due":0.0,
         "attachment_name":"الفاتورة الثانية - مشروع تطوير الحقائب.pdf",
         "has_attachment":true,
         "tags":[
@@ -894,10 +817,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003655505",
@@ -927,7 +847,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003655505",
-        "amount_due":0.0,
         "attachment_name":"ساعات العمل للمتعاونين.xlsx",
         "has_attachment":true,
         "tags":[
@@ -939,10 +858,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003655327",
@@ -972,7 +888,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003655327",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف مستحقات مدير مشروع سُفر الإفطار في الحرم المكي.pdf",
         "has_attachment":true,
         "tags":[
@@ -984,10 +899,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003124251",
@@ -1017,7 +929,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003124251",
-        "amount_due":0.0,
         "attachment_name":"INV-00068.pdf",
         "has_attachment":true,
         "tags":[
@@ -1029,10 +940,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003124142",
@@ -1062,7 +970,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003124142",
-        "amount_due":0.0,
         "attachment_name":"310282775400003_20260228T060604_INV-000397.pdf",
         "has_attachment":true,
         "tags":[
@@ -1074,10 +981,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003027928",
@@ -1107,7 +1011,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003027928",
-        "amount_due":0.0,
         "attachment_name":"بتلغت.pdf",
         "has_attachment":true,
         "tags":[
@@ -1119,10 +1022,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003027593",
@@ -1152,7 +1052,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003027593",
-        "amount_due":0.0,
         "attachment_name":"فابفابؤ.pdf",
         "has_attachment":true,
         "tags":[
@@ -1164,10 +1063,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003027137",
@@ -1197,7 +1093,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003027137",
-        "amount_due":0.0,
         "attachment_name":"يفابلايبا.pdf",
         "has_attachment":true,
         "tags":[
@@ -1209,10 +1104,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003027071",
@@ -1242,7 +1134,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003027071",
-        "amount_due":0.0,
         "attachment_name":"يفابلايبا.pdf",
         "has_attachment":true,
         "tags":[
@@ -1254,10 +1145,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000003027005",
@@ -1287,7 +1175,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000003027005",
-        "amount_due":0.0,
         "attachment_name":"يفابلايبا.pdf",
         "has_attachment":true,
         "tags":[
@@ -1299,10 +1186,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002789461",
@@ -1332,7 +1216,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002789461",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف مستحقات المتعاونين لشهر يناير 2026.pdf",
         "has_attachment":true,
         "tags":[
@@ -1344,10 +1227,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002789283",
@@ -1377,7 +1257,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002789283",
-        "amount_due":0.0,
         "attachment_name":"عقد تقديم خدمات - مهند فهد محمود مفوز.pdf",
         "has_attachment":true,
         "tags":[
@@ -1389,10 +1268,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002789163",
@@ -1422,7 +1298,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002789163",
-        "amount_due":0.0,
         "attachment_name":"عقد تقديم خدمات - الدكتور صالح الشمراني.pdf",
         "has_attachment":true,
         "tags":[
@@ -1434,10 +1309,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002789041",
@@ -1467,7 +1339,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002789041",
-        "amount_due":0.0,
         "attachment_name":"طلب الموافقة على صرف فاتورة تجديد نظام زوهو المالي.pdf",
         "has_attachment":true,
         "tags":[
@@ -1479,10 +1350,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002746017",
@@ -1512,7 +1380,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002746017",
-        "amount_due":0.0,
         "attachment_name":"INV-00066.pdf",
         "has_attachment":true,
         "tags":[
@@ -1524,10 +1391,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002709851",
@@ -1557,7 +1421,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002709851",
-        "amount_due":0.0,
         "attachment_name":"Takamull-MS365-INV004392.pdf",
         "has_attachment":true,
         "tags":[
@@ -1569,10 +1432,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002709756",
@@ -1602,7 +1462,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002709756",
-        "amount_due":0.0,
         "attachment_name":"١٦٠٠ عابر .pdf",
         "has_attachment":true,
         "tags":[
@@ -1614,10 +1473,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002709661",
@@ -1647,7 +1503,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002709661",
-        "amount_due":0.0,
         "attachment_name":"تكامل التنمية 2.pdf",
         "has_attachment":true,
         "tags":[
@@ -1659,10 +1514,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002709542",
@@ -1692,7 +1544,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002709542",
-        "amount_due":0.0,
         "attachment_name":"Invoice Template.pdf",
         "has_attachment":true,
         "tags":[
@@ -1704,10 +1555,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002677099",
@@ -1737,7 +1585,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002677099",
-        "amount_due":0.0,
         "attachment_name":"310282775400003_20260202T191312_INV-000394 (1).pdf",
         "has_attachment":true,
         "tags":[
@@ -1749,10 +1596,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002664003",
@@ -1782,7 +1626,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002664003",
-        "amount_due":0.0,
         "attachment_name":"تذكرة الدكتور محمد عبدالوهاب 27 يناير 2026.pdf",
         "has_attachment":true,
         "tags":[
@@ -1794,10 +1637,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002542957",
@@ -1827,7 +1667,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002542957",
-        "amount_due":0.0,
         "attachment_name":"فاتورة ايرادات دفعة4-شركة تكامل التنمية التجارية.pdf",
         "has_attachment":true,
         "tags":[
@@ -1839,10 +1678,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002542844",
@@ -1872,7 +1708,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002542844",
-        "amount_due":0.0,
         "attachment_name":"WhatsApp Image 2026-01-21 at 17.01.03.jpeg",
         "has_attachment":true,
         "tags":[
@@ -1884,10 +1719,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002542717",
@@ -1917,7 +1749,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002542717",
-        "amount_due":0.0,
         "attachment_name":"Invoice-7009428330 (1).pdf",
         "has_attachment":true,
         "tags":[
@@ -1929,10 +1760,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002542633",
@@ -1962,7 +1790,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002542633",
-        "amount_due":0.0,
         "attachment_name":"INV-000093.pdf",
         "has_attachment":true,
         "tags":[
@@ -1974,10 +1801,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002542579",
@@ -2007,7 +1831,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002542579",
-        "amount_due":0.0,
         "attachment_name":"عقد تقديم خدمات - صقر محمد القرني.pdf",
         "has_attachment":true,
         "tags":[
@@ -2019,10 +1842,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002533028",
@@ -2052,7 +1872,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002533028",
-        "amount_due":0.0,
         "attachment_name":"انةيطحيرء.pdf",
         "has_attachment":true,
         "tags":[
@@ -2064,10 +1883,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002517898",
@@ -2097,7 +1913,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002517898",
-        "amount_due":0.0,
         "attachment_name":"ءلبلؤب.pdf",
         "has_attachment":true,
         "tags":[
@@ -2109,10 +1924,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002517463",
@@ -2142,7 +1954,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002517463",
-        "amount_due":0.0,
         "attachment_name":"8ce99eef-1443-40c1-ae7a-ea5e236c805a.pdf",
         "has_attachment":true,
         "tags":[
@@ -2154,10 +1965,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002517265",
@@ -2187,7 +1995,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002517265",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف مستحقات الدكتور صالح الشمراني لشهر ديسمبر 2025.pdf",
         "has_attachment":true,
         "tags":[
@@ -2199,10 +2006,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002514631",
@@ -2232,7 +2036,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002514631",
-        "amount_due":0.0,
         "attachment_name":"ilovepdf_merged (96).pdf",
         "has_attachment":true,
         "tags":[
@@ -2244,10 +2047,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002514005",
@@ -2277,7 +2077,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002514005",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف المستحقات المتبقية لشركة نصفين معرفة للخدمات التسويقية.pdf",
         "has_attachment":true,
         "tags":[
@@ -2289,10 +2088,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002174360",
@@ -2322,7 +2118,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002174360",
-        "amount_due":0.0,
         "attachment_name":"310282775400003_20260108T123412_INV-000384.pdf",
         "has_attachment":true,
         "tags":[
@@ -2334,10 +2129,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002142003",
@@ -2367,7 +2159,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000002142003",
-        "amount_due":0.0,
         "attachment_name":"Invoice_IN-102-0001196.pdf",
         "has_attachment":true,
         "tags":[
@@ -2379,10 +2170,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002117177",
@@ -2412,7 +2200,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002117177",
-        "amount_due":0.0,
         "attachment_name":"تكامل التنمية- الفاتورة الضريبية.pdf",
         "has_attachment":true,
         "tags":[
@@ -2424,10 +2211,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002117090",
@@ -2457,7 +2241,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002117090",
-        "amount_due":0.0,
         "attachment_name":"0974(992) #24.pdf",
         "has_attachment":true,
         "tags":[
@@ -2469,10 +2252,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002110730",
@@ -2502,7 +2282,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002110730",
-        "amount_due":0.0,
         "attachment_name":"50 (2).pdf",
         "has_attachment":true,
         "tags":[
@@ -2514,10 +2293,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000002109069",
@@ -2547,7 +2323,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000002109069",
-        "amount_due":0.0,
         "attachment_name":"اغلاق عهدة احمد فطاني.pdf",
         "has_attachment":true,
         "tags":[
@@ -2559,10 +2334,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001987698",
@@ -2592,7 +2364,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001987698",
-        "amount_due":0.0,
         "attachment_name":"طلب تعميد فندق بريرا اليرموك يوم ١٢-١٣ ديسمبر.pdf",
         "has_attachment":true,
         "tags":[
@@ -2604,10 +2375,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001987392",
@@ -2637,7 +2405,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001987392",
-        "amount_due":0.0,
         "attachment_name":"4f4e0254-28b9-4e75-9019-c48f78f95ad7.pdf",
         "has_attachment":true,
         "tags":[
@@ -2649,10 +2416,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001987144",
@@ -2682,7 +2446,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001987144",
-        "amount_due":0.0,
         "attachment_name":"مسارا لاجارةد.pdf",
         "has_attachment":true,
         "tags":[
@@ -2694,10 +2457,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001950497",
@@ -2727,7 +2487,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001950497",
-        "amount_due":0.0,
         "attachment_name":"عقد الأستاذ عبدالله القرني (1).pdf",
         "has_attachment":true,
         "tags":[
@@ -2739,10 +2498,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001950341",
@@ -2772,7 +2528,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001950341",
-        "amount_due":0.0,
         "attachment_name":"ilovepdf_merged (93).pdf",
         "has_attachment":true,
         "tags":[
@@ -2784,10 +2539,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001950237",
@@ -2817,7 +2569,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001950237",
-        "amount_due":0.0,
         "attachment_name":"تعاب متعاونين.pdf",
         "has_attachment":true,
         "tags":[
@@ -2829,10 +2580,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001950099",
@@ -2862,7 +2610,6 @@
         "created_by":"Rahaf",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001950099",
-        "amount_due":0.0,
         "attachment_name":"ilovepdf_merged (90).pdf",
         "has_attachment":true,
         "tags":[
@@ -2874,10 +2621,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001797003",
@@ -2907,7 +2651,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001797003",
-        "amount_due":0.0,
         "attachment_name":"INV-000372.pdf",
         "has_attachment":true,
         "tags":[
@@ -2919,10 +2662,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001659003",
@@ -2952,7 +2692,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001659003",
-        "amount_due":0.0,
         "attachment_name":"العناصر المرسلة - Finance Takamull - طلب تعميد فندق بريرا اليرموك يوم ٢٨-٢٩ نوفمبر.pdf",
         "has_attachment":true,
         "tags":[
@@ -2964,10 +2703,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001577616",
@@ -2997,7 +2733,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000001577616",
-        "amount_due":0.0,
         "attachment_name":"علبة الوارد - Anas Alkhuzaei - IBH-Takamull Altanmeah Trad.pdf",
         "has_attachment":true,
         "tags":[
@@ -3009,10 +2744,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001555144",
@@ -3042,7 +2774,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001555144",
-        "amount_due":0.0,
         "attachment_name":"العناصر المرسلة - الإدارة المالية-آثار - تعزيز حساب شركة الرائدة لشهر نوفمبر 2025.pdf",
         "has_attachment":true,
         "tags":[
@@ -3054,10 +2785,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001336231",
@@ -3087,7 +2815,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001336231",
-        "amount_due":0.0,
         "attachment_name":"العناصر المرسلة - Finance Takamull - سداد إيجار مكتب تكامل.pdf",
         "has_attachment":true,
         "tags":[
@@ -3099,10 +2826,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001235152",
@@ -3132,7 +2856,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001235152",
-        "amount_due":0.0,
         "attachment_name":"العناصر المرسلة - Finance Takamull - IBH-Takamull Altanmeah Trad Co#51902800.pdf",
         "has_attachment":true,
         "tags":[
@@ -3144,10 +2867,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001212708",
@@ -3177,7 +2897,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001212708",
-        "amount_due":0.0,
         "attachment_name":"الفاتورة الأولى للشركة الاستشارية - مشروع تطوير الحقائب.pdf",
         "has_attachment":true,
         "tags":[
@@ -3189,10 +2908,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001212013",
@@ -3222,7 +2938,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001212013",
-        "amount_due":0.0,
         "attachment_name":"فاتورة كروان.pdf",
         "has_attachment":true,
         "tags":[
@@ -3234,10 +2949,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001089035",
@@ -3267,7 +2979,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001089035",
-        "amount_due":0.0,
         "attachment_name":"فاتورة بناء أدلة.pdf",
         "has_attachment":true,
         "tags":[
@@ -3279,10 +2990,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001049234",
@@ -3312,7 +3020,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001049234",
-        "amount_due":0.0,
         "attachment_name":"العناصر المرسلة - Finance Takamull - طلب تعميد عرض سعر فندق بريرا اليرموك.pdf",
         "has_attachment":true,
         "tags":[
@@ -3324,10 +3031,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001049081",
@@ -3357,7 +3061,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001049081",
-        "amount_due":0.0,
         "attachment_name":"Fiber cable-2025- 001-v1.pdf",
         "has_attachment":true,
         "tags":[
@@ -3369,10 +3072,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000001022079",
@@ -3402,7 +3102,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000001022079",
-        "amount_due":0.0,
         "attachment_name":"INV-000084.pdf",
         "has_attachment":true,
         "tags":[
@@ -3414,10 +3113,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000996273",
@@ -3447,7 +3143,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000996273",
-        "amount_due":0.0,
         "attachment_name":"INV52495.pdf",
         "has_attachment":true,
         "tags":[
@@ -3459,10 +3154,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000996219",
@@ -3492,7 +3184,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000996219",
-        "amount_due":0.0,
         "attachment_name":"INV51271.pdf",
         "has_attachment":true,
         "tags":[
@@ -3504,10 +3195,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000969258",
@@ -3537,7 +3225,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000969258",
-        "amount_due":0.0,
         "attachment_name":"تكامل التنمية - INV213006.pdf",
         "has_attachment":true,
         "tags":[
@@ -3549,10 +3236,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000969200",
@@ -3582,7 +3266,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000969200",
-        "amount_due":0.0,
         "attachment_name":"تكامل التنمية - INV213006.pdf",
         "has_attachment":true,
         "tags":[
@@ -3594,10 +3277,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000969060",
@@ -3627,7 +3307,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000969060",
-        "amount_due":0.0,
         "attachment_name":"Takamull-ZohoPeople-310891235500003_20250724T124054_80110044488.pdf",
         "has_attachment":true,
         "tags":[
@@ -3639,10 +3318,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000969010",
@@ -3672,7 +3348,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000969010",
-        "amount_due":0.0,
         "attachment_name":"6a20bda2-1ecc-4666-93a0-c4fd6a173258.pdf",
         "has_attachment":true,
         "tags":[
@@ -3684,10 +3359,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000887009",
@@ -3717,7 +3389,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000887009",
-        "amount_due":0.0,
         "attachment_name":"العناصر المرسلة - Finance Takamull - مستحقات شركة سياق للفاتورة الثانية لمشروع وزارة ال....pdf",
         "has_attachment":true,
         "tags":[
@@ -3729,10 +3400,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000863869",
@@ -3762,7 +3430,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000863869",
-        "amount_due":0.0,
         "attachment_name":"فاتورة شركة تكامل.pdf",
         "has_attachment":true,
         "tags":[
@@ -3774,10 +3441,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000825053",
@@ -3807,7 +3471,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000825053",
-        "amount_due":0.0,
         "attachment_name":"فاتورة تكامل.pdf",
         "has_attachment":true,
         "tags":[
@@ -3819,10 +3482,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000805451",
@@ -3852,7 +3512,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000000805451",
-        "amount_due":0.0,
         "attachment_name":"INV-000364.pdf",
         "has_attachment":true,
         "tags":[
@@ -3864,10 +3523,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000732003",
@@ -3897,7 +3553,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000732003",
-        "amount_due":0.0,
         "attachment_name":"95ae429b-1e99-471a-92dd-58aab1ab217a.pdf",
         "has_attachment":true,
         "tags":[
@@ -3909,10 +3564,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000650506",
@@ -3942,7 +3594,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000650506",
-        "amount_due":0.0,
         "attachment_name":"Invoice -  - 2025-10-07T152221.180.pdf",
         "has_attachment":true,
         "tags":[
@@ -3954,10 +3605,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000559452",
@@ -3987,7 +3635,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000559452",
-        "amount_due":0.0,
         "attachment_name":"03434388.pdf",
         "has_attachment":true,
         "tags":[
@@ -3999,10 +3646,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000559349",
@@ -4032,7 +3676,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000559349",
-        "amount_due":0.0,
         "attachment_name":"03472203.pdf",
         "has_attachment":true,
         "tags":[
@@ -4044,10 +3687,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000547018",
@@ -4077,7 +3717,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000547018",
-        "amount_due":0.0,
         "attachment_name":"Invoice-01725.pdf",
         "has_attachment":true,
         "tags":[
@@ -4089,10 +3728,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000498893",
@@ -4122,7 +3758,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000498893",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب تعميد عاجل دار الزبرج.pdf",
         "has_attachment":true,
         "tags":[
@@ -4134,10 +3769,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000498287",
@@ -4151,7 +3783,7 @@
         "reference_number":"تاسيس المكتب موكيت - شركة طارق الحربي ",
         "date":"2025-07-01",
         "due_date":"2025-07-01",
-        "due_days":"Overdue by 302 days",
+        "due_days":"Overdue by 303 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -4167,7 +3799,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000498287",
-        "amount_due":2499.5,
         "attachment_name":"البريد - Finance Takamull - طلب تحويل مبلغ الي م. احمد بااسماعيل.pdf",
         "has_attachment":true,
         "tags":[
@@ -4179,10 +3810,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":2499.5,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":2499.5
     },
     {
         "bill_id":"5975823000000483856",
@@ -4212,7 +3840,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000483856",
-        "amount_due":0.0,
         "attachment_name":"20241211110011238845-0.pdf",
         "has_attachment":true,
         "tags":[
@@ -4224,10 +3851,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000483546",
@@ -4257,7 +3881,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000483546",
-        "amount_due":0.0,
         "attachment_name":"اغلاق عهدة ابراهيم باسماعيل - عهدة تاسيس المكتب 2.xlsx",
         "has_attachment":true,
         "tags":[
@@ -4269,10 +3892,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000482421",
@@ -4302,7 +3922,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000482421",
-        "amount_due":0.0,
         "attachment_name":"9ae25750-284c-4ec9-99d9-8e20d9bf357c.pdf",
         "has_attachment":true,
         "tags":[
@@ -4314,10 +3933,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000472168",
@@ -4347,7 +3963,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000472168",
-        "amount_due":0.0,
         "attachment_name":"عقد الجمعية مع قافلة الراحة.pdf",
         "has_attachment":true,
         "tags":[
@@ -4359,10 +3974,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000460437",
@@ -4392,7 +4004,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000460437",
-        "amount_due":0.0,
         "attachment_name":"INV-000083.pdf",
         "has_attachment":true,
         "tags":[
@@ -4404,10 +4015,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000460273",
@@ -4437,7 +4045,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000460273",
-        "amount_due":0.0,
         "attachment_name":"invoice_002.pdf",
         "has_attachment":true,
         "tags":[
@@ -4449,10 +4056,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000460003",
@@ -4466,7 +4070,7 @@
         "reference_number":"تاسيس مكتب الرياض - عمومية وادارية - مؤسسة دانة",
         "date":"2025-08-13",
         "due_date":"2025-08-13",
-        "due_days":"Overdue by 259 days",
+        "due_days":"Overdue by 260 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -4482,7 +4086,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000460003",
-        "amount_due":850.0,
         "attachment_name":"Quote - شركة تكامل التنمية التجارية.pdf",
         "has_attachment":true,
         "tags":[
@@ -4494,10 +4097,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":850.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":850.0
     },
     {
         "bill_id":"5975823000000451232",
@@ -4527,7 +4127,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000451232",
-        "amount_due":0.0,
         "attachment_name":"7a65615f-b1b4-4145-b638-7c9e26d90ea4.pdf",
         "has_attachment":true,
         "tags":[
@@ -4539,10 +4138,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000451110",
@@ -4572,7 +4168,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000451110",
-        "amount_due":0.0,
         "attachment_name":"63d287b6-8478-427a-b2ac-63e1d1ceaf69.pdf",
         "has_attachment":true,
         "tags":[
@@ -4584,10 +4179,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000424776",
@@ -4617,7 +4209,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000424776",
-        "amount_due":0.0,
         "attachment_name":"mpdf.pdf",
         "has_attachment":true,
         "tags":[
@@ -4629,10 +4220,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000421189",
@@ -4662,7 +4250,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000421189",
-        "amount_due":0.0,
         "attachment_name":"شركة تكامل التنمية التجارية Invoice INV-000364.pdf",
         "has_attachment":true,
         "tags":[
@@ -4674,10 +4261,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000421062",
@@ -4707,7 +4291,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000421062",
-        "amount_due":0.0,
         "attachment_name":"8ac3ceab-57d4-4e6b-bdd1-0c7b0d9791c4.pdf",
         "has_attachment":true,
         "tags":[
@@ -4719,10 +4302,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000420869",
@@ -4752,7 +4332,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000420869",
-        "amount_due":0.0,
         "attachment_name":"7f72f409-808c-4a09-be32-7333be3502ea.pdf",
         "has_attachment":true,
         "tags":[
@@ -4764,10 +4343,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000420716",
@@ -4797,7 +4373,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000420716",
-        "amount_due":0.0,
         "attachment_name":"69dd9187-dfd5-4601-ad7b-9a25e00725f1.pdf",
         "has_attachment":true,
         "tags":[
@@ -4809,10 +4384,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000419085",
@@ -4842,7 +4414,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000419085",
-        "amount_due":0.0,
         "attachment_name":"شركة تكامل.pdf",
         "has_attachment":true,
         "tags":[
@@ -4854,10 +4425,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000418187",
@@ -4887,7 +4455,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000418187",
-        "amount_due":0.0,
         "attachment_name":"63bcbfa4-1178-4df0-84b8-2f64c775c810.pdf",
         "has_attachment":true,
         "tags":[
@@ -4899,10 +4466,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000418003",
@@ -4932,7 +4496,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000418003",
-        "amount_due":0.0,
         "attachment_name":"781df1eb-28d3-4436-803a-7d0ead14e73e.pdf",
         "has_attachment":true,
         "tags":[
@@ -4944,10 +4507,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000416055",
@@ -4977,7 +4537,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000416055",
-        "amount_due":0.0,
         "attachment_name":"summary_51530057.pdf",
         "has_attachment":true,
         "tags":[
@@ -4989,10 +4548,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000416003",
@@ -5022,7 +4578,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000416003",
-        "amount_due":0.0,
         "attachment_name":"summary_63174559.pdf",
         "has_attachment":true,
         "tags":[
@@ -5034,10 +4589,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000412149",
@@ -5051,7 +4603,7 @@
         "reference_number":"فاتورة تأسيس وتشغيل معامل الابتكار والحضانة",
         "date":"2025-09-18",
         "due_date":"2025-11-01",
-        "due_days":"Overdue by 179 days",
+        "due_days":"Overdue by 180 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -5067,7 +4619,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000412149",
-        "amount_due":586420.75,
         "attachment_name":"INV-000335 (1).pdf",
         "has_attachment":true,
         "tags":[
@@ -5079,10 +4630,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":586420.75,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":586420.75
     },
     {
         "bill_id":"5975823000000407143",
@@ -5112,7 +4660,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000407143",
-        "amount_due":0.0,
         "attachment_name":"WhatsApp Scan_ 2025-09-18 at 12.23.26.pdf",
         "has_attachment":true,
         "tags":[
@@ -5124,10 +4671,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000402232",
@@ -5157,7 +4701,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000402232",
-        "amount_due":0.0,
         "attachment_name":"Adobe Scan ٢٠_٠٣_٢٠٢٥.pdf",
         "has_attachment":true,
         "tags":[
@@ -5169,10 +4712,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000402120",
@@ -5202,7 +4742,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000402120",
-        "amount_due":0.0,
         "attachment_name":"PDF001580010320032025181716.pdf",
         "has_attachment":true,
         "tags":[
@@ -5214,10 +4753,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000401297",
@@ -5247,7 +4783,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000401297",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف رسوم الاشتراك بمنصة ساين ات.pdf",
         "has_attachment":true,
         "tags":[
@@ -5259,10 +4794,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000397003",
@@ -5292,7 +4824,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000397003",
-        "amount_due":0.0,
         "attachment_name":"تحسينات مباني - العقيل - 6985.11.pdf",
         "has_attachment":true,
         "tags":[
@@ -5304,10 +4835,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000395083",
@@ -5337,7 +4865,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000395083",
-        "amount_due":0.0,
         "attachment_name":"69c1b7ea-07f2-4e12-bfd7-a62bdeaddf5b.pdf",
         "has_attachment":true,
         "tags":[
@@ -5349,10 +4876,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000394837",
@@ -5382,7 +4906,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000394837",
-        "amount_due":0.0,
         "attachment_name":"بلاط ش ش.pdf",
         "has_attachment":true,
         "tags":[
@@ -5394,10 +4917,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000394694",
@@ -5427,7 +4947,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000394694",
-        "amount_due":0.0,
         "attachment_name":"Transaction-Receipt-1.pdf",
         "has_attachment":true,
         "tags":[
@@ -5439,10 +4958,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000394458",
@@ -5472,7 +4988,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000394458",
-        "amount_due":0.0,
         "attachment_name":"ACC-SINV-2025-00088.pdf",
         "has_attachment":true,
         "tags":[
@@ -5484,10 +4999,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000394305",
@@ -5517,7 +5029,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000394305",
-        "amount_due":0.0,
         "attachment_name":"74f25797-e02c-4c10-b220-2b1028d19cb2.pdf",
         "has_attachment":true,
         "tags":[
@@ -5529,10 +5040,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000388548",
@@ -5562,7 +5070,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000388548",
-        "amount_due":0.0,
         "attachment_name":"لابتوب اكسترا.pdf",
         "has_attachment":true,
         "tags":[
@@ -5574,10 +5081,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000376003",
@@ -5607,7 +5111,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000376003",
-        "amount_due":0.0,
         "attachment_name":"الفاتورة الضريبية-تكامل التنمية.pdf",
         "has_attachment":true,
         "tags":[
@@ -5619,10 +5122,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000371263",
@@ -5652,7 +5152,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000371263",
-        "amount_due":0.0,
         "attachment_name":"10004896-Takamul.pdf",
         "has_attachment":true,
         "tags":[
@@ -5664,10 +5163,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000363074",
@@ -5697,7 +5193,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000363074",
-        "amount_due":0.0,
         "attachment_name":"73b8e414-a6e8-4dd5-8f96-00ee444c3437.pdf",
         "has_attachment":true,
         "tags":[
@@ -5709,10 +5204,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000360699",
@@ -5742,7 +5234,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000360699",
-        "amount_due":0.0,
         "attachment_name":"فاتورة سكيب ذا روم - 119312.5ريال.pdf",
         "has_attachment":true,
         "tags":[
@@ -5754,10 +5245,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000358423",
@@ -5787,7 +5275,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000358423",
-        "amount_due":0.0,
         "attachment_name":"فاتورة تكامل 231.pdf",
         "has_attachment":true,
         "tags":[
@@ -5799,10 +5286,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000358017",
@@ -5832,7 +5316,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000358017",
-        "amount_due":0.0,
         "attachment_name":"فاتورة السادة شركة تكامل التنمية التجارية.pdf",
         "has_attachment":true,
         "tags":[
@@ -5844,10 +5327,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000339069",
@@ -5877,7 +5357,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000339069",
-        "amount_due":0.0,
         "attachment_name":"3ced9b5c-3646-4cc6-9688-d109457c79ba.pdf",
         "has_attachment":true,
         "tags":[
@@ -5889,10 +5368,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000330039",
@@ -5922,7 +5398,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000330039",
-        "amount_due":0.0,
         "attachment_name":"d183dfc4-3539-478a-9631-4988a920ec2a_compressed.pdf",
         "has_attachment":true,
         "tags":[
@@ -5934,10 +5409,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000329216",
@@ -5967,7 +5439,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000329216",
-        "amount_due":0.0,
         "attachment_name":"13fad007-0507-42b8-993a-bf8fcf978eb7_compressed.pdf",
         "has_attachment":true,
         "tags":[
@@ -5979,10 +5450,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000327944",
@@ -6012,7 +5480,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000327944",
-        "amount_due":0.0,
         "attachment_name":"فاتورة مبيعات دفعة3-شركة تكامل التجارية.pdf",
         "has_attachment":true,
         "tags":[
@@ -6024,10 +5491,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000327610",
@@ -6057,7 +5521,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000327610",
-        "amount_due":0.0,
         "attachment_name":"eeaf4866-3c88-49a7-ba0c-d789fff47009_compressed.pdf",
         "has_attachment":true,
         "tags":[
@@ -6069,10 +5532,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000327510",
@@ -6102,7 +5562,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000327510",
-        "amount_due":0.0,
         "attachment_name":"9e4b8a8e-5a3d-429d-b04c-b79ef2224e0f_compressed.pdf",
         "has_attachment":true,
         "tags":[
@@ -6114,10 +5573,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000327102",
@@ -6147,7 +5603,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000327102",
-        "amount_due":0.0,
         "attachment_name":"سداد لمؤسسة سياق.pdf",
         "has_attachment":true,
         "tags":[
@@ -6159,10 +5614,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000324378",
@@ -6192,7 +5644,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000000324378",
-        "amount_due":0.0,
         "attachment_name":"تكامل فاتورة.pdf",
         "has_attachment":true,
         "tags":[
@@ -6204,10 +5655,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000324048",
@@ -6237,7 +5685,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000324048",
-        "amount_due":0.0,
         "attachment_name":"مشتريات سباكة وكهرباء شركة زينكو .pdf",
         "has_attachment":true,
         "tags":[
@@ -6249,10 +5696,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000318882",
@@ -6282,7 +5726,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000318882",
-        "amount_due":0.0,
         "attachment_name":"فاتورة لابتوب عمرو سالم.pdf",
         "has_attachment":true,
         "tags":[
@@ -6294,10 +5737,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000318024",
@@ -6327,7 +5767,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000318024",
-        "amount_due":0.0,
         "attachment_name":"فاتورة شراء مكاتب شركة تكامل التنمية .pdf",
         "has_attachment":true,
         "tags":[
@@ -6339,10 +5778,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000300195",
@@ -6372,7 +5808,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000300195",
-        "amount_due":0.0,
         "attachment_name":"ADW16ABRTRG3B0QCSSFTBY2K10.pdf",
         "has_attachment":true,
         "tags":[
@@ -6384,10 +5819,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000287017",
@@ -6401,7 +5833,7 @@
         "reference_number":"الرسوم الادارية لشهر ابريل ومايو ويونيو 2025م",
         "date":"2025-07-14",
         "due_date":"2025-07-14",
-        "due_days":"Overdue by 289 days",
+        "due_days":"Overdue by 290 days",
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "price_precision":2,
@@ -6417,7 +5849,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000287017",
-        "amount_due":258750.0,
         "attachment_name":"البريد - Anas Alkhuzaei - اتعاب الخدمات المشتركة.pdf",
         "has_attachment":true,
         "tags":[
@@ -6429,10 +5860,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":258750.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":258750.0
     },
     {
         "bill_id":"5975823000000281097",
@@ -6462,7 +5890,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000281097",
-        "amount_due":0.0,
         "attachment_name":"INV-000077.pdf",
         "has_attachment":true,
         "tags":[
@@ -6474,10 +5901,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000276419",
@@ -6507,7 +5931,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000276419",
-        "amount_due":0.0,
         "attachment_name":"الايصال.pdf",
         "has_attachment":true,
         "tags":[
@@ -6519,10 +5942,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000274584",
@@ -6552,7 +5972,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000274584",
-        "amount_due":0.0,
         "attachment_name":"الايصال.pdf",
         "has_attachment":true,
         "tags":[
@@ -6564,10 +5983,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000270190",
@@ -6597,7 +6013,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000270190",
-        "amount_due":0.0,
         "attachment_name":"TAX_Invoice-00904.pdf",
         "has_attachment":true,
         "tags":[
@@ -6609,10 +6024,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000270054",
@@ -6642,7 +6054,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000270054",
-        "amount_due":0.0,
         "attachment_name":"Takamul-Laptop.pdf",
         "has_attachment":true,
         "tags":[
@@ -6654,10 +6065,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000268884",
@@ -6687,7 +6095,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000268884",
-        "amount_due":0.0,
         "attachment_name":"a5cf9003-2e7f-4cab-8f5e-0deeb83ba9cf_compressed.pdf",
         "has_attachment":true,
         "tags":[
@@ -6699,10 +6106,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000268759",
@@ -6732,7 +6136,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000268759",
-        "amount_due":0.0,
         "attachment_name":"88de4b3f-0f50-4f4d-8856-f46188f2f557_compressed.pdf",
         "has_attachment":true,
         "tags":[
@@ -6744,10 +6147,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000261018",
@@ -6777,7 +6177,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Rahaf",
         "is_opening_balance":"5975823000000261018",
-        "amount_due":0.0,
         "attachment_name":"INV-000325.pdf",
         "has_attachment":true,
         "tags":[
@@ -6789,10 +6188,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000251102",
@@ -6822,7 +6218,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000251102",
-        "amount_due":0.0,
         "attachment_name":"شركة تكامل التنمية - INV212858.pdf",
         "has_attachment":true,
         "tags":[
@@ -6834,10 +6229,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000251003",
@@ -6867,7 +6259,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000251003",
-        "amount_due":0.0,
         "attachment_name":"شركة تكامل التنمية - INV212859.pdf",
         "has_attachment":true,
         "tags":[
@@ -6879,10 +6270,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000231754",
@@ -6912,7 +6300,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000231754",
-        "amount_due":0.0,
         "attachment_name":"سداد لشركة نصفين.pdf",
         "has_attachment":true,
         "tags":[
@@ -6924,10 +6311,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000228565",
@@ -6957,7 +6341,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000228565",
-        "amount_due":0.0,
         "attachment_name":"Invoice-7009428330.pdf",
         "has_attachment":true,
         "tags":[
@@ -6969,10 +6352,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000225771",
@@ -7002,7 +6382,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000225771",
-        "amount_due":0.0,
         "attachment_name":"فاتورة رقم 59.pdf",
         "has_attachment":true,
         "tags":[
@@ -7014,10 +6393,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000225556",
@@ -7047,7 +6423,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000225556",
-        "amount_due":0.0,
         "attachment_name":"index.pdf",
         "has_attachment":true,
         "tags":[
@@ -7059,10 +6434,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000225455",
@@ -7092,7 +6464,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000225455",
-        "amount_due":0.0,
         "attachment_name":"فاتورة إضافة عدد 2 ايميلات.pdf",
         "has_attachment":true,
         "tags":[
@@ -7104,10 +6475,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000225218",
@@ -7137,7 +6505,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000225218",
-        "amount_due":0.0,
         "attachment_name":"9f5a917d-e3a2-4e05-b997-17c2a383e0ff_compressed.pdf",
         "has_attachment":true,
         "tags":[
@@ -7149,10 +6516,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000225003",
@@ -7182,7 +6546,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000225003",
-        "amount_due":0.0,
         "attachment_name":"d70ab227-0f29-4cc6-93d3-e8e0a961e865.pdf",
         "has_attachment":true,
         "tags":[
@@ -7194,10 +6557,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000222298",
@@ -7227,7 +6587,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000222298",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف شراء أجهزة لابتوب ضمن مشروع الخدمات.pdf",
         "has_attachment":true,
         "tags":[
@@ -7239,10 +6598,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000222201",
@@ -7272,7 +6628,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000222201",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف شراء أجهزة لابتوب ضمن مشروع الخدمات.pdf",
         "has_attachment":true,
         "tags":[
@@ -7284,10 +6639,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000222098",
@@ -7317,7 +6669,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000222098",
-        "amount_due":0.0,
         "attachment_name":"شركة تكامل التنمية - فاتورة رقم (INV088).pdf",
         "has_attachment":true,
         "tags":[
@@ -7329,10 +6680,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000222003",
@@ -7362,7 +6710,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000222003",
-        "amount_due":0.0,
         "attachment_name":"فاتورة مؤسسة الاسكان التنموي - سكن.pdf",
         "has_attachment":true,
         "tags":[
@@ -7374,10 +6721,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000216015",
@@ -7407,7 +6751,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000216015",
-        "amount_due":0.0,
         "attachment_name":"INV-000075.pdf",
         "has_attachment":true,
         "tags":[
@@ -7419,10 +6762,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000214313",
@@ -7452,7 +6792,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000214313",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف مؤسسة المنهالي  - مشروع منهجية التعزيز.pdf",
         "has_attachment":true,
         "tags":[
@@ -7464,10 +6803,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000214241",
@@ -7497,7 +6833,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000214241",
-        "amount_due":0.0,
         "attachment_name":"طباعة مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي.pdf",
         "has_attachment":true,
         "tags":[
@@ -7509,10 +6844,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000214173",
@@ -7542,7 +6874,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000214173",
-        "amount_due":0.0,
         "attachment_name":"تجهيزات مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي.pdf",
         "has_attachment":true,
         "tags":[
@@ -7554,10 +6885,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000214095",
@@ -7587,7 +6915,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000214095",
-        "amount_due":0.0,
         "attachment_name":"ضيافة مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي.pdf",
         "has_attachment":true,
         "tags":[
@@ -7599,10 +6926,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000213036",
@@ -7632,7 +6956,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000213036",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف مطعم توباز - ذكاء الحلول.pdf",
         "has_attachment":true,
         "tags":[
@@ -7644,10 +6967,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205958",
@@ -7677,7 +6997,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205958",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف مؤسسة حلويات مبرومة  - ذكاء الحلول.pdf",
         "has_attachment":true,
         "tags":[
@@ -7689,10 +7008,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205880",
@@ -7722,7 +7038,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205880",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف فندق التنفيذيين - ذكاء الحلول.pdf",
         "has_attachment":true,
         "tags":[
@@ -7734,10 +7049,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205806",
@@ -7767,7 +7079,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205806",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف فندق الأندلس مول - ذكاء الحلول.pdf",
         "has_attachment":true,
         "tags":[
@@ -7779,10 +7090,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205690",
@@ -7812,7 +7120,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205690",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف ضيافة ضمن مشروع رائد_compressed.pdf",
         "has_attachment":true,
         "tags":[
@@ -7824,10 +7131,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205616",
@@ -7857,7 +7161,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205616",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف ضيافة التأسيس ضمن مشروع ذكاء الحلول.pdf",
         "has_attachment":true,
         "tags":[
@@ -7869,10 +7172,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205500",
@@ -7902,7 +7202,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205500",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف دعاية واعلان لتنفيذ ورشة عمل ضمن مشروع منهجية عمل.pdf",
         "has_attachment":true,
         "tags":[
@@ -7914,10 +7213,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205434",
@@ -7947,7 +7243,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205434",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف خدمة اشتراك واتس اب لمدة سنة ضمن مشروع الخدمات اللوجستية.pdf",
         "has_attachment":true,
         "tags":[
@@ -7959,10 +7254,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205321",
@@ -7992,7 +7284,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205321",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف حجز قاعة لتنفيذ ورشة عمل ضمن مشروع منهجية عمل تعزز .pdf",
         "has_attachment":true,
         "tags":[
@@ -8004,10 +7295,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205243",
@@ -8037,7 +7325,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205243",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف التأمين الطبين لبنت الموظف أنس لطفي.pdf",
         "has_attachment":true,
         "tags":[
@@ -8049,10 +7336,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000205117",
@@ -8082,7 +7366,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000205117",
-        "amount_due":0.0,
         "attachment_name":"طلب صرف مؤسسة مسار التموين 5 يناير 2025.pdf",
         "has_attachment":true,
         "tags":[
@@ -8094,10 +7377,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000204003",
@@ -8127,7 +7407,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000204003",
-        "amount_due":0.0,
         "attachment_name":"INV-000316.pdf",
         "has_attachment":true,
         "tags":[
@@ -8139,10 +7418,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000201311",
@@ -8172,7 +7448,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000201311",
-        "amount_due":0.0,
         "attachment_name":"Transactions FT25180WTZBW .pdf",
         "has_attachment":true,
         "tags":[
@@ -8184,10 +7459,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000200125",
@@ -8217,7 +7489,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000200125",
-        "amount_due":0.0,
         "attachment_name":"invoice_001.pdf",
         "has_attachment":true,
         "tags":[
@@ -8229,10 +7500,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000200017",
@@ -8262,7 +7530,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000200017",
-        "amount_due":0.0,
         "attachment_name":"الفاتورة_INV183_6861589fba615.pdf",
         "has_attachment":true,
         "tags":[
@@ -8274,10 +7541,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000189637",
@@ -8307,7 +7571,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000189637",
-        "amount_due":0.0,
         "attachment_name":"Invoice-000073.pdf",
         "has_attachment":true,
         "tags":[
@@ -8319,10 +7582,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000189161",
@@ -8352,7 +7612,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000189161",
-        "amount_due":0.0,
         "attachment_name":"Transactions FT2516842JSC .pdf",
         "has_attachment":true,
         "tags":[
@@ -8364,10 +7623,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000189015",
@@ -8397,7 +7653,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000189015",
-        "amount_due":0.0,
         "attachment_name":"فاتورة دفعة مشروع الرياضة ـ تكامل.pdf",
         "has_attachment":true,
         "tags":[
@@ -8409,10 +7664,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000187827",
@@ -8442,7 +7694,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000187827",
-        "amount_due":0.0,
         "attachment_name":"INV#18.pdf",
         "has_attachment":true,
         "tags":[
@@ -8454,10 +7705,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000186671",
@@ -8487,7 +7735,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000186671",
-        "amount_due":0.0,
         "attachment_name":"Transactions FT25155VT701 invoice .pdf",
         "has_attachment":true,
         "tags":[
@@ -8499,10 +7746,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000186439",
@@ -8532,7 +7776,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000186439",
-        "amount_due":0.0,
         "attachment_name":"فاتورة الدفعة الأولى لشركة تكامل التنمية التجارية 2024.pdf",
         "has_attachment":true,
         "tags":[
@@ -8544,10 +7787,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000186125",
@@ -8577,7 +7817,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000186125",
-        "amount_due":0.0,
         "attachment_name":"فاتورة دعاية واعلان - مشروع منهجية عمل.pdf",
         "has_attachment":true,
         "tags":[
@@ -8589,10 +7828,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000186047",
@@ -8622,7 +7858,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000186047",
-        "amount_due":0.0,
         "attachment_name":"فاتورة تراخيص عدد 2 أوفيس.pdf",
         "has_attachment":true,
         "tags":[
@@ -8634,10 +7869,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000185655",
@@ -8667,7 +7899,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000185655",
-        "amount_due":0.0,
         "attachment_name":"-DF41_1.pdf",
         "has_attachment":true,
         "tags":[
@@ -8679,10 +7910,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000185431",
@@ -8712,7 +7940,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000185431",
-        "amount_due":0.0,
         "attachment_name":"عرض سعر المقصورة من 29 يونيو الى 2 يوليو.pdf",
         "has_attachment":true,
         "tags":[
@@ -8724,10 +7951,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000185353",
@@ -8757,7 +7981,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000185353",
-        "amount_due":0.0,
         "attachment_name":"Transactions FT25152YZJK1 .pdf",
         "has_attachment":true,
         "tags":[
@@ -8769,10 +7992,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000183203",
@@ -8802,7 +8022,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000183203",
-        "amount_due":0.0,
         "attachment_name":"عرض شركة تكامل (3).pdf",
         "has_attachment":true,
         "tags":[
@@ -8814,10 +8033,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000183115",
@@ -8847,7 +8063,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000183115",
-        "amount_due":0.0,
         "attachment_name":"__فاتورة تكامل التنمية عقد الإعلام مع حجاج وزارة الرياضة_.pdf",
         "has_attachment":true,
         "tags":[
@@ -8859,10 +8074,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000182563",
@@ -8892,7 +8104,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000182563",
-        "amount_due":0.0,
         "attachment_name":"فاتورة هوليدي ان - اقامة مشرف الوزارة.pdf",
         "has_attachment":true,
         "tags":[
@@ -8904,10 +8115,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000182477",
@@ -8937,7 +8145,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000182477",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف مستحقات عقود مدربين ومنسقين وفواتير.pdf",
         "has_attachment":true,
         "tags":[
@@ -8949,10 +8156,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000181048",
@@ -8982,7 +8186,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000181048",
-        "amount_due":0.0,
         "attachment_name":"فاتورة سيجا الفوزان 162- 2025.pdf",
         "has_attachment":true,
         "tags":[
@@ -8994,10 +8197,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000180771",
@@ -9027,7 +8227,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000180771",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف مستحقات الدفعة الثانية من عقد مؤسسة الإسكان التنموي.pdf",
         "has_attachment":true,
         "tags":[
@@ -9039,10 +8238,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000180451",
@@ -9072,7 +8268,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000180451",
-        "amount_due":0.0,
         "attachment_name":"REV_2025_0089.pdf",
         "has_attachment":true,
         "tags":[
@@ -9084,10 +8279,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000180332",
@@ -9117,7 +8309,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000180332",
-        "amount_due":0.0,
         "attachment_name":"__تكامل التنمية 2_.pdf",
         "has_attachment":true,
         "tags":[
@@ -9129,10 +8320,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000176944",
@@ -9162,7 +8350,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000176944",
-        "amount_due":0.0,
         "attachment_name":"فوكوTakamul Al-Tanmiah Proposal.pdf",
         "has_attachment":true,
         "tags":[
@@ -9174,10 +8361,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000179399",
@@ -9207,7 +8391,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000179399",
-        "amount_due":0.0,
         "attachment_name":"عقد مشروع إعداد حقيبة مجلس الإدارة - شركة سبر.pdf",
         "has_attachment":true,
         "tags":[
@@ -9219,10 +8402,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000177280",
@@ -9252,7 +8432,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000177280",
-        "amount_due":0.0,
         "attachment_name":"فاتورة تكامل 1.pdf",
         "has_attachment":true,
         "tags":[
@@ -9264,10 +8443,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000176829",
@@ -9297,7 +8473,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000176829",
-        "amount_due":0.0,
         "attachment_name":"Transactions FT25128V3BJY .pdf",
         "has_attachment":true,
         "tags":[
@@ -9309,10 +8484,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000173722",
@@ -9342,7 +8514,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000173722",
-        "amount_due":0.0,
         "attachment_name":"فاتورة إضافة عدد 4 إيميلات.pdf",
         "has_attachment":true,
         "tags":[
@@ -9354,10 +8525,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000169499",
@@ -9387,7 +8555,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000169499",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف التأمين الطبي للموظف محمد عباس.pdf",
         "has_attachment":true,
         "tags":[
@@ -9399,10 +8566,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000169009",
@@ -9432,7 +8596,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000169009",
-        "amount_due":0.0,
         "attachment_name":"Transactions FT25118HPSY1 .pdf",
         "has_attachment":true,
         "tags":[
@@ -9444,10 +8607,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000168344",
@@ -9477,7 +8637,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000168344",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف قيمة إيجار مكتب مخصص.pdf",
         "has_attachment":true,
         "tags":[
@@ -9489,10 +8648,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000165937",
@@ -9522,7 +8678,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000165937",
-        "amount_due":0.0,
         "attachment_name":"Transactions FT25107W3GL1 .pdf",
         "has_attachment":true,
         "tags":[
@@ -9534,10 +8689,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000165835",
@@ -9567,7 +8719,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000165835",
-        "amount_due":0.0,
         "attachment_name":"فاتورة مالاكايت.pdf",
         "has_attachment":true,
         "tags":[
@@ -9579,10 +8730,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000165633",
@@ -9612,7 +8760,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000165633",
-        "amount_due":0.0,
         "attachment_name":"Transactions FT25107CB9LG .pdf",
         "has_attachment":true,
         "tags":[
@@ -9624,10 +8771,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000165061",
@@ -9657,7 +8801,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000165061",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف الدفعة الثانية من رسوم تقنية لخدمات البريد الالكتروني.pdf",
         "has_attachment":true,
         "tags":[
@@ -9669,10 +8812,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000164295",
@@ -9702,7 +8842,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000164295",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف ضمن مشروع رفع الوعي.pdf",
         "has_attachment":true,
         "tags":[
@@ -9714,10 +8853,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000164055",
@@ -9747,7 +8883,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000164055",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف لشركة الورود الفاخرة للتجارة.pdf",
         "has_attachment":true,
         "tags":[
@@ -9759,10 +8894,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000163941",
@@ -9792,7 +8924,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000163941",
-        "amount_due":0.0,
         "attachment_name":"فاتورة شركة ابداع الحلول.pdf",
         "has_attachment":true,
         "tags":[
@@ -9804,10 +8935,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000163811",
@@ -9837,7 +8965,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000163811",
-        "amount_due":0.0,
         "attachment_name":"البريد - Finance Takamull - طلب صرف لشركة المساحة البيضاء لحاضنات ومسرعات الأعمال.pdf",
         "has_attachment":true,
         "tags":[
@@ -9849,10 +8976,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000163565",
@@ -9882,7 +9006,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000163565",
-        "amount_due":0.0,
         "attachment_name":"فاتورة التأمين الطبي للموظف احمد فطاني.pdf",
         "has_attachment":true,
         "tags":[
@@ -9894,10 +9017,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000154017",
@@ -9927,7 +9047,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000154017",
-        "amount_due":0.0,
         "attachment_name":"JE-10904.pdf",
         "has_attachment":true,
         "tags":[
@@ -9939,10 +9058,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000136061",
@@ -9972,7 +9088,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000136061",
-        "amount_due":0.0,
         "attachment_name":"INV-000286.pdf",
         "has_attachment":true,
         "tags":[
@@ -9984,10 +9099,7 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     },
     {
         "bill_id":"5975823000000136027",
@@ -10017,7 +9129,6 @@
         "created_by":"Anas Alkhuzaei",
         "last_modified_by":"Anas Alkhuzaei",
         "is_opening_balance":"5975823000000136027",
-        "amount_due":0.0,
         "attachment_name":"INV-000285.pdf",
         "has_attachment":true,
         "tags":[
@@ -10029,9 +9140,6 @@
         "client_viewed_time":"",
         "is_viewed_by_client":false,
         "is_bill_reconciliation_violated":false,
-        "balance_due":0.0,
-        "fcy_tds_balance":0.0,
-        "ap_account_id":"",
-        "ap_account_name":""
+        "balance_due":0.0
     }
 ]
