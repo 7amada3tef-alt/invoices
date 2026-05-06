@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 11198483.13,
+      "total": 11106713.7,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 11080131.72,
+          "total": 10988362.29,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -126,7 +126,7 @@
               "previous_total": []
             },
             {
-              "total": 6088852.77,
+              "total": 3745735.84,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -157,7 +157,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 5361363.44,
+                  "total": 3018246.51,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -210,7 +210,7 @@
               "previous_total": []
             },
             {
-              "total": -405155.76,
+              "total": 1846191.74,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -293,7 +293,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": -2512480.24,
+                  "total": -260780.24,
                   "account_id": "5975823000000100103",
                   "depth": 0,
                   "previous_values": [],
@@ -301,6 +301,19 @@
                   "name": "Ghadan  - شركة التنمية وغدن للتجارة",
                   "previous_total_sub_account": [],
                   "account_code": "121212",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 397.5,
+                  "account_id": "5975823000000091047",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Input VAT",
+                  "previous_total_sub_account": [],
+                  "account_code": "12001",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -371,7 +384,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 14497.05,
+                  "total": 13747.05,
                   "account_id": "5975823000000100109",
                   "depth": 0,
                   "previous_values": [],
@@ -656,17 +669,17 @@
       "previous_total": []
     },
     {
-      "total": 11198483.13,
+      "total": 11106713.7,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 3144583.78,
+          "total": 3117005.35,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 2943365.77,
+              "total": 2915787.34,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
@@ -686,7 +699,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 54549.41,
+                  "total": 26970.98,
                   "account_id": "5975823000000102789",
                   "depth": 0,
                   "previous_values": [],
@@ -792,12 +805,12 @@
           "previous_total": []
         },
         {
-          "total": 8053899.35,
+          "total": 7989708.35,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1661154.37,
+              "total": 1596963.37,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -857,11 +870,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-05-05",
-    "to_date": "2026-05-05",
+    "as_of_date": "2026-05-06",
+    "to_date": "2026-05-06",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "05 May 2026 05:14 AM",
+    "last_accessed_time_formatted": "06 May 2026 05:25 AM",
     "select_columns": [
       {
         "field": "name",
@@ -889,9 +902,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "05 May 2026",
-        "from_date": "2026-05-05",
-        "to_date": "2026-05-05"
+        "date_range_label": "06 May 2026",
+        "from_date": "2026-05-06",
+        "to_date": "2026-05-06"
       }
     ],
     "sort_column": "account",
