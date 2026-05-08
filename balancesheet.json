@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 11137858.97,
+      "total": 11130858.97,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 11019507.56,
+          "total": 11012507.56,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -197,7 +197,7 @@
               "previous_total": []
             },
             {
-              "total": 1734877.6,
+              "total": 1727877.6,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -319,7 +319,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 36886.04,
+                  "total": 29886.04,
                   "account_id": "5975823000000091011",
                   "depth": 0,
                   "previous_values": [],
@@ -656,17 +656,17 @@
       "previous_total": []
     },
     {
-      "total": 11137858.97,
+      "total": 11130858.97,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 3357530.63,
+          "total": 3358630.63,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 3146034.69,
+              "total": 3147134.69,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
@@ -694,6 +694,19 @@
                   "name": "Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
                   "previous_total_sub_account": [],
                   "account_code": "220203",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 1100.0,
+                  "account_id": "5975823000002162115",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Accrued Withholding Tax - ضريبة الاستقطاع المستحقة",
+                  "previous_total_sub_account": [],
+                  "account_code": "220208",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -792,12 +805,12 @@
           "previous_total": []
         },
         {
-          "total": 7780328.34,
+          "total": 7772228.34,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1387583.36,
+              "total": 1379483.36,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -857,11 +870,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-05-07",
-    "to_date": "2026-05-07",
+    "as_of_date": "2026-05-08",
+    "to_date": "2026-05-08",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "07 May 2026 05:27 AM",
+    "last_accessed_time_formatted": "08 May 2026 05:35 AM",
     "select_columns": [
       {
         "field": "name",
@@ -889,9 +902,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "07 May 2026",
-        "from_date": "2026-05-07",
-        "to_date": "2026-05-07"
+        "date_range_label": "08 May 2026",
+        "from_date": "2026-05-08",
+        "to_date": "2026-05-08"
       }
     ],
     "sort_column": "account",
