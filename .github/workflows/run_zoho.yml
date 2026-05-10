@@ -7,10 +7,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # Allow pushing changes
+  contents: write
 
 jobs:
   refresh:
+
     runs-on: ubuntu-latest
 
     steps:
@@ -42,7 +43,6 @@ jobs:
           python df_invoice_lines_itmes.py || true
           python p&l_tags.py || true
 
-
       - name: Debug — List Workspace Files
         run: |
           echo "Workspace path: $GITHUB_WORKSPACE"
@@ -62,7 +62,6 @@ jobs:
           git add df_invoice_lines_itmes.json
           git add profit_loss_with_tags.csv
 
-          
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update Zoho JSON files [CI SKIP]" || true
             git push
