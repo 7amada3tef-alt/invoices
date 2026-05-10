@@ -60,6 +60,7 @@ jobs:
           git add df_invoice_lines_itmes.json
           git add balancesheet.json
           git add df_invoice_lines_itmes.json
+          git add profit_loss_with_tags.csv
 
           
           if ! git diff --cached --quiet; then
