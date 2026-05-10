@@ -42,7 +42,8 @@ tags_response = requests.get(
     headers=headers,
     params={"organization_id": org_id}
 )
-
+tags_data = tags_response.json()
+all_tags  = tags_data.get("tags", [])
 
 tag_options = []
 
