@@ -41,6 +41,7 @@ jobs:
           python code.py || true
           python balance_sheet.py || true
           python df_invoice_lines_itmes.py || true
+          python PL_tags.py || true
 
       - name: Debug — List Workspace Files
         run: |
@@ -59,6 +60,7 @@ jobs:
           git add df_invoice_lines_itmes.json
           git add balancesheet.json
           git add df_invoice_lines_itmes.json
+          git add profit_loss_with_tags.csv
 
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update Zoho JSON files [CI SKIP]" || true
