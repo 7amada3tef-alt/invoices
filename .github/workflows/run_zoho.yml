@@ -1,10 +1,11 @@
 name: Auto Refresh Zoho Data
 
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-   # Run every hour
+    - cron: "0 9 * * *"   # Runs daily at 12:00 PM Saudi Arabia time (UTC+3)
   workflow_dispatch:
+
 
 permissions:
   contents: write
