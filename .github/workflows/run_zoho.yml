@@ -59,12 +59,13 @@ jobs:
           git add chartofaccounts.json
           git add df_invoice_lines_itmes.json
           git add balancesheet.json
-          git add df_invoice_lines_itmes.json
           git add profit_loss_with_tags.csv
-
+          
+          git status
+          
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update Zoho JSON files [CI SKIP]" || true
-            git push
+            git push origin HEAD
             echo "✅ Changes pushed successfully."
           else
             echo "ℹ️ No changes to commit."
