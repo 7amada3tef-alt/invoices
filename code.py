@@ -98,19 +98,21 @@ def fetch_chart_of_accounts(access_token, org_id):
     headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
 
     while has_more and page <= 100:
-        url = f"https://www.zohoapis.com/books/v3/chartofaccounts"
         params = {
             "organization_id": org_id,
             "page": page,
-            "per_page": 200
+            "per_page": 200,
+            "filter_by": "AccountType.All"
         }
-
-        response = requests.get(url, headers=headers, params=params ).json()
+        response = requests.get(
+            "https://www.zohoapis.com/books/v3/chartofaccounts",
+            headers=headers,
+            params=params
+        ).json()
 
         if "chartofaccounts" in response:
             items = response["chartofaccounts"]
             all_items.extend(items)
-
             has_more = response.get("page_context", {}).get("has_more_page", False)
             page += 1
         else:
