@@ -90,7 +90,33 @@ def fetch_journals(access_token, org_id):
         page += 1
 
     return all_items
+    
+def fetch_chart_of_accounts(access_token, org_id):
+    all_items = []
+    page = 1
+    has_more = True
+    headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
 
+    while has_more and page <= 100:
+        url = f"https://www.zohoapis.com/books/v3/chartofaccounts"
+        params = {
+            "organization_id": org_id,
+            "page": page,
+            "per_page": 200
+        }
+
+        response = requests.get(url, headers=headers, params=params ).json()
+
+        if "chartofaccounts" in response:
+            items = response["chartofaccounts"]
+            all_items.extend(items)
+
+            has_more = response.get("page_context", {}).get("has_more_page", False)
+            page += 1
+        else:
+            has_more = False
+
+    return all_items
 
 # ==============================
 # جلب البيانات
@@ -100,7 +126,7 @@ bills       = fetch_all("bills", "bills")
 expenses    = fetch_all("expenses", "expenses")
 creditnotes = fetch_all("creditnotes", "creditnotes")
 journals    = fetch_journals(access_token, org_id)
-chartofaccounts = fetch_all("chartofaccounts", "chartofaccounts")
+chartofaccounts = fetch_chart_of_accounts(access_token, org_id) 
 
 
 # ==============================
