@@ -113,7 +113,7 @@
               "previous_total": []
             },
             {
-              "total": 3875695.25,
+              "total": 4960097.33,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -144,7 +144,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 3145254.37,
+                  "total": 4229656.45,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -174,12 +174,12 @@
               "previous_total": []
             },
             {
-              "total": 5405025.68,
+              "total": 4320623.6,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 5405025.68,
+                  "total": 4320623.6,
                   "account_id": "5975823000000000364",
                   "depth": 0,
                   "previous_values": [],
@@ -874,7 +874,7 @@
     "to_date": "2026-05-11",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "11 May 2026 10:38 AM",
+    "last_accessed_time_formatted": "11 May 2026 03:00 PM",
     "select_columns": [
       {
         "field": "name",
