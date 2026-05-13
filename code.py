@@ -91,7 +91,7 @@ def fetch_journals(access_token, org_id):
 
     return all_items
     
-def fetch_chart_of_accounts(access_token, org_id):
+def fetch_chart_of_accounts(access_token, org_id ):
     all_items = []
     page = 1
     has_more = True
@@ -101,22 +101,21 @@ def fetch_chart_of_accounts(access_token, org_id):
         params = {
             "organization_id": org_id,
             "page": page,
-            "per_page": 200,
+            "per_page": 5000,
             "filter_by": "AccountType.All"
         }
+
         response = requests.get(
             "https://www.zohoapis.com/books/v3/chartofaccounts",
             headers=headers,
             params=params
-        ).json()
+         ).json()
 
-        if "chartofaccounts" in response:
-            items = response["chartofaccounts"]
-            all_items.extend(items)
-            has_more = response.get("page_context", {}).get("has_more_page", False)
-            page += 1
-        else:
-            has_more = False
+        items = response.get("chartofaccounts", [])
+        all_items.extend(items)
+
+        has_more = response.get("page_context", {}).get("has_more_page", False)
+        page += 1
 
     return all_items
 
