@@ -3,22 +3,22 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 10204032.14,
+      "total": 10193032.14,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 10085680.73,
+          "total": 10074680.73,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 106422.32,
+              "total": 105075.34,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 32602.04,
+                  "total": 41255.06,
                   "account_id": "5975823000000099215",
                   "depth": 0,
                   "previous_values": [],
@@ -52,19 +52,6 @@
                   "name": "Anas Lutfi custody - 120102 - عهدة انس لطفي",
                   "previous_total_sub_account": [],
                   "account_code": "120102",
-                  "is_collapsed_view": false,
-                  "previous_total": []
-                },
-                {
-                  "total_sub_account": 0.0,
-                  "total": 10000.0,
-                  "account_id": "5975823000000182429",
-                  "depth": 0,
-                  "previous_values": [],
-                  "is_child_present": false,
-                  "name": "Mohammed Abbas custody - 120104 - عهدة محمد عباس",
-                  "previous_total_sub_account": [],
-                  "account_code": "120104",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -113,7 +100,7 @@
               "previous_total": []
             },
             {
-              "total": 2449479.27,
+              "total": 2440826.25,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -144,7 +131,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 1719038.39,
+                  "total": 1710385.37,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -197,7 +184,7 @@
               "previous_total": []
             },
             {
-              "total": 2887870.25,
+              "total": 2886870.25,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -293,7 +280,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 2949.98,
+                  "total": 3099.98,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -319,7 +306,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 44261.04,
+                  "total": 43111.04,
                   "account_id": "5975823000000091011",
                   "depth": 0,
                   "previous_values": [],
@@ -656,7 +643,7 @@
       "previous_total": []
     },
     {
-      "total": 10204032.14,
+      "total": 10193032.14,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -766,12 +753,12 @@
           "previous_total": []
         },
         {
-          "total": 7854615.87,
+          "total": 7843615.87,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1461870.89,
+              "total": 1450870.89,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -831,11 +818,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-05-18",
-    "to_date": "2026-05-18",
+    "as_of_date": "2026-05-19",
+    "to_date": "2026-05-19",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "18 May 2026 03:24 PM",
+    "last_accessed_time_formatted": "19 May 2026 02:56 PM",
     "select_columns": [
       {
         "field": "name",
@@ -863,9 +850,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "18 May 2026",
-        "from_date": "2026-05-18",
-        "to_date": "2026-05-18"
+        "date_range_label": "19 May 2026",
+        "from_date": "2026-05-19",
+        "to_date": "2026-05-19"
       }
     ],
     "sort_column": "account",
