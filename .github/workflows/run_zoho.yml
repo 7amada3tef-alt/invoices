@@ -56,10 +56,10 @@ jobs:
 
           cd $GITHUB_WORKSPACE
 
-          git add invoices.json bills.json expenses.json creditnotes.json journals.json|| true
+          git add invoices.json bills.json expenses.json creditnotes.json || true
           git add chartofaccounts.json
+          git add journals.json
           git add df_invoice_lines_itmes.json
-          git add journal_lines.json
           git add balancesheet.json
           git add profit_loss_with_tags.csv
           git add account_transactions.json
