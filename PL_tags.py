@@ -154,4 +154,73 @@ for top in pl:
 # ─────────────────────────────────────────────
 df = pd.DataFrame(all_pl_records)
 df.to_csv("profit_loss_with_tags.csv", index=False, encoding="utf-8-sig")
-all_tags  = tags_data.get("tags", [])
+
+
+all_transactions = []
+
+def fetch_chart_of_accounts(access_token, org_id ):
+    all_items = []
+    page = 1
+    has_more = True
+    headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
+
+    while has_more and page <= 100:
+        params = {
+            "organization_id": org_id,
+            "page": page,
+            "per_page": 5000,
+            "filter_by": "AccountType.All"
+        }
+
+        response = requests.get(
+            "https://www.zohoapis.com/books/v3/chartofaccounts",
+            headers=headers,
+            params=params
+         ).json()
+
+        items = response.get("chartofaccounts", [])
+        all_items.extend(items)
+
+        has_more = response.get("page_context", {}).get("has_more_page", False)
+        page += 1
+
+    return all_items
+
+chartofaccounts = fetch_chart_of_accounts(access_token, org_id)
+df_chartofaccounts = pd.DataFrame(chartofaccounts)
+
+account_ids = df_chartofaccounts['account_id']
+
+for acc_id in account_ids:
+    page = 1
+    has_more = True
+
+    while has_more and page <= 100:
+        txns_response = requests.get(
+            "https://www.zohoapis.com/books/v3/chartofaccounts/transactions",
+            headers=headers,
+            params={
+                "organization_id": org_id,
+                "account_id":      acc_id,
+                "date.start":      from_date,
+                "date.end":        to_date,
+                "page":            page,
+                "per_page":        5000
+            }
+         )
+
+        txns_data = txns_response.json()
+        account_txns = txns_data.get("transactions", [])
+
+        for txn in account_txns:
+            txn["account_id"] = acc_id
+            all_transactions.append(txn)
+
+        has_more = txns_data.get("page_context", {}).get("has_more_page", False)
+        page += 1
+
+# ─────────────────────────────────────────────
+# 10. SAVE TRANSACTIONS TO JSON
+# ─────────────────────────────────────────────
+with open("account_transactions.json", "w", encoding="utf-8") as f:
+    json.dump(all_transactions, f, ensure_ascii=False, indent=4)
