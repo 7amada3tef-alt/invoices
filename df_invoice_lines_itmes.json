@@ -1,5 +1,90 @@
 [
     {
+        "line_item_id":"5975823000003920009",
+        "item_id":"5975823000000171001",
+        "item_order":0,
+        "product_type":"service",
+        "name":"خدمات - مبيعات القطاع الثالث",
+        "internal_name":"",
+        "name_sec_lang":"Services - NPO Sector Sales",
+        "description":"المطالبة الأولى من مشروع إدارة وتشغيل حاضنة أثر الطاقة الاجتماعية (بنسبة 40%)",
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "unit":"",
+        "quantity":1.0,
+        "discount_amount":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "bcy_rate":207031.09,
+        "rate":207031.09,
+        "account_id":"5975823000000099427",
+        "account_name":"NPO sales (Third Sector) - مبيعات القطاع الثالث",
+        "header_id":"",
+        "header_name":"",
+        "pricebook_id":"",
+        "tax_id":"5975823000000091248",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "tax_treatment_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "item_total":207031.09,
+        "non_taxable_amount":0.0,
+        "item_custom_fields":[
+
+        ],
+        "pricing_scheme":"unit",
+        "tags":[
+
+        ],
+        "documents":[
+
+        ],
+        "image_document_id":"",
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":31054.66,
+                "tax_percentage":15,
+                "tax_specific_type":"tax"
+            }
+        ],
+        "bill_id":"",
+        "bill_item_id":"",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":"",
+        "project_id":"",
+        "time_entry_ids":[
+
+        ],
+        "expense_id":"",
+        "item_type":"sales_and_purchases",
+        "expense_receipt_name":"",
+        "sales_rate":0.0,
+        "purchase_rate":0.0,
+        "salesorder_item_id":"",
+        "cost_amount":0,
+        "markup_percent":0,
+        "mapped_items":[
+
+        ],
+        "is_modifier_item":false,
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":"",
+            "master_tax_category_code":""
+        },
+        "line_item_category":"line_item",
+        "invoice_id":"5975823000003920008"
+    },
+    {
         "line_item_id":"5975823000003860021",
         "item_id":"5975823000000171019",
         "item_order":1,
