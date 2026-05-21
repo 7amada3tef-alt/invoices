@@ -174,26 +174,6 @@ df_invoice_lines = pd.DataFrame(invoice_lines)
 df_invoice_lines.to_json("df_invoice_lines_itmes.json", orient="records", force_ascii=False, indent=4)
 
 # ---------------------------------
-# journals_lines
-def fetch_journal_details(journal_id, access_token, org_id):
-    url = f"https://www.zohoapis.com/books/v3/journals/{journal_id}"
-    headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
-    params = {"organization_id": org_id}
 
-    response = requests.get(url, headers=headers, params=params).json()
-    journal = response.get("journal", {})
-    return journal.get("line_items", [])
-
-
-lines_data = []
-
-for journal_id in df_journals["journal_id"]:
-    line_items = fetch_journal_details(journal_id, access_token, org_id)
-
-    for line in line_items:
-        line["journal_id"] = journal_id
-        lines_data.append(line)
-df_journal_lines = pd.DataFrame(lines_data)
-df_journal_lines.to_json('journal_lines.json', orient="records", indent=4, force_ascii=False)
 
 
