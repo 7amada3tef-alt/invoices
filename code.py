@@ -198,5 +198,28 @@ for journal_id in df_journals["journal_id"]:
 df_journal_lines = pd.DataFrame(lines_data)
 df_journal_lines.to_json('journal_lines.json', orient="records", indent=4, force_ascii=False)
 
+# ------------------------
+# BILLS LINES
 
+def fetch_bill_line_items(bill_id, access_token, org_id):
+    url = f"https://www.zohoapis.com/books/v3/bills/{bill_id}"
+    headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
+    params = {"organization_id": org_id}
+
+    response = requests.get(url, headers=headers, params=params).json()
+    bill = response.get("bill", {})
+    return bill.get("line_items", [])
+
+
+bill_lines = []
+for bill_id in df_bills["bill_id"]:
+    line_items = fetch_bill_line_items(bill_id, access_token, org_id)
+
+    for line in line_items:
+        line["bill_id"] = bill_id
+        bill_lines.append(line)
+
+bills_lines_items = pd.DataFrame(bill_lines)
+
+bills_lines_items.to_json('bills_lines_items.json', orient="records", indent=4, force_ascii=False)    
 
