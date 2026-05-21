@@ -64,6 +64,7 @@ jobs:
           git add balancesheet.json
           git add profit_loss_with_tags.csv
           git add account_transactions.json
+          git add bills_lines_items.json
           
           git status
           
