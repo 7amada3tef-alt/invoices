@@ -65,31 +65,32 @@ def fetch_all(endpoint, item_key):
 # دالة خاصة للـ Journals
 # ==============================
 def fetch_journals(access_token, org_id):
-    all_items = []
+    all_journals = []
     page = 1
-    headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
-
-    while True:
-        url = f"https://www.zohoapis.com/books/v3/journals"
-        params = {
-            "organization_id": org_id,
-            "page": page,
-            "per_page": 200
-        }
-
-        response = requests.get(url, headers=headers, params=params)
-        if response.status_code != 200:
-            break
-
-        data = response.json()
-        journals = data.get("journal_entries", [])
-        if not journals:
-            break
-
-        all_items.extend(journals)
+    has_more = True
+    
+    while has_more:
+        response = requests.get(
+            "https://www.zohoapis.com/books/v3/journals",
+            headers=headers,
+            params={
+                "organization_id": org_id,
+                "page": page,
+                "per_page": 200,
+                "sort_column": "journal_date",
+                "sort_order": "A"   # مهم جدًا
+            }
+        ).json()
+    
+        journals = response.get("journals", [])
+        all_journals.extend(journals)
+    
+        page_context = response.get("page_context", {})
+        has_more = page_context.get("has_more_page", False)
+    
         page += 1
 
-    return all_items
+    return all_journals
     
 def fetch_chart_of_accounts(access_token, org_id ):
     all_items = []
@@ -151,7 +152,7 @@ df_journals.to_json("journals.json", orient="records", force_ascii=False, indent
 df_chartofaccounts.to_json("chartofaccounts.json", orient="records",force_ascii=False,indent=4)
 
 # --------------
-
+# invoice_lines
 def fetch_invoice_line_items(invoice_id, access_token, org_id):
     url = f"https://www.zohoapis.com/books/v3/invoices/{invoice_id}"
     headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
@@ -171,4 +172,28 @@ for invoice_id in df_invoices["invoice_id"]:
         invoice_lines.append(line)
 df_invoice_lines = pd.DataFrame(invoice_lines)
 df_invoice_lines.to_json("df_invoice_lines_itmes.json", orient="records", force_ascii=False, indent=4)
+
+# ---------------------------------
+# journals_lines
+def fetch_journal_details(journal_id, access_token, org_id):
+    url = f"https://www.zohoapis.com/books/v3/journals/{journal_id}"
+    headers = {"Authorization": f"Zoho-oauthtoken {access_token}"}
+    params = {"organization_id": org_id}
+
+    response = requests.get(url, headers=headers, params=params).json()
+    journal = response.get("journal", {})
+    return journal.get("line_items", [])
+
+
+lines_data = []
+
+for journal_id in df_journals["journal_id"]:
+    line_items = fetch_journal_details(journal_id, access_token, org_id)
+
+    for line in line_items:
+        line["journal_id"] = journal_id
+        lines_data.append(line)
+df_journal_lines = pd.DataFrame(lines_data)
+df_journal_lines.to_json('journal_lines.json', orient="records", indent=4, force_ascii=False)
+
 
