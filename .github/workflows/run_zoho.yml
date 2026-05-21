@@ -59,6 +59,7 @@ jobs:
           git add invoices.json bills.json expenses.json creditnotes.json || true
           git add chartofaccounts.json
           git add journals.json
+          git add journal_lines.json
           git add df_invoice_lines_itmes.json
           git add balancesheet.json
           git add profit_loss_with_tags.csv
