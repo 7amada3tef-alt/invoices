@@ -55432,5 +55432,129 @@
 
         ],
         "journal_id":"5975823000003908010"
+    },
+    {
+        "line_id":"5975823000003954011",
+        "account_id":"5975823000000100547",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Labor office fees - 510203 - رسوم مكتب العمل والمقابل المالي",
+        "description":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1416.67,
+        "bcy_amount":1416.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000003954001"
+    },
+    {
+        "line_id":"5975823000003954012",
+        "account_id":"5975823000000100541",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Iqama renewal - 510202 - تجديد اقامات",
+        "description":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":108.33,
+        "bcy_amount":108.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000003954001"
+    },
+    {
+        "line_id":"5975823000003954013",
+        "account_id":"5975823000000301037",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Prepaid Labor Office Fee - 120607 - رسوم مكتب العمل مدفوعة مقدما",
+        "description":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1416.67,
+        "bcy_amount":1416.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003954001"
+    },
+    {
+        "line_id":"5975823000003954014",
+        "account_id":"5975823000000102705",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Prepaid Iqama Fee - 120606 - رسوم إقامة مدفوعة مقدما",
+        "description":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":108.33,
+        "bcy_amount":108.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003954001"
     }
 ]
