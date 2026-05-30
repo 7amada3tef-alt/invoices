@@ -10277,5 +10277,43 @@
         "last_modified_time":"2026-05-28T12:06:16+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000003959001",
+        "journal_date":"2026-05-30",
+        "entry_number":"JE -000542",
+        "reference_number":"مخصص نهاية الخدمة",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مخصص نهاية الخدمة",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":20000.0,
+        "bcy_total":20000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-05-30T13:21:15+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000003960001",
+        "journal_date":"2026-05-30",
+        "entry_number":"JE -000543",
+        "reference_number":"مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":75000.0,
+        "bcy_total":75000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-05-30T13:31:17+0300",
+        "created_by_id":"",
+        "created_by_name":""
     }
 ]

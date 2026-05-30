@@ -55556,5 +55556,129 @@
 
         ],
         "journal_id":"5975823000003954001"
+    },
+    {
+        "line_id":"5975823000003959009",
+        "account_id":"5975823000000100523",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"End of service benefits - 510105 - مكافاة نهاية الخدمة",
+        "description":"مخصص نهاية الخدمة",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20000.0,
+        "bcy_amount":20000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000003959001"
+    },
+    {
+        "line_id":"5975823000003959010",
+        "account_id":"5975823000000289799",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+        "description":"مخصص نهاية الخدمة",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20000.0,
+        "bcy_amount":20000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003959001"
+    },
+    {
+        "line_id":"5975823000003960009",
+        "account_id":"5975823000000100097",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "description":"مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":75000.0,
+        "bcy_amount":75000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003960001"
+    },
+    {
+        "line_id":"5975823000003960010",
+        "account_id":"5975823000000101867",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Aathar Adm. Expenses - 630120 - مصاريف اثار الادارية",
+        "description":"مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":75000.0,
+        "bcy_amount":75000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000003960001"
     }
 ]

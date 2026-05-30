@@ -15330,6 +15330,27 @@
         "fcy_credit_amount": ""
     },
     {
+        "categorized_transaction_id": "5975823000003960006",
+        "transaction_type": "journal",
+        "transaction_id": "5975823000003960001",
+        "transaction_date": "2026-05-30",
+        "transaction_type_formatted": "Journal",
+        "account_id": "5975823000000100097",
+        "customer_id": "",
+        "payee": "",
+        "description": "مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "entry_number": "JE -000543",
+        "currency_id": "5975823000000091149",
+        "currency_code": "SAR",
+        "debit_or_credit": "credit",
+        "offset_account_name": "",
+        "reference_number": "",
+        "debit_amount": "",
+        "credit_amount": 75000.0,
+        "fcy_debit_amount": "",
+        "fcy_credit_amount": 75000.0
+    },
+    {
         "categorized_transaction_id": "5975823000003873724",
         "transaction_type": "journal",
         "transaction_id": "5975823000003873721",
