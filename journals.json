@@ -10298,6 +10298,25 @@
         "created_by_name":""
     },
     {
+        "journal_id":"5975823000003959027",
+        "journal_date":"2026-05-30",
+        "entry_number":"JE -000544",
+        "reference_number":"اضافة وحذف - مارس 2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اضافة وحذف - مارس 2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":976.0,
+        "bcy_total":976.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-05-30T15:59:44+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
         "journal_id":"5975823000003960001",
         "journal_date":"2026-05-30",
         "entry_number":"JE -000543",

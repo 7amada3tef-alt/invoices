@@ -55620,6 +55620,68 @@
         "journal_id":"5975823000003959001"
     },
     {
+        "line_id":"5975823000003959035",
+        "account_id":"5975823000000100517",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Medical insurance - 510104 - تامين طبي",
+        "description":"اضافة وحذف - مارس 2026",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":976.0,
+        "bcy_amount":976.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000003959027"
+    },
+    {
+        "line_id":"5975823000003959036",
+        "account_id":"5975823000000102681",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Advance medical inurnace - 120602 - تأمين طبي مدفوع مقدم",
+        "description":"اضافة وحذف - مارس 2026",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":976.0,
+        "bcy_amount":976.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003959027"
+    },
+    {
         "line_id":"5975823000003960009",
         "account_id":"5975823000000100097",
         "customer_id":"",

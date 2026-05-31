@@ -294,6 +294,27 @@
         "fcy_credit_amount": ""
     },
     {
+        "categorized_transaction_id": "5975823000003959029",
+        "transaction_type": "journal",
+        "transaction_id": "5975823000003959027",
+        "transaction_date": "2026-05-30",
+        "transaction_type_formatted": "Journal",
+        "account_id": "5975823000000102681",
+        "customer_id": "",
+        "payee": "",
+        "description": "اضافة وحذف - مارس 2026",
+        "entry_number": "JE -000544",
+        "currency_id": "5975823000000091149",
+        "currency_code": "SAR",
+        "debit_or_credit": "debit",
+        "offset_account_name": "",
+        "reference_number": "",
+        "debit_amount": 976.0,
+        "credit_amount": "",
+        "fcy_debit_amount": 976.0,
+        "fcy_credit_amount": ""
+    },
+    {
         "categorized_transaction_id": "5975823000003777003",
         "transaction_type": "journal",
         "transaction_id": "5975823000003777001",
