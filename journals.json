@@ -10334,5 +10334,100 @@
         "last_modified_time":"2026-05-30T13:31:17+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000003959297",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000548",
+        "reference_number":"Safwan Almahdi Labor Office & Iqama - 2125838256",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Safwan Almahdi Labor Office & Iqama - 2125838256",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":762.51,
+        "bcy_total":762.51,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-05-31T22:05:04+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000003960030",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000545",
+        "reference_number":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي - القيمة والمدة المتبقية: ( 9,225.83 ) 1 سنة و 9 شهور",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":439.32,
+        "bcy_total":439.32,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-05-31T20:48:13+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000003960048",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000546",
+        "reference_number":"Mohammed Abbas Labor Office & Iqama - 2298890530",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Mohammed Abbas Labor Office & Iqama - 2298890530",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":762.51,
+        "bcy_total":762.51,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-05-31T21:46:36+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000003960072",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000547",
+        "reference_number":"اطفاء اضافة للتأمين الطبي للموظفين من 01-10-2025 الى 30-06-2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء اضافة للتأمين الطبي للموظفين من 01-10-2025 الى 30-06-2026 - اضافة للتأمين الطبي لأسرة د.محمد عبدالوهاب",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3880.89,
+        "bcy_total":3880.89,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-05-31T21:56:10+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000003960090",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000549",
+        "reference_number":"اطفاء مصروف التأمين الطبي للموظفين من 01-07-2025 الى 30-06-2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف التأمين الطبي للموظفين من 01-07-2025 الى 30-06-2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":16548.25,
+        "bcy_total":16548.25,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-05-31T22:58:45+0300",
+        "created_by_id":"",
+        "created_by_name":""
     }
 ]

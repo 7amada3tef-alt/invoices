@@ -55742,5 +55742,473 @@
             }
         ],
         "journal_id":"5975823000003960001"
+    },
+    {
+        "line_id":"5975823000003959307",
+        "account_id":"5975823000000100547",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Labor office fees - 510203 - رسوم مكتب العمل والمقابل المالي",
+        "description":"Safwan Almahdi Labor Office - 2125838256",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":708.34,
+        "bcy_amount":708.34,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000003959297"
+    },
+    {
+        "line_id":"5975823000003959308",
+        "account_id":"5975823000000301037",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Prepaid Labor Office Fee - 120607 - رسوم مكتب العمل مدفوعة مقدما",
+        "description":"Safwan Almahdi Labor Office - 2125838256",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":708.34,
+        "bcy_amount":708.34,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003959297"
+    },
+    {
+        "line_id":"5975823000003959309",
+        "account_id":"5975823000000100541",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Iqama renewal - 510202 - تجديد اقامات",
+        "description":"Safwan Almahdi Iqama - 2125838256",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":54.17,
+        "bcy_amount":54.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000003959297"
+    },
+    {
+        "line_id":"5975823000003959310",
+        "account_id":"5975823000000102705",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Prepaid Iqama Fee - 120606 - رسوم إقامة مدفوعة مقدما",
+        "description":"Safwan Almahdi Iqama - 2125838256",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":54.17,
+        "bcy_amount":54.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003959297"
+    },
+    {
+        "line_id":"5975823000003960038",
+        "account_id":"5975823000000102847",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Depreciation - Computers - 810007 - اهلاك اجهزة حاسب الي",
+        "description":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":439.32,
+        "bcy_amount":439.32,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000003960030"
+    },
+    {
+        "line_id":"5975823000003960039",
+        "account_id":"5975823000000290193",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Acc Dep - Computers - 111007 - مجمع اهلاك اجهزة حاسب الي",
+        "description":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":439.32,
+        "bcy_amount":439.32,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003960030"
+    },
+    {
+        "line_id":"5975823000003960058",
+        "account_id":"5975823000000101273",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Labor office fees - 610203 - رسوم مكتب العمل والمقابل المالي",
+        "description":"Mohammed Abbas Labor Office - 2298890530",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":708.34,
+        "bcy_amount":708.34,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171233",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000040 - مكتب ادارة المشاريع تكامل"
+            }
+        ],
+        "journal_id":"5975823000003960048"
+    },
+    {
+        "line_id":"5975823000003960059",
+        "account_id":"5975823000000301037",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Prepaid Labor Office Fee - 120607 - رسوم مكتب العمل مدفوعة مقدما",
+        "description":"Mohammed Abbas Labor Office - 2298890530",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":708.34,
+        "bcy_amount":708.34,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003960048"
+    },
+    {
+        "line_id":"5975823000003960060",
+        "account_id":"5975823000000101267",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Iqama renewal - 610202 - تجديد اقامات",
+        "description":"Mohammed Abbas Iqama - 2298890530",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":54.17,
+        "bcy_amount":54.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171233",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000040 - مكتب ادارة المشاريع تكامل"
+            }
+        ],
+        "journal_id":"5975823000003960048"
+    },
+    {
+        "line_id":"5975823000003960061",
+        "account_id":"5975823000000102705",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Prepaid Iqama Fee - 120606 - رسوم إقامة مدفوعة مقدما",
+        "description":"Mohammed Abbas Iqama - 2298890530",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":54.17,
+        "bcy_amount":54.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003960048"
+    },
+    {
+        "line_id":"5975823000003960080",
+        "account_id":"5975823000000100517",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Medical insurance - 510104 - تامين طبي",
+        "description":"اطفاء اضافة للتأمين الطبي للموظفين من 01-10-2025 الى 30-06-2026 - اضافة للتأمين الطبي لأسرة د.محمد عبدالوهاب",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3880.89,
+        "bcy_amount":3880.89,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000003960072"
+    },
+    {
+        "line_id":"5975823000003960081",
+        "account_id":"5975823000000102681",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Advance medical inurnace - 120602 - تأمين طبي مدفوع مقدم",
+        "description":"اطفاء اضافة للتأمين الطبي للموظفين من 01-10-2025 الى 30-06-2026 - اضافة للتأمين الطبي لأسرة د.محمد عبدالوهاب",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3880.89,
+        "bcy_amount":3880.89,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003960072"
+    },
+    {
+        "line_id":"5975823000003960102",
+        "account_id":"5975823000000100517",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Medical insurance - 510104 - تامين طبي",
+        "description":"اطفاء مصروف التأمين الطبي للموظفين من 01-07-2025 الى 30-06-2026",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":13366.58,
+        "bcy_amount":13366.58,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000003960090"
+    },
+    {
+        "line_id":"5975823000003960100",
+        "account_id":"5975823000000101237",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Medical insurance - 610104 - تامين طبي",
+        "description":"اطفاء مصروف التأمين الطبي للموظفين من 01-07-2025 الى 30-06-2026",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3181.67,
+        "bcy_amount":3181.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000003960090"
+    },
+    {
+        "line_id":"5975823000003960101",
+        "account_id":"5975823000000102681",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Advance medical inurnace - 120602 - تأمين طبي مدفوع مقدم",
+        "description":"اطفاء مصروف التأمين الطبي للموظفين من 01-07-2025 الى 30-06-2026",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":16548.25,
+        "bcy_amount":16548.25,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003960090"
     }
 ]
