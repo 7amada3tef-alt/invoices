@@ -2617,7 +2617,7 @@
         "tags":[
 
         ],
-        "last_modified_time":"2025-06-22T21:27:30+0300",
+        "last_modified_time":"2026-06-02T09:57:52+0300",
         "created_by_id":"5975823000000118001",
         "created_by_name":"Anas Alkhuzaei"
     },
@@ -9553,6 +9553,25 @@
 
         ],
         "last_modified_time":"2026-04-30T13:26:19+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000003973001",
+        "journal_date":"2026-03-31",
+        "entry_number":"JE -000550",
+        "reference_number":"اتعاب مراحعة السنة المالية يناير 2025 - مارس 2026 ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اتعاب مراحعة السنة المالية يناير 2025 - مارس 2026 ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":12500.0,
+        "bcy_total":12500.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-02T09:32:42+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
