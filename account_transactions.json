@@ -12453,7 +12453,7 @@
         "fcy_credit_amount": ""
     },
     {
-        "categorized_transaction_id": "5975823000003973749",
+        "categorized_transaction_id": "5975823000003985064",
         "transaction_type": "expense",
         "transaction_id": "5975823000000397284",
         "transaction_date": "2025-08-18",
@@ -12466,7 +12466,7 @@
         "currency_id": "5975823000000091149",
         "currency_code": "SAR",
         "debit_or_credit": "debit",
-        "offset_account_name": "Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "offset_account_name": "Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة",
         "reference_number": "تاسيس المكتب - التلال - عهده ابراهيم باسماعيل",
         "debit_amount": 286.96,
         "credit_amount": "",
@@ -12621,7 +12621,7 @@
         "fcy_credit_amount": ""
     },
     {
-        "categorized_transaction_id": "5975823000003973878",
+        "categorized_transaction_id": "5975823000003985052",
         "transaction_type": "expense",
         "transaction_id": "5975823000000399196",
         "transaction_date": "2025-08-14",
@@ -12634,7 +12634,7 @@
         "currency_id": "5975823000000091149",
         "currency_code": "SAR",
         "debit_or_credit": "debit",
-        "offset_account_name": "Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "offset_account_name": "Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض",
         "reference_number": "تاسيس المكتب - خطوط الانارة- عهده ابراهيم باسماعيل",
         "debit_amount": 165.13,
         "credit_amount": "",
@@ -13020,7 +13020,7 @@
         "fcy_credit_amount": ""
     },
     {
-        "categorized_transaction_id": "5975823000003973890",
+        "categorized_transaction_id": "5975823000003985040",
         "transaction_type": "expense",
         "transaction_id": "5975823000000419021",
         "transaction_date": "2025-08-09",
@@ -13033,7 +13033,7 @@
         "currency_id": "5975823000000091149",
         "currency_code": "SAR",
         "debit_or_credit": "debit",
-        "offset_account_name": "Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "offset_account_name": "Ahmed Baesmaeil custody - 120101 - عهدة احمد باسماعيل",
         "reference_number": "تاسيس المكتب - مؤسسة صرح الخبرة-عهده احمد باسماعيل",
         "debit_amount": 152.25,
         "credit_amount": "",
@@ -13209,7 +13209,7 @@
         "fcy_credit_amount": ""
     },
     {
-        "categorized_transaction_id": "5975823000003973722",
+        "categorized_transaction_id": "5975823000003985028",
         "transaction_type": "expense",
         "transaction_id": "5975823000000397462",
         "transaction_date": "2025-08-05",

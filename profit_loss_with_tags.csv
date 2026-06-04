@@ -2815,9 +2815,9 @@ Overall,Operating Expense,Depreciation - Furniture - 810008 - اهلاك الا�
 8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Expense,Depreciation - Furniture - 810008 - اهلاك الاثاث والمفروشات,810008,0.0
 8026040 - مهارات المستقبل,Operating Expense,Depreciation - Furniture - 810008 - اهلاك الاثاث والمفروشات,810008,0.0
 Untagged,Operating Expense,Depreciation - Furniture - 810008 - اهلاك الاثاث والمفروشات,810008,0.0
-Overall,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,22023.84
+Overall,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,14063.37
 8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,0.0
-8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,22023.84
+8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,12857.21
 8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,0.0
 8000030 - تدريب وتطوير تكامل,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,0.0
 8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,0.0
@@ -2846,7 +2846,7 @@ Overall,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - �
 8026020 - التأهيل للتوظيف,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,0.0
 8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,0.0
 8026040 - مهارات المستقبل,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,0.0
-Untagged,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,0.0
+Untagged,Operating Expense,Depreciation - Lease bulding Improvements - 810009 - اهلاك تحسينات مباني مستأجرة,810009,1206.16
 Overall,Operating Expense,Depreciation - Tools - 810005 - اهلاك عدد وادوات,810005,1.0
 8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Depreciation - Tools - 810005 - اهلاك عدد وادوات,810005,0.0
 8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Depreciation - Tools - 810005 - اهلاك عدد وادوات,810005,1.0
@@ -3295,9 +3295,41 @@ Overall,Operating Expense,Gifts - 721203 - هدايا,721203,2300.0
 8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Expense,Gifts - 721203 - هدايا,721203,0.0
 8026040 - مهارات المستقبل,Operating Expense,Gifts - 721203 - هدايا,721203,0.0
 Untagged,Operating Expense,Gifts - 721203 - هدايا,721203,0.0
-Overall,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,20839.67
+Overall,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,1913.04
+8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,1913.04
+8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8000030 - تدريب وتطوير تكامل,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8000050 - الاتصال المؤسسي تكامل,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8000060 - منصة قياس الأثر,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8023010 - إنشاء مقار إدارة العمل التطوعي لخدمة ضيوف الرحمن,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8023020 - منهجية عمل تعزز البنية المؤسسية للمنظمات غير الربحية,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8023030 - رفع الوعي الفني لدى منظمات القطاع غير الربحي,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8024010 - مشروع تقديم خدمات تأسيس وتفعيل وحدات ومراكز العمل التطوعي,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8024020 - مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8024030 - تمكين الجمعيات المتخصصة العاملة في القطاع غير الربحي,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8024040 - تقديم الخدمات اللوجستية للتدريب في برنامج رائد,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025010 - مشروع العربة,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025020 - مشروع وزارة الرياضة,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025030 - تقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025040 - مصنع الابتكار - اشوكا,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025050 - حصر الاحتياج التدريبي في منظومة الصحة,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025060 - مجموعات عمل التطوع التكافلي,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025070 - سفر الإفطار في الحرم المكي,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025080 - سوق الدار,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025090 - هاكاثون الوعي المعرفي,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025100 - مشروع منظومة عمل إدارة دراسات الحالة,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8026020 - التأهيل للتوظيف,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+8026040 - مهارات المستقبل,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+Untagged,Operating Expense,Headquarter establishment expenses -Jeddah - 630802 - تاسيس مقر القابضة في الجامعة بجدة,630802,0.0
+Overall,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,165610.63
 8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,0.0
-8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,20839.67
+8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,174656.96
 8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,0.0
 8000030 - تدريب وتطوير تكامل,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,0.0
 8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,0.0
@@ -3326,7 +3358,7 @@ Overall,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - �
 8026020 - التأهيل للتوظيف,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,0.0
 8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,0.0
 8026040 - مهارات المستقبل,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,0.0
-Untagged,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,0.0
+Untagged,Operating Expense,Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض,630801,-9046.33
 Overall,Operating Expense,Hospitality - 620501 - ضيافة,620501,5765.56
 8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Hospitality - 620501 - ضيافة,620501,0.0
 8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Hospitality - 620501 - ضيافة,620501,5765.56

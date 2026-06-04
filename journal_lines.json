@@ -13453,11 +13453,11 @@
     },
     {
         "line_id":"5975823000000177113",
-        "account_id":"5975823000000099555",
+        "account_id":"5975823000000101537",
         "customer_id":"",
         "item_order":1,
         "customer_name":"",
-        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "account_name":"Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض",
         "description":"سداد قيمة تقبيل المكتب رقم ٢٩ لمقر الرياض ",
         "debit_or_credit":"debit",
         "tax_exemption_id":"",
@@ -23594,6 +23594,202 @@
 
         ],
         "journal_id":"5975823000000483956"
+    },
+    {
+        "line_id":"5975823000003985082",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"تحسينات مباني مستأجرة - من مصاريف الى اصول \nتاسيس المكتب - سواعد البنيان-عهده ابراهيم باسماعيل\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1114.03,
+        "bcy_amount":1114.03,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003985075"
+    },
+    {
+        "line_id":"5975823000003985098",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"تحسينات مباني مستأجرة - من مصاريف الى اصول \nعازل - تأسيس مكتب الرياض - عهده ابراهيم باسماعيل\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2486.0,
+        "bcy_amount":2486.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003985075"
+    },
+    {
+        "line_id":"5975823000003985124",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"تحسينات مباني مستأجرة - من مصاريف الى اصول \nتاسيس المكتب - علي العنزي - عهده ابراهيم باسماعيل\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1417.39,
+        "bcy_amount":1417.39,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003985075"
+    },
+    {
+        "line_id":"5975823000003985125",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"تحسينات مباني مستأجرة - من مصاريف الى اصول \nتاسيس المكتب - مؤسسة صرح الخبرة-عهده احمد باسماعيل\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1015.0,
+        "bcy_amount":1015.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003985075"
+    },
+    {
+        "line_id":"5975823000003985126",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":5,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"تحسينات مباني مستأجرة - من مصاريف الى اصول \nتاسيس المكتب - خطوط الانارة- عهده ابراهيم باسماعيل\n\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1100.87,
+        "bcy_amount":1100.87,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003985075"
+    },
+    {
+        "line_id":"5975823000003985127",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":6,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"تحسينات مباني مستأجرة - من مصاريف الى اصول \nتاسيس المكتب - التلال - عهده ابراهيم باسماعيل\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1913.04,
+        "bcy_amount":1913.04,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003985075"
+    },
+    {
+        "line_id":"5975823000003985128",
+        "account_id":"5975823000000101537",
+        "customer_id":"",
+        "item_order":7,
+        "customer_name":"",
+        "account_name":"Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض",
+        "description":"تحسينات مباني مستأجرة - من مصاريف الى اصول ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":9046.33,
+        "bcy_amount":9046.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000003985075"
     },
     {
         "line_id":"5975823000000361123",

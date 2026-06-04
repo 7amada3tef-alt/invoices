@@ -2617,7 +2617,7 @@
         "tags":[
 
         ],
-        "last_modified_time":"2026-06-02T09:57:52+0300",
+        "last_modified_time":"2026-06-04T09:26:16+0300",
         "created_by_id":"5975823000000118001",
         "created_by_name":"Anas Alkhuzaei"
     },
@@ -4805,6 +4805,25 @@
         "last_modified_time":"2025-10-03T16:23:40+0300",
         "created_by_id":"5975823000000118001",
         "created_by_name":"Anas Alkhuzaei"
+    },
+    {
+        "journal_id":"5975823000003985075",
+        "journal_date":"2025-08-28",
+        "entry_number":"JE -000551",
+        "reference_number":"تحسينات مباني مستأجرة - من مصاريف الى اصول ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تحسينات مباني مستأجرة - من مصاريف الى اصول ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":9046.33,
+        "bcy_total":9046.33,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-04T10:16:28+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
     },
     {
         "journal_id":"5975823000000361109",
