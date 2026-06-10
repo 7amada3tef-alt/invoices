@@ -10320,18 +10320,18 @@
         "journal_id":"5975823000003959001",
         "journal_date":"2026-05-30",
         "entry_number":"JE -000542",
-        "reference_number":"مخصص نهاية الخدمة",
+        "reference_number":"مخصص نهاية الخدمة ",
         "currency_id":"5975823000000091149",
         "status":"published",
         "notes":"مخصص نهاية الخدمة",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":20000.0,
-        "bcy_total":20000.0,
+        "total":10620.53,
+        "bcy_total":10620.53,
         "tags":[
 
         ],
-        "last_modified_time":"2026-05-30T13:21:15+0300",
+        "last_modified_time":"2026-06-10T14:20:32+0300",
         "created_by_id":"",
         "created_by_name":""
     },
@@ -10467,5 +10467,43 @@
         "last_modified_time":"2026-05-31T22:58:45+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004012521",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000553",
+        "reference_number":"التأمينات الاجتماعية الخاصة بشركة تكامل لشهر مايو 2026م",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"التأمينات الاجتماعية الخاصة بشركة تكامل لشهر مايو 2026م",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":2684.35,
+        "bcy_total":2684.35,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-10T14:16:44+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004012555",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000554",
+        "reference_number":"تقسيم تكاليف رواتب مصر لشهر مايو 2026م",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تقسيم تكاليف رواتب مصر لشهر مايو 2026م",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":53667.81,
+        "bcy_total":53667.81,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-10T14:23:20+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
     }
 ]

@@ -55834,8 +55834,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":20000.0,
-        "bcy_amount":20000.0,
+        "amount":10620.53,
+        "bcy_amount":10620.53,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -55868,8 +55868,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":20000.0,
-        "bcy_amount":20000.0,
+        "amount":10620.53,
+        "bcy_amount":10620.53,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -56468,5 +56468,129 @@
 
         ],
         "journal_id":"5975823000003960090"
+    },
+    {
+        "line_id":"5975823000004012529",
+        "account_id":"5975823000000100511",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"GOSI - 510103 - التأمينات الاجتماعية",
+        "description":"التأمينات الاجتماعية الخاصة بشركة تكامل لشهر مايو 2026م",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2684.35,
+        "bcy_amount":2684.35,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012521"
+    },
+    {
+        "line_id":"5975823000004012530",
+        "account_id":"5975823000000102789",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
+        "description":"التأمينات الاجتماعية الخاصة بشركة تكامل لشهر مايو 2026م",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2684.35,
+        "bcy_amount":2684.35,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004012521"
+    },
+    {
+        "line_id":"5975823000004012563",
+        "account_id":"5975823000000100097",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "description":"تقسيم تكاليف رواتب مصر لشهر مايو 2026م",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":53667.81,
+        "bcy_amount":53667.81,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004012555"
+    },
+    {
+        "line_id":"5975823000004012564",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"تقسيم تكاليف رواتب مصر لشهر مايو 2026م",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":53667.81,
+        "bcy_amount":53667.81,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012555"
     }
 ]
