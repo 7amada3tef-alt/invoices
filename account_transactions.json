@@ -16002,6 +16002,27 @@
         "fcy_credit_amount": 1656.0
     },
     {
+        "categorized_transaction_id": "5975823000004017098",
+        "transaction_type": "journal",
+        "transaction_id": "5975823000004017096",
+        "transaction_date": "2026-06-01",
+        "transaction_type_formatted": "Journal",
+        "account_id": "5975823000000100103",
+        "customer_id": "",
+        "payee": "",
+        "description": "تكاليف موظفي تكامل بغدن ",
+        "entry_number": "JE -000556",
+        "currency_id": "5975823000000091149",
+        "currency_code": "SAR",
+        "debit_or_credit": "debit",
+        "offset_account_name": "",
+        "reference_number": "",
+        "debit_amount": 303977.35,
+        "credit_amount": "",
+        "fcy_debit_amount": 303977.35,
+        "fcy_credit_amount": ""
+    },
+    {
         "categorized_transaction_id": "5975823000003794019",
         "transaction_type": "journal",
         "transaction_id": "5975823000003794017",

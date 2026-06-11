@@ -56592,5 +56592,1591 @@
             }
         ],
         "journal_id":"5975823000004012555"
+    },
+    {
+        "line_id":"5975823000004012647",
+        "account_id":"5975823000000101219",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"payroll - 610101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nعمومي اداري ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":45000.0,
+        "bcy_amount":45000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012648",
+        "account_id":"5975823000000102943",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"payroll - 710101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nتسويق وبيع ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":33725.19,
+        "bcy_amount":33725.19,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171227",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000020 - مصاريف بيعية وتسويقية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012649",
+        "account_id":"5975823000000101219",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"payroll - 610101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nتدريب وتطوير ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171230",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000030 - تدريب وتطوير تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012650",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nرفع الوعي الفني لدى منظمات القطاع غير الربحي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171245",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8023030 - رفع الوعي الفني لدى منظمات القطاع غير الربحي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012651",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":5,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nمشروع تقديم خدمات تأسيس وتفعيل وحدات ومراكز العمل التطوعي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":4326.63,
+        "bcy_amount":4326.63,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171248",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8024010 - مشروع تقديم خدمات تأسيس وتفعيل وحدات ومراكز العمل التطوعي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012652",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":6,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nمشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":4326.63,
+        "bcy_amount":4326.63,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171251",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8024020 - مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012653",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":7,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"تمكين الجمعيات المتخصصة العاملة في القطاع غير الربحي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2500.0,
+        "bcy_amount":2500.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171254",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8024030 - تمكين الجمعيات المتخصصة العاملة في القطاع غير الربحي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012654",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":8,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nتقديم الخدمات اللوجستية للتدريب في برنامج رائد\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":9357.74,
+        "bcy_amount":9357.74,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171257",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8024040 - تقديم الخدمات اللوجستية للتدريب في برنامج رائد"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012655",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":9,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nمشروع العربة\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171260",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025010 - مشروع العربة"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012656",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":10,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل\nمشروع وزارة الرياضة\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171263",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025020 - مشروع وزارة الرياضة"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012657",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":11,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nتقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171266",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025030 - تقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012658",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":12,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nمصنع الابتكار - اشوكة\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171269",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025040 - مصنع الابتكار - اشوكا"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012659",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":13,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nحصر الاحتياج التدريبي في منظومة الصحة\n\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171272",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025050 - حصر الاحتياج التدريبي في منظومة الصحة"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012660",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":14,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nمجموعات عمل التطوع التكافلي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000195003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025060 - مجموعات عمل التطوع التكافلي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012661",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":15,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nإنشاء مقار إدارة العمل التطوعي لخدمة ضيوف الرحمن\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":13855.54,
+        "bcy_amount":13855.54,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000120013",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8023010 - إنشاء مقار إدارة العمل التطوعي لخدمة ضيوف الرحمن"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012662",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":16,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nمنهجية عمل تعزز البنية المؤسسية للمنظمات غير الربحية \n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":27622.5,
+        "bcy_amount":27622.5,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000120009",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8023020 - منهجية عمل تعزز البنية المؤسسية للمنظمات غير الربحية"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012663",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":17,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"منظومة عمل دراسة حالة - مالي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":22200.0,
+        "bcy_amount":22200.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000001792006",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025100 - مشروع منظومة عمل إدارة دراسات الحالة"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012664",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":18,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"خارطة الاستثمار ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":9230.19,
+        "bcy_amount":9230.19,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000001936005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012665",
+        "account_id":"5975823000000101219",
+        "customer_id":"",
+        "item_order":19,
+        "customer_name":"",
+        "account_name":"payroll - 610101 - الرواتب وما في حكمها",
+        "description":"منصة قياس الأثر",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":16208.0,
+        "bcy_amount":16208.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000002162053",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000060 - منصة قياس الأثر"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012666",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":20,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"مشروع تقديم خدمات استشارية لأكاديمية الفوزان",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000002162060",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012667",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":21,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل - مشروع حاضنة الكهرباء",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10830.19,
+        "bcy_amount":10830.19,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003655023",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026030 - حاضنة أثر الطاقة الاجتماعية"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012668",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":22,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \nمشروع تأسيس وحدة الاستثمار الاجتماعي بالجمعيات",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":8010.19,
+        "bcy_amount":8010.19,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000002835005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012669",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":23,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل - التأهيل للتوظيف ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":24670.0,
+        "bcy_amount":24670.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004017206",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":24,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل - ممارسة الشباب لمهارات المستقبل",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20146.72,
+        "bcy_amount":20146.72,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003834042",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026040 - مهارات المستقبل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012670",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":25,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"ساعات عمل \n",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":252009.51,
+        "bcy_amount":252009.51,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012671",
+        "account_id":"5975823000000101699",
+        "customer_id":"",
+        "item_order":26,
+        "customer_name":"",
+        "account_name":"Consultation fees - 620108 - اتعاب استشارات",
+        "description":"اتعاب استشارات \nتدريب وتطوير تكامل\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":7020.5,
+        "bcy_amount":7020.5,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171230",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000030 - تدريب وتطوير تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012672",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":27,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات \nرفع الوعي الفني لدى منظمات القطاع غير الربحي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171245",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8023030 - رفع الوعي الفني لدى منظمات القطاع غير الربحي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012673",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":28,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات\nمشروع تقديم خدمات تأسيس وتفعيل وحدات ومراكز العمل التطوعي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012674",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":29,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات\nمشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171251",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8024020 - مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012675",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":30,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات\nتمكين الجمعيات المتخصصة العاملة في القطاع غير الربحي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":495.0,
+        "bcy_amount":495.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171254",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8024030 - تمكين الجمعيات المتخصصة العاملة في القطاع غير الربحي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012676",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":31,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات\nتقديم الخدمات اللوجستية للتدريب في برنامج رائد",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":495.0,
+        "bcy_amount":495.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171257",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8024040 - تقديم الخدمات اللوجستية للتدريب في برنامج رائد"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012677",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":32,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات\nتقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171266",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025030 - تقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012678",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":33,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات\nمصنع الابتكار - اشوكة\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171269",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025040 - مصنع الابتكار - اشوكا"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012679",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":34,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات\nحصر الاحتياج التدريبي في منظومة الصحة\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171272",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025050 - حصر الاحتياج التدريبي في منظومة الصحة"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012680",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":35,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات\nمجموعات عمل التطوع التكافلي\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000195003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025060 - مجموعات عمل التطوع التكافلي"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012681",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":36,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات \nإنشاء مقار إدارة العمل التطوعي لخدمة ضيوف الرحمن\n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":495.0,
+        "bcy_amount":495.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000120013",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8023010 - إنشاء مقار إدارة العمل التطوعي لخدمة ضيوف الرحمن"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012682",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":37,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات \nمنهجية عمل تعزز البنية المؤسسية للمنظمات غير الربحية \n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":495.0,
+        "bcy_amount":495.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000120009",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8023020 - منهجية عمل تعزز البنية المؤسسية للمنظمات غير الربحية"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012683",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":38,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"دراسة حالة النظام المالي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":495.0,
+        "bcy_amount":495.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000001792006",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025100 - مشروع منظومة عمل إدارة دراسات الحالة"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012684",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":39,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2994.75,
+        "bcy_amount":2994.75,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000001936005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012685",
+        "account_id":"5975823000000101699",
+        "customer_id":"",
+        "item_order":40,
+        "customer_name":"",
+        "account_name":"Consultation fees - 620108 - اتعاب استشارات",
+        "description":"اتعاب استشارات - منصة قياس الاثر ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":247.5,
+        "bcy_amount":247.5,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000002162053",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000060 - منصة قياس الأثر"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012686",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":41,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات - حاضنة الكهرباء ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":4995.0,
+        "bcy_amount":4995.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003655023",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026030 - حاضنة أثر الطاقة الاجتماعية"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012687",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":42,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات - مشروع تأسيس وحدة الاستثمار الاجتماعي بالجمعيات",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2747.25,
+        "bcy_amount":2747.25,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000002835005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012688",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":43,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات - التأهيل للتوظيف ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":495.0,
+        "bcy_amount":495.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004012689",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":44,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات \nتسوية مراكز التكلفة",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":21470.18,
+        "bcy_amount":21470.18,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004017207",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":45,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"اتعاب استشارات \nمهارات المستقبل \n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":495.01,
+        "bcy_amount":495.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003834042",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026040 - مهارات المستقبل"
+            }
+        ],
+        "journal_id":"5975823000004012577"
+    },
+    {
+        "line_id":"5975823000004017101",
+        "account_id":"5975823000000100103",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Ghadan  - شركة التنمية وغدن للتجارة",
+        "description":"تكاليف موظفي تكامل بغدن ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":303977.35,
+        "bcy_amount":303977.35,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004017096"
+    },
+    {
+        "line_id":"5975823000004017102",
+        "account_id":"5975823000000103165",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank adjustment account  - 120200 - حساب تسوية البنك",
+        "description":"تكاليف موظفي تكامل بغدن ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":303977.35,
+        "bcy_amount":303977.35,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004017096"
     }
 ]

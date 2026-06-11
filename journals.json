@@ -10505,5 +10505,43 @@
         "last_modified_time":"2026-06-10T14:23:20+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004012577",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000555",
+        "reference_number":"ساعات عمل - مايو 2026    ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"ساعات عمل - مايو 2026    ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":273479.69,
+        "bcy_total":273479.69,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-11T13:16:57+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004017096",
+        "journal_date":"2026-06-01",
+        "entry_number":"JE -000556",
+        "reference_number":"تكاليف موظفي تكامل بغدن ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تكاليف موظفي تكامل بغدن ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":303977.35,
+        "bcy_total":303977.35,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-11T12:47:14+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
     }
 ]
