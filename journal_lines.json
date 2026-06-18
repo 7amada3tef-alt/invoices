@@ -25662,6 +25662,158 @@
         "journal_id":"5975823000002376001"
     },
     {
+        "line_id":"5975823000004056032",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"تحسينات مباني مستأجرة 1",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":25000.0,
+        "bcy_amount":25000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004056025"
+    },
+    {
+        "line_id":"5975823000004056033",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"تحسينات مباني مستأجرة 2",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":25000.0,
+        "bcy_amount":25000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004056025"
+    },
+    {
+        "line_id":"5975823000004056034",
+        "account_id":"5975823000000101537",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض",
+        "description":"تحسينات مباني مستأجرة 1+2",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":50000.0,
+        "bcy_amount":50000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004056025"
+    },
+    {
+        "line_id":"5975823000004056198",
+        "account_id":"5975823000000101537",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Headquarter establishment expenses -Riyad - 630801 - تاسيس مكتب الرياض",
+        "description":"سداد قيمة تقبيل المكتب رقم ٢٩ لمقر الرياض ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":50000.0,
+        "bcy_amount":50000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004056191"
+    },
+    {
+        "line_id":"5975823000004056199",
+        "account_id":"5975823000000099555",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Lease bulding improvements - 110109 - تحسينات مباني مستأجرة",
+        "description":"سداد قيمة تقبيل المكتب رقم ٢٩ لمقر الرياض ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":50000.0,
+        "bcy_amount":50000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004056191"
+    },
+    {
         "line_id":"5975823000000372140",
         "account_id":"5975823000000101405",
         "customer_id":"",

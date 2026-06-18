@@ -5092,6 +5092,44 @@
         "created_by_name":"Anas Alkhuzaei"
     },
     {
+        "journal_id":"5975823000004056025",
+        "journal_date":"2025-08-31",
+        "entry_number":"JE -000557",
+        "reference_number":"تحسينات مباني مستأجرة 1+2",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تحسينات مباني مستأجرة 1+2",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":50000.0,
+        "bcy_total":50000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-18T13:59:12+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004056191",
+        "journal_date":"2025-08-31",
+        "entry_number":"JE -000558",
+        "reference_number":"سداد قيمة تقبيل المكتب رقم ٢٩ لمقر الرياض ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"سداد قيمة تقبيل المكتب رقم ٢٩ لمقر الرياض ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":50000.0,
+        "bcy_total":50000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-18T14:09:18+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000000372124",
         "journal_date":"2025-09-01",
         "entry_number":"JE -000247",
