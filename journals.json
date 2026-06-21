@@ -10581,5 +10581,81 @@
         "last_modified_time":"2026-06-11T12:47:14+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004078370",
+        "journal_date":"2026-06-10",
+        "entry_number":"JE -000560",
+        "reference_number":"قفالات فطاني لشهر مايو ٢٥ - ٢٠٢٦",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"قفالات فطاني لشهر مايو ٢٥ - ٢٠٢٦",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":9577.39,
+        "bcy_total":9577.39,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-21T13:17:03+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004078574",
+        "journal_date":"2026-06-10",
+        "entry_number":"JE -000561",
+        "reference_number":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":29655.33,
+        "bcy_total":29655.33,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-21T13:31:52+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004078643",
+        "journal_date":"2026-06-11",
+        "entry_number":"JE -000562",
+        "reference_number":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":8597.66,
+        "bcy_total":8597.66,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-21T13:41:16+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004078212",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000559",
+        "reference_number":"اطفاء مصروف الابجار من 15-11-2026 الى 14-05-2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف الابجار من 15-11-2026 الى 14-05-2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":10867.0,
+        "bcy_total":10867.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-21T12:32:51+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
     }
 ]

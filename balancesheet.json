@@ -3,17 +3,17 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 11475127.55,
+      "total": 11304312.75,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 11202696.84,
+          "total": 11031882.04,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 96427.12,
+              "total": 103027.14,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -31,7 +31,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 8765.54,
+                  "total": 15365.56,
                   "account_id": "5975823000000100011",
                   "depth": 0,
                   "previous_values": [],
@@ -100,12 +100,12 @@
               "previous_total": []
             },
             {
-              "total": 5531511.11,
+              "total": 5319819.68,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 1338796.67,
+                  "total": 1229011.62,
                   "account_id": "5975823000000101937",
                   "depth": 0,
                   "previous_values": [],
@@ -131,7 +131,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 4160869.23,
+                  "total": 4059962.85,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -144,7 +144,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 31761.01,
+                  "total": 30761.01,
                   "account_id": "5975823000000101941",
                   "depth": 0,
                   "previous_values": [],
@@ -184,7 +184,7 @@
               "previous_total": []
             },
             {
-              "total": 3036599.26,
+              "total": 3070875.87,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -280,7 +280,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 5599.28,
+                  "total": 18075.89,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -306,7 +306,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 51236.04,
+                  "total": 73036.04,
                   "account_id": "5975823000000091011",
                   "depth": 0,
                   "previous_values": [],
@@ -643,17 +643,17 @@
       "previous_total": []
     },
     {
-      "total": 11475127.55,
+      "total": 11304312.75,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 2615909.81,
+          "total": 2586254.48,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 2393793.34,
+              "total": 2364138.01,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
@@ -670,19 +670,6 @@
                   "is_collapsed_view": false,
                   "previous_total": [],
                   "account_constant": ""
-                },
-                {
-                  "total_sub_account": 0.0,
-                  "total": 29655.33,
-                  "account_id": "5975823000000102789",
-                  "depth": 0,
-                  "previous_values": [],
-                  "is_child_present": false,
-                  "name": "Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
-                  "previous_total_sub_account": [],
-                  "account_code": "220203",
-                  "is_collapsed_view": false,
-                  "previous_total": []
                 },
                 {
                   "total_sub_account": 0.0,
@@ -766,12 +753,12 @@
           "previous_total": []
         },
         {
-          "total": 8859217.74,
+          "total": 8718058.27,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 2315744.26,
+              "total": 2174584.79,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -831,11 +818,11 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-06-20",
-    "to_date": "2026-06-20",
+    "as_of_date": "2026-06-21",
+    "to_date": "2026-06-21",
     "previous_date_range": [],
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "20 Jun 2026 02:18 PM",
+    "last_accessed_time_formatted": "21 Jun 2026 02:46 PM",
     "select_columns": [
       {
         "field": "name",
@@ -863,9 +850,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "20 Jun 2026",
-        "from_date": "2026-06-20",
-        "to_date": "2026-06-20"
+        "date_range_label": "21 Jun 2026",
+        "from_date": "2026-06-21",
+        "to_date": "2026-06-21"
       }
     ],
     "sort_column": "account",
