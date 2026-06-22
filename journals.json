@@ -10640,6 +10640,44 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004086083",
+        "journal_date":"2026-06-16",
+        "entry_number":"JE -000563",
+        "reference_number":"مخالصة صفوان مهدي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مخالصة صفوان مهدي \n6\/12\/2018\n31\/5\/2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":65373.0,
+        "bcy_total":65373.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-22T10:19:27+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004086110",
+        "journal_date":"2026-06-16",
+        "entry_number":"JE -000564",
+        "reference_number":"طلب تعميد مشتريات ورشة مهارات المستقبل جدة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"طلب تعميد مشتريات ورشة مهارات المستقبل جدة - محول للسعداوي ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":564.0,
+        "bcy_total":564.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-22T10:21:48+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004078212",
         "journal_date":"2026-06-30",
         "entry_number":"JE -000559",

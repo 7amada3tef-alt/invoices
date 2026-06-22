@@ -58500,6 +58500,124 @@
         "journal_id":"5975823000004078643"
     },
     {
+        "line_id":"5975823000004086091",
+        "account_id":"5975823000000289799",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+        "description":"مكافاة نهاية الخدمة - مخالصة صفوان مهدي",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":65373.0,
+        "bcy_amount":65373.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004086083"
+    },
+    {
+        "line_id":"5975823000004086092",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "description":" مخالصة صفوان مهدي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":65373.0,
+        "bcy_amount":65373.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004086083"
+    },
+    {
+        "line_id":"5975823000004086116",
+        "account_id":"5975823000000188325",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Mohammed Alsadawi custody - 120105 - عهدة محمد السعداوي",
+        "description":"طلب تعميد مشتريات ورشة مهارات المستقبل جدة - محول للسعداوي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":564.0,
+        "bcy_amount":564.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004086110"
+    },
+    {
+        "line_id":"5975823000004086117",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "description":"طلب تعميد مشتريات ورشة مهارات المستقبل جدة - محول للسعداوي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":564.0,
+        "bcy_amount":564.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004086110"
+    },
+    {
         "line_id":"5975823000004078219",
         "account_id":"5975823000000101369",
         "customer_id":"",
