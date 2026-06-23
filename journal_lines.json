@@ -32668,8 +32668,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":2520800.0,
-        "bcy_amount":2520800.0,
+        "amount":1030911.9,
+        "bcy_amount":1030911.9,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -32684,10 +32684,78 @@
         "journal_id":"5975823000002376013"
     },
     {
+        "line_id":"5975823000004086504",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"مصروف استحقاق مشروع التطوع التكافلي مع غدن\nالخدمات اللوجستية",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":232141.89,
+        "bcy_amount":232141.89,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171251",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8024020 - مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي"
+            }
+        ],
+        "journal_id":"5975823000002376013"
+    },
+    {
+        "line_id":"5975823000004086484",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"مصروف استحقاق مشروع التطوع التكافلي مع غدن\nرفع الوعي الفني ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1257746.21,
+        "bcy_amount":1257746.21,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171245",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8023030 - رفع الوعي الفني لدى منظمات القطاع غير الربحي"
+            }
+        ],
+        "journal_id":"5975823000002376013"
+    },
+    {
         "line_id":"5975823000002376019",
         "account_id":"5975823000000102783",
         "customer_id":"",
-        "item_order":2,
+        "item_order":4,
         "customer_name":"",
         "account_name":"Accrued professional fees - 220202 - مصروفات مستحقة اتعاب مهنية",
         "description":"مصروف استحقاق مشروع التطوع التكافلي مع غدن",
