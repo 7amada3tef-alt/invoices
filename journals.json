@@ -10678,6 +10678,25 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004113093",
+        "journal_date":"2026-06-22",
+        "entry_number":"JE -000565",
+        "reference_number":"عهدة للسعداوي تخص طباعة متطلبات التربية في كل منطقة - مهارات المستقبل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"عهدة للسعداوي تخص طباعة متطلبات التربية في كل منطقة - مهارات المستقبل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":2000.0,
+        "bcy_total":2000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-25T12:11:37+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004078212",
         "journal_date":"2026-06-30",
         "entry_number":"JE -000559",

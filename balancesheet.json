@@ -3,17 +3,17 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 11083796.02,
+      "total": 10304458.21,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 10811365.31,
+          "total": 10032027.5,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 103027.14,
+              "total": 103527.14,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -57,7 +57,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 5033.81,
+                  "total": 5533.81,
                   "account_id": "5975823000000188325",
                   "depth": 0,
                   "previous_values": [],
@@ -100,7 +100,7 @@
               "previous_total": []
             },
             {
-              "total": 5578789.75,
+              "total": 4607335.94,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -131,7 +131,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 4318932.92,
+                  "total": 3347479.11,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -184,7 +184,7 @@
               "previous_total": []
             },
             {
-              "total": 3146049.02,
+              "total": 3337665.02,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -280,7 +280,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 51309.04,
+                  "total": 177725.04,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -345,7 +345,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": -0.02,
+                  "total": 65199.98,
                   "account_id": "5975823000000102675",
                   "depth": 0,
                   "previous_values": [],
@@ -643,7 +643,7 @@
       "previous_total": []
     },
     {
-      "total": 11083796.02,
+      "total": 10304458.21,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -753,12 +753,12 @@
           "previous_total": []
         },
         {
-          "total": 8553014.54,
+          "total": 7773676.73,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 2009541.06,
+              "total": 1230203.25,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -818,11 +818,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-06-24",
-    "to_date": "2026-06-24",
+    "as_of_date": "2026-06-25",
+    "to_date": "2026-06-25",
     "previous_date_range": [],
+    "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "24 Jun 2026 02:49 PM",
+    "last_accessed_time_formatted": "25 Jun 2026 02:42 PM",
     "select_columns": [
       {
         "field": "name",
@@ -844,15 +845,16 @@
       }
     ],
     "date_range_label": "",
+    "is_period_basis": "false",
     "fifo_scheduler_status": {
       "is_queue_entry_present": false,
       "is_job_status_completed": true
     },
     "date_range_list": [
       {
-        "date_range_label": "24 Jun 2026",
-        "from_date": "2026-06-24",
-        "to_date": "2026-06-24"
+        "date_range_label": "25 Jun 2026",
+        "from_date": "2026-06-25",
+        "to_date": "2026-06-25"
       }
     ],
     "sort_column": "account",

@@ -58686,6 +58686,62 @@
         "journal_id":"5975823000004086110"
     },
     {
+        "line_id":"5975823000004113099",
+        "account_id":"5975823000000188325",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Mohammed Alsadawi custody - 120105 - عهدة محمد السعداوي",
+        "description":"عهدة للسعداوي تخص طباعة متطلبات التربية في كل منطقة - مهارات المستقبل ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2000.0,
+        "bcy_amount":2000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004113093"
+    },
+    {
+        "line_id":"5975823000004113100",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "description":"عهدة للسعداوي تخص طباعة متطلبات التربية في كل منطقة - مهارات المستقبل ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2000.0,
+        "bcy_amount":2000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004113093"
+    },
+    {
         "line_id":"5975823000004078219",
         "account_id":"5975823000000101369",
         "customer_id":"",
