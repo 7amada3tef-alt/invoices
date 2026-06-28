@@ -10697,6 +10697,44 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004127021",
+        "journal_date":"2026-06-25",
+        "entry_number":"Payroll-8",
+        "reference_number":"",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Regular Payroll Journal for Pay Period (01 Jun 2026 - 30 Jun 2026)",
+        "journal_type":"both",
+        "entity_type":"payroll_journal",
+        "total":254757.24,
+        "bcy_total":254757.24,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-28T08:53:08+0300",
+        "created_by_id":"5975823000000658095",
+        "created_by_name":"Ahmed Alkhanbashi"
+    },
+    {
+        "journal_id":"5975823000004137002",
+        "journal_date":"2026-06-28",
+        "entry_number":"JE -000566",
+        "reference_number":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":1525.0,
+        "bcy_total":1525.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-28T12:06:47+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
         "journal_id":"5975823000004078212",
         "journal_date":"2026-06-30",
         "entry_number":"JE -000559",

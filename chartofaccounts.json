@@ -1926,11 +1926,11 @@
     },
     {
         "account_id":"5975823000000101921",
-        "account_name":"Bank Al-Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
         "account_code":"120201",
         "account_type":"bank",
         "description":"Bank Al-Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
-        "placeholder":"",
+        "placeholder":"gl_al_jazera_main_120201",
         "is_register_supported_account":false,
         "is_user_created":true,
         "is_system_account":false,
@@ -1947,7 +1947,7 @@
         ],
         "created_time":"2025-01-27T14:58:10+0300",
         "is_standalone_account":false,
-        "last_modified_time":"2025-08-07T21:41:03+0300"
+        "last_modified_time":"2026-06-28T12:40:23+0300"
     },
     {
         "account_id":"5975823000000101925",
