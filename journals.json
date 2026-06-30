@@ -10752,5 +10752,81 @@
         "last_modified_time":"2026-06-21T12:32:51+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004137037",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000567",
+        "reference_number":"مخصص نهاية الخدمة",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مخصص نهاية الخدمة",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":20000.0,
+        "bcy_total":20000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T13:21:46+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004148442",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000568",
+        "reference_number":"مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":75000.0,
+        "bcy_total":75000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T13:31:54+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004152104",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000569",
+        "reference_number":"Mansor Aljapri Labor Office & Iqama 6M - 2142715958",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Mansor Aljapri Labor Office & Iqama 6M - 2142715958",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":2413.0,
+        "bcy_total":2413.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T14:13:19+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004152133",
+        "journal_date":"2026-07-31",
+        "entry_number":"JE -000570",
+        "reference_number":"Mansor Aljapri Labor Office & Iqama 6M - 2142715958",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Mansor Aljapri Labor Office & Iqama 6M - 2142715958",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":201.08,
+        "bcy_total":201.08,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T14:14:12+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
     }
 ]
