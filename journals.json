@@ -10773,6 +10773,25 @@
         "created_by_name":""
     },
     {
+        "journal_id":"5975823000004137055",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000571",
+        "reference_number":"اضافة وحذف - مارس 2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اضافة وحذف - مارس 2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":976.0,
+        "bcy_total":976.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T16:01:45+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
         "journal_id":"5975823000004148442",
         "journal_date":"2026-06-30",
         "entry_number":"JE -000568",
@@ -10809,6 +10828,120 @@
         "last_modified_time":"2026-06-30T14:13:19+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004152382",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000577",
+        "reference_number":"سداد ضريبة فاتورة مبيعات تم ترحيلها من 2024 واضيفت مؤخرا في اقرار مايو 2025 ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"سداد ضريبة فاتورة مبيعات تم ترحيلها من 2024 واضيفت مؤخرا في اقرار مايو 2025 ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":290776.05,
+        "bcy_total":290776.05,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-01T08:48:00+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004156001",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000572",
+        "reference_number":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي - القيمة والمدة المتبقية: ( 9,225.83 ) 1 سنة و 9 شهور",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":439.32,
+        "bcy_total":439.32,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T20:49:02+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004156019",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000575",
+        "reference_number":"Safwan Almahdi Labor Office & Iqama - 2125838256",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Safwan Almahdi Labor Office & Iqama - 2125838256",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":762.51,
+        "bcy_total":762.51,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T22:05:35+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004156043",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000576",
+        "reference_number":"اطفاء مصروف التأمين الطبي للموظفين من 01-07-2025 الى 30-06-2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف التأمين الطبي للموظفين من 01-07-2025 الى 30-06-2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":16548.25,
+        "bcy_total":16548.25,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T22:59:15+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004157001",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000573",
+        "reference_number":"Mohammed Abbas Labor Office & Iqama - 2298890530",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Mohammed Abbas Labor Office & Iqama - 2298890530",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":762.51,
+        "bcy_total":762.51,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T21:47:06+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004158001",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000574",
+        "reference_number":"اطفاء اضافة للتأمين الطبي للموظفين من 01-10-2025 الى 30-06-2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء اضافة للتأمين الطبي للموظفين من 01-10-2025 الى 30-06-2026 - اضافة للتأمين الطبي لأسرة د.محمد عبدالوهاب",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3880.89,
+        "bcy_total":3880.89,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-06-30T21:56:41+0300",
+        "created_by_id":"",
+        "created_by_name":""
     },
     {
         "journal_id":"5975823000004152133",
