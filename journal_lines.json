@@ -58400,6 +58400,68 @@
         "journal_id":"5975823000004017096"
     },
     {
+        "line_id":"5975823000004165107",
+        "account_id":"5975823000000103327",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Othe revenue - إيرادات أخرى",
+        "description":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004165100"
+    },
+    {
+        "line_id":"5975823000004165108",
+        "account_id":"5975823000000101941",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+        "description":"حوالة واردة من الموارد البشرية ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004165100"
+    },
+    {
         "line_id":"5975823000004078376",
         "account_id":"5975823000000100011",
         "customer_id":"",
@@ -58910,6 +58972,316 @@
         "journal_id":"5975823000004127021"
     },
     {
+        "line_id":"5975823000004165024",
+        "account_id":"5975823000000103327",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Othe revenue - إيرادات أخرى",
+        "description":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004165016"
+    },
+    {
+        "line_id":"5975823000004165025",
+        "account_id":"5975823000000101941",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+        "description":"حوالة واردة من الموارد البشرية ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004165016"
+    },
+    {
+        "line_id":"5975823000004165044",
+        "account_id":"5975823000000103327",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Othe revenue - إيرادات أخرى",
+        "description":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004165036"
+    },
+    {
+        "line_id":"5975823000004165045",
+        "account_id":"5975823000000101941",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+        "description":"حوالة واردة من الموارد البشرية ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004165036"
+    },
+    {
+        "line_id":"5975823000004165062",
+        "account_id":"5975823000000103327",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Othe revenue - إيرادات أخرى",
+        "description":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004165055"
+    },
+    {
+        "line_id":"5975823000004165063",
+        "account_id":"5975823000000101941",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+        "description":"حوالة واردة من الموارد البشرية ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004165055"
+    },
+    {
+        "line_id":"5975823000004165077",
+        "account_id":"5975823000000103327",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Othe revenue - إيرادات أخرى",
+        "description":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004165070"
+    },
+    {
+        "line_id":"5975823000004165078",
+        "account_id":"5975823000000101941",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+        "description":"حوالة واردة من الموارد البشرية ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004165070"
+    },
+    {
+        "line_id":"5975823000004165092",
+        "account_id":"5975823000000103327",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Othe revenue - إيرادات أخرى",
+        "description":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004165085"
+    },
+    {
+        "line_id":"5975823000004165093",
+        "account_id":"5975823000000101941",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+        "description":"حوالة واردة من الموارد البشرية ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004165085"
+    },
+    {
         "line_id":"5975823000004137012",
         "account_id":"5975823000000100547",
         "customer_id":"",
@@ -59114,8 +59486,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":20000.0,
-        "bcy_amount":20000.0,
+        "amount":10277.93,
+        "bcy_amount":10277.93,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -59148,8 +59520,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":20000.0,
-        "bcy_amount":20000.0,
+        "amount":10277.93,
+        "bcy_amount":10277.93,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -59700,8 +60072,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":3181.67,
-        "bcy_amount":3181.67,
+        "amount":3180.65,
+        "bcy_amount":3180.65,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -59734,8 +60106,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":16548.25,
-        "bcy_amount":16548.25,
+        "amount":16547.23,
+        "bcy_amount":16547.23,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -59928,6 +60300,68 @@
 
         ],
         "journal_id":"5975823000004158001"
+    },
+    {
+        "line_id":"5975823000004165188",
+        "account_id":"5975823000000100097",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "description":"تقسيم تكاليف رواتب مصر لشهر يونيو2026م",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":53667.81,
+        "bcy_amount":53667.81,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004165180"
+    },
+    {
+        "line_id":"5975823000004165189",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"تقسيم تكاليف رواتب مصر لشهر يونيو2026م",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":53667.81,
+        "bcy_amount":53667.81,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004165180"
     },
     {
         "line_id":"5975823000004152142",

@@ -10583,6 +10583,25 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004165100",
+        "journal_date":"2026-06-03",
+        "entry_number":"JE -000583",
+        "reference_number":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3000.0,
+        "bcy_total":3000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-02T10:37:54+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004078370",
         "journal_date":"2026-06-10",
         "entry_number":"JE -000560",
@@ -10716,6 +10735,101 @@
         "created_by_name":"Ahmed Alkhanbashi"
     },
     {
+        "journal_id":"5975823000004165016",
+        "journal_date":"2026-06-25",
+        "entry_number":"JE -000578",
+        "reference_number":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3000.0,
+        "bcy_total":3000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-02T10:36:56+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004165036",
+        "journal_date":"2026-06-25",
+        "entry_number":"JE -000579",
+        "reference_number":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3000.0,
+        "bcy_total":3000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-02T10:37:10+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004165055",
+        "journal_date":"2026-06-25",
+        "entry_number":"JE -000580",
+        "reference_number":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3000.0,
+        "bcy_total":3000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-02T10:37:20+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004165070",
+        "journal_date":"2026-06-25",
+        "entry_number":"JE -000581",
+        "reference_number":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3000.0,
+        "bcy_total":3000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-02T10:37:25+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004165085",
+        "journal_date":"2026-06-25",
+        "entry_number":"JE -000582",
+        "reference_number":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3000.0,
+        "bcy_total":3000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-02T10:37:30+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004137002",
         "journal_date":"2026-06-28",
         "entry_number":"JE -000566",
@@ -10763,12 +10877,12 @@
         "notes":"مخصص نهاية الخدمة",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":20000.0,
-        "bcy_total":20000.0,
+        "total":10277.93,
+        "bcy_total":10277.93,
         "tags":[
 
         ],
-        "last_modified_time":"2026-06-30T13:21:46+0300",
+        "last_modified_time":"2026-07-02T11:30:14+0300",
         "created_by_id":"",
         "created_by_name":""
     },
@@ -10896,12 +11010,12 @@
         "notes":"اطفاء مصروف التأمين الطبي للموظفين من 01-07-2025 الى 30-06-2026",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":16548.25,
-        "bcy_total":16548.25,
+        "total":16547.23,
+        "bcy_total":16547.23,
         "tags":[
 
         ],
-        "last_modified_time":"2026-06-30T22:59:15+0300",
+        "last_modified_time":"2026-07-02T11:19:21+0300",
         "created_by_id":"",
         "created_by_name":""
     },
@@ -10942,6 +11056,25 @@
         "last_modified_time":"2026-06-30T21:56:41+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004165180",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000584",
+        "reference_number":"تقسيم تكاليف رواتب مصر لشهر يونيو2026م",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تقسيم تكاليف رواتب مصر لشهر يونيو2026م",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":53667.81,
+        "bcy_total":53667.81,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-02T11:33:45+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
     },
     {
         "journal_id":"5975823000004152133",
