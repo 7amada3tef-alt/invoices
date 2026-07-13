@@ -100,12 +100,12 @@
               "previous_total": []
             },
             {
-              "total": 3482227.93,
+              "total": 3558127.93,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 2204378.91,
+                  "total": 2280278.91,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -161,12 +161,12 @@
               "previous_total": []
             },
             {
-              "total": 1745413.65,
+              "total": 1669513.65,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 1745413.65,
+                  "total": 1669513.65,
                   "account_id": "5975823000000000364",
                   "depth": 0,
                   "previous_values": [],
@@ -831,12 +831,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-07-12",
-    "to_date": "2026-07-12",
+    "as_of_date": "2026-07-13",
+    "to_date": "2026-07-13",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "12 Jul 2026 01:28 PM",
+    "last_accessed_time_formatted": "13 Jul 2026 02:59 PM",
     "select_columns": [
       {
         "field": "name",
@@ -865,9 +865,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "12 Jul 2026",
-        "from_date": "2026-07-12",
-        "to_date": "2026-07-12"
+        "date_range_label": "13 Jul 2026",
+        "from_date": "2026-07-13",
+        "to_date": "2026-07-13"
       }
     ],
     "sort_column": "account",
