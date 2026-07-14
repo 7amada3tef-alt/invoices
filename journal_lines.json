@@ -51842,6 +51842,680 @@
         "journal_id":"5975823000003973001"
     },
     {
+        "line_id":"5975823000004214055",
+        "account_id":"5975823000000102693",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Deferred expenses - 120604 - مصروفات مؤجلة",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":95730.41,
+        "bcy_amount":95730.41,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214056",
+        "account_id":"5975823000000100625",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Co-operators fees - 520103 - اتعاب متعاوني مشاريع",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3650.0,
+        "bcy_amount":3650.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214057",
+        "account_id":"5975823000000100613",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":45000.0,
+        "bcy_amount":45000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214058",
+        "account_id":"5975823000000100679",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Employee tickets - 520301 - تذاكر موظفين",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":8861.24,
+        "bcy_amount":8861.24,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214059",
+        "account_id":"5975823000000100619",
+        "customer_id":"",
+        "item_order":5,
+        "customer_name":"",
+        "account_name":"Facilitators fees - 520102 - اتعاب ميسرين",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":11000.0,
+        "bcy_amount":11000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214060",
+        "account_id":"5975823000000101093",
+        "customer_id":"",
+        "item_order":6,
+        "customer_name":"",
+        "account_name":"Fuel - 530104 - وقود ومحروقات",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":220.0,
+        "bcy_amount":220.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214061",
+        "account_id":"5975823000000100739",
+        "customer_id":"",
+        "item_order":7,
+        "customer_name":"",
+        "account_name":"Furniture rental - 520701 - استئجار اثاث",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":420.0,
+        "bcy_amount":420.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214062",
+        "account_id":"5975823000000100937",
+        "customer_id":"",
+        "item_order":8,
+        "customer_name":"",
+        "account_name":"Gifts - 521203 - هدايا",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":7200.0,
+        "bcy_amount":7200.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214063",
+        "account_id":"5975823000000100835",
+        "customer_id":"",
+        "item_order":9,
+        "customer_name":"",
+        "account_name":"Live broadcast costs - 520905 - تكاليف بث مباشر",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3800.0,
+        "bcy_amount":3800.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214064",
+        "account_id":"5975823000000100637",
+        "customer_id":"",
+        "item_order":10,
+        "customer_name":"",
+        "account_name":"Logistic & transportation fees - 520105 - اتعاب لوجستية ونقل",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1550.0,
+        "bcy_amount":1550.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214065",
+        "account_id":"5975823000000100823",
+        "customer_id":"",
+        "item_order":11,
+        "customer_name":"",
+        "account_name":"montage fee - 520903 - اتعاب مونتاج",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1500.0,
+        "bcy_amount":1500.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214066",
+        "account_id":"5975823000000100877",
+        "customer_id":"",
+        "item_order":12,
+        "customer_name":"",
+        "account_name":"Paper printing - 521101 - طباعة ورقية",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2575.5,
+        "bcy_amount":2575.5,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214067",
+        "account_id":"5975823000000100811",
+        "customer_id":"",
+        "item_order":13,
+        "customer_name":"",
+        "account_name":"Photography fee - 520901 - اتعاب تصوير فوتوغرافي",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2000.0,
+        "bcy_amount":2000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214068",
+        "account_id":"5975823000000100889",
+        "customer_id":"",
+        "item_order":14,
+        "customer_name":"",
+        "account_name":"Roll up and pop up printing - 521103 - طباعة رول أب وبوب أب",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3840.0,
+        "bcy_amount":3840.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214069",
+        "account_id":"5975823000000100781",
+        "customer_id":"",
+        "item_order":15,
+        "customer_name":"",
+        "account_name":"Stationery - 520801 - قرطاسية",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1913.67,
+        "bcy_amount":1913.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214070",
+        "account_id":"5975823000000100817",
+        "customer_id":"",
+        "item_order":16,
+        "customer_name":"",
+        "account_name":"Video shooting fee - 520902 - اتعاب تصوير فيديو",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2200.0,
+        "bcy_amount":2200.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214033"
+    },
+    {
+        "line_id":"5975823000004214228",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"تسوية رصيد ساعات عمل مشروع حصر الاحتياج التدريبي في منظومة الصحة - لم يتم العقد ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3309.79,
+        "bcy_amount":3309.79,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004214218"
+    },
+    {
+        "line_id":"5975823000004214229",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"تسوية رصيد ساعات عمل مشروع حصر الاحتياج التدريبي في منظومة الصحة - لم يتم العقد ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":15000.03,
+        "bcy_amount":15000.03,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004214218"
+    },
+    {
+        "line_id":"5975823000004214230",
+        "account_id":"5975823000000100649",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "description":"تسوية رصيد ساعات عمل مشروع حصر الاحتياج التدريبي في منظومة الصحة - لم يتم العقد ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3309.79,
+        "bcy_amount":3309.79,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171272",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025050 - حصر الاحتياج التدريبي في منظومة الصحة"
+            }
+        ],
+        "journal_id":"5975823000004214218"
+    },
+    {
+        "line_id":"5975823000004214231",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"تسوية رصيد ساعات عمل مشروع حصر الاحتياج التدريبي في منظومة الصحة - لم يتم العقد ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":15000.03,
+        "bcy_amount":15000.03,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171272",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025050 - حصر الاحتياج التدريبي في منظومة الصحة"
+            }
+        ],
+        "journal_id":"5975823000004214218"
+    },
+    {
         "line_id":"5975823000003727979",
         "account_id":"5975823000000091049",
         "customer_id":"",
@@ -51924,6 +52598,544 @@
 
         ],
         "journal_id":"5975823000003727974"
+    },
+    {
+        "line_id":"5975823000004214167",
+        "account_id":"5975823000000102693",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Deferred expenses - 120604 - مصروفات مؤجلة",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":95730.41,
+        "bcy_amount":95730.41,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214168",
+        "account_id":"5975823000000100625",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Co-operators fees - 520103 - اتعاب متعاوني مشاريع",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3650.0,
+        "bcy_amount":3650.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214169",
+        "account_id":"5975823000000100613",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":45000.0,
+        "bcy_amount":45000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214170",
+        "account_id":"5975823000000100679",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Employee tickets - 520301 - تذاكر موظفين",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":8861.24,
+        "bcy_amount":8861.24,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214171",
+        "account_id":"5975823000000100619",
+        "customer_id":"",
+        "item_order":5,
+        "customer_name":"",
+        "account_name":"Facilitators fees - 520102 - اتعاب ميسرين",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":11000.0,
+        "bcy_amount":11000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214172",
+        "account_id":"5975823000000101093",
+        "customer_id":"",
+        "item_order":6,
+        "customer_name":"",
+        "account_name":"Fuel - 530104 - وقود ومحروقات",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":220.0,
+        "bcy_amount":220.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214173",
+        "account_id":"5975823000000100739",
+        "customer_id":"",
+        "item_order":7,
+        "customer_name":"",
+        "account_name":"Furniture rental - 520701 - استئجار اثاث",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":420.0,
+        "bcy_amount":420.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214174",
+        "account_id":"5975823000000100937",
+        "customer_id":"",
+        "item_order":8,
+        "customer_name":"",
+        "account_name":"Gifts - 521203 - هدايا",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":7200.0,
+        "bcy_amount":7200.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214175",
+        "account_id":"5975823000000100835",
+        "customer_id":"",
+        "item_order":9,
+        "customer_name":"",
+        "account_name":"Live broadcast costs - 520905 - تكاليف بث مباشر",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3800.0,
+        "bcy_amount":3800.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214176",
+        "account_id":"5975823000000100637",
+        "customer_id":"",
+        "item_order":10,
+        "customer_name":"",
+        "account_name":"Logistic & transportation fees - 520105 - اتعاب لوجستية ونقل",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1550.0,
+        "bcy_amount":1550.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214177",
+        "account_id":"5975823000000100823",
+        "customer_id":"",
+        "item_order":11,
+        "customer_name":"",
+        "account_name":"montage fee - 520903 - اتعاب مونتاج",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1500.0,
+        "bcy_amount":1500.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214178",
+        "account_id":"5975823000000100877",
+        "customer_id":"",
+        "item_order":12,
+        "customer_name":"",
+        "account_name":"Paper printing - 521101 - طباعة ورقية",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2575.5,
+        "bcy_amount":2575.5,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214179",
+        "account_id":"5975823000000100811",
+        "customer_id":"",
+        "item_order":13,
+        "customer_name":"",
+        "account_name":"Photography fee - 520901 - اتعاب تصوير فوتوغرافي",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2000.0,
+        "bcy_amount":2000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214180",
+        "account_id":"5975823000000100889",
+        "customer_id":"",
+        "item_order":14,
+        "customer_name":"",
+        "account_name":"Roll up and pop up printing - 521103 - طباعة رول أب وبوب أب",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3840.0,
+        "bcy_amount":3840.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214181",
+        "account_id":"5975823000000100781",
+        "customer_id":"",
+        "item_order":15,
+        "customer_name":"",
+        "account_name":"Stationery - 520801 - قرطاسية",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1913.67,
+        "bcy_amount":1913.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004214182",
+        "account_id":"5975823000000100817",
+        "customer_id":"",
+        "item_order":16,
+        "customer_name":"",
+        "account_name":"Video shooting fee - 520902 - اتعاب تصوير فيديو",
+        "description":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":2200.0,
+        "bcy_amount":2200.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000339425",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025070 - سفر الإفطار في الحرم المكي"
+            }
+        ],
+        "journal_id":"5975823000004214145"
     },
     {
         "line_id":"5975823000003794008",

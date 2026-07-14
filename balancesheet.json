@@ -771,14 +771,14 @@
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 748245.46,
+              "total": 652515.05,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
               "previous_total": []
             },
             {
-              "total": 6510973.48,
+              "total": 6606703.89,
               "account_id": "5975823000000000379",
               "previous_values": [],
               "name": "Retained Earnings - الارباح المحتجزة",
@@ -831,12 +831,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-07-13",
-    "to_date": "2026-07-13",
+    "as_of_date": "2026-07-14",
+    "to_date": "2026-07-14",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "13 Jul 2026 02:59 PM",
+    "last_accessed_time_formatted": "14 Jul 2026 01:44 PM",
     "select_columns": [
       {
         "field": "name",
@@ -865,9 +865,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "13 Jul 2026",
-        "from_date": "2026-07-13",
-        "to_date": "2026-07-13"
+        "date_range_label": "14 Jul 2026",
+        "from_date": "2026-07-14",
+        "to_date": "2026-07-14"
       }
     ],
     "sort_column": "account",

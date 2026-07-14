@@ -9633,6 +9633,44 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004214033",
+        "journal_date":"2026-03-31",
+        "entry_number":"JE -000585",
+        "reference_number":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":95730.41,
+        "bcy_total":95730.41,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-14T11:38:44+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004214218",
+        "journal_date":"2026-03-31",
+        "entry_number":"JE -000587",
+        "reference_number":"تسوية رصيد ساعات عمل مشروع حصر الاحتياج التدريبي في منظومة الصحة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تسوية رصيد ساعات عمل مشروع حصر الاحتياج التدريبي في منظومة الصحة - لم يتم العقد ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":18309.82,
+        "bcy_total":18309.82,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-14T11:43:58+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000003727974",
         "journal_date":"2026-03-31",
         "entry_number":"JE -000504",
@@ -9648,6 +9686,25 @@
 
         ],
         "last_modified_time":"2026-04-26T09:58:13+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004214145",
+        "journal_date":"2026-04-01",
+        "entry_number":"JE -000586",
+        "reference_number":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":95730.41,
+        "bcy_total":95730.41,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-14T11:39:16+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
