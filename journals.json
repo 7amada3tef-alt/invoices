@@ -10217,7 +10217,7 @@
         "tags":[
 
         ],
-        "last_modified_time":"2026-05-10T08:54:21+0300",
+        "last_modified_time":"2026-07-14T14:19:38+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
@@ -10616,7 +10616,7 @@
         "tags":[
 
         ],
-        "last_modified_time":"2026-06-11T13:16:57+0300",
+        "last_modified_time":"2026-07-14T14:20:00+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
@@ -11134,6 +11134,63 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004227022",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000589",
+        "reference_number":"التأمينات الاجتماعية الخاصة بشركة تكامل لشهر يونيو 2026م",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"التأمينات الاجتماعية الخاصة بشركة تكامل لشهر يونيو 2026م",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":4767.94,
+        "bcy_total":4767.94,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-15T10:21:05+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004227003",
+        "journal_date":"2026-07-08",
+        "entry_number":"JE -000588",
+        "reference_number":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":29541.7,
+        "bcy_total":29541.7,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-15T10:19:46+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004227085",
+        "journal_date":"2026-07-08",
+        "entry_number":"JE -000590",
+        "reference_number":"عهدة السعداوي  - مهارات المستقبل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"عهدة السعداوي  - مهارات المستقبل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":500.0,
+        "bcy_total":500.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-15T11:25:03+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004152133",
         "journal_date":"2026-07-31",
         "entry_number":"JE -000570",
@@ -11149,6 +11206,25 @@
 
         ],
         "last_modified_time":"2026-06-30T14:14:12+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004227183",
+        "journal_date":"2026-07-31",
+        "entry_number":"JE -000591",
+        "reference_number":"اطفاء مصروف االتأمين الطبي للموظفين من 02-07-2026 الى 30-06-2027",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف االتأمين الطبي للموظفين من 02-07-2026 الى 30-06-2027",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":23526.0,
+        "bcy_total":23526.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-15T11:35:35+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     }

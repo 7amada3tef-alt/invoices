@@ -5666,13 +5666,38 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":33,
+        "child_count":34,
         "documents":[
 
         ],
         "created_time":"2025-01-27T14:59:15+0300",
         "is_standalone_account":false,
         "last_modified_time":"2025-01-27T14:59:15+0300"
+    },
+    {
+        "account_id":"5975823000004214290",
+        "account_name":"Consultation fees - 720108 - اتعاب استشارات",
+        "account_code":"720108",
+        "account_type":"expense",
+        "description":"",
+        "placeholder":"gl_consultation_fees_720108",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "can_show_in_ze":false,
+        "parent_account_id":"5975823000000102967",
+        "parent_account_name":"Marketing expenses - 72 -  مصاريف تسويقية",
+        "depth":2,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2026-07-14T14:19:03+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-07-14T14:19:03+0300"
     },
     {
         "account_id":"5975823000000102973",

@@ -55653,11 +55653,11 @@
     },
     {
         "line_id":"5975823000003823089",
-        "account_id":"5975823000000101219",
+        "account_id":"5975823000000102943",
         "customer_id":"",
         "item_order":19,
         "customer_name":"",
-        "account_name":"payroll - 610101 - الرواتب وما في حكمها",
+        "account_name":"payroll - 710101 - الرواتب وما في حكمها",
         "description":"منصة قياس الأثر",
         "debit_or_credit":"debit",
         "tax_exemption_id":"",
@@ -56333,11 +56333,11 @@
     },
     {
         "line_id":"5975823000003823109",
-        "account_id":"5975823000000101699",
+        "account_id":"5975823000004214290",
         "customer_id":"",
         "item_order":39,
         "customer_name":"",
-        "account_name":"Consultation fees - 620108 - اتعاب استشارات",
+        "account_name":"Consultation fees - 720108 - اتعاب استشارات",
         "description":"اتعاب استشارات - منصة قياس الاثر ",
         "debit_or_credit":"debit",
         "tax_exemption_id":"",
@@ -58639,11 +58639,11 @@
     },
     {
         "line_id":"5975823000004012665",
-        "account_id":"5975823000000101219",
+        "account_id":"5975823000000102943",
         "customer_id":"",
         "item_order":19,
         "customer_name":"",
-        "account_name":"payroll - 610101 - الرواتب وما في حكمها",
+        "account_name":"payroll - 710101 - الرواتب وما في حكمها",
         "description":"منصة قياس الأثر",
         "debit_or_credit":"debit",
         "tax_exemption_id":"",
@@ -59353,11 +59353,11 @@
     },
     {
         "line_id":"5975823000004012685",
-        "account_id":"5975823000000101699",
+        "account_id":"5975823000004214290",
         "customer_id":"",
         "item_order":40,
         "customer_name":"",
-        "account_name":"Consultation fees - 620108 - اتعاب استشارات",
+        "account_name":"Consultation fees - 720108 - اتعاب استشارات",
         "description":"اتعاب استشارات - منصة قياس الاثر ",
         "debit_or_credit":"debit",
         "tax_exemption_id":"",
@@ -61576,6 +61576,180 @@
         "journal_id":"5975823000004165180"
     },
     {
+        "line_id":"5975823000004227030",
+        "account_id":"5975823000000100511",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"GOSI - 510103 - التأمينات الاجتماعية",
+        "description":"التأمينات الاجتماعية الخاصة بشركة تكامل لشهر يونيو 2026م",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":4767.94,
+        "bcy_amount":4767.94,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004227022"
+    },
+    {
+        "line_id":"5975823000004227031",
+        "account_id":"5975823000000102789",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
+        "description":"التأمينات الاجتماعية الخاصة بشركة تكامل لشهر يونيو 2026م",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":4767.94,
+        "bcy_amount":4767.94,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227022"
+    },
+    {
+        "line_id":"5975823000004227009",
+        "account_id":"5975823000000102789",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
+        "description":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":29541.7,
+        "bcy_amount":29541.7,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227003"
+    },
+    {
+        "line_id":"5975823000004227010",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "description":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":29541.7,
+        "bcy_amount":29541.7,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227003"
+    },
+    {
+        "line_id":"5975823000004227091",
+        "account_id":"5975823000000188325",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Mohammed Alsadawi custody - 120105 - عهدة محمد السعداوي",
+        "description":"عهدة السعداوي  - مهارات المستقبل ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":500.0,
+        "bcy_amount":500.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227085"
+    },
+    {
+        "line_id":"5975823000004227092",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "description":"عهدة السعداوي  - مهارات المستقبل ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":500.0,
+        "bcy_amount":500.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227085"
+    },
+    {
         "line_id":"5975823000004152142",
         "account_id":"5975823000000100547",
         "customer_id":"",
@@ -61698,5 +61872,67 @@
 
         ],
         "journal_id":"5975823000004152133"
+    },
+    {
+        "line_id":"5975823000004227190",
+        "account_id":"5975823000000100517",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Medical insurance - 510104 - تامين طبي",
+        "description":"اطفاء مصروف االتأمين الطبي للموظفين من 02-07-2026 الى 30-06-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":23526.0,
+        "bcy_amount":23526.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004227183"
+    },
+    {
+        "line_id":"5975823000004227191",
+        "account_id":"5975823000000102681",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Advance medical inurnace - 120602 - تأمين طبي مدفوع مقدم",
+        "description":"اطفاء مصروف االتأمين الطبي للموظفين من 02-07-2026 الى 30-06-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":23526.0,
+        "bcy_amount":23526.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227183"
     }
 ]
