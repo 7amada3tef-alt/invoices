@@ -11153,6 +11153,44 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004227350",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000593",
+        "reference_number":"اغلاق مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":225000.0,
+        "bcy_total":225000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-16T11:13:40+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004227331",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000592",
+        "reference_number":"VAT Return for June - 2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"VAT Balance Journal for June - 2026",
+        "journal_type":"both",
+        "entity_type":"vat_balance_journal",
+        "total":578694.24,
+        "bcy_total":578694.24,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-16T09:18:35+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004227003",
         "journal_date":"2026-07-08",
         "entry_number":"JE -000588",

@@ -61638,6 +61638,152 @@
         "journal_id":"5975823000004227022"
     },
     {
+        "line_id":"5975823000004227357",
+        "account_id":"5975823000000100097",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "description":"اغلاق مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":225000.0,
+        "bcy_amount":225000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227350"
+    },
+    {
+        "line_id":"5975823000004227358",
+        "account_id":"5975823000000101867",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Aathar Adm. Expenses - 630120 - مصاريف اثار الادارية",
+        "description":"اغلاق مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":225000.0,
+        "bcy_amount":225000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004227350"
+    },
+    {
+        "line_id":"5975823000004227336",
+        "account_id":"5975823000000091049",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Output VAT",
+        "description":"",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":578694.24,
+        "bcy_amount":578694.24,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227331"
+    },
+    {
+        "line_id":"5975823000004227337",
+        "account_id":"5975823000000091047",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Input VAT",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":184784.88,
+        "bcy_amount":184784.88,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227331"
+    },
+    {
+        "line_id":"5975823000004227338",
+        "account_id":"5975823000000091224",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"GCC VAT Payable",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":393909.36,
+        "bcy_amount":393909.36,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004227331"
+    },
+    {
         "line_id":"5975823000004227009",
         "account_id":"5975823000000102789",
         "customer_id":"",
