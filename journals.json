@@ -11191,6 +11191,44 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004227584",
+        "journal_date":"2026-07-01",
+        "entry_number":"JE -000594",
+        "reference_number":"سداد فاتورة الزكاة لعام 2025-2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"سداد فاتورة الزكاة لعام 2025-2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":68186.68,
+        "bcy_total":68186.68,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-20T10:08:10+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004227714",
+        "journal_date":"2026-07-01",
+        "entry_number":"JE -000595",
+        "reference_number":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":8274.35,
+        "bcy_total":8274.35,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-20T12:20:46+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004227003",
         "journal_date":"2026-07-08",
         "entry_number":"JE -000588",
