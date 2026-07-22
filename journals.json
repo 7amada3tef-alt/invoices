@@ -9633,25 +9633,6 @@
         "created_by_name":"Rahaf"
     },
     {
-        "journal_id":"5975823000004214033",
-        "journal_date":"2026-03-31",
-        "entry_number":"JE -000585",
-        "reference_number":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
-        "currency_id":"5975823000000091149",
-        "status":"published",
-        "notes":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
-        "journal_type":"both",
-        "entity_type":"journal",
-        "total":95730.41,
-        "bcy_total":95730.41,
-        "tags":[
-
-        ],
-        "last_modified_time":"2026-07-14T11:38:44+0300",
-        "created_by_id":"5975823000001659118",
-        "created_by_name":"Rahaf"
-    },
-    {
         "journal_id":"5975823000004214218",
         "journal_date":"2026-03-31",
         "entry_number":"JE -000587",
@@ -9667,6 +9648,25 @@
 
         ],
         "last_modified_time":"2026-07-14T11:43:58+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004260002",
+        "journal_date":"2026-03-31",
+        "entry_number":"JE -000596",
+        "reference_number":"اثبات الايراد المقدم ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اثبات الايراد المقدم ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":2127522.1699999999,
+        "bcy_total":2127522.1699999999,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-22T10:51:49+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
@@ -9690,6 +9690,25 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004214033",
+        "journal_date":"2026-04-01",
+        "entry_number":"JE -000585",
+        "reference_number":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":0.01,
+        "bcy_total":0.01,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-22T11:37:37+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004214145",
         "journal_date":"2026-04-01",
         "entry_number":"JE -000586",
@@ -9699,12 +9718,12 @@
         "notes":"نقل مصاريف سفر الافطار بالحرم مكي للسنة المالية الجديدة 2026-2027",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":95730.41,
-        "bcy_total":95730.41,
+        "total":0.01,
+        "bcy_total":0.01,
         "tags":[
 
         ],
-        "last_modified_time":"2026-07-14T11:39:16+0300",
+        "last_modified_time":"2026-07-22T11:36:57+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
@@ -10222,6 +10241,25 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004260037",
+        "journal_date":"2026-04-30",
+        "entry_number":"JE -000597",
+        "reference_number":"اغلاق الايراد المقدم ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق الايراد المقدم ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":165535.38,
+        "bcy_total":165535.38,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-22T10:53:34+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000003873045",
         "journal_date":"2026-05-04",
         "entry_number":"JE -000533",
@@ -10617,6 +10655,25 @@
 
         ],
         "last_modified_time":"2026-07-14T14:20:00+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004260071",
+        "journal_date":"2026-05-31",
+        "entry_number":"JE -000598",
+        "reference_number":"اغلاق الايراد المقدم ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق الايراد المقدم ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":165535.38,
+        "bcy_total":165535.38,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-22T10:53:44+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
@@ -11168,6 +11225,25 @@
 
         ],
         "last_modified_time":"2026-07-16T11:13:40+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004260101",
+        "journal_date":"2026-06-30",
+        "entry_number":"JE -000599",
+        "reference_number":"اغلاق الايراد المقدم ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق الايراد المقدم ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":165535.38,
+        "bcy_total":165535.38,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-22T10:53:55+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
