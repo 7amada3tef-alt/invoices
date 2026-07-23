@@ -61730,6 +61730,174 @@
         "journal_id":"5975823000004227085"
     },
     {
+        "line_id":"5975823000004267009",
+        "account_id":"5975823000000188325",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Mohammed Alsadawi custody - 120105 - عهدة محمد السعداوي",
+        "description":"عهدة السعداوي  - اشوكا ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1750.0,
+        "bcy_amount":1750.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004267003"
+    },
+    {
+        "line_id":"5975823000004267010",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "description":"عهدة السعداوي  - اشوكا ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1750.0,
+        "bcy_amount":1750.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004267003"
+    },
+    {
+        "line_id":"5975823000004267151",
+        "account_id":"5975823000000099215",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Ahmed Baesmaeil custody - 120101 - عهدة احمد باسماعيل",
+        "description":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":7195.29,
+        "bcy_amount":7195.29,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004267145"
+    },
+    {
+        "line_id":"5975823000004267152",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "description":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":7195.29,
+        "bcy_amount":7195.29,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004267145"
+    },
+    {
+        "line_id":"5975823000004267486",
+        "account_id":"5975823000000099215",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Ahmed Baesmaeil custody - 120101 - عهدة احمد باسماعيل",
+        "description":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":4933.72,
+        "bcy_amount":4933.72,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004267480"
+    },
+    {
+        "line_id":"5975823000004267487",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "description":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":4933.72,
+        "bcy_amount":4933.72,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004267480"
+    },
+    {
         "line_id":"5975823000004152142",
         "account_id":"5975823000000100547",
         "customer_id":"",

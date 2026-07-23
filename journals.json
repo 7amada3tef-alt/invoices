@@ -11343,6 +11343,63 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004267003",
+        "journal_date":"2026-07-14",
+        "entry_number":"JE -000600",
+        "reference_number":"عهدة السعداوي  - اشوكا ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"عهدة السعداوي  - اشوكا ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":1750.0,
+        "bcy_total":1750.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-23T09:50:08+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004267145",
+        "journal_date":"2026-07-15",
+        "entry_number":"JE -000601",
+        "reference_number":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":7195.29,
+        "bcy_total":7195.29,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-23T10:10:53+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004267480",
+        "journal_date":"2026-07-21",
+        "entry_number":"JE -000602",
+        "reference_number":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"استعاضة مستحقات مصاريف المهندس احمد بااسماعيل",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":4933.72,
+        "bcy_total":4933.72,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-23T11:37:59+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004152133",
         "journal_date":"2026-07-31",
         "entry_number":"JE -000570",
