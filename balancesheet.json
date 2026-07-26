@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 8739179.39,
+      "total": 8738779.39,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 8472699.79,
+          "total": 8472299.79,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -100,12 +100,12 @@
               "previous_total": []
             },
             {
-              "total": 3099227.27,
+              "total": 3098827.27,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 1821378.25,
+                  "total": 1820978.25,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -643,7 +643,7 @@
       "previous_total": []
     },
     {
-      "total": 8739179.39,
+      "total": 8738779.39,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -753,12 +753,12 @@
           "previous_total": []
         },
         {
-          "total": 5833149.27,
+          "total": 5832749.27,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1417197.96,
+              "total": 1416797.96,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -818,12 +818,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-07-25",
-    "to_date": "2026-07-25",
+    "as_of_date": "2026-07-26",
+    "to_date": "2026-07-26",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "25 Jul 2026 01:30 PM",
+    "last_accessed_time_formatted": "26 Jul 2026 01:45 PM",
     "select_columns": [
       {
         "field": "name",
@@ -852,9 +852,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "25 Jul 2026",
-        "from_date": "2026-07-25",
-        "to_date": "2026-07-25"
+        "date_range_label": "26 Jul 2026",
+        "from_date": "2026-07-26",
+        "to_date": "2026-07-26"
       }
     ],
     "sort_column": "account",
