@@ -61898,6 +61898,174 @@
         "journal_id":"5975823000004267480"
     },
     {
+        "line_id":"5975823000004296029",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "description":"",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":240501.0,
+        "bcy_amount":240501.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004296021"
+    },
+    {
+        "line_id":"5975823000004296030",
+        "account_id":"5975823000000102789",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":24773.76,
+        "bcy_amount":24773.76,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004296021"
+    },
+    {
+        "line_id":"5975823000004296031",
+        "account_id":"5975823000001427081",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Zoho Payroll - Loan Account",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":13666.67,
+        "bcy_amount":13666.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004296021"
+    },
+    {
+        "line_id":"5975823000004296032",
+        "account_id":"5975823000000102807",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Accrued payroll - 220206 - رواتب مستحقة",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":216281.81,
+        "bcy_amount":216281.81,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004296021"
+    },
+    {
+        "line_id":"5975823000004296033",
+        "account_id":"5975823000000102699",
+        "customer_id":"",
+        "item_order":5,
+        "customer_name":"",
+        "account_name":"Prepaid - Chamber of Commerce certification - 120605 - تصاديق الغرفة التجارية مدفوعة مقدما",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":35.0,
+        "bcy_amount":35.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004296021"
+    },
+    {
+        "line_id":"5975823000004296034",
+        "account_id":"5975823000000100511",
+        "customer_id":"",
+        "item_order":6,
+        "customer_name":"",
+        "account_name":"GOSI - 510103 - التأمينات الاجتماعية",
+        "description":"",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":14256.24,
+        "bcy_amount":14256.24,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004296021"
+    },
+    {
         "line_id":"5975823000004152142",
         "account_id":"5975823000000100547",
         "customer_id":"",

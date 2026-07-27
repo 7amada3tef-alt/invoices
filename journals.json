@@ -11400,6 +11400,25 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004296021",
+        "journal_date":"2026-07-27",
+        "entry_number":"Payroll-9",
+        "reference_number":"",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Regular Payroll Journal for Pay Period (01 Jul 2026 - 31 Jul 2026)",
+        "journal_type":"both",
+        "entity_type":"payroll_journal",
+        "total":254757.24,
+        "bcy_total":254757.24,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-26T14:05:44+0300",
+        "created_by_id":"5975823000000658095",
+        "created_by_name":"Ahmed Alkhanbashi"
+    },
+    {
         "journal_id":"5975823000004152133",
         "journal_date":"2026-07-31",
         "entry_number":"JE -000570",
