@@ -9661,12 +9661,12 @@
         "notes":"اثبات الايراد المقدم ",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":2127522.1699999999,
-        "bcy_total":2127522.1699999999,
+        "total":1055652.1699999999,
+        "bcy_total":1055652.1699999999,
         "tags":[
 
         ],
-        "last_modified_time":"2026-07-22T10:51:49+0300",
+        "last_modified_time":"2026-07-28T10:49:31+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
@@ -11417,6 +11417,25 @@
         "last_modified_time":"2026-07-26T14:05:44+0300",
         "created_by_id":"5975823000000658095",
         "created_by_name":"Ahmed Alkhanbashi"
+    },
+    {
+        "journal_id":"5975823000004313001",
+        "journal_date":"2026-07-28",
+        "entry_number":"JE -000603",
+        "reference_number":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":1525.0,
+        "bcy_total":1525.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-28T12:07:19+0300",
+        "created_by_id":"",
+        "created_by_name":""
     },
     {
         "journal_id":"5975823000004152133",
