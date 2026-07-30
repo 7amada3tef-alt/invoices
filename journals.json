@@ -11438,6 +11438,44 @@
         "created_by_name":""
     },
     {
+        "journal_id":"5975823000004326002",
+        "journal_date":"2026-07-30",
+        "entry_number":"JE -000605",
+        "reference_number":"مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مصاريف اثار الادارية الشهرية - اثار القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":75000.0,
+        "bcy_total":75000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-30T13:32:24+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004328001",
+        "journal_date":"2026-07-30",
+        "entry_number":"JE -000604",
+        "reference_number":"مخصص نهاية الخدمة",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مخصص نهاية الخدمة",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":10300.0,
+        "bcy_total":10300.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-30T13:22:18+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
         "journal_id":"5975823000004152133",
         "journal_date":"2026-07-31",
         "entry_number":"JE -000570",
