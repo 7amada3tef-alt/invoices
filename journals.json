@@ -11512,5 +11512,24 @@
         "last_modified_time":"2026-07-15T11:35:35+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004333001",
+        "journal_date":"2026-07-31",
+        "entry_number":"JE -000606",
+        "reference_number":"اطفاء مصروف الايجار من 15-11-2026 الى 14-05-2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف الابجار من 15-11-2026 الى 14-05-2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":10867.0,
+        "bcy_total":10867.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-31T12:31:57+0300",
+        "created_by_id":"",
+        "created_by_name":""
     }
 ]

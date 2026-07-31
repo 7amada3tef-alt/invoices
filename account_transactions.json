@@ -1,5 +1,26 @@
 [
     {
+        "categorized_transaction_id": "5975823000004333004",
+        "transaction_type": "journal",
+        "transaction_id": "5975823000004333001",
+        "transaction_date": "2026-07-31",
+        "transaction_type_formatted": "Journal",
+        "account_id": "5975823000000102675",
+        "customer_id": "",
+        "payee": "",
+        "description": "اطفاء مصروف الابجار من 15-11-2026 الى 14-05-2026",
+        "entry_number": "JE -000606",
+        "currency_id": "5975823000000091149",
+        "currency_code": "SAR",
+        "debit_or_credit": "credit",
+        "offset_account_name": "",
+        "reference_number": "",
+        "debit_amount": "",
+        "credit_amount": 10867.0,
+        "fcy_debit_amount": "",
+        "fcy_credit_amount": 10867.0
+    },
+    {
         "categorized_transaction_id": "5975823000004078241",
         "transaction_type": "journal",
         "transaction_id": "5975823000004078212",

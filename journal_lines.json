@@ -62464,5 +62464,67 @@
 
         ],
         "journal_id":"5975823000004227183"
+    },
+    {
+        "line_id":"5975823000004333009",
+        "account_id":"5975823000000101369",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"rent - 630101 - ايجارات",
+        "description":"اطفاء مصروف الابجار من 15-11-2026 الى 14-05-2026",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10867.0,
+        "bcy_amount":10867.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004333001"
+    },
+    {
+        "line_id":"5975823000004333010",
+        "account_id":"5975823000000102675",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Prepaid rent - 120601 - ايجار مدفوع مقدم",
+        "description":"اطفاء مصروف الابجار من 15-11-2026 الى 14-05-2026",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10867.0,
+        "bcy_amount":10867.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004333001"
     }
 ]
