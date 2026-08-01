@@ -11531,5 +11531,62 @@
         "last_modified_time":"2026-07-31T12:31:57+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004337001",
+        "journal_date":"2026-07-31",
+        "entry_number":"JE -000607",
+        "reference_number":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي - القيمة والمدة المتبقية: ( 9,225.83 ) 1 سنة و 9 شهور",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":439.32,
+        "bcy_total":439.32,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-31T21:18:19+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004337019",
+        "journal_date":"2026-07-31",
+        "entry_number":"JE -000609",
+        "reference_number":"Safwan Almahdi Labor Office & Iqama - 2125838256",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Safwan Almahdi Labor Office & Iqama - 2125838256",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":762.51,
+        "bcy_total":762.51,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-31T22:06:43+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004338001",
+        "journal_date":"2026-07-31",
+        "entry_number":"JE -000608",
+        "reference_number":"Mohammed Abbas Labor Office & Iqama - 2298890530",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Mohammed Abbas Labor Office & Iqama - 2298890530",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":762.51,
+        "bcy_total":762.51,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-07-31T21:47:54+0300",
+        "created_by_id":"",
+        "created_by_name":""
     }
 ]
