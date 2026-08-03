@@ -9671,6 +9671,25 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004349012",
+        "journal_date":"2026-03-31",
+        "entry_number":"JE -000610",
+        "reference_number":"اغلاق ايراد سالم بن محفوظ للسنة 2025-2026 وترحيله للسنة الحالية 2026-2027",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق ايراد سالم بن محفوظ للسنة 2025-2026 وترحيله للسنة الحالية 2026-2027",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":695652.17,
+        "bcy_total":695652.17,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-03T13:42:48+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000003727974",
         "journal_date":"2026-03-31",
         "entry_number":"JE -000504",
@@ -9724,6 +9743,25 @@
 
         ],
         "last_modified_time":"2026-07-22T11:36:57+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004349031",
+        "journal_date":"2026-04-01",
+        "entry_number":"JE -000611",
+        "reference_number":"اغلاق ايراد سالم بن محفوظ للسنة 2025-2026 وترحيله للسنة الحالية 2026-2027",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق ايراد سالم بن محفوظ للسنة 2025-2026 وترحيله للسنة الحالية 2026-2027",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":695652.17,
+        "bcy_total":695652.17,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-03T13:43:00+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },

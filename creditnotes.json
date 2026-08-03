@@ -1,5 +1,43 @@
 [
     {
+        "creditnote_id":"5975823000004347057",
+        "creditnote_number":"CN-00009",
+        "status":"closed",
+        "reference_number":"",
+        "date":"2026-08-02",
+        "issued_date":"2026-08-02",
+        "total":800000.0,
+        "balance":0.0,
+        "customer_id":"5975823000003619010",
+        "customer_name":"مؤسسة سالم بن محفوظ الأهلية",
+        "applied_invoices":"INV-000062,INV-000062",
+        "is_emailed":false,
+        "has_attachment":false,
+        "salesperson_name":"Others",
+        "salesperson_id":"-1",
+        "is_viewed_by_client":false,
+        "client_viewed_time":"",
+        "color_code":"",
+        "current_sub_status_id":"",
+        "current_sub_status":"closed",
+        "currency_id":"5975823000000091149",
+        "currency_code":"SAR",
+        "created_time":"2026-08-02T15:16:07+0300",
+        "last_modified_time":"2026-08-02T15:16:08+0300",
+        "exchange_rate":1.0,
+        "template_id":"5975823000000017005",
+        "template_type":"standard",
+        "einvoice_details":{
+            "status_formatted":"Yet To Be Pushed",
+            "status":"yet_to_be_pushed"
+        },
+        "rounding_mode":"round_half_up",
+        "price_precision":2,
+        "tags":[
+
+        ]
+    },
+    {
         "creditnote_id":"5975823000002950031",
         "creditnote_number":"CN-00008",
         "status":"closed",

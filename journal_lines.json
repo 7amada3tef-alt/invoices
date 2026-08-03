@@ -52108,6 +52108,68 @@
         "journal_id":"5975823000004260002"
     },
     {
+        "line_id":"5975823000004349020",
+        "account_id":"5975823000000099423",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Private Sector Sales - مبيعات القطاع الخاص",
+        "description":"اغلاق ايراد سالم بن محفوظ للسنة 2025-2026 وترحيله للسنة الحالية 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":695652.17,
+        "bcy_amount":695652.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            }
+        ],
+        "journal_id":"5975823000004349012"
+    },
+    {
+        "line_id":"5975823000004349021",
+        "account_id":"5975823000004349004",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"ذمة سالم بن محفوظ",
+        "description":"اغلاق ايراد سالم بن محفوظ للسنة 2025-2026 وترحيله للسنة الحالية 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":695652.17,
+        "bcy_amount":695652.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004349012"
+    },
+    {
         "line_id":"5975823000003727979",
         "account_id":"5975823000000091049",
         "customer_id":"",
@@ -52326,6 +52388,68 @@
             }
         ],
         "journal_id":"5975823000004214145"
+    },
+    {
+        "line_id":"5975823000004349038",
+        "account_id":"5975823000000099423",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Private Sector Sales - مبيعات القطاع الخاص",
+        "description":"اغلاق ايراد سالم بن محفوظ للسنة 2025-2026 وترحيله للسنة الحالية 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":695652.17,
+        "bcy_amount":695652.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            }
+        ],
+        "journal_id":"5975823000004349031"
+    },
+    {
+        "line_id":"5975823000004349039",
+        "account_id":"5975823000004349004",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"ذمة سالم بن محفوظ",
+        "description":"اغلاق ايراد سالم بن محفوظ للسنة 2025-2026 وترحيله للسنة الحالية 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":695652.17,
+        "bcy_amount":695652.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004349031"
     },
     {
         "line_id":"5975823000003794008",
