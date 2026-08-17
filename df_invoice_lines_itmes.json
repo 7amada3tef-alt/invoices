@@ -1,5 +1,102 @@
 [
     {
+        "line_item_id":"5975823000004419013",
+        "item_id":"",
+        "item_order":1,
+        "product_type":"service",
+        "name":"",
+        "internal_name":"",
+        "name_sec_lang":"",
+        "description":"الدفعة الثالثة من مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب (30% من المشروع)",
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "unit":"",
+        "quantity":1.0,
+        "discount_amount":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "bcy_rate":43500.0,
+        "rate":43500.0,
+        "account_id":"5975823000000000388",
+        "account_name":"Sales",
+        "header_id":"",
+        "header_name":"",
+        "pricebook_id":"",
+        "tax_id":"5975823000000091248",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "tax_treatment_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "item_total":43500.0,
+        "non_taxable_amount":0.0,
+        "item_custom_fields":[
+
+        ],
+        "pricing_scheme":"unit",
+        "tags":[
+            {
+                "tag_option_id":"5975823000001936005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب"
+            }
+        ],
+        "documents":[
+
+        ],
+        "image_document_id":"",
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":6525.0,
+                "tax_percentage":15,
+                "tax_specific_type":"tax"
+            }
+        ],
+        "bill_id":"",
+        "bill_item_id":"",
+        "project_id":"",
+        "time_entry_ids":[
+
+        ],
+        "expense_id":"",
+        "item_type":"",
+        "expense_receipt_name":"",
+        "sales_rate":"",
+        "purchase_rate":"",
+        "salesorder_item_id":"",
+        "cost_amount":0,
+        "markup_percent":0,
+        "package_line_items":[
+
+        ],
+        "item_code":{
+
+        },
+        "mapped_items":[
+
+        ],
+        "is_modifier_item":false,
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":"",
+            "master_tax_category_code":""
+        },
+        "line_item_category":"line_item",
+        "invoice_id":"5975823000004419012",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
+    },
+    {
         "line_item_id":"5975823000004347080",
         "item_id":"5975823000000171001",
         "item_order":1,
@@ -61,10 +158,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -94,7 +187,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004347079"
+        "invoice_id":"5975823000004347079",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000004347010",
@@ -158,10 +255,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -191,7 +284,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004347009"
+        "invoice_id":"5975823000004347009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000004227419",
@@ -255,10 +352,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -288,7 +381,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004227418"
+        "invoice_id":"5975823000004227418",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004227389",
@@ -352,10 +449,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -385,7 +478,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004227388"
+        "invoice_id":"5975823000004227388",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004192009",
@@ -449,10 +546,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -482,7 +575,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004192008"
+        "invoice_id":"5975823000004192008",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004086258",
@@ -546,10 +643,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -579,7 +672,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004086257"
+        "invoice_id":"5975823000004086257",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004024009",
@@ -643,10 +740,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -676,7 +769,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004024008"
+        "invoice_id":"5975823000004024008",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017016",
@@ -740,10 +837,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -773,7 +866,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017017",
@@ -837,10 +934,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -870,7 +963,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017018",
@@ -934,10 +1031,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -967,7 +1060,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017019",
@@ -1031,10 +1128,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1064,7 +1157,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017020",
@@ -1128,10 +1225,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1161,7 +1254,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017021",
@@ -1225,10 +1322,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1258,7 +1351,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017022",
@@ -1322,10 +1419,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1355,7 +1448,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017023",
@@ -1419,10 +1516,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1452,7 +1545,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000004017024",
@@ -1516,10 +1613,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -1549,7 +1642,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000004017015"
+        "invoice_id":"5975823000004017015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000003920009",
@@ -1607,10 +1704,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1640,7 +1733,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003920008"
+        "invoice_id":"5975823000003920008",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003860021",
@@ -1704,10 +1801,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1737,7 +1830,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003860020"
+        "invoice_id":"5975823000003860020",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003860022",
@@ -1801,10 +1898,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1834,7 +1927,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003860020"
+        "invoice_id":"5975823000003860020",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003860023",
@@ -1898,10 +1995,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -1931,7 +2024,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003860020"
+        "invoice_id":"5975823000003860020",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003843009",
@@ -1995,10 +2092,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2028,7 +2121,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003843008"
+        "invoice_id":"5975823000003843008",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003788009",
@@ -2092,10 +2189,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2125,7 +2218,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003788008"
+        "invoice_id":"5975823000003788008",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688011",
@@ -2189,10 +2286,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2222,7 +2315,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688013",
@@ -2286,10 +2383,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2319,7 +2412,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688015",
@@ -2383,10 +2480,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2416,7 +2509,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688017",
@@ -2480,10 +2577,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2513,7 +2606,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688019",
@@ -2577,10 +2674,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2610,7 +2703,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688021",
@@ -2674,10 +2771,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2707,7 +2800,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688023",
@@ -2771,10 +2868,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2804,7 +2897,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688025",
@@ -2868,10 +2965,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2901,7 +2994,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688027",
@@ -2965,10 +3062,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -2998,7 +3091,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688029",
@@ -3062,10 +3159,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -3095,7 +3188,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688031",
@@ -3159,10 +3256,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -3192,7 +3285,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003688033",
@@ -3256,10 +3353,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -3289,7 +3382,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003688009"
+        "invoice_id":"5975823000003688009",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003649003",
@@ -3353,10 +3450,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3386,7 +3479,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003649001"
+        "invoice_id":"5975823000003649001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000003627003",
@@ -3450,10 +3547,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -3483,7 +3576,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003627001"
+        "invoice_id":"5975823000003627001",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003161089",
@@ -3547,10 +3644,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -3580,7 +3673,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003161087"
+        "invoice_id":"5975823000003161087",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000003161017",
@@ -3644,10 +3741,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3677,7 +3770,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003161015"
+        "invoice_id":"5975823000003161015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000003161019",
@@ -3741,10 +3838,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3774,7 +3867,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003161015"
+        "invoice_id":"5975823000003161015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000003161021",
@@ -3838,10 +3935,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3871,7 +3964,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003161015"
+        "invoice_id":"5975823000003161015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000003161023",
@@ -3935,10 +4032,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -3968,7 +4061,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003161015"
+        "invoice_id":"5975823000003161015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000003161025",
@@ -4032,10 +4129,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4065,7 +4158,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003161015"
+        "invoice_id":"5975823000003161015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000003161027",
@@ -4129,10 +4226,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4162,7 +4255,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003161015"
+        "invoice_id":"5975823000003161015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000003161029",
@@ -4226,10 +4323,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4259,7 +4352,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000003161015"
+        "invoice_id":"5975823000003161015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000002944058",
@@ -4323,10 +4420,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4356,7 +4449,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002944056"
+        "invoice_id":"5975823000002944056",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000002950085",
@@ -4420,10 +4517,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4453,7 +4546,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002950083"
+        "invoice_id":"5975823000002950083",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000002899079",
@@ -4517,10 +4614,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4550,7 +4643,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002899077"
+        "invoice_id":"5975823000002899077",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000002899017",
@@ -4614,10 +4711,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4647,7 +4740,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002899015"
+        "invoice_id":"5975823000002899015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000002242006",
@@ -4711,10 +4808,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4744,7 +4837,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002242004"
+        "invoice_id":"5975823000002242004",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000002168364",
@@ -4808,10 +4905,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -4841,7 +4934,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002168362"
+        "invoice_id":"5975823000002168362",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000002084027",
@@ -4905,10 +5002,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -4938,7 +5031,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002084025"
+        "invoice_id":"5975823000002084025",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002084029",
@@ -5002,10 +5099,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5035,7 +5128,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002084025"
+        "invoice_id":"5975823000002084025",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002084031",
@@ -5099,10 +5196,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5132,7 +5225,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002084025"
+        "invoice_id":"5975823000002084025",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002084033",
@@ -5196,10 +5293,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5229,7 +5322,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002084025"
+        "invoice_id":"5975823000002084025",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002084035",
@@ -5293,10 +5390,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5326,7 +5419,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002084025"
+        "invoice_id":"5975823000002084025",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002084037",
@@ -5390,10 +5487,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5423,7 +5516,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002084025"
+        "invoice_id":"5975823000002084025",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002090042",
@@ -5487,10 +5584,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5520,7 +5613,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002090040"
+        "invoice_id":"5975823000002090040",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002090044",
@@ -5584,10 +5681,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5617,7 +5710,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002090040"
+        "invoice_id":"5975823000002090040",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002090046",
@@ -5681,10 +5778,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5714,7 +5807,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002090040"
+        "invoice_id":"5975823000002090040",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002090048",
@@ -5778,10 +5875,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5811,7 +5904,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002090040"
+        "invoice_id":"5975823000002090040",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000002090050",
@@ -5875,10 +5972,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -5908,7 +6001,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000002090040"
+        "invoice_id":"5975823000002090040",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000001940058",
@@ -5972,10 +6069,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6005,7 +6098,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001940056"
+        "invoice_id":"5975823000001940056",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000001858025",
@@ -6069,10 +6166,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6102,7 +6195,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001858023"
+        "invoice_id":"5975823000001858023",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001797059",
@@ -6166,10 +6263,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6199,7 +6292,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001797057"
+        "invoice_id":"5975823000001797057",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001748032",
@@ -6263,10 +6360,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -6296,7 +6389,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001748030"
+        "invoice_id":"5975823000001748030",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000001409073",
@@ -6360,10 +6457,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6393,7 +6486,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001409071"
+        "invoice_id":"5975823000001409071",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001409075",
@@ -6457,10 +6554,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6490,7 +6583,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001409071"
+        "invoice_id":"5975823000001409071",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001409077",
@@ -6554,10 +6651,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6587,7 +6680,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001409071"
+        "invoice_id":"5975823000001409071",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001409079",
@@ -6651,10 +6748,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6684,7 +6777,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001409071"
+        "invoice_id":"5975823000001409071",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001409081",
@@ -6748,10 +6845,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6781,7 +6874,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001409071"
+        "invoice_id":"5975823000001409071",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001409083",
@@ -6845,10 +6942,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6878,7 +6971,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001409071"
+        "invoice_id":"5975823000001409071",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001415051",
@@ -6942,10 +7039,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -6975,7 +7068,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001415049"
+        "invoice_id":"5975823000001415049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001033059",
@@ -7039,10 +7136,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7072,7 +7165,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001033057"
+        "invoice_id":"5975823000001033057",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001033061",
@@ -7136,10 +7233,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7169,7 +7262,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001033057"
+        "invoice_id":"5975823000001033057",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001033063",
@@ -7233,10 +7330,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7266,7 +7359,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001033057"
+        "invoice_id":"5975823000001033057",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001033065",
@@ -7330,10 +7427,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7363,7 +7456,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001033057"
+        "invoice_id":"5975823000001033057",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001033067",
@@ -7427,10 +7524,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7460,7 +7553,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001033057"
+        "invoice_id":"5975823000001033057",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001033069",
@@ -7524,10 +7621,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7557,7 +7650,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001033057"
+        "invoice_id":"5975823000001033057",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000001033071",
@@ -7621,10 +7718,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7654,7 +7747,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000001033057"
+        "invoice_id":"5975823000001033057",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000883106",
@@ -7718,10 +7815,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7751,7 +7844,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000883104"
+        "invoice_id":"5975823000000883104",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000883108",
@@ -7815,10 +7912,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7848,7 +7941,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000883104"
+        "invoice_id":"5975823000000883104",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000754003",
@@ -7912,10 +8009,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -7945,7 +8038,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000754001"
+        "invoice_id":"5975823000000754001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000754005",
@@ -8009,10 +8106,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8042,7 +8135,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000754001"
+        "invoice_id":"5975823000000754001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000547242",
@@ -8106,10 +8203,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -8139,7 +8232,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000547240"
+        "invoice_id":"5975823000000547240",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000547244",
@@ -8203,10 +8300,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -8236,7 +8329,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000547240"
+        "invoice_id":"5975823000000547240",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000547246",
@@ -8300,10 +8397,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -8333,7 +8426,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000547240"
+        "invoice_id":"5975823000000547240",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000547248",
@@ -8397,10 +8494,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -8430,7 +8523,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000547240"
+        "invoice_id":"5975823000000547240",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000547250",
@@ -8494,10 +8591,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -8527,7 +8620,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000547240"
+        "invoice_id":"5975823000000547240",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000547252",
@@ -8591,10 +8688,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -8624,7 +8717,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000547240"
+        "invoice_id":"5975823000000547240",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000547254",
@@ -8688,10 +8785,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -8721,7 +8814,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000547240"
+        "invoice_id":"5975823000000547240",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000547256",
@@ -8785,10 +8882,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -8818,7 +8911,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000547240"
+        "invoice_id":"5975823000000547240",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000506177",
@@ -8882,10 +8979,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -8915,7 +9008,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000506175"
+        "invoice_id":"5975823000000506175",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000506179",
@@ -8979,10 +9076,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9012,7 +9105,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000506175"
+        "invoice_id":"5975823000000506175",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000506181",
@@ -9076,10 +9173,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9109,7 +9202,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000506175"
+        "invoice_id":"5975823000000506175",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000506183",
@@ -9173,10 +9270,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9206,7 +9299,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000506175"
+        "invoice_id":"5975823000000506175",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000506185",
@@ -9270,10 +9367,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9303,7 +9396,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000506175"
+        "invoice_id":"5975823000000506175",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000506187",
@@ -9367,10 +9464,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9400,7 +9493,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000506175"
+        "invoice_id":"5975823000000506175",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000506189",
@@ -9464,10 +9561,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9497,7 +9590,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000506175"
+        "invoice_id":"5975823000000506175",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000482782",
@@ -9561,10 +9658,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9594,7 +9687,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000482780"
+        "invoice_id":"5975823000000482780",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000482784",
@@ -9658,10 +9755,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9691,7 +9784,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000482780"
+        "invoice_id":"5975823000000482780",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000482786",
@@ -9755,10 +9852,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9788,7 +9881,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000482780"
+        "invoice_id":"5975823000000482780",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000482788",
@@ -9852,10 +9949,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9885,7 +9978,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000482780"
+        "invoice_id":"5975823000000482780",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000482790",
@@ -9949,10 +10046,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -9982,7 +10075,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000482780"
+        "invoice_id":"5975823000000482780",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000482792",
@@ -10046,10 +10143,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10079,7 +10172,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000482780"
+        "invoice_id":"5975823000000482780",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000482794",
@@ -10143,10 +10240,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10176,7 +10269,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000482780"
+        "invoice_id":"5975823000000482780",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000482796",
@@ -10240,10 +10337,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -10273,7 +10366,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000482780"
+        "invoice_id":"5975823000000482780",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000436672",
@@ -10337,10 +10434,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -10370,7 +10463,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000436670"
+        "invoice_id":"5975823000000436670",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412038",
@@ -10434,10 +10531,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -10467,7 +10560,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412040",
@@ -10531,10 +10628,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -10564,7 +10657,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412042",
@@ -10628,10 +10725,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -10661,7 +10754,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412044",
@@ -10725,10 +10822,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -10758,7 +10851,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412046",
@@ -10822,10 +10919,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -10855,7 +10948,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412048",
@@ -10919,10 +11016,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -10952,7 +11045,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412050",
@@ -11016,10 +11113,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11049,7 +11142,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412052",
@@ -11113,10 +11210,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11146,7 +11239,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000412054",
@@ -11210,10 +11307,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11243,7 +11336,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000412036"
+        "invoice_id":"5975823000000412036",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000388043",
@@ -11307,10 +11404,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11340,7 +11433,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000388041"
+        "invoice_id":"5975823000000388041",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000388045",
@@ -11404,10 +11501,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11437,7 +11530,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000388041"
+        "invoice_id":"5975823000000388041",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000339347",
@@ -11501,10 +11598,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11534,7 +11627,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000339345"
+        "invoice_id":"5975823000000339345",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000339349",
@@ -11598,10 +11695,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11631,7 +11724,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000339345"
+        "invoice_id":"5975823000000339345",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000339351",
@@ -11695,10 +11792,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11728,7 +11821,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000339345"
+        "invoice_id":"5975823000000339345",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000339353",
@@ -11792,10 +11889,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11825,7 +11918,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000339345"
+        "invoice_id":"5975823000000339345",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000339355",
@@ -11889,10 +11986,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -11922,7 +12015,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000339345"
+        "invoice_id":"5975823000000339345",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000339357",
@@ -11986,10 +12083,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -12019,7 +12112,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000339345"
+        "invoice_id":"5975823000000339345",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000331033",
@@ -12083,10 +12180,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -12116,7 +12209,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000331031"
+        "invoice_id":"5975823000000331031",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000260021",
@@ -12180,10 +12277,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -12213,7 +12306,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000260023",
@@ -12271,10 +12368,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12304,7 +12397,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260025",
@@ -12362,10 +12459,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12395,7 +12488,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260027",
@@ -12453,10 +12550,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12486,7 +12579,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260029",
@@ -12544,10 +12641,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12577,7 +12670,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260031",
@@ -12635,10 +12732,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12668,7 +12761,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260033",
@@ -12726,10 +12823,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12759,7 +12852,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260035",
@@ -12817,10 +12914,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12850,7 +12943,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260037",
@@ -12908,10 +13005,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -12941,7 +13034,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260039",
@@ -12999,10 +13096,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13032,7 +13125,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260041",
@@ -13090,10 +13187,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13123,7 +13216,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260043",
@@ -13181,10 +13278,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13214,7 +13307,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260045",
@@ -13272,10 +13369,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13305,7 +13398,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260047",
@@ -13363,10 +13460,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13396,7 +13489,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260049",
@@ -13454,10 +13551,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13487,7 +13580,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260051",
@@ -13545,10 +13642,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13578,7 +13671,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260053",
@@ -13636,10 +13733,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13669,7 +13762,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000260055",
@@ -13727,10 +13824,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13760,7 +13853,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000260019"
+        "invoice_id":"5975823000000260019",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000232248",
@@ -13824,10 +13921,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -13857,7 +13950,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000219129"
+        "invoice_id":"5975823000000219129",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000212269",
@@ -13921,10 +14018,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -13954,7 +14047,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000212267"
+        "invoice_id":"5975823000000212267",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194039",
@@ -14018,10 +14115,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -14051,7 +14144,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000194073",
@@ -14109,10 +14206,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14142,7 +14235,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194075",
@@ -14200,10 +14297,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14233,7 +14326,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194077",
@@ -14291,10 +14388,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14324,7 +14417,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194079",
@@ -14382,10 +14479,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14415,7 +14508,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194081",
@@ -14473,10 +14570,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14506,7 +14599,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194083",
@@ -14564,10 +14661,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14597,7 +14690,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194085",
@@ -14655,10 +14752,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14688,7 +14781,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194087",
@@ -14746,10 +14843,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14779,7 +14872,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194089",
@@ -14837,10 +14934,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14870,7 +14963,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194091",
@@ -14928,10 +15025,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -14961,7 +15054,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194093",
@@ -15019,10 +15116,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15052,7 +15145,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194095",
@@ -15110,10 +15207,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15143,7 +15236,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194097",
@@ -15201,10 +15298,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15234,7 +15327,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194099",
@@ -15292,10 +15389,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15325,7 +15418,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000194101",
@@ -15383,10 +15480,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15416,7 +15509,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000194037"
+        "invoice_id":"5975823000000194037",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000192003",
@@ -15480,10 +15577,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":"",
-        "available_stock":"",
-        "committed_stock":"",
-        "available_for_sale_stock":"",
         "project_id":"",
         "time_entry_ids":[
 
@@ -15513,7 +15606,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000192001"
+        "invoice_id":"5975823000000192001",
+        "stock_on_hand":"",
+        "available_stock":"",
+        "committed_stock":"",
+        "available_for_sale_stock":""
     },
     {
         "line_item_id":"5975823000000179314",
@@ -15577,10 +15674,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15610,7 +15703,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000179312"
+        "invoice_id":"5975823000000179312",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000179316",
@@ -15674,10 +15771,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15707,7 +15800,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000179312"
+        "invoice_id":"5975823000000179312",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000179318",
@@ -15771,10 +15868,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15804,7 +15897,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000179312"
+        "invoice_id":"5975823000000179312",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000179320",
@@ -15868,10 +15965,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15901,7 +15994,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000179312"
+        "invoice_id":"5975823000000179312",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000179322",
@@ -15965,10 +16062,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -15998,7 +16091,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000179312"
+        "invoice_id":"5975823000000179312",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000179324",
@@ -16062,10 +16159,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16095,7 +16188,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000179312"
+        "invoice_id":"5975823000000179312",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000179326",
@@ -16159,10 +16256,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16192,7 +16285,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000179312"
+        "invoice_id":"5975823000000179312",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148304",
@@ -16256,10 +16353,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16289,7 +16382,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148302"
+        "invoice_id":"5975823000000148302",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148306",
@@ -16353,10 +16450,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16386,7 +16479,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148302"
+        "invoice_id":"5975823000000148302",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148308",
@@ -16450,10 +16547,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16483,7 +16576,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148302"
+        "invoice_id":"5975823000000148302",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148310",
@@ -16547,10 +16644,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16580,7 +16673,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148302"
+        "invoice_id":"5975823000000148302",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148312",
@@ -16644,10 +16741,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16677,7 +16770,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148302"
+        "invoice_id":"5975823000000148302",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148314",
@@ -16741,10 +16838,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16774,7 +16867,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148302"
+        "invoice_id":"5975823000000148302",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148316",
@@ -16838,10 +16935,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16871,7 +16964,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148302"
+        "invoice_id":"5975823000000148302",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148186",
@@ -16935,10 +17032,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -16968,7 +17061,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148184"
+        "invoice_id":"5975823000000148184",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148133",
@@ -17032,10 +17129,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17065,7 +17158,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148131"
+        "invoice_id":"5975823000000148131",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000148017",
@@ -17129,10 +17226,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17162,7 +17255,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000148015"
+        "invoice_id":"5975823000000148015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000146053",
@@ -17226,10 +17323,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17259,7 +17352,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000146051"
+        "invoice_id":"5975823000000146051",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000146055",
@@ -17323,10 +17420,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17356,7 +17449,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000146051"
+        "invoice_id":"5975823000000146051",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000146057",
@@ -17420,10 +17517,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17453,7 +17546,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000146051"
+        "invoice_id":"5975823000000146051",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000146017",
@@ -17517,10 +17614,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17550,7 +17643,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000146015"
+        "invoice_id":"5975823000000146015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000144003",
@@ -17614,10 +17711,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17647,7 +17740,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000144001"
+        "invoice_id":"5975823000000144001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000144005",
@@ -17711,10 +17808,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17744,7 +17837,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000144001"
+        "invoice_id":"5975823000000144001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000144007",
@@ -17808,10 +17905,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17841,7 +17934,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000144001"
+        "invoice_id":"5975823000000144001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000144009",
@@ -17905,10 +18002,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -17938,7 +18031,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000144001"
+        "invoice_id":"5975823000000144001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000144011",
@@ -18002,10 +18099,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18035,7 +18128,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000144001"
+        "invoice_id":"5975823000000144001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000141017",
@@ -18099,10 +18196,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18132,7 +18225,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000141015"
+        "invoice_id":"5975823000000141015",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000139003",
@@ -18196,10 +18293,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18229,7 +18322,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000139001"
+        "invoice_id":"5975823000000139001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000139005",
@@ -18293,10 +18390,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18326,7 +18419,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000139001"
+        "invoice_id":"5975823000000139001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000139007",
@@ -18390,10 +18487,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18423,7 +18516,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000139001"
+        "invoice_id":"5975823000000139001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000139009",
@@ -18487,10 +18584,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18520,7 +18613,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000139001"
+        "invoice_id":"5975823000000139001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000139011",
@@ -18584,10 +18681,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18617,7 +18710,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000139001"
+        "invoice_id":"5975823000000139001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136198",
@@ -18681,10 +18778,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18714,7 +18807,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136196"
+        "invoice_id":"5975823000000136196",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136200",
@@ -18778,10 +18875,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18811,7 +18904,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136196"
+        "invoice_id":"5975823000000136196",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136202",
@@ -18875,10 +18972,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -18908,7 +19001,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136196"
+        "invoice_id":"5975823000000136196",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136114",
@@ -18972,10 +19069,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19005,7 +19098,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136112"
+        "invoice_id":"5975823000000136112",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136116",
@@ -19069,10 +19166,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19102,7 +19195,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136112"
+        "invoice_id":"5975823000000136112",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136118",
@@ -19166,10 +19263,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19199,7 +19292,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136112"
+        "invoice_id":"5975823000000136112",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136120",
@@ -19263,10 +19360,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19296,7 +19389,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136112"
+        "invoice_id":"5975823000000136112",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136134",
@@ -19360,10 +19457,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19393,7 +19486,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136112"
+        "invoice_id":"5975823000000136112",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136136",
@@ -19457,10 +19554,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19490,7 +19583,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136112"
+        "invoice_id":"5975823000000136112",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000136138",
@@ -19554,10 +19651,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19587,7 +19680,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000136112"
+        "invoice_id":"5975823000000136112",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000134003",
@@ -19651,10 +19748,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19684,7 +19777,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000134001"
+        "invoice_id":"5975823000000134001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000134005",
@@ -19748,10 +19845,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19781,7 +19874,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000134001"
+        "invoice_id":"5975823000000134001",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000132045",
@@ -19845,10 +19942,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19878,7 +19971,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000132043"
+        "invoice_id":"5975823000000132043",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000119196",
@@ -19942,10 +20039,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -19975,7 +20068,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119194"
+        "invoice_id":"5975823000000119194",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000119160",
@@ -20039,10 +20136,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20072,7 +20165,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119158"
+        "invoice_id":"5975823000000119158",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000119051",
@@ -20136,10 +20233,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20169,7 +20262,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120017",
@@ -20233,10 +20330,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20266,7 +20359,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120019",
@@ -20330,10 +20427,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20363,7 +20456,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120021",
@@ -20427,10 +20524,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20460,7 +20553,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120023",
@@ -20524,10 +20621,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20557,7 +20650,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120025",
@@ -20621,10 +20718,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20654,7 +20747,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120027",
@@ -20718,10 +20815,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20751,7 +20844,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120029",
@@ -20815,10 +20912,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20848,7 +20941,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120031",
@@ -20912,10 +21009,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -20945,7 +21038,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120033",
@@ -21009,10 +21106,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -21042,7 +21135,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120035",
@@ -21106,10 +21203,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -21139,7 +21232,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120037",
@@ -21203,10 +21300,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -21236,7 +21329,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120039",
@@ -21300,10 +21397,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -21333,7 +21426,11 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     },
     {
         "line_item_id":"5975823000000120041",
@@ -21397,10 +21494,6 @@
         ],
         "bill_id":"",
         "bill_item_id":"",
-        "stock_on_hand":null,
-        "available_stock":null,
-        "committed_stock":null,
-        "available_for_sale_stock":null,
         "project_id":"",
         "time_entry_ids":[
 
@@ -21430,6 +21523,10 @@
             "master_tax_category_code":""
         },
         "line_item_category":"line_item",
-        "invoice_id":"5975823000000119049"
+        "invoice_id":"5975823000000119049",
+        "stock_on_hand":null,
+        "available_stock":null,
+        "committed_stock":null,
+        "available_for_sale_stock":null
     }
 ]
