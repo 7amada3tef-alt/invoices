@@ -66119,5 +66119,185 @@
 
         ],
         "journal_id":"5975823000004441019"
+    },
+    {
+        "line_id":"5975823000004452131",
+        "account_id":"5975823000000101937",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Bank Al-Inma - 120206 - حساب مصرف الانماء",
+        "account_code":"120206",
+        "description":"تعزيز من حساب بنك الانماء الى الجزيرة الرئيسي",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1000000.0,
+        "bcy_amount":1000000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004452125"
+    },
+    {
+        "line_id":"5975823000004452132",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"تعزيز من حساب بنك الانماء الى الجزيرة الرئيسي",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1000000.0,
+        "bcy_amount":1000000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004452125"
+    },
+    {
+        "line_id":"5975823000004452148",
+        "account_id":"5975823000000168013",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Anas Lutfi custody - 120102 - عهدة انس لطفي",
+        "account_code":"120102",
+        "description":"00000001\nAdded By\n50003 - Anas - Abu Musa\nEmployee Name\n50003 - Anas - Abu Musa\nProject Manager\n50003 - Anas - Abu Musa\nDate\n12-Aug-2026\nDue Date\n17-Aug-2026\nCost Center\n8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب\nAmount\n1.00\nTransfer Amount\n10000.00\nAdded Time\n12-Aug-2026 12:36 PM\nModified By\nFIN 002 - Ahmed - Mahfoudh Alkhanbashi\nBank Account IBAN\nSA8080000190608010224145\nNotes\nعهدة مالية للدفع بواسطة الفيزا للخطة التسويقية للمشروع بمنصتي x و لينكد ان",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10000.0,
+        "bcy_amount":10000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004452142"
+    },
+    {
+        "line_id":"5975823000004452149",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"00000001\nAdded By\n50003 - Anas - Abu Musa\nEmployee Name\n50003 - Anas - Abu Musa\nProject Manager\n50003 - Anas - Abu Musa\nDate\n12-Aug-2026\nDue Date\n17-Aug-2026\nCost Center\n8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب\nAmount\n1.00\nTransfer Amount\n10000.00\nAdded Time\n12-Aug-2026 12:36 PM\nModified By\nFIN 002 - Ahmed - Mahfoudh Alkhanbashi\nBank Account IBAN\nSA8080000190608010224145\nNotes\nعهدة مالية للدفع بواسطة الفيزا للخطة التسويقية للمشروع بمنصتي x و لينكد ان",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10000.0,
+        "bcy_amount":10000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004452142"
+    },
+    {
+        "line_id":"5975823000004452352",
+        "account_id":"5975823000000101417",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Zakat - 630110 - زكاة شرعية",
+        "account_code":"630110",
+        "description":"سداد المتبقي من زكاة 2024 بعد تحديث الفاتورة بالهيئة ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":83125.17,
+        "bcy_amount":83125.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004452346"
+    },
+    {
+        "line_id":"5975823000004452353",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"سداد المتبقي من زكاة 2024 بعد تحديث الفاتورة بالهيئة ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":83125.17,
+        "bcy_amount":83125.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004452346"
     }
 ]

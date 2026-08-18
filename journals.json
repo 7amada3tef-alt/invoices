@@ -15142,5 +15142,77 @@
         "last_modified_time":"2026-08-13T11:17:14+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004452125",
+        "journal_date":"2026-08-17",
+        "entry_number":"JE -000631",
+        "reference_number":"تعزيز من حساب بنك الانماء الى الجزيرة الرئيسي",
+        "currency_id":"5975823000000091149",
+        "book_id":"",
+        "book_name":"",
+        "is_default_book":false,
+        "is_adjustment_book":false,
+        "adjustment_book_id":"",
+        "status":"published",
+        "notes":"تعزيز من حساب بنك الانماء الى الجزيرة الرئيسي",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":1000000.0,
+        "bcy_total":1000000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-17T14:01:34+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004452142",
+        "journal_date":"2026-08-17",
+        "entry_number":"JE -000632",
+        "reference_number":"PCR - 000000001",
+        "currency_id":"5975823000000091149",
+        "book_id":"",
+        "book_name":"",
+        "is_default_book":false,
+        "is_adjustment_book":false,
+        "adjustment_book_id":"",
+        "status":"published",
+        "notes":"00000001\nAdded By\n50003 - Anas - Abu Musa\nEmployee Name\n50003 - Anas - Abu Musa\nProject Manager\n50003 - Anas - Abu Musa\nDate\n12-Aug-2026\nDue Date\n17-Aug-2026\nCost Center\n8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب\nAmount\n1.00\nTransfer Amount\n10000.00\nAdded Time\n12-Aug-2026 12:36 PM\nModified By\nFIN 002 - Ahmed - Mahfoudh Alkhanbashi\nBank Account IBAN\nSA8080000190608010224145\nNotes\nعهدة مالية للدفع بواسطة الفيزا للخطة التسويقية للمشروع بمنصتي x و لينكد ان",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":10000.0,
+        "bcy_total":10000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-18T09:54:37+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004452346",
+        "journal_date":"2026-08-17",
+        "entry_number":"JE -000633",
+        "reference_number":"سداد المتبقي من زكاة 2024 بعد تحديث الفاتورة بالهيئة ",
+        "currency_id":"5975823000000091149",
+        "book_id":"",
+        "book_name":"",
+        "is_default_book":false,
+        "is_adjustment_book":false,
+        "adjustment_book_id":"",
+        "status":"published",
+        "notes":"سداد المتبقي من زكاة 2024 بعد تحديث الفاتورة بالهيئة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":83125.17,
+        "bcy_total":83125.17,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-18T10:07:47+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
     }
 ]
