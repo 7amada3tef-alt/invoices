@@ -9177,6 +9177,27 @@
         "fcy_credit_amount": ""
     },
     {
+        "categorized_transaction_id": "5975823000004514038",
+        "transaction_type": "bill",
+        "transaction_id": "5975823000004514030",
+        "transaction_date": "2026-08-19",
+        "transaction_type_formatted": "Bill",
+        "account_id": "5975823000000091047",
+        "customer_id": "5975823000000186425",
+        "payee": "Obaid Abid - شركة عبيد عبدالرؤوف عابد محاسبون ومراجعون قانونيون",
+        "description": "",
+        "entry_number": "INV-000549",
+        "currency_id": "5975823000000091149",
+        "currency_code": "SAR",
+        "debit_or_credit": "debit",
+        "offset_account_name": "",
+        "reference_number": "",
+        "debit_amount": 1875.0,
+        "credit_amount": "",
+        "fcy_debit_amount": 1875.0,
+        "fcy_credit_amount": ""
+    },
+    {
         "categorized_transaction_id": "5975823000004431534",
         "transaction_type": "expense",
         "transaction_id": "5975823000004431513",

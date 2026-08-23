@@ -15214,5 +15214,29 @@
         "last_modified_time":"2026-08-18T10:07:47+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004514004",
+        "journal_date":"2026-08-19",
+        "entry_number":"JE -000634",
+        "reference_number":"سداد فاتورة الزكاة لعام 2025-2026",
+        "currency_id":"5975823000000091149",
+        "book_id":"",
+        "book_name":"",
+        "is_default_book":false,
+        "is_adjustment_book":false,
+        "adjustment_book_id":"",
+        "status":"published",
+        "notes":"سداد فاتورة الزكاة لعام 2025-2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":20508.94,
+        "bcy_total":20508.94,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-23T11:25:25+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
     }
 ]

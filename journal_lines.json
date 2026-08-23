@@ -66299,5 +66299,69 @@
 
         ],
         "journal_id":"5975823000004452346"
+    },
+    {
+        "line_id":"5975823000004514012",
+        "account_id":"5975823000000289949",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Zakat Provision - 220701 - مخصص الزكاة الشرعية",
+        "account_code":"220701",
+        "description":"سداد فاتورة الزكاة لعام 2025-2026",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20508.94,
+        "bcy_amount":20508.94,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004514004"
+    },
+    {
+        "line_id":"5975823000004514013",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"سداد فاتورة الزكاة لعام 2025-2026",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20508.94,
+        "bcy_amount":20508.94,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004514004"
     }
 ]
