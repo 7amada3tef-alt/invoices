@@ -15238,5 +15238,29 @@
         "last_modified_time":"2026-08-23T11:25:25+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
+    },
+    {
+        "journal_id":"5975823000004554021",
+        "journal_date":"2026-08-27",
+        "entry_number":"Payroll-10",
+        "reference_number":"",
+        "currency_id":"5975823000000091149",
+        "book_id":"",
+        "book_name":"",
+        "is_default_book":false,
+        "is_adjustment_book":false,
+        "adjustment_book_id":"",
+        "status":"published",
+        "notes":"Regular Payroll Journal for Pay Period (01 Aug 2026 - 31 Aug 2026)",
+        "journal_type":"both",
+        "entity_type":"payroll_journal",
+        "total":254757.24,
+        "bcy_total":254757.24,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-26T10:59:32+0300",
+        "created_by_id":"5975823000000658095",
+        "created_by_name":"Ahmed Alkhanbashi"
     }
 ]
