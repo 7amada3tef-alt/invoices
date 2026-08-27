@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 7898885.13,
+      "total": 7885883.46,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 7638356.66,
+          "total": 7625354.99,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -184,7 +184,7 @@
               "previous_total": []
             },
             {
-              "total": 3807366.81,
+              "total": 3794365.14,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -293,7 +293,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 875.0,
+                  "total": 840.0,
                   "account_id": "5975823000000102699",
                   "depth": 0,
                   "previous_values": [],
@@ -397,7 +397,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 74316.63,
+                  "total": 61349.96,
                   "account_id": "5975823000001427081",
                   "depth": 0,
                   "previous_values": [],
@@ -643,17 +643,17 @@
       "previous_total": []
     },
     {
-      "total": 7898885.13,
+      "total": 7885883.46,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 1696636.44,
+          "total": 1938392.01,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1520108.05,
+              "total": 1761863.62,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
@@ -681,6 +681,32 @@
                   "name": "Accrued bonus - 220207 - مكافات موظفين مستحقة",
                   "previous_total_sub_account": [],
                   "account_code": "220207",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 24773.76,
+                  "account_id": "5975823000000102789",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
+                  "previous_total_sub_account": [],
+                  "account_code": "220203",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 216981.81,
+                  "account_id": "5975823000000102807",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Accrued payroll - 220206 - رواتب مستحقة",
+                  "previous_total_sub_account": [],
+                  "account_code": "220206",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -779,12 +805,12 @@
           "previous_total": []
         },
         {
-          "total": 6202248.69,
+          "total": 5947491.45,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 803123.38,
+              "total": 548366.14,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -844,12 +870,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-08-26",
-    "to_date": "2026-08-26",
+    "as_of_date": "2026-08-27",
+    "to_date": "2026-08-27",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "26 Aug 2026 12:37 PM",
+    "last_accessed_time_formatted": "27 Aug 2026 10:28 PM",
     "select_columns": [
       {
         "field": "name",
@@ -878,9 +904,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "26 Aug 2026",
-        "from_date": "2026-08-26",
-        "to_date": "2026-08-26"
+        "date_range_label": "27 Aug 2026",
+        "from_date": "2026-08-27",
+        "to_date": "2026-08-27"
       }
     ],
     "sort_column": "account",
