@@ -77,9 +77,11 @@
             }
         ],
         "customer_cf_account_code":"1203136",
+        "customer_cf_account_code_formatted":"1203136",
         "customer_cf_account_code_unformatted":"1203136",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203136",
+            "customer_cf_account_code_formatted":"1203136",
             "customer_cf_account_code_unformatted":"1203136"
         },
         "salesperson_name":"",
@@ -114,7 +116,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f4378bc13f5f2196b00e1a47c056f15e92b8c2e8abe5e9b368b5108c09e50dbdf1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bff5ae03dfe0982a9f ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f4378bc13f5f2196b00e1a47c056f15e15d13b30f8fc07823fdaf1c547aa6100f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb682a6a761cb49291 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -142,7 +144,7 @@
         "date":"2026-07-29",
         "due_date":"2026-07-29",
         "issued_date":"2026-08-02",
-        "due_days":"Overdue by 29 days",
+        "due_days":"Overdue by 30 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -206,9 +208,11 @@
             }
         ],
         "customer_cf_account_code":"1203013",
+        "customer_cf_account_code_formatted":"1203013",
         "customer_cf_account_code_unformatted":"1203013",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203013",
+            "customer_cf_account_code_formatted":"1203013",
             "customer_cf_account_code_unformatted":"1203013"
         },
         "salesperson_name":"",
@@ -243,7 +247,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425883cd2a63cf8514d3c51c9c51c00f237992b8c2e8abe5e9b3dd3dbd0e2bdfcbf9f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf71283534e31a5838 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425883cd2a63cf8514d3c51c9c51c00f237915d13b30f8fc078230cc1b44fe4555b0f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb507c4cab612154f0 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -335,9 +339,11 @@
             }
         ],
         "customer_cf_account_code":"1203013",
+        "customer_cf_account_code_formatted":"1203013",
         "customer_cf_account_code_unformatted":"1203013",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203013",
+            "customer_cf_account_code_formatted":"1203013",
             "customer_cf_account_code_unformatted":"1203013"
         },
         "salesperson_name":"",
@@ -373,7 +379,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425883cd2a63cf8514d3b183a132eb2cab7492b8c2e8abe5e9b3f64bb7f8d06ef327f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bffcf75db29097f18c ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425883cd2a63cf8514d3b183a132eb2cab7415d13b30f8fc07820eab4b54cc63d288f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfbe958e333bdaeb0c3 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -465,9 +471,11 @@
             }
         ],
         "customer_cf_account_code":"1203142",
+        "customer_cf_account_code_formatted":"1203142",
         "customer_cf_account_code_unformatted":"1203142",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203142",
+            "customer_cf_account_code_formatted":"1203142",
             "customer_cf_account_code_unformatted":"1203142"
         },
         "salesperson_name":"",
@@ -502,7 +510,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fca26e10c307b00692cfd6be60ffcf8592b8c2e8abe5e9b3973621023f9ee9c8f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf7a11647a16fe4ab4 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fca26e10c307b00692cfd6be60ffcf8515d13b30f8fc0782518a1332d07c5340f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb8c0bb4b8c6566587 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -594,9 +602,11 @@
             }
         ],
         "customer_cf_account_code":"1203016",
+        "customer_cf_account_code_formatted":"1203016",
         "customer_cf_account_code_unformatted":"1203016",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203016",
+            "customer_cf_account_code_formatted":"1203016",
             "customer_cf_account_code_unformatted":"1203016"
         },
         "salesperson_name":"",
@@ -631,7 +641,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fca26e10c307b0067682e36327fba05492b8c2e8abe5e9b322304da2245f0a00f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf54e8cf85437a7c68 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fca26e10c307b0067682e36327fba05415d13b30f8fc0782f445de3e5354fffaf1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfbb4ebdaa271957460 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -723,9 +733,11 @@
             }
         ],
         "customer_cf_account_code":"1203136",
+        "customer_cf_account_code_formatted":"1203136",
         "customer_cf_account_code_unformatted":"1203136",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203136",
+            "customer_cf_account_code_formatted":"1203136",
             "customer_cf_account_code_unformatted":"1203136"
         },
         "salesperson_name":"",
@@ -760,7 +772,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587897054dda1d471f4df6a10367b2d08792b8c2e8abe5e9b3fa024fccbd791dd6f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bfe958e333bdaeb0c3 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587897054dda1d471f4df6a10367b2d08715d13b30f8fc0782238d79c633918c85f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb294034916e1623a5 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -852,9 +864,11 @@
             }
         ],
         "customer_cf_account_code":"1203134",
+        "customer_cf_account_code_formatted":"1203134",
         "customer_cf_account_code_unformatted":"1203134",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203134",
+            "customer_cf_account_code_formatted":"1203134",
             "customer_cf_account_code_unformatted":"1203134"
         },
         "salesperson_name":"",
@@ -889,7 +903,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8eb997ba34742aad5d6860c07e6a6c792b8c2e8abe5e9b3c371de57cfb0f7abf1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bfab2e67f7acee8330 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8eb997ba34742aad5d6860c07e6a6c715d13b30f8fc0782cc92b35213b38ca9f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb3e63e76261c3d22e ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -981,9 +995,11 @@
             }
         ],
         "customer_cf_account_code":"1203147",
+        "customer_cf_account_code_formatted":"1203147",
         "customer_cf_account_code_unformatted":"1203147",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203147",
+            "customer_cf_account_code_formatted":"1203147",
             "customer_cf_account_code_unformatted":"1203147"
         },
         "salesperson_name":"",
@@ -1019,7 +1035,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258014b706b7f3711224df6a10367b2d08792b8c2e8abe5e9b3bd7ff9f48bb3f9f4f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bfbb7a2cb97c14bf49 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258014b706b7f3711224df6a10367b2d08715d13b30f8fc0782933c4b4d8c589202f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb07aad79b0bfa2940 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1111,9 +1127,11 @@
             }
         ],
         "customer_cf_account_code":"1203032",
+        "customer_cf_account_code_formatted":"1203032",
         "customer_cf_account_code_unformatted":"1203032",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203032",
+            "customer_cf_account_code_formatted":"1203032",
             "customer_cf_account_code_unformatted":"1203032"
         },
         "salesperson_name":"",
@@ -1148,7 +1166,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258c7dfc75669445d937f2082fb6a99a7c492b8c2e8abe5e9b3655d4238bfe72aabf1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf8c0bb4b8c6566587 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258c7dfc75669445d937f2082fb6a99a7c415d13b30f8fc0782768d046eb57d0954f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfbed233ca02dd13c0a ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1240,9 +1258,11 @@
             }
         ],
         "customer_cf_account_code":"1203142",
+        "customer_cf_account_code_formatted":"1203142",
         "customer_cf_account_code_unformatted":"1203142",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203142",
+            "customer_cf_account_code_formatted":"1203142",
             "customer_cf_account_code_unformatted":"1203142"
         },
         "salesperson_name":"",
@@ -1277,7 +1297,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e58dd1cf5f96b2f4df6a10367b2d08792b8c2e8abe5e9b34de476512989c020f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bfb4ebdaa271957460 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e58dd1cf5f96b2f4df6a10367b2d08715d13b30f8fc0782f7b8cdeebac2f5b9f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb3e408132263acd5d ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1369,9 +1389,11 @@
             }
         ],
         "customer_cf_account_code":"1203146",
+        "customer_cf_account_code_formatted":"1203146",
         "customer_cf_account_code_unformatted":"1203146",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203146",
+            "customer_cf_account_code_formatted":"1203146",
             "customer_cf_account_code_unformatted":"1203146"
         },
         "salesperson_name":"",
@@ -1406,7 +1428,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425817b76fb162d3c7b8a0f90ef20e3affcd92b8c2e8abe5e9b33660722d7fa0072bf1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bfb5b91bc5d5317a87 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425817b76fb162d3c7b8a0f90ef20e3affcd15d13b30f8fc078243621eed3d9b5faaf1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb42a1a40f3032cdd5 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1498,9 +1520,11 @@
             }
         ],
         "customer_cf_account_code":"1203141",
+        "customer_cf_account_code_formatted":"1203141",
         "customer_cf_account_code_unformatted":"1203141",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203141",
+            "customer_cf_account_code_formatted":"1203141",
             "customer_cf_account_code_unformatted":"1203141"
         },
         "salesperson_name":"",
@@ -1535,7 +1559,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584317e54e4c78ce0c4df6a10367b2d08792b8c2e8abe5e9b3e2a71ea58058f851f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf4d85f3f82df208db ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584317e54e4c78ce0c4df6a10367b2d08715d13b30f8fc07827ab40b49355ed779f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfbd719da9c9fd2f9f0 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1627,9 +1651,11 @@
             }
         ],
         "customer_cf_account_code":"1203134",
+        "customer_cf_account_code_formatted":"1203134",
         "customer_cf_account_code_unformatted":"1203134",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203134",
+            "customer_cf_account_code_formatted":"1203134",
             "customer_cf_account_code_unformatted":"1203134"
         },
         "salesperson_name":"",
@@ -1664,7 +1690,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583fee3329f48445b14df6a10367b2d08792b8c2e8abe5e9b32a32123a519e1957f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf3e63e76261c3d22e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583fee3329f48445b14df6a10367b2d08715d13b30f8fc078289a29388b6e33fe6f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfbe30a754618beaebb ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1692,7 +1718,7 @@
         "date":"2026-04-09",
         "due_date":"2026-04-09",
         "issued_date":"2026-04-14",
-        "due_days":"Overdue by 140 days",
+        "due_days":"Overdue by 141 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -1756,9 +1782,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -1793,7 +1821,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d4484be9afc36832b183a132eb2cab7492b8c2e8abe5e9b323fab7833a44e2e7f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf07aad79b0bfa2940 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d4484be9afc36832b183a132eb2cab7415d13b30f8fc07827e4e24f6182af712f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb84a18aba42435da6 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1885,9 +1913,11 @@
             }
         ],
         "customer_cf_account_code":"1203141",
+        "customer_cf_account_code_formatted":"1203141",
         "customer_cf_account_code_unformatted":"1203141",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203141",
+            "customer_cf_account_code_formatted":"1203141",
             "customer_cf_account_code_unformatted":"1203141"
         },
         "salesperson_name":"",
@@ -1922,7 +1952,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258771a6cfe3c4b6b86e694cb43fa5771af92b8c2e8abe5e9b3ccea4318707ab782f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf107b58659ff0669d ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258771a6cfe3c4b6b86e694cb43fa5771af15d13b30f8fc078286b5b6f4722611e6f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb1e4e43ff8cfb89da ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2014,9 +2044,11 @@
             }
         ],
         "customer_cf_account_code":"1203013",
+        "customer_cf_account_code_formatted":"1203013",
         "customer_cf_account_code_unformatted":"1203013",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203013",
+            "customer_cf_account_code_formatted":"1203013",
             "customer_cf_account_code_unformatted":"1203013"
         },
         "salesperson_name":"",
@@ -2051,7 +2083,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258728e2613e6109ffce694cb43fa5771af92b8c2e8abe5e9b30251eef7df2be86ff1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bfed233ca02dd13c0a ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258728e2613e6109ffce694cb43fa5771af15d13b30f8fc078250089e5c7d4fe171f1a2a5436c2e473d233a399ffdda9c8a2710e610b2d31cfb03b803f0dbb524a7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2143,9 +2175,11 @@
             }
         ],
         "customer_cf_account_code":"1203134",
+        "customer_cf_account_code_formatted":"1203134",
         "customer_cf_account_code_unformatted":"1203134",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203134",
+            "customer_cf_account_code_formatted":"1203134",
             "customer_cf_account_code_unformatted":"1203134"
         },
         "salesperson_name":"",
@@ -2180,7 +2214,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16bea71c18b7b5ff1d1392b8c2e8abe5e9b36e9d811e88173d20f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf3e408132263acd5d ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16bea71c18b7b5ff1d1315d13b30f8fc07827092ae5e321d430bf1a2a5436c2e473d233a399ffdda9c8ab681d825d37117293dc6aa691b36dd00 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2272,9 +2306,11 @@
             }
         ],
         "customer_cf_account_code":"1203123",
+        "customer_cf_account_code_formatted":"1203123",
         "customer_cf_account_code_unformatted":"1203123",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203123",
+            "customer_cf_account_code_formatted":"1203123",
             "customer_cf_account_code_unformatted":"1203123"
         },
         "salesperson_name":"",
@@ -2310,7 +2346,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16be7f2082fb6a99a7c492b8c2e8abe5e9b388608a3e4a154fccf1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bfd719da9c9fd2f9f0 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16be7f2082fb6a99a7c415d13b30f8fc078292f0a105722d3cecf1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729631f15c7b27dae4e ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2402,9 +2438,11 @@
             }
         ],
         "customer_cf_account_code":"1203131",
+        "customer_cf_account_code_formatted":"1203131",
         "customer_cf_account_code_unformatted":"1203131",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203131",
+            "customer_cf_account_code_formatted":"1203131",
             "customer_cf_account_code_unformatted":"1203131"
         },
         "salesperson_name":"",
@@ -2439,7 +2477,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588d6141eae6c41569f850e6505617a24a92b8c2e8abe5e9b3e6d07f6d8f50cb9bf1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf2ccda8bc1c3f1f4e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588d6141eae6c41569f850e6505617a24a15d13b30f8fc0782f998f9f1efc4d3dbf1a2a5436c2e473d233a399ffdda9c8ab681d825d371172964f095070335b8bd ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2531,9 +2569,11 @@
             }
         ],
         "customer_cf_account_code":"1203139",
+        "customer_cf_account_code_formatted":"1203139",
         "customer_cf_account_code_unformatted":"1203139",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203139",
+            "customer_cf_account_code_formatted":"1203139",
             "customer_cf_account_code_unformatted":"1203139"
         },
         "salesperson_name":"",
@@ -2568,7 +2608,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d7120e184b73f4f81b7c27e56c7b9e0992b8c2e8abe5e9b38300a40341b31459f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf3e31f0c3f1970f51 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d7120e184b73f4f81b7c27e56c7b9e0915d13b30f8fc078200361f09304e1675f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117295931504ad805a6ed ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2660,9 +2700,11 @@
             }
         ],
         "customer_cf_account_code":"1203131",
+        "customer_cf_account_code_formatted":"1203131",
         "customer_cf_account_code_unformatted":"1203131",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203131",
+            "customer_cf_account_code_formatted":"1203131",
             "customer_cf_account_code_unformatted":"1203131"
         },
         "salesperson_name":"",
@@ -2697,7 +2739,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce58746b6a7db33329be92b8c2e8abe5e9b360b63cabccb87a65f1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf84a18aba42435da6 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce58746b6a7db33329be15d13b30f8fc07825e19c076c329a230f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117293cac44edc835bd59 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2789,9 +2831,11 @@
             }
         ],
         "customer_cf_account_code":"1203139",
+        "customer_cf_account_code_formatted":"1203139",
         "customer_cf_account_code_unformatted":"1203139",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203139",
+            "customer_cf_account_code_formatted":"1203139",
             "customer_cf_account_code_unformatted":"1203139"
         },
         "salesperson_name":"",
@@ -2826,7 +2870,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce587f2082fb6a99a7c492b8c2e8abe5e9b3821c0ca053dd09def1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf1e4e43ff8cfb89da ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce587f2082fb6a99a7c415d13b30f8fc0782678c94e6d0bbc52ff1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729778bc4aaca2884ab ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2918,9 +2962,11 @@
             }
         ],
         "customer_cf_account_code":"1203134",
+        "customer_cf_account_code_formatted":"1203134",
         "customer_cf_account_code_unformatted":"1203134",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203134",
+            "customer_cf_account_code_formatted":"1203134",
             "customer_cf_account_code_unformatted":"1203134"
         },
         "salesperson_name":"",
@@ -2955,7 +3001,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258009befdba6d08ca5171ed2c05c3af9e492b8c2e8abe5e9b36e9c6ec12452cc2af1a2a5436c2e473d233a399ffdda9c8a36386140f7f1a4bf11e80a707f5b3196 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258009befdba6d08ca5171ed2c05c3af9e415d13b30f8fc078271969be8f2fa1a98f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729b0ba99e283f66bdf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3047,9 +3093,11 @@
             }
         ],
         "customer_cf_account_code":"1203137",
+        "customer_cf_account_code_formatted":"1203137",
         "customer_cf_account_code_unformatted":"1203137",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203137",
+            "customer_cf_account_code_formatted":"1203137",
             "customer_cf_account_code_unformatted":"1203137"
         },
         "salesperson_name":"",
@@ -3084,7 +3132,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585fcde54e201f26288dd45175dceff70a92b8c2e8abe5e9b330f7c8fd50a25b96f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafe60017142e653165 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585fcde54e201f26288dd45175dceff70a15d13b30f8fc0782f83fb5fb2b942580f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729b9ffaf52a02f68a1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3176,9 +3224,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -3213,7 +3263,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bd86736c01d9fc69bda3d9f777b2d00792b8c2e8abe5e9b35d75d5fd36755791f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf392d9c82809d1b30 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bd86736c01d9fc69bda3d9f777b2d00715d13b30f8fc07828d2b8be98493fe12f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117299bebd9de652fae37 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3305,9 +3355,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -3342,7 +3394,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b8fe6a8a85599d3cd2880c964d97b6bf92b8c2e8abe5e9b3d0f07cf994e54064f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf00c7033f1f64f728 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b8fe6a8a85599d3cd2880c964d97b6bf15d13b30f8fc07823828a1125e91a3adf1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729d0b4a499fe2293cf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3434,9 +3486,11 @@
             }
         ],
         "customer_cf_account_code":"1203136",
+        "customer_cf_account_code_formatted":"1203136",
         "customer_cf_account_code_unformatted":"1203136",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203136",
+            "customer_cf_account_code_formatted":"1203136",
             "customer_cf_account_code_unformatted":"1203136"
         },
         "salesperson_name":"",
@@ -3471,7 +3525,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a109103825367047f850e6505617a24a92b8c2e8abe5e9b38f30d46d0177c234f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf0394f8c6d25bb4c1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a109103825367047f850e6505617a24a15d13b30f8fc0782026cef01b46bb4dff1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729bf9aa568d2e39356 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3563,9 +3617,11 @@
             }
         ],
         "customer_cf_account_code":"1203121",
+        "customer_cf_account_code_formatted":"1203121",
         "customer_cf_account_code_unformatted":"1203121",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203121",
+            "customer_cf_account_code_formatted":"1203121",
             "customer_cf_account_code_unformatted":"1203121"
         },
         "salesperson_name":"",
@@ -3600,7 +3656,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fc90be45e996ca2858fbcb29d55a412692b8c2e8abe5e9b3955b500668403f32f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafb1415971ddcf656b ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fc90be45e996ca2858fbcb29d55a412615d13b30f8fc078293da2e547bb12485f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117290e137a4cbe99fea1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3692,9 +3748,11 @@
             }
         ],
         "customer_cf_account_code":"1203134",
+        "customer_cf_account_code_formatted":"1203134",
         "customer_cf_account_code_unformatted":"1203134",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203134",
+            "customer_cf_account_code_formatted":"1203134",
             "customer_cf_account_code_unformatted":"1203134"
         },
         "salesperson_name":"",
@@ -3729,7 +3787,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f3768172a4332885d358a8094a6e714892b8c2e8abe5e9b3ba5b8a89a9b71fb3f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafd03c6869c9c96085 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f3768172a4332885d358a8094a6e714815d13b30f8fc0782ad04d911dbdc5a4cf1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729afc79af1c396fa42 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3821,9 +3879,11 @@
             }
         ],
         "customer_cf_account_code":"1203127",
+        "customer_cf_account_code_formatted":"1203127",
         "customer_cf_account_code_unformatted":"1203127",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203127",
+            "customer_cf_account_code_formatted":"1203127",
             "customer_cf_account_code_unformatted":"1203127"
         },
         "salesperson_name":"",
@@ -3858,7 +3918,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258448f8e158ed9d991f82767726f8661ed92b8c2e8abe5e9b3d91d79b00f1eacb1f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf0332fb14bc787af1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258448f8e158ed9d991f82767726f8661ed15d13b30f8fc078263789e5eee57f925f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117290441cc9a10765ec5 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3950,9 +4010,11 @@
             }
         ],
         "customer_cf_account_code":"1203001",
+        "customer_cf_account_code_formatted":"1203001",
         "customer_cf_account_code_unformatted":"1203001",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203001",
+            "customer_cf_account_code_formatted":"1203001",
             "customer_cf_account_code_unformatted":"1203001"
         },
         "salesperson_name":"",
@@ -3987,7 +4049,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e1ced53e9aa3a623e57b5a9b5ed1d29292b8c2e8abe5e9b32787e2a0e0814ffbf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf290972db18db4c90 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e1ced53e9aa3a623e57b5a9b5ed1d29215d13b30f8fc0782f9b41546c644ed19f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117299a48202c864b2dbd ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4079,9 +4141,11 @@
             }
         ],
         "customer_cf_account_code":"1203131",
+        "customer_cf_account_code_formatted":"1203131",
         "customer_cf_account_code_unformatted":"1203131",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203131",
+            "customer_cf_account_code_formatted":"1203131",
             "customer_cf_account_code_unformatted":"1203131"
         },
         "salesperson_name":"",
@@ -4116,7 +4180,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ec985cc55fe9398e4206510dd12f97dc92b8c2e8abe5e9b34bd00c438a0a45a9f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf631f15c7b27dae4e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ec985cc55fe9398e4206510dd12f97dc15d13b30f8fc0782a785b79fda357113f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729210f164be1b8919a ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4208,9 +4272,11 @@
             }
         ],
         "customer_cf_account_code":"1203123",
+        "customer_cf_account_code_formatted":"1203123",
         "customer_cf_account_code_unformatted":"1203123",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203123",
+            "customer_cf_account_code_formatted":"1203123",
             "customer_cf_account_code_unformatted":"1203123"
         },
         "salesperson_name":"",
@@ -4246,7 +4312,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258758b7f846da2c60fd358a8094a6e714892b8c2e8abe5e9b3d40389430958fe78f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaff90ef48059cf7a7e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258758b7f846da2c60fd358a8094a6e714815d13b30f8fc07828b9696de2c183e7ef1a2a5436c2e473d233a399ffdda9c8ab681d825d37117293a3947bcffd00d39 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4338,9 +4404,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -4375,7 +4443,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258279b8ec074e6f83aafcc52b156360d3392b8c2e8abe5e9b30d83de809c146bf1f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf64f095070335b8bd ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258279b8ec074e6f83aafcc52b156360d3315d13b30f8fc07829545b6b87e0978edf1a2a5436c2e473d233a399ffdda9c8ab681d825d37117293fc62bd47c0f74c5 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4467,9 +4535,11 @@
             }
         ],
         "customer_cf_account_code":"1203120",
+        "customer_cf_account_code_formatted":"1203120",
         "customer_cf_account_code_unformatted":"1203120",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203120",
+            "customer_cf_account_code_formatted":"1203120",
             "customer_cf_account_code_unformatted":"1203120"
         },
         "salesperson_name":"",
@@ -4504,7 +4574,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258db1e5704943cdb00e694cb43fa5771af92b8c2e8abe5e9b3ccfc5cdf702911d7f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf5931504ad805a6ed ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258db1e5704943cdb00e694cb43fa5771af15d13b30f8fc0782f257cbd087fa57d7f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117298e7934623c2a5e69 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4596,9 +4666,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -4633,7 +4705,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bf3712f8b26e0a29dda7ae2e00cc0b6992b8c2e8abe5e9b3fc841f12c88da25ef1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf6759fec5f9f3f9ed ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bf3712f8b26e0a29dda7ae2e00cc0b6915d13b30f8fc078218cc0b860fb57a94f1a2a5436c2e473d233a399ffdda9c8ab681d825d371172901ea8b6857779caa ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4725,9 +4797,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -4762,7 +4836,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a0074238226b31aa7c00a8289a5ed7e92b8c2e8abe5e9b30b3342c1ab0cc581f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf3cac44edc835bd59 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a0074238226b31aa7c00a8289a5ed7e15d13b30f8fc07826dbcb368b997881df1a2a5436c2e473d233a399ffdda9c8ab681d825d371172924e989b001e5ceaf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4854,9 +4928,11 @@
             }
         ],
         "customer_cf_account_code":"1203001",
+        "customer_cf_account_code_formatted":"1203001",
         "customer_cf_account_code_unformatted":"1203001",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203001",
+            "customer_cf_account_code_formatted":"1203001",
             "customer_cf_account_code_unformatted":"1203001"
         },
         "salesperson_name":"",
@@ -4891,7 +4967,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425807d6fe4e33898279b9e56bbd70b79c0c92b8c2e8abe5e9b32729ac2f310ed66cf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf894e1ef2054003d9 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425807d6fe4e33898279b9e56bbd70b79c0c15d13b30f8fc0782e37dbb200df0800ef1a2a5436c2e473d233a399ffdda9c8ab681d825d37117290c5180d9d02ae39b ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4983,9 +5059,11 @@
             }
         ],
         "customer_cf_account_code":"1203122",
+        "customer_cf_account_code_formatted":"1203122",
         "customer_cf_account_code_unformatted":"1203122",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203122",
+            "customer_cf_account_code_formatted":"1203122",
             "customer_cf_account_code_unformatted":"1203122"
         },
         "salesperson_name":"",
@@ -5020,7 +5098,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585053e60ff22381bd2c7f7bdb5c0c0c7592b8c2e8abe5e9b352be72be1876ac0cf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf891c50ceded3a541 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585053e60ff22381bd2c7f7bdb5c0c0c7515d13b30f8fc07822aa8958360594650f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729d93398c3ba2a378a ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5112,9 +5190,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -5149,7 +5229,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a5ac779606a8d6d0907cc4e636ad11392b8c2e8abe5e9b384d295573ec2b909f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf8e26465a7c3b715e ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a5ac779606a8d6d0907cc4e636ad11315d13b30f8fc0782ebb6d0201afd7930f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729682a6a761cb49291 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5241,9 +5321,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -5278,7 +5360,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ca865a37458abfb614bf29ab6957429192b8c2e8abe5e9b3c77f8fb843e588aaf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf7485212df6a468b7 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ca865a37458abfb614bf29ab6957429115d13b30f8fc07828fddc1060c270203f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117293ee4114a09dd0932 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5370,9 +5452,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -5407,7 +5491,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e559f0b17bbe6b1f48a56b52bb2d94a92b8c2e8abe5e9b3317d3fd8ec042efaf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf9bebd9de652fae37 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e559f0b17bbe6b1f48a56b52bb2d94a15d13b30f8fc07823b1c0c3c6b3e3921f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729fcf75db29097f18c ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5499,9 +5583,11 @@
             }
         ],
         "customer_cf_account_code":"1203125",
+        "customer_cf_account_code_formatted":"1203125",
         "customer_cf_account_code_unformatted":"1203125",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203125",
+            "customer_cf_account_code_formatted":"1203125",
             "customer_cf_account_code_unformatted":"1203125"
         },
         "salesperson_name":"",
@@ -5536,7 +5622,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583527a07dc29bcd5ee3cb47ce10a480a992b8c2e8abe5e9b3362c1b6d9c72ef3af1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafd0b4a499fe2293cf ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583527a07dc29bcd5ee3cb47ce10a480a915d13b30f8fc07828d633ad35709e197f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729b3903241b260a046 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5628,9 +5714,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -5665,7 +5753,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b4dd71ba54c9e848fc03f8b92474d85292b8c2e8abe5e9b3127fda0c2f837177f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafbf9aa568d2e39356 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b4dd71ba54c9e848fc03f8b92474d85215d13b30f8fc0782e5a3db810cb3f501f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729d990aa6cf55d30c4 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5757,9 +5845,11 @@
             }
         ],
         "customer_cf_account_code":"1203123",
+        "customer_cf_account_code_formatted":"1203123",
         "customer_cf_account_code_unformatted":"1203123",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203123",
+            "customer_cf_account_code_formatted":"1203123",
             "customer_cf_account_code_unformatted":"1203123"
         },
         "salesperson_name":"",
@@ -5794,7 +5884,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585cc9f7e68c115115eab5bf068d9bf68292b8c2e8abe5e9b3e209c7b57bf0fe2bf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf0e137a4cbe99fea1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585cc9f7e68c115115eab5bf068d9bf68215d13b30f8fc0782f4892c54aba4431cf1a2a5436c2e473d233a399ffdda9c8ab681d825d37117297a11647a16fe4ab4 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5886,9 +5976,11 @@
             }
         ],
         "customer_cf_account_code":"1203119",
+        "customer_cf_account_code_formatted":"1203119",
         "customer_cf_account_code_unformatted":"1203119",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203119",
+            "customer_cf_account_code_formatted":"1203119",
             "customer_cf_account_code_unformatted":"1203119"
         },
         "salesperson_name":"",
@@ -5915,7 +6007,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587dd826f0e2d7b11a692a4090cad9c79c92b8c2e8abe5e9b32ba948cc88737a9ef1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafafc79af1c396fa42 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587dd826f0e2d7b11a692a4090cad9c79c15d13b30f8fc0782cb68a22c1d678b84f1a2a5436c2e473d233a399ffdda9c8ab681d825d371172954e8cf85437a7c68 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6007,9 +6099,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -6036,7 +6130,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425856210687af81b8372168c7d00325acce92b8c2e8abe5e9b3bbd47bdb99732c52f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf8dc16af40f4ee70a ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425856210687af81b8372168c7d00325acce15d13b30f8fc0782454eadd2e305de05f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729e958e333bdaeb0c3 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6128,9 +6222,11 @@
             }
         ],
         "customer_cf_account_code":"1203119",
+        "customer_cf_account_code_formatted":"1203119",
         "customer_cf_account_code_unformatted":"1203119",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203119",
+            "customer_cf_account_code_formatted":"1203119",
             "customer_cf_account_code_unformatted":"1203119"
         },
         "salesperson_name":"",
@@ -6157,7 +6253,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a77a087dfbe2a15e694cb43fa5771af92b8c2e8abe5e9b3ce9671210e01f8d2f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafcc95eaca56088cc1 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a77a087dfbe2a15e694cb43fa5771af15d13b30f8fc07828482ddf5d5498f5ef1a2a5436c2e473d233a399ffdda9c8ab681d825d371172985070fd2e404bc39 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6249,9 +6345,11 @@
             }
         ],
         "customer_cf_account_code":"1203120",
+        "customer_cf_account_code_formatted":"1203120",
         "customer_cf_account_code_unformatted":"1203120",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203120",
+            "customer_cf_account_code_formatted":"1203120",
             "customer_cf_account_code_unformatted":"1203120"
         },
         "salesperson_name":"",
@@ -6278,7 +6376,7 @@
         "template_type":"standard",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a4d2f78d0c4b1402778776c226d4de5092b8c2e8abe5e9b3ecf97e0f833c0980f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf9a48202c864b2dbd ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a4d2f78d0c4b1402778776c226d4de5015d13b30f8fc0782574a63fbde4de267f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729bb7a2cb97c14bf49 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6370,9 +6468,11 @@
             }
         ],
         "customer_cf_account_code":"1203120",
+        "customer_cf_account_code_formatted":"1203120",
         "customer_cf_account_code_unformatted":"1203120",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203120",
+            "customer_cf_account_code_formatted":"1203120",
             "customer_cf_account_code_unformatted":"1203120"
         },
         "salesperson_name":"",
@@ -6399,7 +6499,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991ac6d3cf532f3ff9e92b8c2e8abe5e9b35ab6a350a68b623ff1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf210f164be1b8919a ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991ac6d3cf532f3ff9e15d13b30f8fc0782ac5132643f60412ff1a2a5436c2e473d233a399ffdda9c8ab681d825d37117298c0bb4b8c6566587 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6491,9 +6591,11 @@
             }
         ],
         "customer_cf_account_code":"1203122",
+        "customer_cf_account_code_formatted":"1203122",
         "customer_cf_account_code_unformatted":"1203122",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203122",
+            "customer_cf_account_code_formatted":"1203122",
             "customer_cf_account_code_unformatted":"1203122"
         },
         "salesperson_name":"",
@@ -6520,7 +6622,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991337ac5e7f3793f3f92b8c2e8abe5e9b3b07abb056ecc4b34f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf3a3947bcffd00d39 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991337ac5e7f3793f3f15d13b30f8fc07820230524409be0a0cf1a2a5436c2e473d233a399ffdda9c8ab681d825d37117293c99cfc92dc9f642 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6612,9 +6714,11 @@
             }
         ],
         "customer_cf_account_code":"1203121",
+        "customer_cf_account_code_formatted":"1203121",
         "customer_cf_account_code_unformatted":"1203121",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203121",
+            "customer_cf_account_code_formatted":"1203121",
             "customer_cf_account_code_unformatted":"1203121"
         },
         "salesperson_name":"",
@@ -6641,7 +6745,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991888e87ac7626689892b8c2e8abe5e9b335a15f1a97cfa320f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf3fc62bd47c0f74c5 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991888e87ac7626689815d13b30f8fc0782eddde8752c7a0266f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729b5b91bc5d5317a87 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6733,9 +6837,11 @@
             }
         ],
         "customer_cf_account_code":"1203120",
+        "customer_cf_account_code_formatted":"1203120",
         "customer_cf_account_code_unformatted":"1203120",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203120",
+            "customer_cf_account_code_formatted":"1203120",
             "customer_cf_account_code_unformatted":"1203120"
         },
         "salesperson_name":"",
@@ -6762,7 +6868,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e1849917f2082fb6a99a7c492b8c2e8abe5e9b3fc4fdb25d2146382f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf8e7934623c2a5e69 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e1849917f2082fb6a99a7c415d13b30f8fc07820c4a1314dc24d99cf1a2a5436c2e473d233a399ffdda9c8ab681d825d37117294d85f3f82df208db ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6854,9 +6960,11 @@
             }
         ],
         "customer_cf_account_code":"1203001",
+        "customer_cf_account_code_formatted":"1203001",
         "customer_cf_account_code_unformatted":"1203001",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203001",
+            "customer_cf_account_code_formatted":"1203001",
             "customer_cf_account_code_unformatted":"1203001"
         },
         "salesperson_name":"",
@@ -6883,7 +6991,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc91969e250db6bf56b92b8c2e8abe5e9b3d71bf43f395ada28f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf28d5c3839737af65 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc91969e250db6bf56b15d13b30f8fc0782321f482aba7bf2e7f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117290bb81609babad15f ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6975,9 +7083,11 @@
             }
         ],
         "customer_cf_account_code":"1203125",
+        "customer_cf_account_code_formatted":"1203125",
         "customer_cf_account_code_unformatted":"1203125",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203125",
+            "customer_cf_account_code_formatted":"1203125",
             "customer_cf_account_code_unformatted":"1203125"
         },
         "salesperson_name":"",
@@ -7004,7 +7114,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc97f2082fb6a99a7c492b8c2e8abe5e9b31f666a14d34261ebf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaff5ae03dfe0982a9f ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc97f2082fb6a99a7c415d13b30f8fc0782a871529bc7fe5c16f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729efcfa85d8d1ca9e1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7096,9 +7206,11 @@
             }
         ],
         "customer_cf_account_code":"1203001",
+        "customer_cf_account_code_formatted":"1203001",
         "customer_cf_account_code_unformatted":"1203001",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203001",
+            "customer_cf_account_code_formatted":"1203001",
             "customer_cf_account_code_unformatted":"1203001"
         },
         "salesperson_name":"",
@@ -7125,7 +7237,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258122d4664499a3184e694cb43fa5771af92b8c2e8abe5e9b3113daa619ae236d2f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf24e989b001e5ceaf ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258122d4664499a3184e694cb43fa5771af15d13b30f8fc0782e0a1e8be979f6e57f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729107b58659ff0669d ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7217,9 +7329,11 @@
             }
         ],
         "customer_cf_account_code":"1203119",
+        "customer_cf_account_code_formatted":"1203119",
         "customer_cf_account_code_unformatted":"1203119",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203119",
+            "customer_cf_account_code_formatted":"1203119",
             "customer_cf_account_code_unformatted":"1203119"
         },
         "salesperson_name":"",
@@ -7246,7 +7360,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584f51cc665953b37a7f2082fb6a99a7c492b8c2e8abe5e9b37f0133c2903db2ddf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaff81c9c2849ddba7c ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584f51cc665953b37a7f2082fb6a99a7c415d13b30f8fc078216bedbe387c14558f1a2a5436c2e473d233a399ffdda9c8ab681d825d371172908d365ec78368464 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7338,9 +7452,11 @@
             }
         ],
         "customer_cf_account_code":"1203001",
+        "customer_cf_account_code_formatted":"1203001",
         "customer_cf_account_code_unformatted":"1203001",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203001",
+            "customer_cf_account_code_formatted":"1203001",
             "customer_cf_account_code_unformatted":"1203001"
         },
         "salesperson_name":"",
@@ -7367,7 +7483,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42582133933efe3a9208e694cb43fa5771af92b8c2e8abe5e9b38db0fdb12d89fc6cf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafd93398c3ba2a378a ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42582133933efe3a9208e694cb43fa5771af15d13b30f8fc07827239059273acffdff1a2a5436c2e473d233a399ffdda9c8ab681d825d37117293e408132263acd5d ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7459,9 +7575,11 @@
             }
         ],
         "customer_cf_account_code":"1203001",
+        "customer_cf_account_code_formatted":"1203001",
         "customer_cf_account_code_unformatted":"1203001",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203001",
+            "customer_cf_account_code_formatted":"1203001",
             "customer_cf_account_code_unformatted":"1203001"
         },
         "salesperson_name":"",
@@ -7488,7 +7606,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f66513e4bc2fa239ffae92b8c2e8abe5e9b3fefeea54a8364bb1f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf682a6a761cb49291 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f66513e4bc2fa239ffae15d13b30f8fc0782e880f980bf2db730f1a2a5436c2e473d233a399ffdda9c8ab681d825d371172942a1a40f3032cdd5 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7580,9 +7698,11 @@
             }
         ],
         "customer_cf_account_code":"1203001",
+        "customer_cf_account_code_formatted":"1203001",
         "customer_cf_account_code_unformatted":"1203001",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203001",
+            "customer_cf_account_code_formatted":"1203001",
             "customer_cf_account_code_unformatted":"1203001"
         },
         "salesperson_name":"",
@@ -7609,7 +7729,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f665293104aaabb6a46792b8c2e8abe5e9b31ba1cd2677914fcff1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf8f3f677844e78f9f ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f665293104aaabb6a46715d13b30f8fc0782e2370804a069f663f1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729d719da9c9fd2f9f0 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7701,9 +7821,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -7730,7 +7852,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258512bf09531b89abee694cb43fa5771af92b8c2e8abe5e9b39db25611c63af462f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf71283534e31a5838 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258512bf09531b89abee694cb43fa5771af15d13b30f8fc078200d47c47513263e4f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117292ccda8bc1c3f1f4e ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7822,9 +7944,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -7851,7 +7975,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425847db98267a2a2166e4efb058d06099d092b8c2e8abe5e9b370c1c972d11d370bf1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcafb3903241b260a046 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425847db98267a2a2166e4efb058d06099d015d13b30f8fc0782b6479b6b3ace8f91f1a2a5436c2e473d233a399ffdda9c8ab681d825d37117293e31f0c3f1970f51 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7943,9 +8067,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -7972,7 +8098,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a1e8bdd53e0e735e3092b8c2e8abe5e9b3ec629239f3cbd48ff1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf32f2d422110cf256 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a1e8bdd53e0e735e3015d13b30f8fc0782d1da823ae1889ffaf1a2a5436c2e473d233a399ffdda9c8ab681d825d3711729c0b29e7309a26e04 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8064,9 +8190,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -8093,7 +8221,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a131de972e15c03e5292b8c2e8abe5e9b330d6bbe7f5971a3ff1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf08e2d34ebcf4dd20 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a131de972e15c03e5215d13b30f8fc078282362e24c32ab0adf1a2a5436c2e473d233a399ffdda9c8ab681d825d371172903b803f0dbb524a7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8185,9 +8313,11 @@
             }
         ],
         "customer_cf_account_code":"1203076",
+        "customer_cf_account_code_formatted":"1203076",
         "customer_cf_account_code_unformatted":"1203076",
         "customer_custom_field_hash":{
             "customer_cf_account_code":"1203076",
+            "customer_cf_account_code_formatted":"1203076",
             "customer_cf_account_code_unformatted":"1203076"
         },
         "salesperson_name":"",
@@ -8223,7 +8353,7 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a14206510dd12f97dc92b8c2e8abe5e9b3df57a882c5d4ca45f1a2a5436c2e473d233a399ffdda9c8a22f79bbc6bccbcaf507c4cab612154f0 ",
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a14206510dd12f97dc15d13b30f8fc07820296653d2e95b69af1a2a5436c2e473d233a399ffdda9c8af6de0122c955cba4e60017142e653165 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
