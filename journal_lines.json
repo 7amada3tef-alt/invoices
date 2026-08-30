@@ -66665,5 +66665,69 @@
 
         ],
         "journal_id":"5975823000004577001"
+    },
+    {
+        "line_id":"5975823000004595014",
+        "account_id":"5975823000000100523",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"End of service benefits - 510105 - مكافاة نهاية الخدمة",
+        "account_code":"510105",
+        "description":"مخصص نهاية الخدمة",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10300.0,
+        "bcy_amount":10300.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "journal_id":"5975823000004595006"
+    },
+    {
+        "line_id":"5975823000004595015",
+        "account_id":"5975823000000289799",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+        "account_code":"210301",
+        "description":"مخصص نهاية الخدمة",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10300.0,
+        "bcy_amount":10300.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004595006"
     }
 ]

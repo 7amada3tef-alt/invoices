@@ -12101,5 +12101,24 @@
         "last_modified_time":"2026-08-28T12:08:28+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004595006",
+        "journal_date":"2026-08-30",
+        "entry_number":"JE -000636",
+        "reference_number":"مخصص نهاية الخدمة",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مخصص نهاية الخدمة",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":10300.0,
+        "bcy_total":10300.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-30T13:25:41+0300",
+        "created_by_id":"",
+        "created_by_name":""
     }
 ]
