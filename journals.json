@@ -12120,5 +12120,81 @@
         "last_modified_time":"2026-08-30T13:25:41+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004601454",
+        "journal_date":"2026-08-31",
+        "entry_number":"JE -000639",
+        "reference_number":"اطفاء مصروف الايجار من 15-11-2026 الى 14-05-2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف الابجار من 15-11-2026 الى 14-05-2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":10867.0,
+        "bcy_total":10867.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-31T12:32:28+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004601472",
+        "journal_date":"2026-08-31",
+        "entry_number":"JE -000640",
+        "reference_number":"Mansor Aljapri Labor Office & Iqama 6M - 2142715958",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Mansor Aljapri Labor Office & Iqama 6M - 2142715958",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":201.08,
+        "bcy_total":201.08,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-31T14:32:40+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004606001",
+        "journal_date":"2026-08-31",
+        "entry_number":"JE -000637",
+        "reference_number":"مكافاة موظفين مستحقة - 2026-2027",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مكافاة موظفين مستحقة - 2026-2027",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":35953.17,
+        "bcy_total":35953.17,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-31T11:10:09+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004606019",
+        "journal_date":"2026-08-31",
+        "entry_number":"JE -000638",
+        "reference_number":"اطفاء مصروف االتأمين الطبي للموظفين من 02-07-2026 الى 30-06-2027",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف االتأمين الطبي للموظفين من 02-07-2026 الى 30-06-2027",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":23526.0,
+        "bcy_total":23526.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-08-31T11:39:18+0300",
+        "created_by_id":"",
+        "created_by_name":""
     }
 ]
