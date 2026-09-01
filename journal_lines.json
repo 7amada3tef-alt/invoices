@@ -66923,6 +66923,198 @@
         "journal_id":"5975823000004601472"
     },
     {
+        "line_id":"5975823000004601509",
+        "account_id":"5975823000000102847",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Depreciation - Computers - 810007 - اهلاك اجهزة حاسب الي",
+        "account_code":"810007",
+        "description":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":439.32,
+        "bcy_amount":439.32,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "journal_id":"5975823000004601501"
+    },
+    {
+        "line_id":"5975823000004601510",
+        "account_id":"5975823000000290193",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Acc Dep - Computers - 111007 - مجمع اهلاك اجهزة حاسب الي",
+        "account_code":"111007",
+        "description":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":439.32,
+        "bcy_amount":439.32,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004601501"
+    },
+    {
+        "line_id":"5975823000004601529",
+        "account_id":"5975823000000101273",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Labor office fees - 610203 - رسوم مكتب العمل والمقابل المالي",
+        "account_code":"610203",
+        "description":"Mohammed Abbas Labor Office - 2298890530",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":708.34,
+        "bcy_amount":708.34,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171233",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000040 - مكتب ادارة المشاريع تكامل"
+            }
+        ],
+        "journal_id":"5975823000004601519"
+    },
+    {
+        "line_id":"5975823000004601530",
+        "account_id":"5975823000000301037",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Prepaid Labor Office Fee - 120607 - رسوم مكتب العمل مدفوعة مقدما",
+        "account_code":"120607 ",
+        "description":"Mohammed Abbas Labor Office - 2298890530",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":708.34,
+        "bcy_amount":708.34,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004601519"
+    },
+    {
+        "line_id":"5975823000004601531",
+        "account_id":"5975823000000101267",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Iqama renewal - 610202 - تجديد اقامات",
+        "account_code":"610202",
+        "description":"Mohammed Abbas Iqama - 2298890530",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":54.17,
+        "bcy_amount":54.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171233",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000040 - مكتب ادارة المشاريع تكامل"
+            }
+        ],
+        "journal_id":"5975823000004601519"
+    },
+    {
+        "line_id":"5975823000004601532",
+        "account_id":"5975823000000102705",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Prepaid Iqama Fee - 120606 - رسوم إقامة مدفوعة مقدما",
+        "account_code":"120606",
+        "description":"Mohammed Abbas Iqama - 2298890530",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":54.17,
+        "bcy_amount":54.17,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004601519"
+    },
+    {
         "line_id":"5975823000004606009",
         "account_id":"5975823000000101471",
         "customer_id":"",
