@@ -66121,6 +66121,64 @@
         "journal_id":"5975823000004441019"
     },
     {
+        "line_id":"5975823000004633035",
+        "account_id":"5975823000000102645",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Bank guarantees - 120901 - ضمانات بنكية",
+        "account_code":"120901",
+        "description":"LGI-0858-26-9265 - ضمان بنكي - الاتفاقية الاطارية ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":5476.19,
+        "bcy_amount":5476.19,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004633029"
+    },
+    {
+        "line_id":"5975823000004633036",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"LGI-0858-26-9265 - ضمان بنكي - الاتفاقية الاطارية ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":5476.19,
+        "bcy_amount":5476.19,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004633029"
+    },
+    {
         "line_id":"5975823000004452131",
         "account_id":"5975823000000101937",
         "customer_id":"",
@@ -66320,8 +66378,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":20508.94,
-        "bcy_amount":20508.94,
+        "amount":20509.32,
+        "bcy_amount":20509.32,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -66355,8 +66413,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":20508.94,
-        "bcy_amount":20508.94,
+        "amount":20509.32,
+        "bcy_amount":20509.32,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -66686,8 +66744,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":10300.0,
-        "bcy_amount":10300.0,
+        "amount":9506.99,
+        "bcy_amount":9506.99,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -66721,8 +66779,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":10300.0,
-        "bcy_amount":10300.0,
+        "amount":9506.99,
+        "bcy_amount":9506.99,
         "project_name":"",
         "project_id":"",
         "tags":[

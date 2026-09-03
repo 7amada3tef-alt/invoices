@@ -11989,6 +11989,25 @@
         "created_by_name":"Rahaf"
     },
     {
+        "journal_id":"5975823000004633029",
+        "journal_date":"2026-08-12",
+        "entry_number":"JE -000643",
+        "reference_number":"LGI-0858-26-9265 - ضمان بنكي - الاتفاقية الاطارية ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"LGI-0858-26-9265 - ضمان بنكي - الاتفاقية الاطارية ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":5476.19,
+        "bcy_total":5476.19,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-03T11:36:43+0300",
+        "created_by_id":"5975823000001659118",
+        "created_by_name":"Rahaf"
+    },
+    {
         "journal_id":"5975823000004452125",
         "journal_date":"2026-08-17",
         "entry_number":"JE -000631",
@@ -12055,12 +12074,12 @@
         "notes":"سداد فاتورة الزكاة لعام 2025-2026",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":20508.94,
-        "bcy_total":20508.94,
+        "total":20509.32,
+        "bcy_total":20509.32,
         "tags":[
 
         ],
-        "last_modified_time":"2026-08-23T11:25:25+0300",
+        "last_modified_time":"2026-09-03T10:57:55+0300",
         "created_by_id":"5975823000001659118",
         "created_by_name":"Rahaf"
     },
@@ -12112,12 +12131,12 @@
         "notes":"مخصص نهاية الخدمة",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":10300.0,
-        "bcy_total":10300.0,
+        "total":9506.99,
+        "bcy_total":9506.99,
         "tags":[
 
         ],
-        "last_modified_time":"2026-08-30T13:25:41+0300",
+        "last_modified_time":"2026-09-03T11:00:16+0300",
         "created_by_id":"",
         "created_by_name":""
     },
