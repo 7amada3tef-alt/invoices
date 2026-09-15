@@ -67299,5 +67299,139 @@
 
         ],
         "journal_id":"5975823000004606019"
+    },
+    {
+        "line_id":"5975823000004712012",
+        "account_id":"5975823000000099423",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Private Sector Sales - مبيعات القطاع الخاص",
+        "account_code":"412",
+        "description":"اغلاق الايراد المقدم مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000001936005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب"
+            }
+        ],
+        "journal_id":"5975823000004712001"
+    },
+    {
+        "line_id":"5975823000004712013",
+        "account_id":"5975823000000099423",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Private Sector Sales - مبيعات القطاع الخاص",
+        "account_code":"412",
+        "description":"مشروع منظومة عمل إدارة دراسات الحالة في النظام المالي\nاغلاق الايراد المقدم ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":12241.6,
+        "bcy_amount":12241.6,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000001792006",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025100 - مشروع منظومة عمل إدارة دراسات الحالة"
+            }
+        ],
+        "journal_id":"5975823000004712001"
+    },
+    {
+        "line_id":"5975823000004712014",
+        "account_id":"5975823000000099423",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Private Sector Sales - مبيعات القطاع الخاص",
+        "account_code":"412",
+        "description":"اغلاق الايراد المقدم \nمشروع التأهيل للتوظيف ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":39205.0,
+        "bcy_amount":39205.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            }
+        ],
+        "journal_id":"5975823000004712001"
+    },
+    {
+        "line_id":"5975823000004712015",
+        "account_id":"5975823000000005001",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Unearned revenue  - ايرادات مدفوعة مقدما",
+        "account_code":"2203",
+        "description":"اغلاق الايراد المقدم ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":51446.61,
+        "bcy_amount":51446.61,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "journal_id":"5975823000004712001"
     }
 ]

@@ -12253,5 +12253,24 @@
         "last_modified_time":"2026-08-31T11:39:18+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004712001",
+        "journal_date":"2026-08-31",
+        "entry_number":"JE -000644",
+        "reference_number":"اغلاق الايراد المقدم ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق الايراد المقدم ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":51446.61,
+        "bcy_total":51446.61,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-15T10:25:18+0300",
+        "created_by_id":"5975823000000105007",
+        "created_by_name":"Mohammed Azhar"
     }
 ]
