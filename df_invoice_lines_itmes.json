@@ -2330,7 +2330,7 @@
     {
         "line_item_id":"5975823000003920009",
         "item_id":"5975823000000171001",
-        "item_order":0,
+        "item_order":1,
         "product_type":"service",
         "name":"خدمات - مبيعات القطاع الثالث",
         "internal_name":"",
@@ -2366,7 +2366,13 @@
         ],
         "pricing_scheme":"unit",
         "tags":[
-
+            {
+                "tag_option_id":"5975823000003655023",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026030 - حاضنة أثر الطاقة الاجتماعية"
+            }
         ],
         "documents":[
 
