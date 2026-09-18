@@ -222,7 +222,7 @@
                   "is_child_present": false,
                   "name": "Advance payment to Ahmed Baesmaeil - 120405 - سلفة احمد باسماعيل",
                   "previous_total_sub_account": [],
-                  "account_code": "120405 ",
+                  "account_code": "120405",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -339,7 +339,7 @@
                   "is_child_present": false,
                   "name": "Prepaid Labor Office Fee - 120607 - رسوم مكتب العمل مدفوعة مقدما",
                   "previous_total_sub_account": [],
-                  "account_code": "120607 ",
+                  "account_code": "120607",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -844,12 +844,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-09-17",
-    "to_date": "2026-09-17",
+    "as_of_date": "2026-09-18",
+    "to_date": "2026-09-18",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "17 Sep 2026 05:08 PM",
+    "last_accessed_time_formatted": "18 Sep 2026 04:24 PM",
     "select_columns": [
       {
         "field": "name",
@@ -878,9 +878,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "17 Sep 2026",
-        "from_date": "2026-09-17",
-        "to_date": "2026-09-17"
+        "date_range_label": "18 Sep 2026",
+        "from_date": "2026-09-18",
+        "to_date": "2026-09-18"
       }
     ],
     "sort_column": "account",
