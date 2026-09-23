@@ -100,12 +100,12 @@
               "previous_total": []
             },
             {
-              "total": 2494934.78,
+              "total": 1994934.78,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 1148085.29,
+                  "total": 938085.29,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -118,7 +118,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 1292004.28,
+                  "total": 1002004.28,
                   "account_id": "5975823000000101937",
                   "depth": 0,
                   "previous_values": [],
@@ -184,12 +184,12 @@
               "previous_total": []
             },
             {
-              "total": 3794653.59,
+              "total": 4294653.59,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 1839392.26,
+                  "total": 2339392.26,
                   "account_id": "5975823000000100097",
                   "depth": 0,
                   "previous_values": [],
@@ -844,12 +844,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-09-22",
-    "to_date": "2026-09-22",
+    "as_of_date": "2026-09-23",
+    "to_date": "2026-09-23",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "22 Sep 2026 04:54 PM",
+    "last_accessed_time_formatted": "23 Sep 2026 05:06 PM",
     "select_columns": [
       {
         "field": "name",
@@ -878,9 +878,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "22 Sep 2026",
-        "from_date": "2026-09-22",
-        "to_date": "2026-09-22"
+        "date_range_label": "23 Sep 2026",
+        "from_date": "2026-09-23",
+        "to_date": "2026-09-23"
       }
     ],
     "sort_column": "account",

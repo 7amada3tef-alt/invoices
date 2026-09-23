@@ -18060,6 +18060,27 @@
         "fcy_credit_amount": ""
     },
     {
+        "categorized_transaction_id": "5975823000004803010",
+        "transaction_type": "journal",
+        "transaction_id": "5975823000004803007",
+        "transaction_date": "2026-09-21",
+        "transaction_type_formatted": "Journal",
+        "account_id": "5975823000000100097",
+        "customer_id": "",
+        "payee": "",
+        "description": "تعزيز حساب اثار الخير القابضة ",
+        "entry_number": "JE -000645",
+        "currency_id": "5975823000000091149",
+        "currency_code": "SAR",
+        "debit_or_credit": "debit",
+        "offset_account_name": "",
+        "reference_number": "",
+        "debit_amount": 500000.0,
+        "credit_amount": "",
+        "fcy_debit_amount": 500000.0,
+        "fcy_credit_amount": ""
+    },
+    {
         "categorized_transaction_id": "5975823000004441022",
         "transaction_type": "journal",
         "transaction_id": "5975823000004441019",

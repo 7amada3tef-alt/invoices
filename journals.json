@@ -12272,5 +12272,43 @@
         "last_modified_time":"2026-09-15T10:25:18+0300",
         "created_by_id":"5975823000000105007",
         "created_by_name":"Mohammed Azhar"
+    },
+    {
+        "journal_id":"5975823000004803007",
+        "journal_date":"2026-09-21",
+        "entry_number":"JE -000645",
+        "reference_number":"تعزيز حساب اثار الخير القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز حساب اثار الخير القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":500000.0,
+        "bcy_total":500000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-23T09:18:56+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000004803024",
+        "journal_date":"2026-09-21",
+        "entry_number":"JE -000646",
+        "reference_number":"تعزيز من حساب الانماء الي حساب الجزيرة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من حساب الانماء الي حساب الجزيرة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":290000.0,
+        "bcy_total":290000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-23T09:22:58+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]
