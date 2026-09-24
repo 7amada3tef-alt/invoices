@@ -3,7 +3,7 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 8455114.23,
+      "total": 8455249.88,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
@@ -437,7 +437,7 @@
           "previous_total": []
         },
         {
-          "total": 254577.35,
+          "total": 254713.0,
           "total_label": "Total Fixed Assets",
           "previous_values": [],
           "account_transactions": [
@@ -482,7 +482,7 @@
             },
             {
               "total_sub_account": 0.0,
-              "total": -21853.12,
+              "total": -21717.47,
               "account_id": "5975823000000290213",
               "depth": 0,
               "previous_values": [],
@@ -643,7 +643,7 @@
       "previous_total": []
     },
     {
-      "total": 8455114.23,
+      "total": 8455249.88,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -779,12 +779,12 @@
           "previous_total": []
         },
         {
-          "total": 6629863.74,
+          "total": 6629999.39,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1230738.43,
+              "total": 1230874.08,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -844,12 +844,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-09-23",
-    "to_date": "2026-09-23",
+    "as_of_date": "2026-09-24",
+    "to_date": "2026-09-24",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "23 Sep 2026 05:06 PM",
+    "last_accessed_time_formatted": "24 Sep 2026 05:04 PM",
     "select_columns": [
       {
         "field": "name",
@@ -878,9 +878,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "23 Sep 2026",
-        "from_date": "2026-09-23",
-        "to_date": "2026-09-23"
+        "date_range_label": "24 Sep 2026",
+        "from_date": "2026-09-24",
+        "to_date": "2026-09-24"
       }
     ],
     "sort_column": "account",

@@ -12274,6 +12274,25 @@
         "created_by_name":"Mohammed Azhar"
     },
     {
+        "journal_id":"5975823000004803045",
+        "journal_date":"2026-08-31",
+        "entry_number":"JE -000647",
+        "reference_number":"فرق في الاهلاك في الشهور الماضية ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"فرق في الاهلاك في الشهور الماضية ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":135.65,
+        "bcy_total":135.65,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-24T09:37:44+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000004803007",
         "journal_date":"2026-09-21",
         "entry_number":"JE -000645",
