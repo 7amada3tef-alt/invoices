@@ -78861,6 +78861,76 @@
         "journal_id":"5975823000004514004"
     },
     {
+        "line_id":"5975823000004835885",
+        "account_id":"5975823000004835874",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Waqf Takamol For developing and trading -121216وقف شركة تكامل التنمية التجارية",
+        "account_code":"121216",
+        "description":"تحويل دفعة راس المال الي وقف ( تعزيز حساب )",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20000.0,
+        "bcy_amount":20000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004835879"
+    },
+    {
+        "line_id":"5975823000004835886",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"تحويل دفعة راس المال الي وقف ( تعزيز حساب )",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20000.0,
+        "bcy_amount":20000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004835879"
+    },
+    {
         "line_id":"5975823000004554029",
         "account_id":"5975823000000100499",
         "customer_id":"",
@@ -80135,6 +80205,152 @@
         "journal_id":"5975823000004803045"
     },
     {
+        "line_id":"5975823000004835495",
+        "account_id":"5975823000000102645",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Bank guarantees - 120901 - ضمانات بنكية",
+        "account_code":"120901",
+        "description":" ضمان بنكي ـ مشروع جامعة البترول ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":189000.0,
+        "bcy_amount":189000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004835487"
+    },
+    {
+        "line_id":"5975823000004835496",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":" ضمان بنكي ـ مشروع جامعة البترول ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":189000.0,
+        "bcy_amount":189000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004835487"
+    },
+    {
+        "line_id":"5975823000004835513",
+        "account_id":"5975823000000102789",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
+        "account_code":"220203",
+        "description":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":25073.75,
+        "bcy_amount":25073.75,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004835507"
+    },
+    {
+        "line_id":"5975823000004835514",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":25073.75,
+        "bcy_amount":25073.75,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004835507"
+    },
+    {
         "line_id":"5975823000004803013",
         "account_id":"5975823000000100097",
         "customer_id":"",
@@ -80273,5 +80489,81 @@
 
         },
         "journal_id":"5975823000004803024"
+    },
+    {
+        "line_id":"5975823000004835008",
+        "account_id":"5975823000000101471",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Annual bonus - 630201 - مكافأة سنوية",
+        "account_code":"630201",
+        "description":"مكافاة موظفين مستحقة - 2026-2027",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004835001"
+    },
+    {
+        "line_id":"5975823000004835009",
+        "account_id":"5975823000000102813",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Accrued bonus - 220207 - مكافات موظفين مستحقة",
+        "account_code":"220207",
+        "description":"مكافاة موظفين مستحقة - 2026-2027",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":0.01,
+        "bcy_amount":0.01,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004835001"
     }
 ]
