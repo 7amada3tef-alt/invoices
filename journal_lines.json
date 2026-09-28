@@ -80205,6 +80205,339 @@
         "journal_id":"5975823000004803045"
     },
     {
+        "line_id":"5975823000004844035",
+        "account_id":"5975823000000168013",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Anas Lutfi custody - 120102 - عهدة انس لطفي",
+        "account_code":"120102",
+        "description":"تحويل عهدة الي انس انور PCR - 000000002",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":600.0,
+        "bcy_amount":600.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844029"
+    },
+    {
+        "line_id":"5975823000004844036",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"تحويل عهدة الي انس انور PCR - 000000002",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":600.0,
+        "bcy_amount":600.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844029"
+    },
+    {
+        "line_id":"5975823000004844056",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "account_code":"510101",
+        "description":"رصيد اجازات سنوية 3.5 يوم \n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":933.33,
+        "bcy_amount":933.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844047"
+    },
+    {
+        "line_id":"5975823000004844057",
+        "account_id":"5975823000000289799",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+        "account_code":"210301",
+        "description":"مكافاة نهاية الخدمة -مخالصة بشاير عجيمي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":6533.0,
+        "bcy_amount":6533.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844047"
+    },
+    {
+        "line_id":"5975823000004844058",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"مخالصة بشاير عجيمي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":7466.33,
+        "bcy_amount":7466.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844047"
+    },
+    {
+        "line_id":"5975823000004844102",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "account_code":"510101",
+        "description":"رصيد اجازات سنوية 42يوم \n",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10859.8,
+        "bcy_amount":10859.8,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844093"
+    },
+    {
+        "line_id":"5975823000004844103",
+        "account_id":"5975823000000289799",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+        "account_code":"210301",
+        "description":"مكافاة نهاية الخدمة -مخالصة سعود غازي السلمي  \n ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":6432.0,
+        "bcy_amount":6432.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844093"
+    },
+    {
+        "line_id":"5975823000004844104",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"مخالصة سعود غازي السلمي  \n",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":32805.8,
+        "bcy_amount":32805.8,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844093"
+    },
+    {
+        "line_id":"5975823000004844105",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "account_code":"510101",
+        "description":"مبلغ التسوية شهرين ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":15514.0,
+        "bcy_amount":15514.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844093"
+    },
+    {
         "line_id":"5975823000004835495",
         "account_id":"5975823000000102645",
         "customer_id":"",
@@ -80489,6 +80822,228 @@
 
         },
         "journal_id":"5975823000004803024"
+    },
+    {
+        "line_id":"5975823000004844432",
+        "account_id":"5975823000004844407",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Badr ElDen Elnashwaty-120110-بدر الدين النشواتي",
+        "account_code":"120110",
+        "description":"عهدة الي بدر الدين النشواتي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":5000.0,
+        "bcy_amount":5000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844426"
+    },
+    {
+        "line_id":"5975823000004844433",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"عهدة الي بدر الدين النشواتي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":5000.0,
+        "bcy_amount":5000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004844426"
+    },
+    {
+        "line_id":"5975823000004847011",
+        "account_id":"5975823000000100547",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Labor office fees - 510203 - رسوم مكتب العمل والمقابل المالي",
+        "account_code":"510203",
+        "description":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1416.67,
+        "bcy_amount":1416.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004847001"
+    },
+    {
+        "line_id":"5975823000004847012",
+        "account_id":"5975823000000100541",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Iqama renewal - 510202 - تجديد اقامات",
+        "account_code":"510202",
+        "description":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":108.33,
+        "bcy_amount":108.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004847001"
+    },
+    {
+        "line_id":"5975823000004847013",
+        "account_id":"5975823000000301037",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Prepaid Labor Office Fee - 120607 - رسوم مكتب العمل مدفوعة مقدما",
+        "account_code":"120607",
+        "description":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1416.67,
+        "bcy_amount":1416.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004847001"
+    },
+    {
+        "line_id":"5975823000004847014",
+        "account_id":"5975823000000102705",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Prepaid Iqama Fee - 120606 - رسوم إقامة مدفوعة مقدما",
+        "account_code":"120606",
+        "description":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":108.33,
+        "bcy_amount":108.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004847001"
     },
     {
         "line_id":"5975823000004835008",

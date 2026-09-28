@@ -12312,10 +12312,67 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000004844029",
+        "journal_date":"2026-09-08",
+        "entry_number":"JE -000652",
+        "reference_number":"تحويل عهدة الي انس انور PCR - 000000002",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تحويل عهدة الي انس انور PCR - 000000002",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":600.0,
+        "bcy_total":600.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-28T09:03:00+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000004844047",
+        "journal_date":"2026-09-08",
+        "entry_number":"JE -000653",
+        "reference_number":"مخالصة بشاير عجيمي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مخالصة بشاير عجيمي  \n1\/12\/2024\n28\/7\/2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":7466.33,
+        "bcy_total":7466.33,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-28T09:35:39+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000004844093",
+        "journal_date":"2026-09-08",
+        "entry_number":"JE -000654",
+        "reference_number":"مخالصة سعود غازي السلمي  ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مخالصة سعود غازي السلمي  \n1\/12\/2024\n28\/7\/2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":32805.8,
+        "bcy_total":32805.8,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-28T10:01:32+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000004835487",
         "journal_date":"2026-09-10",
         "entry_number":"JE -000649",
-        "reference_number":" ضمان بنكي ـ مشروع جامعة البترول ",
+        "reference_number":" ضمان بنكي ـ مشروع جامعة البترول LGI 11.15.35",
         "currency_id":"5975823000000091149",
         "status":"published",
         "notes":" ضمان بنكي ـ مشروع جامعة البترول ",
@@ -12326,7 +12383,7 @@
         "tags":[
 
         ],
-        "last_modified_time":"2026-09-27T13:55:45+0300",
+        "last_modified_time":"2026-09-28T10:10:10+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
     },
@@ -12386,6 +12443,44 @@
         "last_modified_time":"2026-09-23T09:22:58+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000004844426",
+        "journal_date":"2026-09-27",
+        "entry_number":"JE -000656",
+        "reference_number":"عهدة الي بدر الدين النشواتي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"عهدة الي بدر الدين النشواتي ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":5000.0,
+        "bcy_total":5000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-28T14:40:12+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000004847001",
+        "journal_date":"2026-09-28",
+        "entry_number":"JE -000655",
+        "reference_number":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":1525.0,
+        "bcy_total":1525.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-28T12:09:35+0300",
+        "created_by_id":"",
+        "created_by_name":""
     },
     {
         "journal_id":"5975823000004835001",
