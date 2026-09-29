@@ -12312,6 +12312,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000004852121",
+        "journal_date":"2026-09-06",
+        "entry_number":"JE -000657",
+        "reference_number":"حوالة من بنك النماء الي الحساب الرئيسي بنك الجزيرة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة من بنك النماء الي الحساب الرئيسي بنك الجزيرة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":1000000.0,
+        "bcy_total":1000000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-29T10:53:17+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000004844029",
         "journal_date":"2026-09-08",
         "entry_number":"JE -000652",
@@ -12464,6 +12483,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000004856031",
+        "journal_date":"2026-09-27",
+        "entry_number":"Payroll-11",
+        "reference_number":"",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Regular Payroll Journal for Pay Period (01 Sep 2026 - 30 Sep 2026)",
+        "journal_type":"both",
+        "entity_type":"payroll_journal",
+        "total":254757.24,
+        "bcy_total":254757.24,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-29T17:03:57+0300",
+        "created_by_id":"5975823000000658095",
+        "created_by_name":"Ahmed Alkhanbashi"
+    },
+    {
         "journal_id":"5975823000004847001",
         "journal_date":"2026-09-28",
         "entry_number":"JE -000655",
@@ -12481,6 +12519,25 @@
         "last_modified_time":"2026-09-28T12:09:35+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004852137",
+        "journal_date":"2026-09-29",
+        "entry_number":"JE -000658",
+        "reference_number":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":300000.0,
+        "bcy_total":300000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-29T10:54:45+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     },
     {
         "journal_id":"5975823000004835001",

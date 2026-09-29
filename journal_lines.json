@@ -80205,6 +80205,76 @@
         "journal_id":"5975823000004803045"
     },
     {
+        "line_id":"5975823000004852127",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"حوالة من بنك النماء الي الحساب الرئيسي بنك الجزيرة ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1000000.0,
+        "bcy_amount":1000000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004852121"
+    },
+    {
+        "line_id":"5975823000004852128",
+        "account_id":"5975823000000101937",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Inma - 120206 - حساب مصرف الانماء",
+        "account_code":"120206",
+        "description":"حوالة من بنك النماء الي الحساب الرئيسي بنك الجزيرة ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1000000.0,
+        "bcy_amount":1000000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004852121"
+    },
+    {
         "line_id":"5975823000004844035",
         "account_id":"5975823000000168013",
         "customer_id":"",
@@ -80894,6 +80964,216 @@
         "journal_id":"5975823000004844426"
     },
     {
+        "line_id":"5975823000004856039",
+        "account_id":"5975823000000100499",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Payroll and related - 510101 - الرواتب وما في حكمها",
+        "account_code":"510101",
+        "description":"",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":240501.0,
+        "bcy_amount":240501.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004856031"
+    },
+    {
+        "line_id":"5975823000004856040",
+        "account_id":"5975823000000102789",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Accrued GOSI - 220203 - مصروفات مستحقة تامينات اجتماعية",
+        "account_code":"220203",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":24773.76,
+        "bcy_amount":24773.76,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004856031"
+    },
+    {
+        "line_id":"5975823000004856041",
+        "account_id":"5975823000001427081",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Zoho Payroll - Loan Account",
+        "account_code":"120401",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":11216.67,
+        "bcy_amount":11216.67,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004856031"
+    },
+    {
+        "line_id":"5975823000004856042",
+        "account_id":"5975823000000102807",
+        "customer_id":"",
+        "item_order":4,
+        "customer_name":"",
+        "account_name":"Accrued payroll - 220206 - رواتب مستحقة",
+        "account_code":"220206",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":218661.81,
+        "bcy_amount":218661.81,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004856031"
+    },
+    {
+        "line_id":"5975823000004856043",
+        "account_id":"5975823000000102699",
+        "customer_id":"",
+        "item_order":5,
+        "customer_name":"",
+        "account_name":"Prepaid - Chamber of Commerce certification - 120605 - تصاديق الغرفة التجارية مدفوعة مقدما",
+        "account_code":"120605",
+        "description":"",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":105.0,
+        "bcy_amount":105.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004856031"
+    },
+    {
+        "line_id":"5975823000004856044",
+        "account_id":"5975823000000100511",
+        "customer_id":"",
+        "item_order":6,
+        "customer_name":"",
+        "account_name":"GOSI - 510103 - التأمينات الاجتماعية",
+        "account_code":"510103",
+        "description":"",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":14256.24,
+        "bcy_amount":14256.24,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004856031"
+    },
+    {
         "line_id":"5975823000004847011",
         "account_id":"5975823000000100547",
         "customer_id":"",
@@ -81044,6 +81324,76 @@
 
         },
         "journal_id":"5975823000004847001"
+    },
+    {
+        "line_id":"5975823000004852143",
+        "account_id":"5975823000000100097",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "account_code":"121211",
+        "description":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":300000.0,
+        "bcy_amount":300000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004852137"
+    },
+    {
+        "line_id":"5975823000004852144",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":300000.0,
+        "bcy_amount":300000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000004852137"
     },
     {
         "line_id":"5975823000004835008",
