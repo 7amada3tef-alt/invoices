@@ -12388,6 +12388,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000004885009",
+        "journal_date":"2026-09-08",
+        "entry_number":"JE -000667",
+        "reference_number":"تعزيز حساب اثار الخير القابضة من حساب تكامل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز حساب اثار الخير القابضة من حساب تكامل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":500000.0,
+        "bcy_total":500000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-01T16:54:30+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000004835487",
         "journal_date":"2026-09-10",
         "entry_number":"JE -000649",
@@ -12650,6 +12669,44 @@
 
         ],
         "last_modified_time":"2026-09-30T14:36:21+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004868001",
+        "journal_date":"2026-09-30",
+        "entry_number":"JE -000664",
+        "reference_number":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اهلاك القيمة المتبقية للاصل حسب القيمة المذكورة في القوائم المالية لعام 2024م - حاسب الي - القيمة والمدة المتبقية: ( 9,225.83 ) 1 سنة و 9 شهور",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":439.32,
+        "bcy_total":439.32,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-30T22:07:12+0300",
+        "created_by_id":"",
+        "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004869001",
+        "journal_date":"2026-09-30",
+        "entry_number":"JE -000665",
+        "reference_number":"Mohammed Abbas Labor Office & Iqama - 2298890530",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Mohammed Abbas Labor Office & Iqama - 2298890530",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":762.51,
+        "bcy_total":762.51,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-09-30T22:33:53+0300",
         "created_by_id":"",
         "created_by_name":""
     }
