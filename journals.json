@@ -12644,12 +12644,12 @@
         "notes":"مخصص نهاية الخدمة",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":10300.0,
-        "bcy_total":10300.0,
+        "total":7620.25,
+        "bcy_total":7620.25,
         "tags":[
 
         ],
-        "last_modified_time":"2026-09-30T13:27:53+0300",
+        "last_modified_time":"2026-10-02T11:53:46+0300",
         "created_by_id":"",
         "created_by_name":""
     },

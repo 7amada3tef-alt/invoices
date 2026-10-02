@@ -674,7 +674,7 @@
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 1849238.68,
+          "total": 1846558.93,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
@@ -768,13 +768,13 @@
               "previous_total": []
             },
             {
-              "total": 183370.38,
+              "total": 180690.63,
               "total_label": "Total Non Current Liabilities",
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 183370.38,
+                  "total": 180690.63,
                   "account_id": "5975823000000289799",
                   "depth": 0,
                   "previous_values": [],
@@ -805,12 +805,12 @@
           "previous_total": []
         },
         {
-          "total": 5936808.23,
+          "total": 5939487.98,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 537682.92,
+              "total": 540362.67,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -870,12 +870,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-10-01",
-    "to_date": "2026-10-01",
+    "as_of_date": "2026-10-02",
+    "to_date": "2026-10-02",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "01 Oct 2026 06:59 PM",
+    "last_accessed_time_formatted": "02 Oct 2026 06:21 PM",
     "select_columns": [
       {
         "field": "name",
@@ -904,9 +904,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "01 Oct 2026",
-        "from_date": "2026-10-01",
-        "to_date": "2026-10-01"
+        "date_range_label": "02 Oct 2026",
+        "from_date": "2026-10-02",
+        "to_date": "2026-10-02"
       }
     ],
     "sort_column": "account",
