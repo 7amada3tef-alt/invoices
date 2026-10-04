@@ -81778,7 +81778,7 @@
         "account_name":"End of service benefits - 510105 - مكافاة نهاية الخدمة",
         "account_code":"510105",
         "description":"مخصص نهاية الخدمة",
-        "debit_or_credit":"debit",
+        "debit_or_credit":"credit",
         "tax_exemption_id":"",
         "tax_exemption_type":"",
         "tax_authority_id":"",
@@ -81789,8 +81789,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":7620.25,
-        "bcy_amount":7620.25,
+        "amount":15319.67,
+        "bcy_amount":15319.67,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -81819,7 +81819,7 @@
         "account_name":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
         "account_code":"210301",
         "description":"مخصص نهاية الخدمة",
-        "debit_or_credit":"credit",
+        "debit_or_credit":"debit",
         "tax_exemption_id":"",
         "tax_exemption_type":"",
         "tax_authority_id":"",
@@ -81830,8 +81830,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":7620.25,
-        "bcy_amount":7620.25,
+        "amount":15319.67,
+        "bcy_amount":15319.67,
         "project_name":"",
         "project_id":"",
         "tags":[

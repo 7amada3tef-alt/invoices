@@ -2,6 +2,798 @@
     {
         "purchaseorder_id":"",
         "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934004",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100679",
+        "account_name":"Employee tickets - 520301 - تذاكر موظفين",
+        "account_code":"520301",
+        "description":"فعاليات - مهارت المستقبل - تومودو  ",
+        "bcy_rate":45953.0,
+        "rate":45953.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003834042",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026040 - مهارات المستقبل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":5993.87
+            }
+        ],
+        "item_total":39959.13,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934005",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100103",
+        "account_name":"Ghadan  - شركة التنمية وغدن للتجارة",
+        "account_code":"121212",
+        "description":"تذاكر - تخص مشاريع غدن - تومودو  ",
+        "bcy_rate":32896.57,
+        "rate":32896.57,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":4290.86
+            }
+        ],
+        "item_total":28605.71,
+        "item_order":2,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934006",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100109",
+        "account_name":"Rakeen - شركة ركين العطاء للتجارة",
+        "account_code":"121213",
+        "description":"تذاكر - تخص مشاريع ركين- تومودو  ",
+        "bcy_rate":37998.3,
+        "rate":37998.3,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":4956.3
+            }
+        ],
+        "item_total":33042.0,
+        "item_order":3,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934007",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100121",
+        "account_name":"Warif - شركة وارف المعرفة",
+        "account_code":"121215",
+        "description":"تذاكر - تخص مشاريع وارف - تومودو  ",
+        "bcy_rate":5068.08,
+        "rate":5068.08,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":661.05
+            }
+        ],
+        "item_total":4407.03,
+        "item_order":4,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934008",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100679",
+        "account_name":"Employee tickets - 520301 - تذاكر موظفين",
+        "account_code":"520301",
+        "description":"تذاكر -Strategic Roadmap Project – Al-Subaie Foundation- 8026050\n - تومودو  ",
+        "bcy_rate":2050.5,
+        "rate":2050.5,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000004034021",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":267.46
+            }
+        ],
+        "item_total":1783.04,
+        "item_order":5,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934009",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000102997",
+        "account_name":"Employee tickets - 720301 - تذاكر موظفين",
+        "account_code":"720301",
+        "description":"تذاكر -التسويق\n - تومودو  ",
+        "bcy_rate":468.05,
+        "rate":468.05,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171233",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000040 - مكتب ادارة المشاريع تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":61.05
+            }
+        ],
+        "item_total":407.0,
+        "item_order":6,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934010",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000103009",
+        "account_name":"Hotel accommodation - 720603 - إقامة فندقية",
+        "account_code":"720603",
+        "description":"تذاكر -التسويق\n - تومودو  ",
+        "bcy_rate":1306.98,
+        "rate":1306.98,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171230",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000030 - تدريب وتطوير تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":170.48
+            }
+        ],
+        "item_total":1136.5,
+        "item_order":7,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934011",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000101561",
+        "account_name":"Employee tickets - 620301 - تذاكر موظفين",
+        "account_code":"620301",
+        "description":"تذاكر -مصاريق عمومي \n - تومودو  ",
+        "bcy_rate":1014.5,
+        "rate":1014.5,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":132.33
+            }
+        ],
+        "item_total":882.17,
+        "item_order":8,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004934012",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100097",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "account_code":"121211",
+        "description":"تذاكر -المحرك الثاني \n - تومودو  ",
+        "bcy_rate":2255.0,
+        "rate":2255.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171227",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000020 - مصاريف بيعية وتسويقية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":294.13
+            }
+        ],
+        "item_total":1960.87,
+        "item_order":9,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004934002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
         "line_item_id":"5975823000004885165",
         "item_id":"",
         "itc_eligibility":"eligible",
