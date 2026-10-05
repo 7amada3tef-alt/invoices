@@ -12709,5 +12709,62 @@
         "last_modified_time":"2026-09-30T22:33:53+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000004943078",
+        "journal_date":"2026-09-30",
+        "entry_number":"JE -000669",
+        "reference_number":"خدمات بنكية - سبتمبر 2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"خدمات بنكية - سبتمبر 2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":25.08,
+        "bcy_total":25.08,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-05T15:28:50+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000004943094",
+        "journal_date":"2026-10-01",
+        "entry_number":"JE -000670",
+        "reference_number":"حوالة واردة من الموارد البشرية  ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة واردة من الموارد البشرية  ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3000.0,
+        "bcy_total":3000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-05T15:31:33+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000004943114",
+        "journal_date":"2026-10-05",
+        "entry_number":"JE -000671",
+        "reference_number":"تحويل من تكامل الي غدن ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تحويل من تكامل الي غدن ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":60750.0,
+        "bcy_total":60750.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-05T15:32:53+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]

@@ -2,6 +2,192 @@
     {
         "purchaseorder_id":"",
         "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004952004",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100703",
+        "account_name":"Hospitality - 520501 - ضيافة",
+        "account_code":"520501",
+        "description":"1. 2245 - Baderddin - Alnishiwati\n2. Reason - ثمن شراء ضيافة لحفل مصنع الابتكار\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Cost Center - 8026080-مشروع تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار\n5. Debit Chart of Account - Hospitality - 520501 - ضيافة - 520501\n6. Invoice Number - 1562891756",
+        "bcy_rate":207.5,
+        "rate":207.5,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000004707003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026080-مشروع تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":207.5,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004952002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000004945004",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100667",
+        "account_name":"Employee perdeim - 520201 - انتدابات موظفين",
+        "account_code":"520201",
+        "description":"1. Employee Name - 25 - Wafaa - AL mohsen\n2. Purpose - Service\/خدمة\n3. Vendor Name - مورد مصاريف موظفين سعوديين - 2110799\n4. Cost Center - 8025100 - مشروع منظومة عمل إدارة دراسات الحالة\n5. Debit Account - Employee perdeim - 520201 - انتدابات موظفين - 520201\n6. Date of return to work - 11-Oct-2026\n7. Masar AWG - مسار استشارات - محمد عبدالوهاب\n8. Other Details  - حضور ورشة تدريبيه لدراسة الحاله ٣ ايام",
+        "bcy_rate":2250.0,
+        "rate":2250.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000001792006",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8025100 - مشروع منظومة عمل إدارة دراسات الحالة"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":2250.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000004945002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
         "line_item_id":"5975823000004934004",
         "item_id":"",
         "itc_eligibility":"eligible",
