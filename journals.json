@@ -12730,6 +12730,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005006001",
+        "journal_date":"2026-09-30",
+        "entry_number":"JE -000672",
+        "reference_number":"اغلاق الايراد المقدم لشهر سبتمبر",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق الايراد المقدم لشهر سبتمبر",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":165000.0,
+        "bcy_total":165000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-09T02:31:55+0300",
+        "created_by_id":"5975823000000118001",
+        "created_by_name":"Anas Alkhuzaei"
+    },
+    {
         "journal_id":"5975823000004943094",
         "journal_date":"2026-10-01",
         "entry_number":"JE -000670",
