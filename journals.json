@@ -12749,6 +12749,25 @@
         "created_by_name":"Anas Alkhuzaei"
     },
     {
+        "journal_id":"5975823000005032115",
+        "journal_date":"2026-09-30",
+        "entry_number":"JE -000673",
+        "reference_number":"VAT Return for September - 2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"VAT Balance Journal for September - 2026",
+        "journal_type":"both",
+        "entity_type":"vat_balance_journal",
+        "total":261333.1,
+        "bcy_total":261333.1,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-13T11:21:11+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000004943094",
         "journal_date":"2026-10-01",
         "entry_number":"JE -000670",
@@ -12783,6 +12802,44 @@
 
         ],
         "last_modified_time":"2026-10-05T15:32:53+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005032216",
+        "journal_date":"2026-10-12",
+        "entry_number":"JE -000675",
+        "reference_number":"تعزيز من حساب ركين الي حساب تكامل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من حساب ركين الي حساب تكامل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":115000.0,
+        "bcy_total":115000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-13T16:34:15+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005032200",
+        "journal_date":"2026-10-13",
+        "entry_number":"JE -000674",
+        "reference_number":"تعزيز من حساب ركين الي حساب تكامل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من حساب ركين الي حساب تكامل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":20000.0,
+        "bcy_total":20000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-13T14:55:56+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
     }

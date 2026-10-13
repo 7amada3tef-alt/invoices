@@ -89,7 +89,7 @@
     },
     {
         "expense_id":"5975823000004934174",
-        "date":"2026-10-04",
+        "date":"2026-09-30",
         "user_name":"",
         "paid_through_account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
         "account_name":"Bank service charges - 630105 - خدمات بنكية",
@@ -109,7 +109,7 @@
         "vendor_name":"بنك الجزيرة",
         "status":"nonbillable",
         "created_time":"2026-10-04T14:10:28+0300",
-        "last_modified_time":"2026-10-04T14:10:28+0300",
+        "last_modified_time":"2026-10-13T16:36:08+0300",
         "expense_receipt_name":"",
         "exchange_rate":1.0,
         "distance":0.0,

@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 8036340.48,
+      "total": 8046407.17,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 7787578.63,
+          "total": 7797645.32,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -126,12 +126,12 @@
               "previous_total": []
             },
             {
-              "total": 170268.25,
+              "total": 288751.95,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 195647.18,
+                  "total": 314130.88,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -187,12 +187,12 @@
               "previous_total": []
             },
             {
-              "total": 1948893.67,
+              "total": 2048893.67,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 1948893.67,
+                  "total": 2048893.67,
                   "account_id": "5975823000000000364",
                   "depth": 0,
                   "previous_values": [],
@@ -210,7 +210,7 @@
               "previous_total": []
             },
             {
-              "total": 5536604.49,
+              "total": 5328187.48,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -306,7 +306,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 91656.81,
+                  "total": 1723.5,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -332,7 +332,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 249355.97,
+                  "total": 265872.27,
                   "account_id": "5975823000000091011",
                   "depth": 0,
                   "previous_values": [],
@@ -384,7 +384,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 82539.05,
+                  "total": -52460.95,
                   "account_id": "5975823000000100109",
                   "depth": 0,
                   "previous_values": [],
@@ -682,23 +682,23 @@
       "previous_total": []
     },
     {
-      "total": 8036340.48,
+      "total": 8046407.17,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 1733307.3,
+          "total": 1970292.47,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1575556.59,
+              "total": 1812541.76,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 285801.84,
+                  "total": 599676.84,
                   "account_id": "5975823000000000373",
                   "depth": 0,
                   "previous_values": [],
@@ -738,7 +738,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 223967.58,
+                  "total": 395367.37,
                   "account_id": "5975823000000091224",
                   "depth": 0,
                   "previous_values": [],
@@ -751,7 +751,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 284624.1,
+                  "total": 36334.48,
                   "account_id": "5975823000000091049",
                   "depth": 0,
                   "previous_values": [],
@@ -818,12 +818,12 @@
           "previous_total": []
         },
         {
-          "total": 6303033.18,
+          "total": 6076114.7,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 903907.87,
+              "total": 676989.39,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -883,12 +883,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-10-12",
-    "to_date": "2026-10-12",
+    "as_of_date": "2026-10-13",
+    "to_date": "2026-10-13",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "12 Oct 2026 09:32 PM",
+    "last_accessed_time_formatted": "13 Oct 2026 07:47 PM",
     "select_columns": [
       {
         "field": "name",
@@ -917,9 +917,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "12 Oct 2026",
-        "from_date": "2026-10-12",
-        "to_date": "2026-10-12"
+        "date_range_label": "13 Oct 2026",
+        "from_date": "2026-10-13",
+        "to_date": "2026-10-13"
       }
     ],
     "sort_column": "account",
