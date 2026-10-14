@@ -2,6 +2,565 @@
     {
         "purchaseorder_id":"",
         "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005073522",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000102997",
+        "account_name":"Employee tickets - 720301 - تذاكر موظفين",
+        "account_code":"720301",
+        "description":"تذاكر - احمد باسماعيل مسار تسويق - احمد بااسماعيل\n",
+        "bcy_rate":1247.75,
+        "rate":1247.75,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171227",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000020 - مصاريف بيعية وتسويقية تكامل"
+            },
+            {
+                "tag_option_id":"5975823000004166112",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار تسويق - احمد بااسماعيل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":162.75
+            }
+        ],
+        "item_total":1085.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005073520",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005073484",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000102997",
+        "account_name":"Employee tickets - 720301 - تذاكر موظفين",
+        "account_code":"720301",
+        "description":"تذاكر - احمد باسماعيل مسار تسويق - احمد بااسماعيل\n",
+        "bcy_rate":1269.6,
+        "rate":1269.6,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171227",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000020 - مصاريف بيعية وتسويقية تكامل"
+            },
+            {
+                "tag_option_id":"5975823000004166112",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار تسويق - احمد بااسماعيل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":165.6
+            }
+        ],
+        "item_total":1104.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005073482",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005073442",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000103069",
+        "account_name":"Fees for building and operating electronic platforms - 720106 - أتعاب بناء وتشغيل منصات الكترونية",
+        "account_code":"720106",
+        "description":"مورد دولي -8000020 - المصاريف البيعية والتسويقية",
+        "bcy_rate":198.58,
+        "rate":198.58,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171227",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000020 - مصاريف بيعية وتسويقية تكامل"
+            },
+            {
+                "tag_option_id":"5975823000004166112",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار تسويق - احمد بااسماعيل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":198.58,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005073440",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005073400",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000103093",
+        "account_name":"Gifts - 721203 - هدايا",
+        "account_code":"721203",
+        "description":"مورد دولي -8000020 - المصاريف البيعية والتسويقية",
+        "bcy_rate":2735.13,
+        "rate":2735.13,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171227",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000020 - مصاريف بيعية وتسويقية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":2735.13,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005073398",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005073063",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100649",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "account_code":"520108",
+        "description":"الدفعة الرابعة لجمعية الرواد الشبابية ضمن مشروع التأهيل للتوظيف\nايبان : SA5605000068222121111000\nاسم البنك : مصرف الإنماء\nالحساب : جمعية الرواد الشبابية\nالدفعة الرابعة : 65,625 ريال\n\n\n",
+        "bcy_rate":65625.0,
+        "rate":65625.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":65625.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005073061",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005073020",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100649",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "account_code":"520108",
+        "description":"الدفعة الثالثة لجمعية ماجد بن عبدالعزيز ضمن مشروع التأهيل للتوظيف\nاسم البنك : بنك الانماء\nالحساب : جمعية ماجد بن عبدالعزيز\nعملة الحساب : الريال السعودي .\nايبان : SA0805000068200255555000\nالدفعة الثالثة : 70,000 ريال\n\n\n",
+        "bcy_rate":70000.0,
+        "rate":70000.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":70000.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005073018",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
         "line_item_id":"5975823000005067004",
         "item_id":"",
         "itc_eligibility":"eligible",
