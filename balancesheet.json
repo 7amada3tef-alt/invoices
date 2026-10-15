@@ -3,17 +3,17 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 7850009.46,
+      "total": 7848837.11,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 7601247.61,
+          "total": 7600075.26,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 131812.22,
+              "total": 130496.78,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -44,7 +44,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 58667.95,
+                  "total": 58067.95,
                   "account_id": "5975823000000168013",
                   "depth": 0,
                   "previous_values": [],
@@ -52,6 +52,19 @@
                   "name": "Anas Lutfi custody - 120102 - عهدة انس لطفي",
                   "previous_total_sub_account": [],
                   "account_code": "120102",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": 600.0,
+                  "account_id": "5975823000005085132",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Anas Saleh Custody-120111-عهدة انس صالح",
+                  "previous_total_sub_account": [],
+                  "account_code": "120111",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -96,7 +109,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 2003.0,
+                  "total": 687.56,
                   "account_id": "5975823000000353048",
                   "depth": 0,
                   "previous_values": [],
@@ -210,7 +223,7 @@
               "previous_total": []
             },
             {
-              "total": 5348515.83,
+              "total": 5348658.92,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -306,7 +319,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 2051.85,
+                  "total": 2194.94,
                   "account_id": "5975823000000091047",
                   "depth": 0,
                   "previous_values": [],
@@ -682,7 +695,7 @@
       "previous_total": []
     },
     {
-      "total": 7850009.46,
+      "total": 7848837.11,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
@@ -818,12 +831,12 @@
           "previous_total": []
         },
         {
-          "total": 5879716.99,
+          "total": 5878544.64,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 480591.68,
+              "total": 479419.33,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -883,12 +896,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-10-14",
-    "to_date": "2026-10-14",
+    "as_of_date": "2026-10-15",
+    "to_date": "2026-10-15",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "14 Oct 2026 05:23 PM",
+    "last_accessed_time_formatted": "15 Oct 2026 04:57 PM",
     "select_columns": [
       {
         "field": "name",
@@ -917,9 +930,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "14 Oct 2026",
-        "from_date": "2026-10-14",
-        "to_date": "2026-10-14"
+        "date_range_label": "15 Oct 2026",
+        "from_date": "2026-10-15",
+        "to_date": "2026-10-15"
       }
     ],
     "sort_column": "account",
