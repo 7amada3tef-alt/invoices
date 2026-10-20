@@ -12880,5 +12880,24 @@
         "last_modified_time":"2026-10-19T09:28:00+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005144002",
+        "journal_date":"2026-10-19",
+        "entry_number":"JE -000678",
+        "reference_number":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":16400.0,
+        "bcy_total":16400.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-20T10:04:23+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]
