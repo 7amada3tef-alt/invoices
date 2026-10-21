@@ -2,6 +2,829 @@
     {
         "purchaseorder_id":"",
         "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005174009",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000101633",
+        "account_name":"Internet - 621303 - انترنت",
+        "account_code":"621303",
+        "description":"1. Expense Date - 15-Oct-2026\n2. Invoice No - 15-37001777266\n3. Vendor Name - STC - شركة الاتصالات السعودية - 2110072\n4. Cost Center - 8000011 - المصاريف العمومية والادارية تكامل\n5. Debit Account - Internet - 621303 - انترنت - 621303\n6. Tax Treatment - VAT Registered\n7. VAT Type - Inclusive VAT\n8. Attachment Document - Invoice\n9. Masar AWG - مسار استشارات - محمد عبدالوهاب",
+        "bcy_rate":1148.85,
+        "rate":1148.85,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":149.85
+            }
+        ],
+        "item_total":999.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005174007",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005144201",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100649",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "account_code":"520108",
+        "description":"1. Expense Date - 1-Oct-2026\n2. Invoice No -2 \n3. Vendor Name - جمعية طاقات الشبابية - 2112254\n4. Cost Center - 8026020 - التأهيل للتوظيف\n5. Debit Account - Consultation fees - 520108 - اتعاب استشارات - 520108\n6. Tax Treatment - Non VAT Registered\n7. VAT Type - Inclusive VAT\n8. Attachment Document - Invoice\n9. Masar AWG - مسار استشارات - محمد عبدالوهاب",
+        "bcy_rate":37500.0,
+        "rate":37500.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":37500.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005144199",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005144155",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100649",
+        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
+        "account_code":"520108",
+        "description":"1. Expense Date - 1-Oct-2026\n2. Invoice No -3 \n3. Vendor Name - جمعية طاقات الشبابية - 2112254\n4. Cost Center - 8026020 - التأهيل للتوظيف\n5. Debit Account - Consultation fees - 520108 - اتعاب استشارات - 520108\n6. Tax Treatment - Non VAT Registered\n7. VAT Type - Inclusive VAT\n8. Attachment Document - Invoice\n9. Masar AWG - مسار استشارات - محمد عبدالوهاب",
+        "bcy_rate":18750.0,
+        "rate":18750.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":18750.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005144153",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005156020",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000101867",
+        "account_name":"Aathar Adm. Expenses - 630120 - مصاريف اثار الادارية",
+        "account_code":"630120",
+        "description":"اتعاب استشارات لشركة تكامل  - ابريل",
+        "bcy_rate":75000.0,
+        "rate":75000.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":11250.0
+            }
+        ],
+        "item_total":75000.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005156018",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005156021",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000101867",
+        "account_name":"Aathar Adm. Expenses - 630120 - مصاريف اثار الادارية",
+        "account_code":"630120",
+        "description":"اتعاب استشارات لشركة تكامل  - مايو",
+        "bcy_rate":75000.0,
+        "rate":75000.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":11250.0
+            }
+        ],
+        "item_total":75000.0,
+        "item_order":2,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005156018",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005156022",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000101867",
+        "account_name":"Aathar Adm. Expenses - 630120 - مصاريف اثار الادارية",
+        "account_code":"630120",
+        "description":"اتعاب استشارات لشركة تكامل  - يونيو",
+        "bcy_rate":75000.0,
+        "rate":75000.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":11250.0
+            }
+        ],
+        "item_total":75000.0,
+        "item_order":3,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005156018",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005156023",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000101867",
+        "account_name":"Aathar Adm. Expenses - 630120 - مصاريف اثار الادارية",
+        "account_code":"630120",
+        "description":"اتعاب استشارات لشركة تكامل  - يوليو",
+        "bcy_rate":75000.0,
+        "rate":75000.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":11250.0
+            }
+        ],
+        "item_total":75000.0,
+        "item_order":4,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005156018",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005156024",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000101867",
+        "account_name":"Aathar Adm. Expenses - 630120 - مصاريف اثار الادارية",
+        "account_code":"630120",
+        "description":"اتعاب استشارات لشركة تكامل  - اغسطس",
+        "bcy_rate":75000.0,
+        "rate":75000.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":11250.0
+            }
+        ],
+        "item_total":75000.0,
+        "item_order":5,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005156018",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005156025",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000101867",
+        "account_name":"Aathar Adm. Expenses - 630120 - مصاريف اثار الادارية",
+        "account_code":"630120",
+        "description":"اتعاب استشارات لشركة تكامل  - سبتمبر",
+        "bcy_rate":75000.0,
+        "rate":75000.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":11250.0
+            }
+        ],
+        "item_total":75000.0,
+        "item_order":6,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005156018",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
         "line_item_id":"5975823000005127004",
         "item_id":"",
         "itc_eligibility":"eligible",

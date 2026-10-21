@@ -82481,111 +82481,6 @@
         "journal_id":"5975823000005006001"
     },
     {
-        "line_id":"5975823000005032120",
-        "account_id":"5975823000000091049",
-        "customer_id":"",
-        "item_order":1,
-        "customer_name":"",
-        "account_name":"Output VAT",
-        "account_code":"22001",
-        "description":"",
-        "debit_or_credit":"debit",
-        "tax_exemption_id":"",
-        "tax_exemption_type":"",
-        "tax_authority_id":"",
-        "tax_id":"",
-        "tax_name":"",
-        "tax_type":"tax",
-        "tax_percentage":"",
-        "line_item_taxes":[
-
-        ],
-        "amount":261333.1,
-        "bcy_amount":261333.1,
-        "project_name":"",
-        "project_id":"",
-        "tags":[
-
-        ],
-        "item_custom_fields":[
-
-        ],
-        "custom_field_hash":{
-
-        },
-        "journal_id":"5975823000005032115"
-    },
-    {
-        "line_id":"5975823000005032121",
-        "account_id":"5975823000000091047",
-        "customer_id":"",
-        "item_order":2,
-        "customer_name":"",
-        "account_name":"Input VAT",
-        "account_code":"12001",
-        "description":"",
-        "debit_or_credit":"credit",
-        "tax_exemption_id":"",
-        "tax_exemption_type":"",
-        "tax_authority_id":"",
-        "tax_id":"",
-        "tax_name":"",
-        "tax_type":"tax",
-        "tax_percentage":"",
-        "line_item_taxes":[
-
-        ],
-        "amount":89933.31,
-        "bcy_amount":89933.31,
-        "project_name":"",
-        "project_id":"",
-        "tags":[
-
-        ],
-        "item_custom_fields":[
-
-        ],
-        "custom_field_hash":{
-
-        },
-        "journal_id":"5975823000005032115"
-    },
-    {
-        "line_id":"5975823000005032122",
-        "account_id":"5975823000000091224",
-        "customer_id":"",
-        "item_order":4,
-        "customer_name":"",
-        "account_name":"GCC VAT Payable",
-        "account_code":"22002",
-        "description":"",
-        "debit_or_credit":"credit",
-        "tax_exemption_id":"",
-        "tax_exemption_type":"",
-        "tax_authority_id":"",
-        "tax_id":"",
-        "tax_name":"",
-        "tax_type":"tax",
-        "tax_percentage":"",
-        "line_item_taxes":[
-
-        ],
-        "amount":171399.79,
-        "bcy_amount":171399.79,
-        "project_name":"",
-        "project_id":"",
-        "tags":[
-
-        ],
-        "item_custom_fields":[
-
-        ],
-        "custom_field_hash":{
-
-        },
-        "journal_id":"5975823000005032115"
-    },
-    {
         "line_id":"5975823000004943102",
         "account_id":"5975823000000103327",
         "customer_id":"",
@@ -83080,5 +82975,75 @@
 
         },
         "journal_id":"5975823000005144002"
+    },
+    {
+        "line_id":"5975823000005144027",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "description":"تعزيز حساب تكامل من وارف المعرفة ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":70000.0,
+        "bcy_amount":70000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005144021"
+    },
+    {
+        "line_id":"5975823000005144028",
+        "account_id":"5975823000000100121",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Warif - شركة وارف المعرفة",
+        "account_code":"121215",
+        "description":"تعزيز حساب تكامل من وارف المعرفة ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":70000.0,
+        "bcy_amount":70000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005144021"
     }
 ]

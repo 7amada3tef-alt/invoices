@@ -12749,25 +12749,6 @@
         "created_by_name":"Anas Alkhuzaei"
     },
     {
-        "journal_id":"5975823000005032115",
-        "journal_date":"2026-09-30",
-        "entry_number":"JE -000673",
-        "reference_number":"VAT Return for September - 2026",
-        "currency_id":"5975823000000091149",
-        "status":"published",
-        "notes":"VAT Balance Journal for September - 2026",
-        "journal_type":"both",
-        "entity_type":"vat_balance_journal",
-        "total":261333.1,
-        "bcy_total":261333.1,
-        "tags":[
-
-        ],
-        "last_modified_time":"2026-10-13T11:21:11+0300",
-        "created_by_id":"5975823000004746001",
-        "created_by_name":"Kareem Maged"
-    },
-    {
         "journal_id":"5975823000004943094",
         "journal_date":"2026-10-01",
         "entry_number":"JE -000670",
@@ -12897,6 +12878,25 @@
 
         ],
         "last_modified_time":"2026-10-20T10:04:23+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005144021",
+        "journal_date":"2026-10-21",
+        "entry_number":"JE -000679",
+        "reference_number":"تعزيز حساب تكامل من وارف المعرفة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز حساب تكامل من وارف المعرفة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":70000.0,
+        "bcy_total":70000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-21T12:17:41+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
     }
