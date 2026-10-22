@@ -73,7 +73,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Income,International sales - مبيعات دولية,417,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Income,International sales - مبيعات دولية,417,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Income,International sales - مبيعات دولية,417,0.0
-Overall,Overall,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,5831368.86
+Overall,Overall,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,6675477.56
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,0.0
@@ -100,8 +100,8 @@ Cost Center - Takamull,8025090 - هاكاثون الوعي المعرفي,Operat
 Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة دراسات الحالة,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,0.0
 Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,101500.0
 Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,0.0
-Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,112500.0
-Cost Center - Takamull,8026020 - التأهيل للتوظيف,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,695652.17
+Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,174000.0
+Cost Center - Takamull,8026020 - التأهيل للتوظيف,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,1478260.87
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,517577.71
 Cost Center - Takamull,8026040 - مهارات المستقبل,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,0.0
 Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Operating Income,NPO sales (Third Sector) - مبيعات القطاع الثالث,413,183794.39
@@ -147,7 +147,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Income,Private Sector Related Party Sales -  مبيعات القطاع الخاص لاطراف ذات علاقة,416,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Income,Private Sector Related Party Sales -  مبيعات القطاع الخاص لاطراف ذات علاقة,416,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Income,Private Sector Related Party Sales -  مبيعات القطاع الخاص لاطراف ذات علاقة,416,0.0
-Overall,Overall,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,8257386.16
+Overall,Overall,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,8384177.93
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
@@ -181,9 +181,46 @@ Cost Center - Takamull,8026040 - مهارات المستقبل,Operating Income,
 Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
 Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,17906.12
 Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
-Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,126791.77
+Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,253583.54
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
+Overall,Overall,Operating Income,Sales,,316500.0
+Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Income,Sales,,0.0
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Income,Sales,,0.0
+Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Income,Sales,,0.0
+Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Operating Income,Sales,,0.0
+Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Operating Income,Sales,,0.0
+Cost Center - Takamull,8000050 - الاتصال المؤسسي تكامل,Operating Income,Sales,,0.0
+Cost Center - Takamull,8000060 - منصة قياس الأثر,Operating Income,Sales,,0.0
+Cost Center - Takamull,8023010 - إنشاء مقار إدارة العمل التطوعي لخدمة ضيوف الرحمن,Operating Income,Sales,,0.0
+Cost Center - Takamull,8023020 - منهجية عمل تعزز البنية المؤسسية للمنظمات غير الربحية,Operating Income,Sales,,0.0
+Cost Center - Takamull,8023030 - رفع الوعي الفني لدى منظمات القطاع غير الربحي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8024010 - مشروع تقديم خدمات تأسيس وتفعيل وحدات ومراكز العمل التطوعي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8024020 - مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8024030 - تمكين الجمعيات المتخصصة العاملة في القطاع غير الربحي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8024040 - تقديم الخدمات اللوجستية للتدريب في برنامج رائد,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025010 - مشروع العربة,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025020 - مشروع وزارة الرياضة,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025030 - تقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025040 - مصنع الابتكار - اشوكا,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025050 - حصر الاحتياج التدريبي في منظومة الصحة,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025060 - مجموعات عمل التطوع التكافلي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025070 - سفر الإفطار في الحرم المكي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025080 - سوق الدار,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025090 - هاكاثون الوعي المعرفي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة دراسات الحالة,Operating Income,Sales,,316500.0
+Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Operating Income,Sales,,0.0
+Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026020 - التأهيل للتوظيف,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026040 - مهارات المستقبل,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Income,Sales,,0.0
+Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Income,Sales,,0.0
 Overall,Overall,Cost of Goods Sold,Advertising and promotion - 521109 - دعاية واعلان,521109,52835.0
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Advertising and promotion - 521109 - دعاية واعلان,521109,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Advertising and promotion - 521109 - دعاية واعلان,521109,0.0
