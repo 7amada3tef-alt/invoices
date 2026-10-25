@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 9260032.45,
+      "total": 9244432.45,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 9011270.6,
+          "total": 8995670.6,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -223,7 +223,7 @@
               "previous_total": []
             },
             {
-              "total": 5410460.08,
+              "total": 5394860.08,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -345,7 +345,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 223690.27,
+                  "total": 208090.27,
                   "account_id": "5975823000000091011",
                   "depth": 0,
                   "previous_values": [],
@@ -695,23 +695,23 @@
       "previous_total": []
     },
     {
-      "total": 9260032.45,
+      "total": 9244432.45,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 2705336.34,
+          "total": 2689736.34,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 2547585.63,
+              "total": 2531985.63,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 1105894.84,
+                  "total": 1090294.84,
                   "account_id": "5975823000000000373",
                   "depth": 0,
                   "previous_values": [],
@@ -896,12 +896,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-10-24",
-    "to_date": "2026-10-24",
+    "as_of_date": "2026-10-25",
+    "to_date": "2026-10-25",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "24 Oct 2026 04:09 PM",
+    "last_accessed_time_formatted": "25 Oct 2026 04:36 PM",
     "select_columns": [
       {
         "field": "name",
@@ -930,9 +930,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "24 Oct 2026",
-        "from_date": "2026-10-24",
-        "to_date": "2026-10-24"
+        "date_range_label": "25 Oct 2026",
+        "from_date": "2026-10-25",
+        "to_date": "2026-10-25"
       }
     ],
     "sort_column": "account",
