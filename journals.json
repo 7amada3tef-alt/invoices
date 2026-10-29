@@ -12920,6 +12920,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005276031",
+        "journal_date":"2026-10-22",
+        "entry_number":"JE -000684",
+        "reference_number":"2025-2026 Staff Annual Bouns Payment on 22 Oct'26",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"2025-2026 Staff Annual Bouns Payment on 22 Oct'26",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":362260.13,
+        "bcy_total":362260.13,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-29T14:32:04+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000005247021",
         "journal_date":"2026-10-27",
         "entry_number":"Payroll-12",
@@ -12975,5 +12994,43 @@
         "last_modified_time":"2026-10-28T12:17:43+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000005276016",
+        "journal_date":"2026-10-29",
+        "entry_number":"JE -000683",
+        "reference_number":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":60000.0,
+        "bcy_total":60000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-29T11:56:28+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005276047",
+        "journal_date":"2026-10-29",
+        "entry_number":"JE -000685",
+        "reference_number":"تعزيز من اثار الخير القابضة الي تكامل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من اثار الخير القابضة الي تكامل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":30000.0,
+        "bcy_total":30000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-10-29T16:49:02+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]

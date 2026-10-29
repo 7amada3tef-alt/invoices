@@ -591,7 +591,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
-Overall,Overall,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,22888304.72
+Overall,Overall,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,22227435.15
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,261764.91
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
@@ -619,7 +619,7 @@ Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة در�
 Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,9226.88
 Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,10231.89
-Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,1751729.57
+Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,1090860.0
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,35114.64
 Cost Center - Takamull,8026040 - مهارات المستقبل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,58408.05
 Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
@@ -2145,9 +2145,9 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Payroll and related - 510101 - الرواتب وما في حكمها,510101,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Payroll and related - 510101 - الرواتب وما في حكمها,510101,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Payroll and related - 510101 - الرواتب وما في حكمها,510101,0.0
-Overall,Overall,Cost of Goods Sold,Performance bonus - 530202 - مكافأة تميز,530202,11551.0
+Overall,Overall,Cost of Goods Sold,Performance bonus - 530202 - مكافأة تميز,530202,373811.13
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Performance bonus - 530202 - مكافأة تميز,530202,0.0
-Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Performance bonus - 530202 - مكافأة تميز,530202,0.0
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Performance bonus - 530202 - مكافأة تميز,530202,362260.13
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,Performance bonus - 530202 - مكافأة تميز,530202,0.0
 Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Cost of Goods Sold,Performance bonus - 530202 - مكافأة تميز,530202,0.0
 Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Cost of Goods Sold,Performance bonus - 530202 - مكافأة تميز,530202,0.0
