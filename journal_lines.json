@@ -130313,5 +130313,123 @@
 
         },
         "journal_id":"5975823000005276047"
+    },
+    {
+        "line_id":"5975823000005292009",
+        "account_id":"5975823000000100523",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"End of service benefits - 510105 - مكافاة نهاية الخدمة",
+        "account_code":"510105",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000100523",
+            "account_id":"5975823000000100523",
+            "text":"End of service benefits - 510105 - مكافاة نهاية الخدمة",
+            "account_name":"End of service benefits - 510105 - مكافاة نهاية الخدمة",
+            "account_code":"510105",
+            "account_label":"[ 510105 ] End of service benefits - 510105 - مكافاة نهاية الخدمة",
+            "account_type":"cost_of_goods_sold",
+            "account_type_formatted":"Cost Of Goods Sold",
+            "account_specific_type_formatted":"Cost Of Goods Sold",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"مخصص نهاية الخدمة",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10300.0,
+        "bcy_amount":10300.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000301099",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000010 - تسوية مراكز التكلفة تكامل"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005292001"
+    },
+    {
+        "line_id":"5975823000005292010",
+        "account_id":"5975823000000289799",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+        "account_code":"210301",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000289799",
+            "account_id":"5975823000000289799",
+            "text":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+            "account_name":"Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+            "account_code":"210301",
+            "account_label":"[ 210301 ] Provision for end of services - 210301 - مخصص مكافاة نهاية الخدمة",
+            "account_type":"long_term_liability",
+            "account_type_formatted":"Non Current Liability",
+            "account_specific_type_formatted":"Non Current Liability",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"مخصص نهاية الخدمة",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10300.0,
+        "bcy_amount":10300.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005292001"
     }
 ]
