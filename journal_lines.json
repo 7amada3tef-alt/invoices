@@ -128897,6 +128897,230 @@
         "journal_id":"5975823000005129056"
     },
     {
+        "line_id":"5975823000005303289",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز من شركة ركين الي تكامل الرئيسي",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20000.0,
+        "bcy_amount":20000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303283"
+    },
+    {
+        "line_id":"5975823000005303290",
+        "account_id":"5975823000000100109",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Rakeen - شركة ركين العطاء للتجارة",
+        "account_code":"121213",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000100109",
+            "account_id":"5975823000000100109",
+            "text":"Rakeen - شركة ركين العطاء للتجارة",
+            "account_name":"Rakeen - شركة ركين العطاء للتجارة",
+            "account_code":"121213",
+            "account_label":"[ 121213 ] Rakeen - شركة ركين العطاء للتجارة",
+            "account_type":"other_current_asset",
+            "account_type_formatted":"Other Current Asset",
+            "account_specific_type_formatted":"Other Current Asset",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز من شركة ركين الي تكامل الرئيسي",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":20000.0,
+        "bcy_amount":20000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303283"
+    },
+    {
+        "line_id":"5975823000005303305",
+        "account_id":"5975823000004835874",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Waqf Takamol For developing and trading -121216وقف شركة تكامل التنمية التجارية",
+        "account_code":"121216",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000004835874",
+            "account_id":"5975823000004835874",
+            "text":"Waqf Takamol For developing and trading -121216وقف شركة تكامل التنمية التجارية",
+            "account_name":"Waqf Takamol For developing and trading -121216وقف شركة تكامل التنمية التجارية",
+            "account_code":"121216",
+            "account_label":"[ 121216 ] Waqf Takamol For developing and trading -121216وقف شركة تكامل التنمية التجارية",
+            "account_type":"other_current_asset",
+            "account_type_formatted":"Other Current Asset",
+            "account_specific_type_formatted":"Other Current Asset",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز حساب تكامل الرئيسي من وقف تكامل ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":19500.0,
+        "bcy_amount":19500.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303299"
+    },
+    {
+        "line_id":"5975823000005303306",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز حساب تكامل الرئيسي من وقف تكامل ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":19500.0,
+        "bcy_amount":19500.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303299"
+    },
+    {
         "line_id":"5975823000005144008",
         "account_id":"5975823000000100097",
         "customer_id":"",
@@ -129237,6 +129461,118 @@
 
         },
         "journal_id":"5975823000005276031"
+    },
+    {
+        "line_id":"5975823000005303273",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز من اثار الخير القابضة الي حساب تكامل ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":400000.0,
+        "bcy_amount":400000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303267"
+    },
+    {
+        "line_id":"5975823000005303274",
+        "account_id":"5975823000000100097",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "account_code":"121211",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000100097",
+            "account_id":"5975823000000100097",
+            "text":"Aathar holding company - شركة اثار الخير القابضة",
+            "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+            "account_code":"121211",
+            "account_label":"[ 121211 ] Aathar holding company - شركة اثار الخير القابضة",
+            "account_type":"other_current_asset",
+            "account_type_formatted":"Other Current Asset",
+            "account_specific_type_formatted":"Other Current Asset",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز من اثار الخير القابضة الي حساب تكامل ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":400000.0,
+        "bcy_amount":400000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303267"
     },
     {
         "line_id":"5975823000005247032",
@@ -129855,6 +130191,230 @@
         "journal_id":"5975823000005254002"
     },
     {
+        "line_id":"5975823000005303241",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز من اثار الخير القابضة الي تكامل ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":25250.0,
+        "bcy_amount":25250.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303235"
+    },
+    {
+        "line_id":"5975823000005303242",
+        "account_id":"5975823000000100097",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "account_code":"121211",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000100097",
+            "account_id":"5975823000000100097",
+            "text":"Aathar holding company - شركة اثار الخير القابضة",
+            "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+            "account_code":"121211",
+            "account_label":"[ 121211 ] Aathar holding company - شركة اثار الخير القابضة",
+            "account_type":"other_current_asset",
+            "account_type_formatted":"Other Current Asset",
+            "account_specific_type_formatted":"Other Current Asset",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز من اثار الخير القابضة الي تكامل ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":25250.0,
+        "bcy_amount":25250.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303235"
+    },
+    {
+        "line_id":"5975823000005303257",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تحويل من بنك النماء الي حساب الرئيسي",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":75200.0,
+        "bcy_amount":75200.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303251"
+    },
+    {
+        "line_id":"5975823000005303258",
+        "account_id":"5975823000000101937",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Inma - 120206 - حساب مصرف الانماء",
+        "account_code":"120206",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101937",
+            "account_id":"5975823000000101937",
+            "text":"Bank Al-Inma - 120206 - حساب مصرف الانماء",
+            "account_name":"Bank Al-Inma - 120206 - حساب مصرف الانماء",
+            "account_code":"120206",
+            "account_label":"[ 120206 ] Bank Al-Inma - 120206 - حساب مصرف الانماء",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تحويل من بنك النماء الي حساب الرئيسي",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":75200.0,
+        "bcy_amount":75200.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303251"
+    },
+    {
         "line_id":"5975823000005261011",
         "account_id":"5975823000000100547",
         "customer_id":"",
@@ -130120,7 +130680,7 @@
             ]
         },
         "description":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
-        "debit_or_credit":"debit",
+        "debit_or_credit":"credit",
         "tax_exemption_id":"",
         "tax_exemption_type":"",
         "tax_authority_id":"",
@@ -130176,7 +130736,7 @@
             ]
         },
         "description":"تعزيز من حساب تكامل الي حساب اثار الخير القابضة ",
-        "debit_or_credit":"credit",
+        "debit_or_credit":"debit",
         "tax_exemption_id":"",
         "tax_exemption_type":"",
         "tax_authority_id":"",
@@ -131021,5 +131581,117 @@
 
         },
         "journal_id":"5975823000005298001"
+    },
+    {
+        "line_id":"5975823000005303008",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز من اوج  الي تكامل ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10000.0,
+        "bcy_amount":10000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303002"
+    },
+    {
+        "line_id":"5975823000005303009",
+        "account_id":"5975823000000100103",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Ghadan  - شركة التنمية وغدن للتجارة",
+        "account_code":"121212",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000100103",
+            "account_id":"5975823000000100103",
+            "text":"Ghadan  - شركة التنمية وغدن للتجارة",
+            "account_name":"Ghadan  - شركة التنمية وغدن للتجارة",
+            "account_code":"121212",
+            "account_label":"[ 121212 ] Ghadan  - شركة التنمية وغدن للتجارة",
+            "account_type":"other_current_asset",
+            "account_type_formatted":"Other Current Asset",
+            "account_specific_type_formatted":"Other Current Asset",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز من اوج  الي تكامل ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":10000.0,
+        "bcy_amount":10000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303002"
     }
 ]

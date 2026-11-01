@@ -12882,6 +12882,44 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005303283",
+        "journal_date":"2026-10-14",
+        "entry_number":"JE -000695",
+        "reference_number":"تعزيز من شركة ركين الي تكامل الرئيسي",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من شركة ركين الي تكامل الرئيسي",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":20000.0,
+        "bcy_total":20000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-01T15:06:40+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005303299",
+        "journal_date":"2026-10-14",
+        "entry_number":"JE -000696",
+        "reference_number":"تعزيز حساب تكامل الرئيسي من وقف تكامل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز حساب تكامل الرئيسي من وقف تكامل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":19500.0,
+        "bcy_total":19500.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-01T15:08:26+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000005144002",
         "journal_date":"2026-10-19",
         "entry_number":"JE -000678",
@@ -12939,6 +12977,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005303267",
+        "journal_date":"2026-10-22",
+        "entry_number":"JE -000694",
+        "reference_number":"تعزيز من اثار الخير القابضة الي حساب تكامل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من اثار الخير القابضة الي حساب تكامل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":400000.0,
+        "bcy_total":400000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-01T15:04:20+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000005247021",
         "journal_date":"2026-10-27",
         "entry_number":"Payroll-12",
@@ -12977,6 +13034,44 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005303235",
+        "journal_date":"2026-10-27",
+        "entry_number":"JE -000692",
+        "reference_number":"تعزيز من اثار الخير القابضة الي تكامل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من اثار الخير القابضة الي تكامل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":25250.0,
+        "bcy_total":25250.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-01T14:51:55+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005303251",
+        "journal_date":"2026-10-27",
+        "entry_number":"JE -000693",
+        "reference_number":"تحويل من بنك النماء الي حساب الرئيسي",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تحويل من بنك النماء الي حساب الرئيسي",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":75200.0,
+        "bcy_total":75200.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-01T14:59:11+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000005261001",
         "journal_date":"2026-10-28",
         "entry_number":"JE -000681",
@@ -13010,7 +13105,7 @@
         "tags":[
 
         ],
-        "last_modified_time":"2026-10-29T11:56:28+0300",
+        "last_modified_time":"2026-11-01T13:50:35+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
     },
@@ -13127,5 +13222,24 @@
         "last_modified_time":"2026-10-31T11:42:39+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000005303002",
+        "journal_date":"2026-11-01",
+        "entry_number":"JE -000691",
+        "reference_number":"تعزيز من اوج  الي تكامل ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من اوج  الي تكامل ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":10000.0,
+        "bcy_total":10000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-01T11:05:38+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]
