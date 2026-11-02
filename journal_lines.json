@@ -131693,5 +131693,117 @@
 
         },
         "journal_id":"5975823000005303002"
+    },
+    {
+        "line_id":"5975823000005303611",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز الحساب من اوج ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":60000.0,
+        "bcy_amount":60000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303605"
+    },
+    {
+        "line_id":"5975823000005303612",
+        "account_id":"5975823000000100103",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Ghadan  - شركة التنمية وغدن للتجارة",
+        "account_code":"121212",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000100103",
+            "account_id":"5975823000000100103",
+            "text":"Ghadan  - شركة التنمية وغدن للتجارة",
+            "account_name":"Ghadan  - شركة التنمية وغدن للتجارة",
+            "account_code":"121212",
+            "account_label":"[ 121212 ] Ghadan  - شركة التنمية وغدن للتجارة",
+            "account_type":"other_current_asset",
+            "account_type_formatted":"Other Current Asset",
+            "account_specific_type_formatted":"Other Current Asset",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز الحساب من اوج ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":60000.0,
+        "bcy_amount":60000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005303605"
     }
 ]

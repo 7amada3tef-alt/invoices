@@ -13241,5 +13241,24 @@
         "last_modified_time":"2026-11-01T11:05:38+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005303605",
+        "journal_date":"2026-11-01",
+        "entry_number":"JE -000697",
+        "reference_number":"تعزيز الحساب تعزيز الحساب من اوج من اوج ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز الحساب من اوج ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":60000.0,
+        "bcy_total":60000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-02T09:46:01+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]
