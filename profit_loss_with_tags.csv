@@ -591,7 +591,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
-Overall,Overall,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,22378310.15
+Overall,Overall,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,22442060.15
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,261764.91
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
@@ -619,7 +619,7 @@ Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة در�
 Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,9226.88
 Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,10231.89
-Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,1190235.0
+Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,1253985.0
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,35114.64
 Cost Center - Takamull,8026040 - مهارات المستقبل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,94908.05
 Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
@@ -3440,6 +3440,43 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Compnay telephone - 621301 - هاتف ثابت,621301,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Compnay telephone - 621301 - هاتف ثابت,621301,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Compnay telephone - 621301 - هاتف ثابت,621301,0.0
+Overall,Overall,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,3500.0
+Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,3500.0
+Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8000050 - الاتصال المؤسسي تكامل,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8000060 - منصة قياس الأثر,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8023010 - إنشاء مقار إدارة العمل التطوعي لخدمة ضيوف الرحمن,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8023020 - منهجية عمل تعزز البنية المؤسسية للمنظمات غير الربحية,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8023030 - رفع الوعي الفني لدى منظمات القطاع غير الربحي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8024010 - مشروع تقديم خدمات تأسيس وتفعيل وحدات ومراكز العمل التطوعي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8024020 - مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8024030 - تمكين الجمعيات المتخصصة العاملة في القطاع غير الربحي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8024040 - تقديم الخدمات اللوجستية للتدريب في برنامج رائد,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025010 - مشروع العربة,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025020 - مشروع وزارة الرياضة,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025030 - تقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025040 - مصنع الابتكار - اشوكا,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025050 - حصر الاحتياج التدريبي في منظومة الصحة,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025060 - مجموعات عمل التطوع التكافلي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025070 - سفر الإفطار في الحرم المكي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025080 - سوق الدار,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025090 - هاكاثون الوعي المعرفي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة دراسات الحالة,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026020 - التأهيل للتوظيف,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026040 - مهارات المستقبل,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
+Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Consultants fees - 620101 - اتعاب مستشارين,620101,0.0
 Overall,Overall,Operating Expense,Consultants fees - 720101 - اتعاب مستشارين,720101,36718.36
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Consultants fees - 720101 - اتعاب مستشارين,720101,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Consultants fees - 720101 - اتعاب مستشارين,720101,0.0

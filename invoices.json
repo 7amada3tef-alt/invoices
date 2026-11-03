@@ -1,6 +1,130 @@
 [
     {
         "ach_payment_initiated":false,
+        "invoice_id":"5975823000005337028",
+        "zcrm_potential_id":"",
+        "customer_id":"5975823000003911019",
+        "zcrm_potential_name":"",
+        "customer_name":"مؤسسة عبدالله بن ابراهيم السبيعي الخيرية",
+        "company_name":"مؤسسة عبدالله بن ابراهيم السبيعي الخيرية",
+        "status":"pending_approval",
+        "invoice_number":"INV-000080",
+        "reference_number":"",
+        "date":"2026-11-03",
+        "due_date":"2026-11-03",
+        "issued_date":"",
+        "due_days":"",
+        "email":"",
+        "type":"invoice",
+        "project_name":"",
+        "billing_address":{
+            "address":"6846",
+            "street2":"الملك فهد الفرعي",
+            "city":"Riyadh",
+            "state":"Ar Riyad",
+            "zipcode":"12331",
+            "country":"Saudi Arabia",
+            "phone":"",
+            "fax":"",
+            "attention":"مؤسسة عبدالله بن ابراهيم السبيعي الخيرية"
+        },
+        "shipping_address":{
+            "address":"",
+            "street2":"",
+            "city":"",
+            "state":"",
+            "zipcode":"",
+            "country":"",
+            "phone":"",
+            "fax":"",
+            "attention":""
+        },
+        "country":"Saudi Arabia",
+        "phone":"",
+        "created_by":"Kareem Maged",
+        "total":37299.45,
+        "balance":37299.45,
+        "payment_expected_date":"",
+        "custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "tags":[
+
+        ],
+        "customer_custom_fields":[
+            {
+                "field_id":"5975823000000208001",
+                "customfield_id":"5975823000000208001",
+                "show_in_store":false,
+                "show_in_portal":false,
+                "is_active":true,
+                "index":1,
+                "label":"Account Code",
+                "show_on_pdf":false,
+                "is_custom_field":true,
+                "edit_on_portal":false,
+                "edit_on_store":false,
+                "api_name":"cf_account_code",
+                "show_in_all_pdf":false,
+                "value_formatted":"1203016",
+                "search_entity":"contact",
+                "data_type":"number",
+                "placeholder":"customer_cf_account_code",
+                "value":"1203016",
+                "is_dependent_field":false
+            }
+        ],
+        "customer_cf_account_code":"1203016",
+        "customer_cf_account_code_formatted":"1203016",
+        "customer_cf_account_code_unformatted":"1203016",
+        "customer_custom_field_hash":{
+            "customer_cf_account_code":"1203016",
+            "customer_cf_account_code_formatted":"1203016",
+            "customer_cf_account_code_unformatted":"1203016"
+        },
+        "salesperson_name":"",
+        "shipping_charge":0.0,
+        "adjustment":0.0,
+        "created_time":"2026-11-03T15:18:06+0300",
+        "last_modified_time":"2026-11-03T15:18:12+0300",
+        "updated_time":"2026-11-03T15:18:12+0300",
+        "is_viewed_by_client":false,
+        "has_attachment":false,
+        "client_viewed_time":"",
+        "is_emailed":false,
+        "einvoice_details":{
+            "status_formatted":"Yet To Be Pushed",
+            "status":"yet_to_be_pushed"
+        },
+        "color_code":"",
+        "current_sub_status_id":"",
+        "current_sub_status":"pending_approval",
+        "currency_id":"5975823000000091149",
+        "schedule_time":"",
+        "currency_code":"SAR",
+        "currency_symbol":"SAR",
+        "template_type":"standard_einvoice_bilingual",
+        "no_of_copies":1,
+        "show_no_of_copies":true,
+        "invoice_source":"Client",
+        "sales_channel":"direct_sales",
+        "transaction_type":"renewal",
+        "reminders_sent":0,
+        "last_reminder_sent_date":"",
+        "last_payment_date":"",
+        "template_id":"5975823000000091234",
+        "documents":"",
+        "salesperson_id":"",
+        "write_off_amount":0.0,
+        "exchange_rate":1.0,
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":null
+    },
+    {
+        "ach_payment_initiated":false,
         "invoice_id":"5975823000005179009",
         "zcrm_potential_id":"",
         "customer_id":"5975823000002835008",
@@ -13,7 +137,7 @@
         "date":"2026-10-01",
         "due_date":"2026-10-01",
         "issued_date":"2026-10-22",
-        "due_days":"Overdue by 32 days",
+        "due_days":"Overdue by 33 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -117,7 +241,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258c1c6f2aefd6894b3b183a132eb2cab7407ad968b80c76eb1c30644f9457cc4e5f1a2a5436c2e473df2b0d9508f7f014948339ba4063aa4b284a18aba42435da6 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -129,7 +252,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258c1c6f2aefd6894b3b183a132eb2cab744240a1a8b03a0463aea59dfdc488207af1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98210f164be1b8919a "
     },
     {
         "ach_payment_initiated":false,
@@ -145,7 +269,7 @@
         "date":"2026-10-19",
         "due_date":"2026-10-19",
         "issued_date":"2026-10-22",
-        "due_days":"Overdue by 14 days",
+        "due_days":"Overdue by 15 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -249,7 +373,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588b6e5c4f91b7df80293104aaabb6a46707ad968b80c76eb1422f16adc960337ff1a2a5436c2e473df2b0d9508f7f014948339ba4063aa4b211e80a707f5b3196 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -261,7 +384,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588b6e5c4f91b7df80293104aaabb6a4674240a1a8b03a04631793ef4a6595a229f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba983fc62bd47c0f74c5 "
     },
     {
         "ach_payment_initiated":false,
@@ -277,7 +401,7 @@
         "date":"2026-10-13",
         "due_date":"2026-10-13",
         "issued_date":"2026-10-13",
-        "due_days":"Overdue by 20 days",
+        "due_days":"Overdue by 21 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -382,7 +506,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588bd1db211ee9658662358979fca1f59978ad7d6b2cbcdbff25f1be4421745866f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1392d9c82809d1b30 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -394,7 +517,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588bd1db211ee9658662358979fca1f5994240a1a8b03a04636635f3f5de1d8f24f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba988e7934623c2a5e69 "
     },
     {
         "ach_payment_initiated":false,
@@ -410,7 +534,7 @@
         "date":"2026-10-07",
         "due_date":"2026-10-07",
         "issued_date":"2026-10-22",
-        "due_days":"Overdue by 26 days",
+        "due_days":"Overdue by 27 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -515,7 +639,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584155d23eb981e9320c8e8c52c44c2eab78ad7d6b2cbcdbff62691ca832e95687f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1d03c6869c9c96085 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -527,7 +650,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.761,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584155d23eb981e9320c8e8c52c44c2eab4240a1a8b03a0463bede2daae67f32c1f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba9824e989b001e5ceaf "
     },
     {
         "ach_payment_initiated":false,
@@ -543,7 +667,7 @@
         "date":"2026-10-07",
         "due_date":"2026-10-07",
         "issued_date":"2026-10-22",
-        "due_days":"Overdue by 26 days",
+        "due_days":"Overdue by 27 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -648,7 +772,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584155d23eb981e932da1290fda21e323778ad7d6b2cbcdbff5efecdd183dc7c6cf1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1290972db18db4c90 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -660,7 +783,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584155d23eb981e932da1290fda21e32374240a1a8b03a0463978434d90621ba6af1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98d93398c3ba2a378a "
     },
     {
         "ach_payment_initiated":false,
@@ -780,7 +904,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584155d23eb981e932af7ecf614111c96e78ad7d6b2cbcdbffaeab73c66d92f8f4f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1631f15c7b27dae4e ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -792,7 +915,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584155d23eb981e932af7ecf614111c96e4240a1a8b03a04636ce215beca6d43fff1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98682a6a761cb49291 "
     },
     {
         "ach_payment_initiated":false,
@@ -912,7 +1036,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42581bd878bb6299f7c5f2ab3de68ff98ec078ad7d6b2cbcdbffc5c6528a1986075bf1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c164f095070335b8bd ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -924,7 +1047,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42581bd878bb6299f7c5f2ab3de68ff98ec04240a1a8b03a04632630e002ff1dbc57f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba983ee4114a09dd0932 "
     },
     {
         "ach_payment_initiated":false,
@@ -1044,7 +1168,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42581bd878bb6299f7c5ebd29b323a130b1778ad7d6b2cbcdbff63e7c92d5a998e12f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c15931504ad805a6ed ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1056,7 +1179,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42581bd878bb6299f7c5ebd29b323a130b174240a1a8b03a04630e61c11ef52a2c77f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98b3903241b260a046 "
     },
     {
         "ach_payment_initiated":false,
@@ -1177,7 +1301,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8bc60885fe26d17293104aaabb6a46778ad7d6b2cbcdbff13ff41e0939ea884f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1a465b6cc8b7851c7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1189,7 +1312,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.761,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8bc60885fe26d17293104aaabb6a4674240a1a8b03a046398f61af4475de8ebf1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98d990aa6cf55d30c4 "
     },
     {
         "ach_payment_initiated":false,
@@ -1205,7 +1329,7 @@
         "date":"2026-09-15",
         "due_date":"2026-09-15",
         "issued_date":"2026-09-15",
-        "due_days":"Overdue by 48 days",
+        "due_days":"Overdue by 49 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -1310,7 +1434,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8bc60885fe26d17bfbdfa783517e0d678ad7d6b2cbcdbff476c687125399aa4f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1894e1ef2054003d9 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1322,7 +1445,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.761,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8bc60885fe26d17bfbdfa783517e0d64240a1a8b03a0463da758b8f9c77282df1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98507c4cab612154f0 "
     },
     {
         "ach_payment_initiated":false,
@@ -1442,7 +1566,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8bc60885fe26d17793e483a285a0bec78ad7d6b2cbcdbffd898f6fc2ba3a804f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1891c50ceded3a541 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1454,7 +1577,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8bc60885fe26d17793e483a285a0bec4240a1a8b03a04636d25365629acdf24f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98773145eff044b5ed "
     },
     {
         "ach_payment_initiated":false,
@@ -1470,7 +1594,7 @@
         "date":"2026-09-15",
         "due_date":"2026-09-15",
         "issued_date":"2026-09-15",
-        "due_days":"Overdue by 48 days",
+        "due_days":"Overdue by 49 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -1574,7 +1698,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8bc60885fe26d1724e9f72d4c5a16c978ad7d6b2cbcdbff54d1e831fc45e404f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c18e26465a7c3b715e ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1586,7 +1709,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8bc60885fe26d1724e9f72d4c5a16c94240a1a8b03a0463beb7542f4c1150caf1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba9885070fd2e404bc39 "
     },
     {
         "ach_payment_initiated":false,
@@ -1602,7 +1726,7 @@
         "date":"2026-09-07",
         "due_date":"2026-10-07",
         "issued_date":"2026-09-07",
-        "due_days":"Overdue by 26 days",
+        "due_days":"Overdue by 27 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -1706,7 +1830,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fa0877c8d0a99f7009368b448d5ffe8378ad7d6b2cbcdbff7d16c97c0d38fcebf1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c17485212df6a468b7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1718,7 +1841,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fa0877c8d0a99f7009368b448d5ffe834240a1a8b03a0463b00b9318b176f9d5f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba985d684f14615a7df3 "
     },
     {
         "ach_payment_initiated":false,
@@ -1838,7 +1962,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fa0877c8d0a99f7058fbcb29d55a412678ad7d6b2cbcdbffaec93e730d9d5ef9f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c127b1de37f42d34d0 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1850,7 +1973,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fa0877c8d0a99f7058fbcb29d55a41264240a1a8b03a04639fbf70ae833d0f57f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba983c99cfc92dc9f642 "
     },
     {
         "ach_payment_initiated":false,
@@ -1970,7 +2094,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f4378bc13f5f2196b00e1a47c056f15e78ad7d6b2cbcdbff8a76c98e7abcf1a0f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1d204482178ea78e1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -1982,7 +2105,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f4378bc13f5f2196b00e1a47c056f15e4240a1a8b03a04639fdd3ff29963ea53f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98b5b91bc5d5317a87 "
     },
     {
         "ach_payment_initiated":false,
@@ -2102,7 +2226,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425883cd2a63cf8514d3c51c9c51c00f237978ad7d6b2cbcdbff53d63d5b2aaaece9f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c10e137a4cbe99fea1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2114,7 +2237,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425883cd2a63cf8514d3c51c9c51c00f23794240a1a8b03a046320670976c9965b12f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba983e63e76261c3d22e "
     },
     {
         "ach_payment_initiated":false,
@@ -2235,7 +2359,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425883cd2a63cf8514d3b183a132eb2cab7478ad7d6b2cbcdbff757063ee738aa871f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c18dc16af40f4ee70a ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2247,7 +2370,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425883cd2a63cf8514d3b183a132eb2cab744240a1a8b03a04631eb7a87737cdb43af1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba9807aad79b0bfa2940 "
     },
     {
         "ach_payment_initiated":false,
@@ -2367,7 +2491,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fca26e10c307b00692cfd6be60ffcf8578ad7d6b2cbcdbff85514e355b2c92e8f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1cc95eaca56088cc1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2379,7 +2502,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fca26e10c307b00692cfd6be60ffcf854240a1a8b03a0463b005c35d75d13a02f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98107b58659ff0669d "
     },
     {
         "ach_payment_initiated":false,
@@ -2499,7 +2623,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fca26e10c307b0067682e36327fba05478ad7d6b2cbcdbff84672a6d346abb1af1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1ebedf8637b5bd31c ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2511,7 +2634,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fca26e10c307b0067682e36327fba0544240a1a8b03a046374fc30cb21c1486af1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba983e408132263acd5d "
     },
     {
         "ach_payment_initiated":false,
@@ -2631,7 +2755,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587897054dda1d471f4df6a10367b2d08778ad7d6b2cbcdbff40dd6aaf7503f9baf1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c141aed7ed7f520336 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2643,7 +2766,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587897054dda1d471f4df6a10367b2d0874240a1a8b03a0463a544b12259466d40f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba9842a1a40f3032cdd5 "
     },
     {
         "ach_payment_initiated":false,
@@ -2763,7 +2887,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8eb997ba34742aad5d6860c07e6a6c778ad7d6b2cbcdbff3a9e1e8ce6be4b43f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c171283534e31a5838 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2775,7 +2898,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a8eb997ba34742aad5d6860c07e6a6c74240a1a8b03a0463e955086b1ec61b54f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98d719da9c9fd2f9f0 "
     },
     {
         "ach_payment_initiated":false,
@@ -2896,7 +3020,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258014b706b7f3711224df6a10367b2d08778ad7d6b2cbcdbff6af55e293da3e81ef1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c132f2d422110cf256 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -2908,7 +3031,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258014b706b7f3711224df6a10367b2d0874240a1a8b03a0463f00eb60e6de71ebff1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba983e31f0c3f1970f51 "
     },
     {
         "ach_payment_initiated":false,
@@ -3028,7 +3152,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258c7dfc75669445d937f2082fb6a99a7c478ad7d6b2cbcdbffa68f0a3347446474f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c17a11647a16fe4ab4 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3040,7 +3163,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258c7dfc75669445d937f2082fb6a99a7c44240a1a8b03a04637e98935da3514007f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba98c0b29e7309a26e04 "
     },
     {
         "ach_payment_initiated":false,
@@ -3160,7 +3284,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e58dd1cf5f96b2f4df6a10367b2d08778ad7d6b2cbcdbff565c93d16fda5e83f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1773145eff044b5ed ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3172,7 +3295,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e58dd1cf5f96b2f4df6a10367b2d0874240a1a8b03a0463a72321a539d7e589f1a2a5436c2e473df2b0d9508f7f0149020829343ae0ba9803b803f0dbb524a7 "
     },
     {
         "ach_payment_initiated":false,
@@ -3292,7 +3416,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425817b76fb162d3c7b8a0f90ef20e3affcd78ad7d6b2cbcdbff2e02060de574d4fff1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1ab2e67f7acee8330 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3304,7 +3427,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425817b76fb162d3c7b8a0f90ef20e3affcd4240a1a8b03a046396cc68fb4a21b724f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0068b1cbbd04251293e "
     },
     {
         "ach_payment_initiated":false,
@@ -3424,7 +3548,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584317e54e4c78ce0c4df6a10367b2d08778ad7d6b2cbcdbff8d4f2b7251b402eef1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c18c0bb4b8c6566587 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3436,7 +3559,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584317e54e4c78ce0c4df6a10367b2d0874240a1a8b03a046329ba74d5d452cae1f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c00600c7033f1f64f728 "
     },
     {
         "ach_payment_initiated":false,
@@ -3556,7 +3680,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583fee3329f48445b14df6a10367b2d08778ad7d6b2cbcdbfff38fad7aca523126f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1b5b91bc5d5317a87 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3568,7 +3691,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583fee3329f48445b14df6a10367b2d0874240a1a8b03a04637ef2c3f2f591f4a3f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0060394f8c6d25bb4c1 "
     },
     {
         "ach_payment_initiated":false,
@@ -3584,7 +3708,7 @@
         "date":"2026-04-09",
         "due_date":"2026-04-09",
         "issued_date":"2026-04-14",
-        "due_days":"Overdue by 207 days",
+        "due_days":"Overdue by 208 days",
         "email":"",
         "type":"invoice",
         "project_name":"",
@@ -3688,7 +3812,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d4484be9afc36832b183a132eb2cab7478ad7d6b2cbcdbffb2d7945ae92fbfc7f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c14d85f3f82df208db ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3700,7 +3823,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d4484be9afc36832b183a132eb2cab744240a1a8b03a0463be17d72f397a0139f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006d03c6869c9c96085 "
     },
     {
         "ach_payment_initiated":false,
@@ -3820,7 +3944,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258771a6cfe3c4b6b86e694cb43fa5771af78ad7d6b2cbcdbffc9b9f722d91acccdf1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c107aad79b0bfa2940 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3832,7 +3955,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258771a6cfe3c4b6b86e694cb43fa5771af4240a1a8b03a0463b6be557ec777c4e6f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0060332fb14bc787af1 "
     },
     {
         "ach_payment_initiated":false,
@@ -3952,7 +4076,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258728e2613e6109ffce694cb43fa5771af78ad7d6b2cbcdbff3f741e05f35d6d92f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1107b58659ff0669d ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -3964,7 +4087,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258728e2613e6109ffce694cb43fa5771af4240a1a8b03a046396c21dc6545d6e59f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006df85343568c1b376 "
     },
     {
         "ach_payment_initiated":false,
@@ -4084,7 +4208,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16bea71c18b7b5ff1d1378ad7d6b2cbcdbffbd991c15fd34da0af1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c108d365ec78368464 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4096,7 +4219,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16bea71c18b7b5ff1d134240a1a8b03a04630a70e8012db88ad3f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006f90ef48059cf7a7e "
     },
     {
         "ach_payment_initiated":false,
@@ -4217,7 +4341,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16be7f2082fb6a99a7c478ad7d6b2cbcdbff913f453aca14b17df1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c12a42607d7f3f8b1a ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4229,7 +4352,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.761,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588ec022c3cb7d16be7f2082fb6a99a7c44240a1a8b03a0463a9f1a8a557a56470f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006441a8d9266c10eed "
     },
     {
         "ach_payment_initiated":false,
@@ -4349,7 +4473,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588d6141eae6c41569f850e6505617a24a78ad7d6b2cbcdbff4415d9c92d0b52b6f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c142a1a40f3032cdd5 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4361,7 +4484,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588d6141eae6c41569f850e6505617a24a4240a1a8b03a0463a597e027499e189df1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0066759fec5f9f3f9ed "
     },
     {
         "ach_payment_initiated":false,
@@ -4481,7 +4605,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d7120e184b73f4f81b7c27e56c7b9e0978ad7d6b2cbcdbff703c747cb973d0d0f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1d719da9c9fd2f9f0 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4493,7 +4616,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258d7120e184b73f4f81b7c27e56c7b9e094240a1a8b03a0463a470c6b7d43b035df1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006894e1ef2054003d9 "
     },
     {
         "ach_payment_initiated":false,
@@ -4613,7 +4737,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce58746b6a7db33329be78ad7d6b2cbcdbffadc14ce491444a48f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c1e30a754618beaebb ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4625,7 +4748,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce58746b6a7db33329be4240a1a8b03a0463844ab0f1ae0ebd4ef1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006891c50ceded3a541 "
     },
     {
         "ach_payment_initiated":false,
@@ -4745,7 +4869,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce587f2082fb6a99a7c478ad7d6b2cbcdbff57d52e591c3d4e1df1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c184a18aba42435da6 ",
         "invoice_source":"Api",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4757,7 +4880,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258dc6136f5f988ce587f2082fb6a99a7c44240a1a8b03a04634bc02f3c60bd80def1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0068e26465a7c3b715e "
     },
     {
         "ach_payment_initiated":false,
@@ -4877,7 +5001,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258009befdba6d08ca5171ed2c05c3af9e478ad7d6b2cbcdbff19e9ad520f0027f9f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c11e4e43ff8cfb89da ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -4889,7 +5012,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258009befdba6d08ca5171ed2c05c3af9e44240a1a8b03a046397f11073248dcc7df1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0067485212df6a468b7 "
     },
     {
         "ach_payment_initiated":false,
@@ -5009,7 +5133,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585fcde54e201f26288dd45175dceff70a78ad7d6b2cbcdbff0b50eccafbad3814f1a2a5436c2e473df2b0d9508f7f014960f2e86fc369a0c111e80a707f5b3196 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5021,7 +5144,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585fcde54e201f26288dd45175dceff70a4240a1a8b03a0463162462d781bb73e5f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c00627b1de37f42d34d0 "
     },
     {
         "ach_payment_initiated":false,
@@ -5141,7 +5265,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bd86736c01d9fc69bda3d9f777b2d00778ad7d6b2cbcdbffa079fd597678895ef1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea28b1cbbd04251293e ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5153,7 +5276,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bd86736c01d9fc69bda3d9f777b2d0074240a1a8b03a04637550a07e471b86f6f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0060e137a4cbe99fea1 "
     },
     {
         "ach_payment_initiated":false,
@@ -5273,7 +5397,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b8fe6a8a85599d3cd2880c964d97b6bf78ad7d6b2cbcdbff43fba2be5d1a64f4f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea200c7033f1f64f728 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5285,7 +5408,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b8fe6a8a85599d3cd2880c964d97b6bf4240a1a8b03a04636b69b4183ecb9762f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0068dc16af40f4ee70a "
     },
     {
         "ach_payment_initiated":false,
@@ -5405,7 +5529,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a109103825367047f850e6505617a24a78ad7d6b2cbcdbffbca92aabca4d8946f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2e661628b7f432a32 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5417,7 +5540,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a109103825367047f850e6505617a24a4240a1a8b03a04634e0fc2793589d745f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006ebedf8637b5bd31c "
     },
     {
         "ach_payment_initiated":false,
@@ -5537,7 +5661,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fc90be45e996ca2858fbcb29d55a412678ad7d6b2cbcdbff68b7fa21be278db7f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2b1415971ddcf656b ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5549,7 +5672,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258fc90be45e996ca2858fbcb29d55a41264240a1a8b03a0463e43f3c66c161107ef1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006507c4cab612154f0 "
     },
     {
         "ach_payment_initiated":false,
@@ -5669,7 +5793,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f3768172a4332885d358a8094a6e714878ad7d6b2cbcdbff29ab75231d24d5adf1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2d03c6869c9c96085 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5681,7 +5804,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258f3768172a4332885d358a8094a6e71484240a1a8b03a0463a1da3153509d7b9bf1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006773145eff044b5ed "
     },
     {
         "ach_payment_initiated":false,
@@ -5801,7 +5925,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258448f8e158ed9d991f82767726f8661ed78ad7d6b2cbcdbff8b3c909c35d5c228f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea20332fb14bc787af1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5813,7 +5936,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258448f8e158ed9d991f82767726f8661ed4240a1a8b03a0463d714378c2a800510f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c00685070fd2e404bc39 "
     },
     {
         "ach_payment_initiated":false,
@@ -5933,7 +6057,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e1ced53e9aa3a623e57b5a9b5ed1d29278ad7d6b2cbcdbff921e104b197d9bcff1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2290972db18db4c90 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -5945,7 +6068,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e1ced53e9aa3a623e57b5a9b5ed1d2924240a1a8b03a0463858ac612bb1fee6df1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0065d684f14615a7df3 "
     },
     {
         "ach_payment_initiated":false,
@@ -6065,7 +6189,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ec985cc55fe9398e4206510dd12f97dc78ad7d6b2cbcdbffbad40ba5dacbe703f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2631f15c7b27dae4e ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6077,7 +6200,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ec985cc55fe9398e4206510dd12f97dc4240a1a8b03a0463a839d8f1f8065a4cf1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0063c99cfc92dc9f642 "
     },
     {
         "ach_payment_initiated":false,
@@ -6198,7 +6322,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258758b7f846da2c60fd358a8094a6e714878ad7d6b2cbcdbffbe11a36aa6040927f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2f90ef48059cf7a7e ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6210,7 +6333,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.761,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258758b7f846da2c60fd358a8094a6e71484240a1a8b03a0463d53fc07f5fe76e41f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006b5b91bc5d5317a87 "
     },
     {
         "ach_payment_initiated":false,
@@ -6330,7 +6454,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258279b8ec074e6f83aafcc52b156360d3378ad7d6b2cbcdbff95497f6a80ec516df1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2441a8d9266c10eed ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6342,7 +6465,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258279b8ec074e6f83aafcc52b156360d334240a1a8b03a0463192667456a23dc33f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0064d85f3f82df208db "
     },
     {
         "ach_payment_initiated":false,
@@ -6462,7 +6586,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258db1e5704943cdb00e694cb43fa5771af78ad7d6b2cbcdbff48a132ca9a628915f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea25931504ad805a6ed ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6474,7 +6597,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258db1e5704943cdb00e694cb43fa5771af4240a1a8b03a0463a8ced767d55397d7f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c00607aad79b0bfa2940 "
     },
     {
         "ach_payment_initiated":false,
@@ -6594,7 +6718,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bf3712f8b26e0a29dda7ae2e00cc0b6978ad7d6b2cbcdbff41cef75289647a10f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2a465b6cc8b7851c7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6606,7 +6729,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258bf3712f8b26e0a29dda7ae2e00cc0b694240a1a8b03a04638ced08221e292d03f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006107b58659ff0669d "
     },
     {
         "ach_payment_initiated":false,
@@ -6726,7 +6850,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a0074238226b31aa7c00a8289a5ed7e78ad7d6b2cbcdbffb1eed869eac140fff1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2894e1ef2054003d9 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6738,7 +6861,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a0074238226b31aa7c00a8289a5ed7e4240a1a8b03a04633297b14af970eba4f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c00608d365ec78368464 "
     },
     {
         "ach_payment_initiated":false,
@@ -6858,7 +6982,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425807d6fe4e33898279b9e56bbd70b79c0c78ad7d6b2cbcdbffc1319b27837f3d40f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2891c50ceded3a541 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -6870,7 +6993,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425807d6fe4e33898279b9e56bbd70b79c0c4240a1a8b03a0463a1eee2fadf61e891f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0062a42607d7f3f8b1a "
     },
     {
         "ach_payment_initiated":false,
@@ -6990,7 +7114,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585053e60ff22381bd2c7f7bdb5c0c0c7578ad7d6b2cbcdbff7ef0fda43fd3a2e9f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2b0ba99e283f66bdf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7002,7 +7125,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585053e60ff22381bd2c7f7bdb5c0c0c754240a1a8b03a04638345ede8ce8e84cef1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006d719da9c9fd2f9f0 "
     },
     {
         "ach_payment_initiated":false,
@@ -7122,7 +7246,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a5ac779606a8d6d0907cc4e636ad11378ad7d6b2cbcdbff576bfb72dae0895ef1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2b9ffaf52a02f68a1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7134,7 +7257,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a5ac779606a8d6d0907cc4e636ad1134240a1a8b03a0463c83068b4860535a8f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c006e30a754618beaebb "
     },
     {
         "ach_payment_initiated":false,
@@ -7254,7 +7378,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ca865a37458abfb614bf29ab6957429178ad7d6b2cbcdbffa66ebf0c915b6076f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea29bebd9de652fae37 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7266,7 +7389,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ca865a37458abfb614bf29ab695742914240a1a8b03a0463c30644f9457cc4e5f1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c00684a18aba42435da6 "
     },
     {
         "ach_payment_initiated":false,
@@ -7386,7 +7510,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e559f0b17bbe6b1f48a56b52bb2d94a78ad7d6b2cbcdbff5085b39014849552f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2d0b4a499fe2293cf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7398,7 +7521,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42586e559f0b17bbe6b1f48a56b52bb2d94a4240a1a8b03a046346729080f55e21cbf1a2a5436c2e473df2b0d9508f7f01499bc5473b09b1c0061e4e43ff8cfb89da "
     },
     {
         "ach_payment_initiated":false,
@@ -7518,7 +7642,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583527a07dc29bcd5ee3cb47ce10a480a978ad7d6b2cbcdbff74541b19bbcbed0df1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2bf9aa568d2e39356 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7530,7 +7653,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42583527a07dc29bcd5ee3cb47ce10a480a95468d7ce4b473e8a1c23b95eb40139c4f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03fe60017142e653165 "
     },
     {
         "ach_payment_initiated":false,
@@ -7650,7 +7774,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b4dd71ba54c9e848fc03f8b92474d85278ad7d6b2cbcdbffc5c164deed3f22d0f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea20e137a4cbe99fea1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7662,7 +7785,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b4dd71ba54c9e848fc03f8b92474d8525468d7ce4b473e8a6c45ace5bcb04df3f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f00c7033f1f64f728 "
     },
     {
         "ach_payment_initiated":false,
@@ -7782,7 +7906,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585cc9f7e68c115115eab5bf068d9bf68278ad7d6b2cbcdbffe6087fe6a9994f32f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2afc79af1c396fa42 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7794,7 +7917,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":3.744509,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42585cc9f7e68c115115eab5bf068d9bf6825468d7ce4b473e8a55ea927d4d8d9168f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f0394f8c6d25bb4c1 "
     },
     {
         "ach_payment_initiated":false,
@@ -7906,7 +8030,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587dd826f0e2d7b11a692a4090cad9c79c78ad7d6b2cbcdbff587ad2f4fe5e06d2f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea20441cc9a10765ec5 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -7918,7 +8041,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42587dd826f0e2d7b11a692a4090cad9c79c5468d7ce4b473e8a62691ca832e95687f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03fd03c6869c9c96085 "
     },
     {
         "ach_payment_initiated":false,
@@ -8030,7 +8154,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425856210687af81b8372168c7d00325acce78ad7d6b2cbcdbff48b1da0de052668af1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2cc95eaca56088cc1 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8042,7 +8165,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425856210687af81b8372168c7d00325acce5468d7ce4b473e8a5efecdd183dc7c6cf1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f290972db18db4c90 "
     },
     {
         "ach_payment_initiated":false,
@@ -8154,7 +8278,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a77a087dfbe2a15e694cb43fa5771af78ad7d6b2cbcdbff15f829f9dcafd3b9f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2ebedf8637b5bd31c ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8166,7 +8289,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42580a77a087dfbe2a15e694cb43fa5771af5468d7ce4b473e8aaeab73c66d92f8f4f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f631f15c7b27dae4e "
     },
     {
         "ach_payment_initiated":false,
@@ -8278,7 +8402,6 @@
         "template_type":"standard",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a4d2f78d0c4b1402778776c226d4de5078ad7d6b2cbcdbffd39319398a6c420af1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2ca1a52bc330a19c7 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8290,7 +8413,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258a4d2f78d0c4b1402778776c226d4de505468d7ce4b473e8a63e7c92d5a998e12f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f5931504ad805a6ed "
     },
     {
         "ach_payment_initiated":false,
@@ -8402,7 +8526,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991ac6d3cf532f3ff9e78ad7d6b2cbcdbff1b982d39ee1ba71af1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea23a3947bcffd00d39 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8414,7 +8537,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991ac6d3cf532f3ff9e5468d7ce4b473e8a8f278116fe6077b0f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f778bc4aaca2884ab "
     },
     {
         "ach_payment_initiated":false,
@@ -8526,7 +8650,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991337ac5e7f3793f3f78ad7d6b2cbcdbff6a5006c361ecae9ff1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2ed84780b66c7cafb ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8538,7 +8661,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991337ac5e7f3793f3f5468d7ce4b473e8a7d16c97c0d38fcebf1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f7485212df6a468b7 "
     },
     {
         "ach_payment_initiated":false,
@@ -8650,7 +8774,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991888e87ac7626689878ad7d6b2cbcdbff9c919a4350b182edf1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea228d5c3839737af65 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8662,7 +8785,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e184991888e87ac762668985468d7ce4b473e8a666ff87d07b7744af1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03fbf9aa568d2e39356 "
     },
     {
         "ach_payment_initiated":false,
@@ -8774,7 +8898,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e1849917f2082fb6a99a7c478ad7d6b2cbcdbff136725b1ef7375aef1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea201ea8b6857779caa ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8786,7 +8909,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258b2c041002e1849917f2082fb6a99a7c45468d7ce4b473e8a3b2b8ee106bcf486f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f0441cc9a10765ec5 "
     },
     {
         "ach_payment_initiated":false,
@@ -8898,7 +9022,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc91969e250db6bf56b78ad7d6b2cbcdbff85ce09bd716842fdf1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea224e989b001e5ceaf ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -8910,7 +9033,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc91969e250db6bf56b5468d7ce4b473e8a48eba9a26913539cf1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f3a3947bcffd00d39 "
     },
     {
         "ach_payment_initiated":false,
@@ -9022,7 +9146,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc97f2082fb6a99a7c478ad7d6b2cbcdbff9599e65ef3564062f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2f81c9c2849ddba7c ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -9034,7 +9157,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42588444c8d74fc0ccc97f2082fb6a99a7c45468d7ce4b473e8aedf02db622cc2e90f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f01ea8b6857779caa "
     },
     {
         "ach_payment_initiated":false,
@@ -9146,7 +9270,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258122d4664499a3184e694cb43fa5771af78ad7d6b2cbcdbfff36768af3bd90354f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2d93398c3ba2a378a ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -9158,7 +9281,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258122d4664499a3184e694cb43fa5771af5468d7ce4b473e8aa23111746303f5e3f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03fd93398c3ba2a378a "
     },
     {
         "ach_payment_initiated":false,
@@ -9270,7 +9394,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584f51cc665953b37a7f2082fb6a99a7c478ad7d6b2cbcdbff4519e741e6e2e696f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2682a6a761cb49291 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -9282,7 +9405,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42584f51cc665953b37a7f2082fb6a99a7c45468d7ce4b473e8a1aac1f72a7b005c6f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03ffcf75db29097f18c "
     },
     {
         "ach_payment_initiated":false,
@@ -9394,7 +9518,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42582133933efe3a9208e694cb43fa5771af78ad7d6b2cbcdbff1ac9771850732a4df1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea23ee4114a09dd0932 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -9406,7 +9529,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c42582133933efe3a9208e694cb43fa5771af5468d7ce4b473e8aa68f0a3347446474f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f7a11647a16fe4ab4 "
     },
     {
         "ach_payment_initiated":false,
@@ -9518,7 +9642,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f66513e4bc2fa239ffae78ad7d6b2cbcdbff3cbaef9ade946ed8f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea271283534e31a5838 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -9530,7 +9653,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f66513e4bc2fa239ffae5468d7ce4b473e8a2e02060de574d4fff1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03fab2e67f7acee8330 "
     },
     {
         "ach_payment_initiated":false,
@@ -9642,7 +9766,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f665293104aaabb6a46778ad7d6b2cbcdbff809f54cbe77d5a8ef1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2b3903241b260a046 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -9654,7 +9777,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258e8d0f16a3d65f665293104aaabb6a4675468d7ce4b473e8a1a8c66c7bcca8961f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03fb4ebdaa271957460 "
     },
     {
         "ach_payment_initiated":false,
@@ -9766,7 +9890,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258512bf09531b89abee694cb43fa5771af78ad7d6b2cbcdbffc6b5c6e772707f58f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2d990aa6cf55d30c4 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -9778,7 +9901,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258512bf09531b89abee694cb43fa5771af5468d7ce4b473e8a54a099952ae4418ff1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f0bb81609babad15f "
     },
     {
         "ach_payment_initiated":false,
@@ -9890,7 +10014,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425847db98267a2a2166e4efb058d06099d078ad7d6b2cbcdbff1d07c480598bafeaf1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea27a11647a16fe4ab4 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -9902,7 +10025,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c425847db98267a2a2166e4efb058d06099d05468d7ce4b473e8a3f741e05f35d6d92f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f107b58659ff0669d "
     },
     {
         "ach_payment_initiated":false,
@@ -10014,7 +10138,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a1e8bdd53e0e735e3078ad7d6b2cbcdbff76cea45ea6cb2729f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2507c4cab612154f0 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -10026,7 +10149,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a1e8bdd53e0e735e305468d7ce4b473e8a913f453aca14b17df1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f2a42607d7f3f8b1a "
     },
     {
         "ach_payment_initiated":false,
@@ -10138,7 +10262,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a131de972e15c03e5278ad7d6b2cbcdbffdfb9225b753f83e6f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2773145eff044b5ed ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -10150,7 +10273,8 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a131de972e15c03e525468d7ce4b473e8a41fa089701eef06af1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03f2ccda8bc1c3f1f4e "
     },
     {
         "ach_payment_initiated":false,
@@ -10271,7 +10395,6 @@
         "template_type":"standard_einvoice_bilingual",
         "no_of_copies":1,
         "show_no_of_copies":true,
-        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a14206510dd12f97dc78ad7d6b2cbcdbffef0def3b669092b1f1a2a5436c2e473df2b0d9508f7f01494fae3453588cbea2e958e333bdaeb0c3 ",
         "invoice_source":"Client",
         "sales_channel":"direct_sales",
         "transaction_type":"renewal",
@@ -10283,6 +10406,7 @@
         "salesperson_id":"",
         "write_off_amount":0.0,
         "exchange_rate":1.0,
-        "unprocessed_payment_amount":0.0
+        "unprocessed_payment_amount":0.0,
+        "invoice_url":"https:\/\/zohosecurepay.com\/books\/takamulltradingcompany\/secure?CInvoiceID=2-ca951bb4de5c4258ad613be3dc0ed8a14206510dd12f97dc5468d7ce4b473e8a44e785535ad9e202f1a2a5436c2e473df2b0d9508f7f0149067d7b1e6d7ee03fc0b29e7309a26e04 "
     }
 ]
