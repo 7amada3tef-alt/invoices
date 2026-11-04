@@ -124494,6 +124494,124 @@
         "journal_id":"5975823000004803045"
     },
     {
+        "line_id":"5975823000005360043",
+        "account_id":"5975823000000103327",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Othe revenue - إيرادات أخرى",
+        "account_code":"422",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000103327",
+            "account_id":"5975823000000103327",
+            "text":"Othe revenue - إيرادات أخرى",
+            "account_name":"Othe revenue - إيرادات أخرى",
+            "account_code":"422",
+            "account_label":"[ 422 ] Othe revenue - إيرادات أخرى",
+            "account_type":"other_income",
+            "account_type_formatted":"Other Income",
+            "account_specific_type_formatted":"Other Income",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000140003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000011 - المصاريف العمومية والادارية تكامل"
+            }
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005360035"
+    },
+    {
+        "line_id":"5975823000005360044",
+        "account_id":"5975823000000101941",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+        "account_code":"120207",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101941",
+            "account_id":"5975823000000101941",
+            "text":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+            "account_name":"Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+            "account_code":"120207",
+            "account_label":"[ 120207 ] Bank Al-Rajihi - 120207 - حساب مصرف الراجحي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"حوالة واردة من الموارد البشرية ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":3000.0,
+        "bcy_amount":3000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005360035"
+    },
+    {
         "line_id":"5975823000004852127",
         "account_id":"5975823000000101921",
         "customer_id":"",
@@ -128673,6 +128791,174 @@
         "journal_id":"5975823000005032216"
     },
     {
+        "line_id":"5975823000005360007",
+        "account_id":"5975823000000101925",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Bank Al-Jazera Expenses - 120202 - حساب بنك الجزيرة الفرعي",
+        "account_code":"120202",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101925",
+            "account_id":"5975823000000101925",
+            "text":"Bank Al-Jazera Expenses - 120202 - حساب بنك الجزيرة الفرعي",
+            "account_name":"Bank Al-Jazera Expenses - 120202 - حساب بنك الجزيرة الفرعي",
+            "account_code":"120202",
+            "account_label":"[ 120202 ] Bank Al-Jazera Expenses - 120202 - حساب بنك الجزيرة الفرعي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تسوية مبلغ محمد عباس مع ال petty cash ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":24453.33,
+        "bcy_amount":24453.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005360001"
+    },
+    {
+        "line_id":"5975823000005360008",
+        "account_id":"5975823000000000361",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Petty Cash - العهد النقدية",
+        "account_code":"1201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000000361",
+            "account_id":"5975823000000000361",
+            "text":"Petty Cash - العهد النقدية",
+            "account_name":"Petty Cash - العهد النقدية",
+            "account_code":"1201",
+            "account_label":"[ 1201 ] Petty Cash - العهد النقدية",
+            "account_type":"cash",
+            "account_type_formatted":"Cash",
+            "account_specific_type_formatted":"Cash",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تسوية مبلغ محمد عباس مع ال petty cash ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":17253.33,
+        "bcy_amount":17253.33,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005360001"
+    },
+    {
+        "line_id":"5975823000005360009",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":3,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تسوية مبلغ محمد عباس مع ال petty cash ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":7200.0,
+        "bcy_amount":7200.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005360001"
+    },
+    {
         "line_id":"5975823000005032206",
         "account_id":"5975823000000101921",
         "customer_id":"",
@@ -129573,6 +129859,118 @@
 
         },
         "journal_id":"5975823000005303267"
+    },
+    {
+        "line_id":"5975823000005360119",
+        "account_id":"5975823000000101393",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Bank service charges - 630105 - خدمات بنكية",
+        "account_code":"630105",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101393",
+            "account_id":"5975823000000101393",
+            "text":"Bank service charges - 630105 - خدمات بنكية",
+            "account_name":"Bank service charges - 630105 - خدمات بنكية",
+            "account_code":"630105",
+            "account_label":"[ 630105 ] Bank service charges - 630105 - خدمات بنكية",
+            "account_type":"expense",
+            "account_type_formatted":"Expense",
+            "account_specific_type_formatted":"Expense",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"مصاريف بنكية لتمديد ضمان بنكي ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1326.46,
+        "bcy_amount":1326.46,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005360114"
+    },
+    {
+        "line_id":"5975823000005360120",
+        "account_id":"5975823000000101937",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Bank Al-Inma - 120206 - حساب مصرف الانماء",
+        "account_code":"120206",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101937",
+            "account_id":"5975823000000101937",
+            "text":"Bank Al-Inma - 120206 - حساب مصرف الانماء",
+            "account_name":"Bank Al-Inma - 120206 - حساب مصرف الانماء",
+            "account_code":"120206",
+            "account_label":"[ 120206 ] Bank Al-Inma - 120206 - حساب مصرف الانماء",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"مصاريف بنكية لتمديد ضمان بنكي ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":1326.46,
+        "bcy_amount":1326.46,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005360114"
     },
     {
         "line_id":"5975823000005247032",

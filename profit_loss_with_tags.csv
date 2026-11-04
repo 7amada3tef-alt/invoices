@@ -369,7 +369,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Cleaning - 530103 - نظافة,530103,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Cleaning - 530103 - نظافة,530103,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Cleaning - 530103 - نظافة,530103,0.0
-Overall,Overall,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,1641820.43
+Overall,Overall,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,1642420.43
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,98110.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,0.0
@@ -400,7 +400,7 @@ Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاج
 Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,0.0
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,110900.0
 Cost Center - Takamull,8026040 - مهارات المستقبل,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,209874.25
-Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,6000.0
+Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,6600.0
 Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,0.0
 Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,0.0
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Co-operators fees - 520103 - اتعاب متعاوني مشاريع,520103,11700.0
@@ -2996,9 +2996,46 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Annual bonus - 630201 - مكافأة سنوية,630201,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Annual bonus - 630201 - مكافأة سنوية,630201,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Annual bonus - 630201 - مكافأة سنوية,630201,0.0
-Overall,Overall,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,8351.41
+Overall,Overall,Operating Expense,Bank Fees and Charges,,134.68
+Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8000050 - الاتصال المؤسسي تكامل,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8000060 - منصة قياس الأثر,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8023010 - إنشاء مقار إدارة العمل التطوعي لخدمة ضيوف الرحمن,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8023020 - منهجية عمل تعزز البنية المؤسسية للمنظمات غير الربحية,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8023030 - رفع الوعي الفني لدى منظمات القطاع غير الربحي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8024010 - مشروع تقديم خدمات تأسيس وتفعيل وحدات ومراكز العمل التطوعي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8024020 - مشروع الخدمات اللوجستية للعاملين في القطاع غير الربحي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8024030 - تمكين الجمعيات المتخصصة العاملة في القطاع غير الربحي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8024040 - تقديم الخدمات اللوجستية للتدريب في برنامج رائد,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025010 - مشروع العربة,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025020 - مشروع وزارة الرياضة,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025030 - تقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025040 - مصنع الابتكار - اشوكا,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025050 - حصر الاحتياج التدريبي في منظومة الصحة,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025060 - مجموعات عمل التطوع التكافلي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025070 - سفر الإفطار في الحرم المكي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025080 - سوق الدار,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025090 - هاكاثون الوعي المعرفي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة دراسات الحالة,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026020 - التأهيل للتوظيف,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026040 - مهارات المستقبل,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Bank Fees and Charges,,0.0
+Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Bank Fees and Charges,,0.0
+Overall,Overall,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,10462.28
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,0.0
-Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,8351.41
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,9135.82
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,0.0
 Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,0.0
 Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,0.0
@@ -6178,9 +6215,9 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Zoom subscription - 621405 - اشتراك موقع Zoom,621405,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Zoom subscription - 621405 - اشتراك موقع Zoom,621405,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Zoom subscription - 621405 - اشتراك موقع Zoom,621405,0.0
-Overall,Overall,Non Operating Income,Othe revenue - إيرادات أخرى,422,151682.88
+Overall,Overall,Non Operating Income,Othe revenue - إيرادات أخرى,422,154682.88
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Non Operating Income,Othe revenue - إيرادات أخرى,422,0.0
-Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Non Operating Income,Othe revenue - إيرادات أخرى,422,151682.88
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Non Operating Income,Othe revenue - إيرادات أخرى,422,154682.88
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Non Operating Income,Othe revenue - إيرادات أخرى,422,0.0
 Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Non Operating Income,Othe revenue - إيرادات أخرى,422,0.0
 Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Non Operating Income,Othe revenue - إيرادات أخرى,422,0.0

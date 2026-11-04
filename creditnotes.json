@@ -24,13 +24,21 @@
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "created_time":"2026-10-21T14:49:19+0300",
-        "last_modified_time":"2026-10-21T14:49:20+0300",
+        "last_modified_time":"2026-11-04T16:42:21+0300",
         "exchange_rate":1.0,
         "template_id":"5975823000000017005",
         "template_type":"standard",
         "einvoice_details":{
-            "status_formatted":"Yet To Be Pushed",
-            "status":"yet_to_be_pushed"
+            "warning_list":[
+
+            ],
+            "failure_list":[
+
+            ],
+            "status_formatted":"Pushed",
+            "issueDate":"2026-10-21T04:49:19",
+            "uuid":"d3529d6f-fc40-47a8-a13f-467e6a8d4d47",
+            "status":"pushed"
         },
         "rounding_mode":"round_half_up",
         "price_precision":2,
@@ -63,13 +71,21 @@
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "created_time":"2026-08-02T15:16:07+0300",
-        "last_modified_time":"2026-08-02T15:16:08+0300",
+        "last_modified_time":"2026-11-04T16:42:24+0300",
         "exchange_rate":1.0,
         "template_id":"5975823000000017005",
         "template_type":"standard",
         "einvoice_details":{
-            "status_formatted":"Yet To Be Pushed",
-            "status":"yet_to_be_pushed"
+            "warning_list":[
+                "[BR-KSA-F-08] - The value provided in Other Seller ID (BT-29) or Other Buyer ID (BT-46) for the scheme ID 'CRN' appears to be incorrect. Please recheck the value to avoid non-compliance."
+            ],
+            "failure_list":[
+
+            ],
+            "status_formatted":"Pushed",
+            "issueDate":"2026-08-02T05:16:07",
+            "uuid":"4ed8be4e-1cb6-486e-87f2-1a03725fde28",
+            "status":"pushed"
         },
         "rounding_mode":"round_half_up",
         "price_precision":2,
@@ -102,13 +118,21 @@
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "created_time":"2026-02-17T14:14:42+0300",
-        "last_modified_time":"2026-02-17T14:14:43+0300",
+        "last_modified_time":"2026-11-04T16:42:46+0300",
         "exchange_rate":1.0,
         "template_id":"5975823000000017005",
         "template_type":"standard",
         "einvoice_details":{
-            "status_formatted":"Yet To Be Pushed",
-            "status":"yet_to_be_pushed"
+            "warning_list":[
+
+            ],
+            "failure_list":[
+
+            ],
+            "status_formatted":"Pushed",
+            "issueDate":"2026-02-17T03:14:42",
+            "uuid":"4d7c5c1e-5e7d-46a6-aa15-84c9e7e861ef",
+            "status":"pushed"
         },
         "rounding_mode":"round_half_up",
         "price_precision":2,
@@ -122,7 +146,7 @@
         "status":"closed",
         "reference_number":"مرتجع للفاتورة الرابعة - مشروع منهجية التعزيز",
         "date":"2025-10-23",
-        "issued_date":"",
+        "issued_date":"2025-10-24",
         "total":103500.0,
         "balance":0.0,
         "customer_id":"5975823000000119037",
@@ -141,13 +165,21 @@
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "created_time":"2025-10-24T18:01:49+0300",
-        "last_modified_time":"2025-10-24T18:01:50+0300",
+        "last_modified_time":"2026-11-04T16:42:52+0300",
         "exchange_rate":1.0,
         "template_id":"5975823000000017005",
         "template_type":"standard",
         "einvoice_details":{
-            "status_formatted":"Yet To Be Pushed",
-            "status":"yet_to_be_pushed"
+            "warning_list":[
+
+            ],
+            "failure_list":[
+
+            ],
+            "status_formatted":"Pushed",
+            "issueDate":"2025-10-24T08:01:50",
+            "uuid":"bfbccd68-c5a3-4558-be3b-8b598a62883d",
+            "status":"pushed"
         },
         "rounding_mode":"round_half_up",
         "price_precision":2,
@@ -274,13 +306,16 @@
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "created_time":"2025-05-19T15:52:42+0300",
-        "last_modified_time":"2025-06-21T15:13:20+0300",
+        "last_modified_time":"2026-11-04T16:43:00+0300",
         "exchange_rate":1.0,
         "template_id":"5975823000000091121",
         "template_type":"standard",
         "einvoice_details":{
-            "status_formatted":"Yet To Be Pushed",
-            "status":"yet_to_be_pushed"
+            "failure_list":[
+                "You cannot push credit notes with the reason as Others. Select a different reason to proceed."
+            ],
+            "status_formatted":"Failed",
+            "status":"failed"
         },
         "rounding_mode":"round_half_up",
         "price_precision":2,
@@ -294,7 +329,7 @@
         "status":"closed",
         "reference_number":"مرتجع - مشروع رفع الوعي الفني - الفاتورة الخامسة",
         "date":"2025-05-04",
-        "issued_date":"",
+        "issued_date":"2026-11-04",
         "total":1125739.1399999999,
         "balance":0.0,
         "customer_id":"5975823000000136091",
@@ -313,13 +348,21 @@
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "created_time":"2025-05-12T14:00:29+0300",
-        "last_modified_time":"2025-06-21T15:12:14+0300",
+        "last_modified_time":"2026-11-04T16:44:18+0300",
         "exchange_rate":1.0,
         "template_id":"5975823000000017005",
         "template_type":"standard",
         "einvoice_details":{
-            "status_formatted":"Yet To Be Pushed",
-            "status":"yet_to_be_pushed"
+            "warning_list":[
+
+            ],
+            "failure_list":[
+
+            ],
+            "status_formatted":"Pushed",
+            "issueDate":"2026-11-04T05:44:14",
+            "uuid":"79647625-3622-4061-9015-08ea648541c8",
+            "status":"pushed"
         },
         "rounding_mode":"round_half_up",
         "price_precision":2,
@@ -333,7 +376,7 @@
         "status":"closed",
         "reference_number":"",
         "date":"2025-04-28",
-        "issued_date":"",
+        "issued_date":"2026-11-04",
         "total":241500.0,
         "balance":0.0,
         "customer_id":"5975823000000119037",
@@ -352,13 +395,21 @@
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "created_time":"2025-04-28T09:59:42+0300",
-        "last_modified_time":"2025-04-28T09:59:43+0300",
+        "last_modified_time":"2026-11-04T16:44:30+0300",
         "exchange_rate":1.0,
         "template_id":"5975823000000017005",
         "template_type":"standard",
         "einvoice_details":{
-            "status_formatted":"Yet To Be Pushed",
-            "status":"yet_to_be_pushed"
+            "warning_list":[
+
+            ],
+            "failure_list":[
+
+            ],
+            "status_formatted":"Pushed",
+            "issueDate":"2026-11-04T05:44:26",
+            "uuid":"b16a24fb-77e4-435e-bcfe-18cb27b099f9",
+            "status":"pushed"
         },
         "rounding_mode":"round_half_up",
         "price_precision":2,
@@ -372,7 +423,7 @@
         "status":"closed",
         "reference_number":"",
         "date":"2025-04-28",
-        "issued_date":"",
+        "issued_date":"2026-11-04",
         "total":57500.0,
         "balance":0.0,
         "customer_id":"5975823000000119037",
@@ -391,13 +442,21 @@
         "currency_id":"5975823000000091149",
         "currency_code":"SAR",
         "created_time":"2025-04-28T09:58:39+0300",
-        "last_modified_time":"2025-04-28T09:58:40+0300",
+        "last_modified_time":"2026-11-04T16:44:43+0300",
         "exchange_rate":1.0,
         "template_id":"5975823000000017005",
         "template_type":"standard",
         "einvoice_details":{
-            "status_formatted":"Yet To Be Pushed",
-            "status":"yet_to_be_pushed"
+            "warning_list":[
+
+            ],
+            "failure_list":[
+
+            ],
+            "status_formatted":"Pushed",
+            "issueDate":"2026-11-04T05:44:39",
+            "uuid":"fe9b0cb1-cbe8-419d-b4fa-c5132255816b",
+            "status":"pushed"
         },
         "rounding_mode":"round_half_up",
         "price_precision":2,

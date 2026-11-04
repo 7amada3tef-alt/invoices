@@ -12312,6 +12312,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005360035",
+        "journal_date":"2026-08-31",
+        "entry_number":"JE -000699",
+        "reference_number":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"حوالة واردة من الموارد البشرية - دعم هدف ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":3000.0,
+        "bcy_total":3000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-04T12:03:26+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000004852121",
         "journal_date":"2026-09-06",
         "entry_number":"JE -000657",
@@ -12844,6 +12863,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005360001",
+        "journal_date":"2026-10-12",
+        "entry_number":"JE -000698",
+        "reference_number":"تسوية مبلغ محمد عباس مع ال petty cash ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تسوية مبلغ محمد عباس مع ال petty cash ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":24453.33,
+        "bcy_total":24453.33,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-04T11:07:23+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000005032200",
         "journal_date":"2026-10-13",
         "entry_number":"JE -000674",
@@ -12992,6 +13030,25 @@
 
         ],
         "last_modified_time":"2026-11-01T15:04:20+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005360114",
+        "journal_date":"2026-10-26",
+        "entry_number":"JE -000700",
+        "reference_number":"مصاريف بنكية لتمديد ضمان بنكي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"مصاريف بنكية لتمديد ضمان بنكي ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":1326.46,
+        "bcy_total":1326.46,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-04T13:11:55+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
     },

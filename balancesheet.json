@@ -3,17 +3,17 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 8087740.31,
+      "total": 8088494.76,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 7844490.25,
+          "total": 7845244.7,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 130496.78,
+              "total": 113243.45,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -96,19 +96,6 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 17253.33,
-                  "account_id": "5975823000000000361",
-                  "depth": 0,
-                  "previous_values": [],
-                  "is_child_present": false,
-                  "name": "Petty Cash - العهد النقدية",
-                  "previous_total_sub_account": [],
-                  "account_code": "1201",
-                  "is_collapsed_view": false,
-                  "previous_total": []
-                },
-                {
-                  "total_sub_account": 0.0,
                   "total": 687.56,
                   "account_id": "5975823000000353048",
                   "depth": 0,
@@ -139,12 +126,12 @@
               "previous_total": []
             },
             {
-              "total": -7989.17,
+              "total": 24424.73,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 17990.86,
+                  "total": 6506.45,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -157,7 +144,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 1378.09,
+                  "total": 17823.07,
                   "account_id": "5975823000000101937",
                   "depth": 0,
                   "previous_values": [],
@@ -170,7 +157,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": -24369.13,
+                  "total": 84.2,
                   "account_id": "5975823000000101925",
                   "depth": 0,
                   "previous_values": [],
@@ -183,7 +170,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": -2988.99,
+                  "total": 11.01,
                   "account_id": "5975823000000101941",
                   "depth": 0,
                   "previous_values": [],
@@ -200,12 +187,12 @@
               "previous_total": []
             },
             {
-              "total": 3358161.55,
+              "total": 3340255.43,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 3358161.55,
+                  "total": 3340255.43,
                   "account_id": "5975823000000000364",
                   "depth": 0,
                   "previous_values": [],
@@ -223,7 +210,7 @@
               "previous_total": []
             },
             {
-              "total": 4363821.09,
+              "total": 4367321.09,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -345,7 +332,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 218975.34,
+                  "total": 222475.34,
                   "account_id": "5975823000000091011",
                   "depth": 0,
                   "previous_values": [],
@@ -695,23 +682,23 @@
       "previous_total": []
     },
     {
-      "total": 8087740.31,
+      "total": 8088494.76,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 2517718.01,
+          "total": 2518318.01,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 2349667.3,
+              "total": 2350267.3,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 1108304.91,
+                  "total": 1108904.91,
                   "account_id": "5975823000000000373",
                   "depth": 0,
                   "previous_values": [],
@@ -831,12 +818,12 @@
           "previous_total": []
         },
         {
-          "total": 5570022.3,
+          "total": 5570176.75,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 170896.99,
+              "total": 171051.44,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -896,12 +883,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-11-03",
-    "to_date": "2026-11-03",
+    "as_of_date": "2026-11-04",
+    "to_date": "2026-11-04",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "03 Nov 2026 07:53 PM",
+    "last_accessed_time_formatted": "04 Nov 2026 07:49 PM",
     "select_columns": [
       {
         "field": "name",
@@ -930,9 +917,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "03 Nov 2026",
-        "from_date": "2026-11-03",
-        "to_date": "2026-11-03"
+        "date_range_label": "04 Nov 2026",
+        "from_date": "2026-11-04",
+        "to_date": "2026-11-04"
       }
     ],
     "sort_column": "account",
