@@ -1,16 +1,18 @@
 
 import smartsheet
 import json
+import os
 
-smart = smartsheet.Smartsheet("Wq3V6Ol8dc4UXjLnlSmBYWGJqEmLOAdzZ9QFe")
+API_TOKEN = os.environ["Wq3V6Ol8dc4UXjLnlSmBYWGJqEmLOAdzZ9QFe"]
+SHEET_ID = 7597899809509252
+
+smart = smartsheet.Smartsheet(API_TOKEN)
 smart.errors_as_exceptions(True)
 
-sheet = smart.Sheets.get_sheet(7597899809509252)
+sheet = smart.Sheets.get_sheet(SHEET_ID)
 
-# Get column names
 cols = {c.id: c.title for c in sheet.columns}
 
-# Extract sheet data
 data = []
 
 for row in sheet.rows:
@@ -20,7 +22,5 @@ for row in sheet.rows:
     }
     data.append(row_data)
 
-# Save data to JSON file
-with open("smartsheet_data.json", "w", encoding="utf-8") as json_file:
-    json.dump(data, json_file, ensure_ascii=False, indent=4)
-
+with open("smartsheet_data.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
