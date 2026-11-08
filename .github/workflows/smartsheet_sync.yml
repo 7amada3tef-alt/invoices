@@ -29,7 +29,7 @@ jobs:
       - name: Export Smartsheet Data
         env:
           SMARTSHEET_API_TOKEN: ${{ secrets.SMARTSHEET_API_TOKEN }}
-        run: python main.py
+        run: python get_SmS.py
 
       - name: Commit JSON Update
         run: |
