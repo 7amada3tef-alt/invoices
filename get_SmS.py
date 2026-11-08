@@ -3,7 +3,7 @@ import smartsheet
 import json
 import os
 
-API_TOKEN = os.environ["Wq3V6Ol8dc4UXjLnlSmBYWGJqEmLOAdzZ9QFe"]
+API_TOKEN = os.environ["SMARTSHEET_API_TOKEN"]
 SHEET_ID = 7597899809509252
 
 smart = smartsheet.Smartsheet(API_TOKEN)
