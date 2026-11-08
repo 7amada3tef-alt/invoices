@@ -1,4 +1,4 @@
-
+```yaml
 name: Smartsheet JSON Sync
 
 on:
@@ -12,11 +12,13 @@ permissions:
 
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v6
+        with:
+          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v6
@@ -24,12 +26,21 @@ jobs:
           python-version: "3.11"
 
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install smartsheet-python-sdk
 
       - name: Export Smartsheet Data
         env:
           SMARTSHEET_API_TOKEN: ${{ secrets.SMARTSHEET_API_TOKEN }}
         run: python get_SmS.py
+
+      - name: Debug - Verify JSON File
+        run: |
+          echo "Workspace: $GITHUB_WORKSPACE"
+          ls -lh smartsheet_data.json
+          python -m json.tool smartsheet_data.json > /dev/null
+          echo "JSON file is valid."
 
       - name: Commit JSON Update
         run: |
@@ -40,7 +51,9 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Update Smartsheet JSON"
-            git push
+            git push origin HEAD:main
+            echo "JSON updated successfully."
           else
-            echo "No changes detected"
+            echo "No changes detected."
           fi
+```
