@@ -2,6 +2,806 @@
     {
         "purchaseorder_id":"",
         "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005396225",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100679",
+        "account_name":"Employee tickets - 520301 - تذاكر موظفين",
+        "account_code":"520301",
+        "description":"فعاليات-مصنع الابتكار 8026080 - تومودو  ",
+        "bcy_rate":2036.0,
+        "rate":2036.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000004707003",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":265.57
+            }
+        ],
+        "item_total":1770.43,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005396223",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005396226",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100103",
+        "account_name":"Ghadan  - شركة التنمية وغدن للتجارة",
+        "account_code":"121212",
+        "description":"تذاكر - تخص مشاريع غدن - تومودو  ",
+        "bcy_rate":8022.01,
+        "rate":8022.01,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":1046.35
+            }
+        ],
+        "item_total":6975.66,
+        "item_order":2,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005396223",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005396227",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100109",
+        "account_name":"Rakeen - شركة ركين العطاء للتجارة",
+        "account_code":"121213",
+        "description":"تذاكر - تخص مشاريع ركين- تومودو  ",
+        "bcy_rate":2939.3,
+        "rate":2939.3,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":383.39
+            }
+        ],
+        "item_total":2555.91,
+        "item_order":3,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005396223",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005396228",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100679",
+        "account_name":"Employee tickets - 520301 - تذاكر موظفين",
+        "account_code":"520301",
+        "description":"تذاكر -Strategic Roadmap Project – Al-Subaie Foundation- 8026050\n - تومودو  ",
+        "bcy_rate":675.25,
+        "rate":675.25,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000004034021",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":88.08
+            }
+        ],
+        "item_total":587.17,
+        "item_order":4,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005396223",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005396229",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100679",
+        "account_name":"Employee tickets - 520301 - تذاكر موظفين",
+        "account_code":"520301",
+        "description":"تذاكر -8026030\n - تومودو  ",
+        "bcy_rate":2108.0,
+        "rate":2108.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003655023",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026030 - حاضنة أثر الطاقة الاجتماعية"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":274.96
+            }
+        ],
+        "item_total":1833.04,
+        "item_order":5,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005396223",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005396230",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100097",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "account_code":"121211",
+        "description":"تذاكر -المحرك الثاني \n - تومودو  ",
+        "bcy_rate":3889.08,
+        "rate":3889.08,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000000171227",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8000020 - مصاريف بيعية وتسويقية تكامل"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"5975823000000091248",
+        "tax_exemption_id":"",
+        "tax_exemption_code":"",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"Standard Rate",
+        "tax_type":"tax",
+        "tax_percentage":15,
+        "line_item_taxes":[
+            {
+                "tax_id":"5975823000000091248",
+                "tax_name":"Standard Rate (15%)",
+                "tax_amount":507.27
+            }
+        ],
+        "item_total":3381.81,
+        "item_order":6,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005396223",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005404004",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100703",
+        "account_name":"Hospitality - 520501 - ضيافة",
+        "account_code":"520501",
+        "description":"1. 2245 - Baderddin - Alnishiwati\n2. Reason - شرا ء ضيافة\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Cost Center - 8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية\n5. Debit Chart of Account - Hospitality - 520501 - ضيافة - 520501\n6. Invoice Number - 1944997460",
+        "bcy_rate":99.7,
+        "rate":99.7,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000004034021",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":99.7,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005404002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005401004",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100667",
+        "account_name":"Employee perdeim - 520201 - انتدابات موظفين",
+        "account_code":"520201",
+        "description":"1. Employee Name - 50016 - Anas - Anwar Saleh\n2. Purpose - Meeting\/اجتماع\n3. Vendor Name - مورد مصاريف موظفين غير سعوديين - 2110800\n4. Cost Center - 8026020 - التأهيل للتوظيف\n5. Debit Account - Employee perdeim - 520201 - انتدابات موظفين - 520201\n6. Date of return to work - 10-Nov-2026\n7. Masar AWG - مسار استشارات - محمد عبدالوهاب\n8. Other Details  - اجتماع مناقصه وزارة الرياضة لم اجد مركز تكلفه اخر",
+        "bcy_rate":2250.0,
+        "rate":2250.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000003619005",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026020 - التأهيل للتوظيف"
+            },
+            {
+                "tag_option_id":"5975823000004166109",
+                "is_tag_mandatory":false,
+                "tag_name":"مسارات شركة أوج",
+                "tag_id":"5975823000000000335",
+                "tag_option_name":"مسار استشارات - محمد عبدالوهاب"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":2250.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005401002",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
+        "line_item_id":"5975823000005396097",
+        "item_id":"",
+        "itc_eligibility":"eligible",
+        "line_item_category":"line_item",
+        "image_document_id":"",
+        "name":"",
+        "account_id":"5975823000000100637",
+        "account_name":"Logistic & transportation fees - 520105 - اتعاب لوجستية ونقل",
+        "account_code":"520105",
+        "description":"انس صالح -مشروع 8026050-نقل ",
+        "bcy_rate":600.0,
+        "rate":600.0,
+        "sales_rate":"",
+        "pricebook_id":"",
+        "header_id":"",
+        "header_name":"",
+        "tags":[
+            {
+                "tag_option_id":"5975823000004034021",
+                "is_tag_mandatory":false,
+                "tag_name":"Cost Center - Takamull",
+                "tag_id":"5975823000000000333",
+                "tag_option_name":"8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية"
+            }
+        ],
+        "quantity":1.0,
+        "quantity_received":0.0,
+        "discount":0.0,
+        "discounts":[
+
+        ],
+        "product_tax_category":{
+            "tax_category_code":"",
+            "tax_category_name":"",
+            "description":""
+        },
+        "discount_account_id":"",
+        "discount_account_name":"",
+        "markup_percent":0.0,
+        "tax_treatment_code":"",
+        "tax_id":"",
+        "tax_exemption_id":"5975823000000091244",
+        "tax_exemption_code":"OUTOFSCOPE",
+        "tax_category_code":"",
+        "tax_category_name":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":0,
+        "line_item_taxes":[
+
+        ],
+        "item_total":600.0,
+        "item_order":1,
+        "unit":"",
+        "product_type":"service",
+        "item_type":"",
+        "item_code":{
+
+        },
+        "reverse_charge_tax_id":"",
+        "image_name":"",
+        "image_type":"",
+        "is_billable":false,
+        "customer_id":"",
+        "receipt_line_item_id":"",
+        "customer_name":"",
+        "project_id":"",
+        "project_name":"",
+        "invoice_id":"",
+        "invoice_number":"",
+        "item_custom_fields":[
+
+        ],
+        "purchase_request_items":[
+
+        ],
+        "item_matching_type":"",
+        "receive_line_items":[
+
+        ],
+        "bill_id":"5975823000005396095",
+        "discount_amount":null
+    },
+    {
+        "purchaseorder_id":"",
+        "purchaseorder_item_id":"",
         "line_item_id":"5975823000005379004",
         "item_id":"",
         "itc_eligibility":"eligible",
@@ -732,9 +1532,9 @@
         "line_item_category":"line_item",
         "image_document_id":"",
         "name":"",
-        "account_id":"5975823000000100649",
-        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
-        "account_code":"520108",
+        "account_id":"5975823000000100613",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "account_code":"520101",
         "description":"1. Payment Type - Cooperator  with Contract\n2. Cost Center  - 8026040 - مهارات المستقبل\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Date - 29-Oct-2026\n5. Cooperator ID - 1135628707 - بيان عبدالفتاح انديجاني - ASR -1296",
         "bcy_rate":7000.0,
         "rate":7000.0,
@@ -825,9 +1625,9 @@
         "line_item_category":"line_item",
         "image_document_id":"",
         "name":"",
-        "account_id":"5975823000000100649",
-        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
-        "account_code":"520108",
+        "account_id":"5975823000000100613",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "account_code":"520101",
         "description":"1. Payment Type - Cooperator  with Contract\n2. Cost Center  - 8026040 - مهارات المستقبل\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Date - 25-Oct-2026\n5. Cooperator ID - 1088266646 - فاطمة حسين ذاكر الحربي - ASR -1294",
         "bcy_rate":3500.0,
         "rate":3500.0,
@@ -918,9 +1718,9 @@
         "line_item_category":"line_item",
         "image_document_id":"",
         "name":"",
-        "account_id":"5975823000000100649",
-        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
-        "account_code":"520108",
+        "account_id":"5975823000000100613",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "account_code":"520101",
         "description":"1. Payment Type - Cooperator  with Contract\n2. Cost Center  - 8026040 - مهارات المستقبل\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Date - 25-Oct-2026\n5. Cooperator ID - 1122463803 - أنس عامر ابراهيم - ASR -1295",
         "bcy_rate":4000.0,
         "rate":4000.0,
@@ -1011,9 +1811,9 @@
         "line_item_category":"line_item",
         "image_document_id":"",
         "name":"",
-        "account_id":"5975823000000100649",
-        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
-        "account_code":"520108",
+        "account_id":"5975823000000100613",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "account_code":"520101",
         "description":"1. Payment Type - Cooperator  with Contract\n2. Cost Center  - 8026040 - مهارات المستقبل\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Date - 01-Nov-2026\n5. Cooperator ID - 1038166466 - عصام بن احمد المشي - ASR -1299",
         "bcy_rate":18000.0,
         "rate":18000.0,
@@ -1104,9 +1904,9 @@
         "line_item_category":"line_item",
         "image_document_id":"",
         "name":"",
-        "account_id":"5975823000000100649",
-        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
-        "account_code":"520108",
+        "account_id":"5975823000000100613",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "account_code":"520101",
         "description":"1. Payment Type - Cooperator  with Contract\n2. Cost Center  - 8026040 - مهارات المستقبل\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Date - 25-Oct-2026\n5. Cooperator ID - 1128506332 - روان حسن محمد أبو مسمار - ASR -1292",
         "bcy_rate":4000.0,
         "rate":4000.0,
@@ -4235,9 +5035,9 @@
         "line_item_category":"line_item",
         "image_document_id":"",
         "name":"",
-        "account_id":"5975823000000100649",
-        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
-        "account_code":"520108",
+        "account_id":"5975823000000100613",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "account_code":"520101",
         "description":"1. Payment Type - Cooperator  with Contract\n2. Cost Center  - 8026030 - حاضنة أثر الطاقة الاجتماعية\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Date - 12-Oct-2026\n5. Cooperator ID - 1079268015 - فاطمة فايز مبارك الجهني - ASR -1300",
         "bcy_rate":3000.0,
         "rate":3000.0,
@@ -4328,9 +5128,9 @@
         "line_item_category":"line_item",
         "image_document_id":"",
         "name":"",
-        "account_id":"5975823000000100649",
-        "account_name":"Consultation fees - 520108 - اتعاب استشارات",
-        "account_code":"520108",
+        "account_id":"5975823000000100613",
+        "account_name":"Consultants fees - 520101 - اتعاب مستشارين",
+        "account_code":"520101",
         "description":"1. Payment Type - Cooperator  with Contract\n2. Cost Center  - 8026030 - حاضنة أثر الطاقة الاجتماعية\n3. Masar AWG - مسار استشارات - محمد عبدالوهاب\n4. Date - 12-Oct-2026\n5. Cooperator ID - 1106242074 - ندى يوسف محمد الملوحي الزبيدي - ASR -1290",
         "bcy_rate":3000.0,
         "rate":3000.0,

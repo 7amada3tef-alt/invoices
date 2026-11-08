@@ -13336,5 +13336,24 @@
         "last_modified_time":"2026-11-06T14:27:27+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000005396167",
+        "journal_date":"2026-11-08",
+        "entry_number":"JE -000702",
+        "reference_number":"تحويل من النماء الي الجزيرة الرئيسي",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تحويل من النماء الي الجزيرة الرئيسي",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":917808.05,
+        "bcy_total":917808.05,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-08T14:49:49+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]
