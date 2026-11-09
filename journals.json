@@ -13034,6 +13034,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005396406",
+        "journal_date":"2026-10-25",
+        "entry_number":"JE -000704",
+        "reference_number":"فرق تحويل اشوكا في حساب الارباح و الخسائر ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"فرق تحويل اشوكا في حساب الارباح و الخسائر ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":134.68,
+        "bcy_total":134.68,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-09T17:06:09+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000005360114",
         "journal_date":"2026-10-26",
         "entry_number":"JE -000700",
@@ -13279,6 +13298,44 @@
         "last_modified_time":"2026-10-31T11:42:39+0300",
         "created_by_id":"",
         "created_by_name":""
+    },
+    {
+        "journal_id":"5975823000005396421",
+        "journal_date":"2026-10-31",
+        "entry_number":"JE -000705",
+        "reference_number":"خدمات بنكية - اكتوبر2026",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"خدمات بنكية - اكتوبر2026",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":8.04,
+        "bcy_total":8.04,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-09T17:10:26+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005409003",
+        "journal_date":"2026-10-31",
+        "entry_number":"JE -000703",
+        "reference_number":"اغلاق الايراد المقدم لشهر اكتوبر ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اغلاق الايراد المقدم لشهر اكتوبر ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":255000.0,
+        "bcy_total":255000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-08T23:11:37+0300",
+        "created_by_id":"5975823000000118001",
+        "created_by_name":"Anas Alkhuzaei"
     },
     {
         "journal_id":"5975823000005303002",

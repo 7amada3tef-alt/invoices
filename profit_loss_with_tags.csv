@@ -147,7 +147,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Income,Private Sector Related Party Sales -  مبيعات القطاع الخاص لاطراف ذات علاقة,416,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Income,Private Sector Related Party Sales -  مبيعات القطاع الخاص لاطراف ذات علاقة,416,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Income,Private Sector Related Party Sales -  مبيعات القطاع الخاص لاطراف ذات علاقة,416,0.0
-Overall,Overall,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,8700677.93
+Overall,Overall,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,8955677.93
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
@@ -171,11 +171,11 @@ Cost Center - Takamull,8025060 - مجموعات عمل التطوع التكاف
 Cost Center - Takamull,8025070 - سفر الإفطار في الحرم المكي,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,101714.2
 Cost Center - Takamull,8025080 - سوق الدار,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,200000.0
 Cost Center - Takamull,8025090 - هاكاثون الوعي المعرفي,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
-Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة دراسات الحالة,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,922094.03
-Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,29503.78
+Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة دراسات الحالة,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,972094.03
+Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,34503.78
 Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,264000.0
 Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
-Cost Center - Takamull,8026020 - التأهيل للتوظيف,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,301584.09
+Cost Center - Takamull,8026020 - التأهيل للتوظيف,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,501584.09
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
 Cost Center - Takamull,8026040 - مهارات المستقبل,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,1403562.87
 Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Operating Income,Private Sector Sales - مبيعات القطاع الخاص,412,0.0
@@ -1183,7 +1183,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Guides and reports printing - 521106 - طباعة أدلة وتقارير,521106,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Guides and reports printing - 521106 - طباعة أدلة وتقارير,521106,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Guides and reports printing - 521106 - طباعة أدلة وتقارير,521106,0.0
-Overall,Overall,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,182566.96
+Overall,Overall,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,182613.96
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,0.0
@@ -1214,7 +1214,7 @@ Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاج
 Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,5246.78
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,571.1
 Cost Center - Takamull,8026040 - مهارات المستقبل,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,87.0
-Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,99.7
+Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,146.7
 Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,0.0
 Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,0.0
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Hospitality - 520501 - ضيافة,520501,781.25
@@ -2959,7 +2959,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Annual bonus - 630201 - مكافأة سنوية,630201,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Annual bonus - 630201 - مكافأة سنوية,630201,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Annual bonus - 630201 - مكافأة سنوية,630201,0.0
-Overall,Overall,Operating Expense,Bank Fees and Charges,,134.69
+Overall,Overall,Operating Expense,Bank Fees and Charges,,0.01
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Bank Fees and Charges,,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Bank Fees and Charges,,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Bank Fees and Charges,,0.0
@@ -2996,9 +2996,9 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Bank Fees and Charges,,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Bank Fees and Charges,,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Bank Fees and Charges,,0.0
-Overall,Overall,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,10462.28
+Overall,Overall,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,10470.32
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,0.0
-Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,9135.82
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,9143.86
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,0.0
 Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,0.0
 Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Bank service charges - 630105 - خدمات بنكية,630105,0.0
@@ -6215,7 +6215,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Non Operating Income,Othe revenue - إيرادات أخرى,422,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Non Operating Income,Othe revenue - إيرادات أخرى,422,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Non Operating Income,Othe revenue - إيرادات أخرى,422,0.0
-Overall,Overall,Non Operating Expense,Exchange Gain or Loss,,555.95
+Overall,Overall,Non Operating Expense,Exchange Gain or Loss,,690.63
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Non Operating Expense,Exchange Gain or Loss,,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Non Operating Expense,Exchange Gain or Loss,,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Non Operating Expense,Exchange Gain or Loss,,0.0
@@ -6233,7 +6233,7 @@ Cost Center - Takamull,8024040 - تقديم الخدمات اللوجستية ل
 Cost Center - Takamull,8025010 - مشروع العربة,Non Operating Expense,Exchange Gain or Loss,,0.0
 Cost Center - Takamull,8025020 - مشروع وزارة الرياضة,Non Operating Expense,Exchange Gain or Loss,,0.0
 Cost Center - Takamull,8025030 - تقديم 3000 ساعة عمل تطوعية لموظفين شركة الكهرباء,Non Operating Expense,Exchange Gain or Loss,,0.0
-Cost Center - Takamull,8025040 - مصنع الابتكار - اشوكا,Non Operating Expense,Exchange Gain or Loss,,0.0
+Cost Center - Takamull,8025040 - مصنع الابتكار - اشوكا,Non Operating Expense,Exchange Gain or Loss,,134.68
 Cost Center - Takamull,8025050 - حصر الاحتياج التدريبي في منظومة الصحة,Non Operating Expense,Exchange Gain or Loss,,0.0
 Cost Center - Takamull,8025060 - مجموعات عمل التطوع التكافلي,Non Operating Expense,Exchange Gain or Loss,,0.0
 Cost Center - Takamull,8025070 - سفر الإفطار في الحرم المكي,Non Operating Expense,Exchange Gain or Loss,,0.0
