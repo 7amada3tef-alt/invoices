@@ -132980,8 +132980,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":917808.05,
-        "bcy_amount":917808.05,
+        "amount":917800.0,
+        "bcy_amount":917800.0,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -133036,8 +133036,8 @@
         "line_item_taxes":[
 
         ],
-        "amount":917808.05,
-        "bcy_amount":917808.05,
+        "amount":917800.0,
+        "bcy_amount":917800.0,
         "project_name":"",
         "project_id":"",
         "tags":[
@@ -133050,5 +133050,117 @@
 
         },
         "journal_id":"5975823000005396167"
+    },
+    {
+        "line_id":"5975823000005420024",
+        "account_id":"5975823000000100097",
+        "customer_id":"",
+        "item_order":1,
+        "customer_name":"",
+        "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+        "account_code":"121211",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000100097",
+            "account_id":"5975823000000100097",
+            "text":"Aathar holding company - شركة اثار الخير القابضة",
+            "account_name":"Aathar holding company - شركة اثار الخير القابضة",
+            "account_code":"121211",
+            "account_label":"[ 121211 ] Aathar holding company - شركة اثار الخير القابضة",
+            "account_type":"other_current_asset",
+            "account_type_formatted":"Other Current Asset",
+            "account_specific_type_formatted":"Other Current Asset",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز حساب اثار الخير القابضة ",
+        "debit_or_credit":"debit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":500000.0,
+        "bcy_amount":500000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005420018"
+    },
+    {
+        "line_id":"5975823000005420025",
+        "account_id":"5975823000000101921",
+        "customer_id":"",
+        "item_order":2,
+        "customer_name":"",
+        "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+        "account_code":"120201",
+        "disable_tax":false,
+        "selected_account":{
+            "id":"5975823000000101921",
+            "account_id":"5975823000000101921",
+            "text":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_name":"Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_code":"120201",
+            "account_label":"[ 120201 ] Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
+            "account_type":"bank",
+            "account_type_formatted":"Bank",
+            "account_specific_type_formatted":"Bank",
+            "is_active":true,
+            "isDisabledAccount":false,
+            "disable_tax":false,
+            "is_tax_account":false,
+            "is_direct_tds_account":false,
+            "vat_account_type":"",
+            "associated_branch_ids":[
+
+            ]
+        },
+        "description":"تعزيز حساب اثار الخير القابضة ",
+        "debit_or_credit":"credit",
+        "tax_exemption_id":"",
+        "tax_exemption_type":"",
+        "tax_authority_id":"",
+        "tax_id":"",
+        "tax_name":"",
+        "tax_type":"tax",
+        "tax_percentage":"",
+        "line_item_taxes":[
+
+        ],
+        "amount":500000.0,
+        "bcy_amount":500000.0,
+        "project_name":"",
+        "project_id":"",
+        "tags":[
+
+        ],
+        "item_custom_fields":[
+
+        ],
+        "custom_field_hash":{
+
+        },
+        "journal_id":"5975823000005420018"
     }
 ]

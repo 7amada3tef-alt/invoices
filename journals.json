@@ -13396,7 +13396,7 @@
     },
     {
         "journal_id":"5975823000005396167",
-        "journal_date":"2026-11-08",
+        "journal_date":"2026-11-10",
         "entry_number":"JE -000702",
         "reference_number":"تحويل من النماء الي الجزيرة الرئيسي",
         "currency_id":"5975823000000091149",
@@ -13404,12 +13404,31 @@
         "notes":"تحويل من النماء الي الجزيرة الرئيسي",
         "journal_type":"both",
         "entity_type":"journal",
-        "total":917808.05,
-        "bcy_total":917808.05,
+        "total":917800.0,
+        "bcy_total":917800.0,
         "tags":[
 
         ],
-        "last_modified_time":"2026-11-08T14:49:49+0300",
+        "last_modified_time":"2026-11-10T10:34:26+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005420018",
+        "journal_date":"2026-11-10",
+        "entry_number":"JE -000706",
+        "reference_number":"تعزيز حساب اثار الخير القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز حساب اثار الخير القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":500000.0,
+        "bcy_total":500000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-10T10:35:20+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
     }
