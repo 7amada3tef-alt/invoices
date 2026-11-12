@@ -1,13 +1,21 @@
 name: Smartsheet JSON Sync
+run-name: "Sync #${{ github.run_number }} (${{ github.event_name }})"
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "7,37 * * * *"   # الدقيقة 7 و37 من كل ساعة (احتياطي)
 
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: smartsheet-sync
+  cancel-in-progress: false
+
+env:
+  TZ: Africa/Cairo   # غيّرها إلى Asia/Riyadh لو أردت توقيت السعودية
 
 jobs:
   sync:
@@ -34,25 +42,53 @@ jobs:
           SMARTSHEET_API_TOKEN: ${{ secrets.SMARTSHEET_API_TOKEN }}
         run: python get_SmS.py
 
-      - name: Debug - Verify JSON File
+      - name: Verify JSON File
+        id: verify
         run: |
-          echo "Workspace: $GITHUB_WORKSPACE"
           ls -lh smartsheet_data.json
           python -m json.tool smartsheet_data.json > /dev/null
-          echo "JSON file is valid."
+          ROWS=$(python -c "import json;print(len(json.load(open('smartsheet_data.json'))))")
+          echo "rows=$ROWS" >> "$GITHUB_OUTPUT"
+          echo "JSON file is valid. Rows: $ROWS"
 
-      - name: Commit JSON Update
+      - name: Commit Update (always)
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -f smartsheet_data.json
+          NOW=$(date '+%Y-%m-%d %H:%M:%S %Z')
 
-          if ! git diff --cached --quiet; then
-            git commit -m "Update Smartsheet JSON"
-            git push origin HEAD:main
-            echo "JSON updated successfully."
+          # هل تغيرت البيانات؟
+          git add -f smartsheet_data.json
+          if git diff --cached --quiet; then
+            CHANGED="لا"
           else
-            echo "No changes detected."
+            CHANGED="نعم"
           fi
 
+          # ملف يسجل وقت آخر مزامنة، يتغير في كل تشغيل
+          echo "Last sync: $NOW | Rows: ${{ steps.verify.outputs.rows }} | Data changed: $CHANGED" > last_sync.txt
+          git add -f last_sync.txt
+
+          git commit -m "Sync $NOW (data changed: $CHANGED)"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+          echo "now=$NOW" >> "$GITHUB_OUTPUT"
+          echo "changed=$CHANGED" >> "$GITHUB_OUTPUT"
+
+      - name: Run Summary
+        if: always()
+        run: |
+          {
+            echo "## ملخص المزامنة"
+            echo ""
+            echo "| البند | القيمة |"
+            echo "|---|---|"
+            echo "| الوقت | ${{ steps.commit.outputs.now }} |"
+            echo "| طريقة التشغيل | ${{ github.event_name }} |"
+            echo "| عدد الصفوف | ${{ steps.verify.outputs.rows }} |"
+            echo "| تغيرت البيانات؟ | ${{ steps.commit.outputs.changed }} |"
+            echo "| حالة التشغيل | ${{ job.status }} |"
+          } >> "$GITHUB_STEP_SUMMARY"
