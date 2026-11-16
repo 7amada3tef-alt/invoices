@@ -13,7 +13,7 @@
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 106962.94,
+              "total": 107429.49,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -52,19 +52,6 @@
                   "name": "Anas Lutfi custody - 120102 - عهدة انس لطفي",
                   "previous_total_sub_account": [],
                   "account_code": "120102",
-                  "is_collapsed_view": false,
-                  "previous_total": []
-                },
-                {
-                  "total_sub_account": 0.0,
-                  "total": -466.55,
-                  "account_id": "5975823000004844407",
-                  "depth": 0,
-                  "previous_values": [],
-                  "is_child_present": false,
-                  "name": "Badr ElDen Elnashwaty-120110-بدر الدين النشواتي",
-                  "previous_total_sub_account": [],
-                  "account_code": "120110",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -113,7 +100,7 @@
               "previous_total": []
             },
             {
-              "total": 248257.57,
+              "total": 247757.57,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -126,6 +113,19 @@
                   "name": "Al Jazera Main - 120201 - حساب بنك الجزيرة الرئيسي",
                   "previous_total_sub_account": [],
                   "account_code": "120201",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0.0,
+                  "total": -500.0,
+                  "account_id": "5975823000000103165",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Bank adjustment account  - 120200 - حساب تسوية البنك",
+                  "previous_total_sub_account": [],
+                  "account_code": "120200",
                   "is_collapsed_view": false,
                   "previous_total": []
                 },
@@ -197,7 +197,7 @@
               "previous_total": []
             },
             {
-              "total": 4373502.63,
+              "total": 4373536.08,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -280,7 +280,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 79649.28,
+                  "total": 79182.73,
                   "account_id": "5975823000000100103",
                   "depth": 0,
                   "previous_values": [],
@@ -423,7 +423,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 47586.62,
+                  "total": 48086.62,
                   "account_id": "5975823000001427081",
                   "depth": 0,
                   "previous_values": [],
@@ -870,12 +870,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-11-15",
-    "to_date": "2026-11-15",
+    "as_of_date": "2026-11-16",
+    "to_date": "2026-11-16",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "15 Nov 2026 07:08 PM",
+    "last_accessed_time_formatted": "16 Nov 2026 10:15 PM",
     "select_columns": [
       {
         "field": "name",
@@ -904,9 +904,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "15 Nov 2026",
-        "from_date": "2026-11-15",
-        "to_date": "2026-11-15"
+        "date_range_label": "16 Nov 2026",
+        "from_date": "2026-11-16",
+        "to_date": "2026-11-16"
       }
     ],
     "sort_column": "account",

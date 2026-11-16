@@ -13469,5 +13469,24 @@
         "last_modified_time":"2026-11-15T12:29:54+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005505001",
+        "journal_date":"2026-11-16",
+        "entry_number":"JE -000709",
+        "reference_number":"نقل الرصيد المتبقي من عهدة بدر الدين النشواتي الى شركة اوج",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"نقل الرصيد المتبقي من عهدة بدر الدين النشواتي الى شركة اوج",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":466.55,
+        "bcy_total":466.55,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-16T12:04:24+0300",
+        "created_by_id":"5975823000000118001",
+        "created_by_name":"Anas Alkhuzaei"
     }
 ]
