@@ -3,12 +3,12 @@
   "message": "success",
   "balance_sheet": [
     {
-      "total": 7246836.3,
+      "total": 7254336.3,
       "total_label": "TOTAL ASSETS",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 7003586.24,
+          "total": 7011086.24,
           "total_label": "Total Current Assets",
           "previous_values": [],
           "account_transactions": [
@@ -100,12 +100,12 @@
               "previous_total": []
             },
             {
-              "total": 247757.57,
+              "total": 351577.57,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 121912.44,
+                  "total": 225732.44,
                   "account_id": "5975823000000101921",
                   "depth": 0,
                   "previous_values": [],
@@ -174,12 +174,12 @@
               "previous_total": []
             },
             {
-              "total": 2274863.1,
+              "total": 2174863.1,
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 2274863.1,
+                  "total": 2174863.1,
                   "account_id": "5975823000000000364",
                   "depth": 0,
                   "previous_values": [],
@@ -197,7 +197,7 @@
               "previous_total": []
             },
             {
-              "total": 4373536.08,
+              "total": 4377216.08,
               "previous_values": [],
               "account_transactions": [
                 {
@@ -319,7 +319,7 @@
                 },
                 {
                   "total_sub_account": 0.0,
-                  "total": 221890.27,
+                  "total": 225570.27,
                   "account_id": "5975823000000091011",
                   "depth": 0,
                   "previous_values": [],
@@ -669,23 +669,23 @@
       "previous_total": []
     },
     {
-      "total": 7246836.3,
+      "total": 7254336.3,
       "total_label": "TOTAL LIABILITIES & EQUITIES",
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 1564798.09,
+          "total": 1741744.59,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1396747.38,
+              "total": 1573693.88,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 405519.84,
+                  "total": 582466.34,
                   "account_id": "5975823000000000373",
                   "depth": 0,
                   "previous_values": [],
@@ -805,12 +805,12 @@
           "previous_total": []
         },
         {
-          "total": 5682038.21,
+          "total": 5512591.71,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 282912.9,
+              "total": 113466.4,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -870,12 +870,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-11-16",
-    "to_date": "2026-11-16",
+    "as_of_date": "2026-11-17",
+    "to_date": "2026-11-17",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "16 Nov 2026 10:15 PM",
+    "last_accessed_time_formatted": "17 Nov 2026 09:06 PM",
     "select_columns": [
       {
         "field": "name",
@@ -904,9 +904,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "16 Nov 2026",
-        "from_date": "2026-11-16",
-        "to_date": "2026-11-16"
+        "date_range_label": "17 Nov 2026",
+        "from_date": "2026-11-17",
+        "to_date": "2026-11-17"
       }
     ],
     "sort_column": "account",
