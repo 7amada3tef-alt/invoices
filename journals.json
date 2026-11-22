@@ -13452,6 +13452,25 @@
         "created_by_name":"Kareem Maged"
     },
     {
+        "journal_id":"5975823000005561021",
+        "journal_date":"2026-11-14",
+        "entry_number":"JE -000711",
+        "reference_number":"تعديل رصيد الاستحقاق ل التامينات الاجتماعية ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعديل رصيد الاستحقاق ل التامينات الاجتماعية ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":563.05,
+        "bcy_total":563.05,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-22T09:54:03+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
         "journal_id":"5975823000005472337",
         "journal_date":"2026-11-15",
         "entry_number":"JE -000708",
@@ -13467,6 +13486,25 @@
 
         ],
         "last_modified_time":"2026-11-15T12:29:54+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005561003",
+        "journal_date":"2026-11-15",
+        "entry_number":"JE -000710",
+        "reference_number":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"سداد التأمينات الاجتماعية الخاصة بشركة تكامل  2026م",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":25014.6,
+        "bcy_total":25014.6,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-22T09:50:11+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
     },

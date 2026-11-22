@@ -591,9 +591,9 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
-Overall,Overall,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,57527.5
+Overall,Overall,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,56777.5
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,10756.5
-Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,1500.0
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
@@ -622,7 +622,7 @@ Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاج
 Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,9750.0
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,3000.0
 Cost Center - Takamull,8026040 - مهارات المستقبل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,4625.0
-Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,10500.0
+Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,11250.0
 Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,1500.0
@@ -1072,7 +1072,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Gifts - 521203 - هدايا,521203,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Gifts - 521203 - هدايا,521203,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Gifts - 521203 - هدايا,521203,0.0
-Overall,Overall,Cost of Goods Sold,GOSI - 510103 - التأمينات الاجتماعية,510103,310891.75
+Overall,Overall,Cost of Goods Sold,GOSI - 510103 - التأمينات الاجتماعية,510103,311454.8
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,GOSI - 510103 - التأمينات الاجتماعية,510103,208180.86
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,GOSI - 510103 - التأمينات الاجتماعية,510103,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,GOSI - 510103 - التأمينات الاجتماعية,510103,0.0
@@ -3921,10 +3921,10 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
-Overall,Overall,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,19875.0
+Overall,Overall,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,20625.0
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,0.0
-Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,19875.0
+Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,20625.0
 Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,0.0
 Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,0.0
 Cost Center - Takamull,8000050 - الاتصال المؤسسي تكامل,Operating Expense,Employee perdeim - 720201 - انتدابات موظفين,720201,0.0
