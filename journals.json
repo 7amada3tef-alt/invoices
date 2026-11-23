@@ -13526,5 +13526,24 @@
         "last_modified_time":"2026-11-16T12:04:24+0300",
         "created_by_id":"5975823000000118001",
         "created_by_name":"Anas Alkhuzaei"
+    },
+    {
+        "journal_id":"5975823000005561185",
+        "journal_date":"2026-11-23",
+        "entry_number":"JE -000712",
+        "reference_number":"تعزيز من حساب اثار الخير القابضة ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من حساب اثار الخير القابضة ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":500000.0,
+        "bcy_total":500000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-23T10:54:56+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]
