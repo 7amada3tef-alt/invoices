@@ -554,7 +554,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Consultants fees - 520101 - اتعاب مستشارين,520101,0.0
-Overall,Overall,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,22707060.15
+Overall,Overall,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,22873060.15
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,261764.91
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
@@ -582,7 +582,7 @@ Cost Center - Takamull,8025100 - مشروع منظومة عمل إدارة در�
 Cost Center - Takamull,8025110 - مشروع خارطة الاستثمار الاجتماعي في قطاع الشباب,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,9226.88
 Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشارية لأكاديمية الفوزان,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,10231.89
-Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,1561485.0
+Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,1727485.0
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,29114.64
 Cost Center - Takamull,8026040 - مهارات المستقبل,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,58408.05
 Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
@@ -591,7 +591,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Cost of Goods Sold,Consultation fees - 520108 - اتعاب استشارات,520108,0.0
-Overall,Overall,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,56777.5
+Overall,Overall,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,65027.5
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,10756.5
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
@@ -621,8 +621,8 @@ Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشاري
 Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8026020 - التأهيل للتوظيف,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,9750.0
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,3000.0
-Cost Center - Takamull,8026040 - مهارات المستقبل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,4625.0
-Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,11250.0
+Cost Center - Takamull,8026040 - مهارات المستقبل,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,12125.0
+Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,12000.0
 Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,0.0
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Cost of Goods Sold,Employee perdeim - 520201 - انتدابات موظفين,520201,1500.0
@@ -3884,7 +3884,7 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,electiricity  - 630102 - كهرباء,630102,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,electiricity  - 630102 - كهرباء,630102,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,electiricity  - 630102 - كهرباء,630102,0.0
-Overall,Overall,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,22825.0
+Overall,Overall,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,14575.0
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
 Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,14575.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
@@ -3914,8 +3914,8 @@ Cost Center - Takamull,8025120 - مشروع تقديم خدمات استشاري
 Cost Center - Takamull,8026010 - تأسيس وحدة الاستثمار الاجتماعي مع جمعية متلازمة النجاح,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
 Cost Center - Takamull,8026020 - التأهيل للتوظيف,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
 Cost Center - Takamull,8026030 - حاضنة أثر الطاقة الاجتماعية,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
-Cost Center - Takamull,8026040 - مهارات المستقبل,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,7500.0
-Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,750.0
+Cost Center - Takamull,8026040 - مهارات المستقبل,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
+Cost Center - Takamull,8026050 - تطوير ونمذجة المسار الاستراتيجي مع مؤسسة السبيعي الخيرية,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
 Cost Center - Takamull,8026060 - تقديم خدمات لوجستية لمنظمة أشوكا الوطن العربي,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
 Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفيذ برامج ومبادرات المسؤولية الاجتماعية,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Employee perdeim - 620201 - انتدابات موظفين,620201,0.0
@@ -5697,9 +5697,9 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,SMS fees - 621306 - شحن رسائل SMS,621306,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,SMS fees - 621306 - شحن رسائل SMS,621306,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,SMS fees - 621306 - شحن رسائل SMS,621306,0.0
-Overall,Overall,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,10425.8
+Overall,Overall,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,13403.47
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,0.0
-Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,7583.02
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,10560.69
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,0.0
 Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,0.0
 Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,855.06
@@ -5734,9 +5734,9 @@ Cost Center - Takamull,8026070 - الاتفاقية الإطارية لتنفي�
 Cost Center - Takamull,8026080 - مشروع  تنظيم حفل تخرج الدفعة الثانية من برنامج مصنع الابتكار,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,0.0
 Cost Center - Takamull,8026090 - مشروع نموذج تشغيل وحدات التوظيف لتأهيل وتوظيف مستفيدي الضمان الاجتماعي,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,0.0
 Cost Center - Takamull,8026100 - تأهيل وتنفعيل التطوع للطلاب - رائد,Operating Expense,Software and application subscription - 621409 - اشتراكات برامج وتطبيقات,621409,0.0
-Overall,Overall,Operating Expense,Software and application subscription - 721409 - اشتراكات برامج وتطبيقات,721409,56700.38
+Overall,Overall,Operating Expense,Software and application subscription - 721409 - اشتراكات برامج وتطبيقات,721409,53722.71
 Cost Center - Takamull,8000010 - تسوية مراكز التكلفة تكامل,Operating Expense,Software and application subscription - 721409 - اشتراكات برامج وتطبيقات,721409,0.0
-Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Software and application subscription - 721409 - اشتراكات برامج وتطبيقات,721409,2977.67
+Cost Center - Takamull,8000011 - المصاريف العمومية والادارية تكامل,Operating Expense,Software and application subscription - 721409 - اشتراكات برامج وتطبيقات,721409,0.0
 Cost Center - Takamull,8000020 - مصاريف بيعية وتسويقية تكامل,Operating Expense,Software and application subscription - 721409 - اشتراكات برامج وتطبيقات,721409,45453.1
 Cost Center - Takamull,8000030 - تدريب وتطوير تكامل,Operating Expense,Software and application subscription - 721409 - اشتراكات برامج وتطبيقات,721409,0.0
 Cost Center - Takamull,8000040 - مكتب ادارة المشاريع تكامل,Operating Expense,Software and application subscription - 721409 - اشتراكات برامج وتطبيقات,721409,0.0
