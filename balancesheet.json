@@ -674,18 +674,18 @@
       "previous_values": [],
       "account_transactions": [
         {
-          "total": 1431250.17,
+          "total": 1449250.17,
           "total_label": "Total Liabilities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": 1263199.46,
+              "total": 1281199.46,
               "total_label": "Total Current Liabilities",
               "previous_values": [],
               "account_transactions": [
                 {
                   "total_sub_account": 0.0,
-                  "total": 288988.69,
+                  "total": 306988.69,
                   "account_id": "5975823000000000373",
                   "depth": 0,
                   "previous_values": [],
@@ -792,12 +792,12 @@
           "previous_total": []
         },
         {
-          "total": 5394594.88,
+          "total": 5376594.88,
           "total_label": "Total Equities",
           "previous_values": [],
           "account_transactions": [
             {
-              "total": -4530.43,
+              "total": -22530.43,
               "account_id": "",
               "previous_values": [],
               "name": "Current Year Earnings",
@@ -857,12 +857,12 @@
     "is_already_scheduled": false,
     "report_type": "balance_sheet",
     "applied_filter": "TransactionDate.Today",
-    "as_of_date": "2026-11-24",
-    "to_date": "2026-11-24",
+    "as_of_date": "2026-11-25",
+    "to_date": "2026-11-25",
     "previous_date_range": [],
     "is_for_date_range": "true",
     "show_rows": "non_zero",
-    "last_accessed_time_formatted": "24 Nov 2026 10:56 PM",
+    "last_accessed_time_formatted": "25 Nov 2026 10:01 PM",
     "select_columns": [
       {
         "field": "name",
@@ -891,9 +891,9 @@
     },
     "date_range_list": [
       {
-        "date_range_label": "24 Nov 2026",
-        "from_date": "2026-11-24",
-        "to_date": "2026-11-24"
+        "date_range_label": "25 Nov 2026",
+        "from_date": "2026-11-25",
+        "to_date": "2026-11-25"
       }
     ],
     "sort_column": "account",
