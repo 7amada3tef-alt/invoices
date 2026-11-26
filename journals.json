@@ -13545,5 +13545,43 @@
         "last_modified_time":"2026-11-23T10:54:56+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005634027",
+        "journal_date":"2026-11-26",
+        "entry_number":"Payroll-13",
+        "reference_number":"",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"Regular Payroll Journal for Pay Period (01 Nov 2026 - 30 Nov 2026)",
+        "journal_type":"both",
+        "entity_type":"payroll_journal",
+        "total":273090.56,
+        "bcy_total":273090.56,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-26T10:27:00+0300",
+        "created_by_id":"5975823000000658095",
+        "created_by_name":"Ahmed Alkhanbashi"
+    },
+    {
+        "journal_id":"5975823000005668008",
+        "journal_date":"2026-11-26",
+        "entry_number":"JE -000713",
+        "reference_number":"تعزيز من التنمية الي الرئيسي",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"تعزيز من التنمية الي الرئيسي",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":126000.0,
+        "bcy_total":126000.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-26T15:29:01+0300",
+        "created_by_id":"5975823000004746001",
+        "created_by_name":"Kareem Maged"
     }
 ]

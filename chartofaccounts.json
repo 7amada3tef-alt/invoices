@@ -6966,7 +6966,7 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":9,
+        "child_count":10,
         "documents":[
 
         ],
@@ -7223,6 +7223,37 @@
         "last_modified_time":"2025-01-27T14:59:14+0300"
     },
     {
+        "account_id":"5975823000000103153",
+        "account_name":"Empoyees bonus - 730203 - مكافاة موظفين",
+        "account_code":"730203",
+        "account_type":"expense",
+        "description":"",
+        "currency_id":"5975823000000091149",
+        "currency_code":"SAR",
+        "show_on_dashboard":false,
+        "show_on_dashboard_formatted":"No",
+        "placeholder":"gl_empoyees_bonus_730203",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "is_active_formatted":"Active",
+        "can_show_in_ze":true,
+        "can_show_in_ze_formatted":"Yes",
+        "parent_account_id":"5975823000000102931",
+        "parent_account_name":"Payroll and government fees - 71 - الرواتب والرسوم الحكومية التسويقية",
+        "depth":2,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2025-01-27T14:59:28+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-11-26T11:09:16+0300"
+    },
+    {
         "account_id":"5975823000004729087",
         "account_name":"Basic Salary - 710111 - الراتب الأساسي",
         "account_code":"710111",
@@ -7276,7 +7307,7 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":34,
+        "child_count":33,
         "documents":[
 
         ],
@@ -8277,37 +8308,6 @@
         "last_modified_time":"2025-01-27T14:59:28+0300"
     },
     {
-        "account_id":"5975823000000103153",
-        "account_name":"Empoyees bonus - 730203 - مكافاة موظفين",
-        "account_code":"730203",
-        "account_type":"expense",
-        "description":"",
-        "currency_id":"5975823000000091149",
-        "currency_code":"SAR",
-        "show_on_dashboard":false,
-        "show_on_dashboard_formatted":"No",
-        "placeholder":"",
-        "is_register_supported_account":false,
-        "is_user_created":true,
-        "is_system_account":false,
-        "is_active":true,
-        "is_active_formatted":"Active",
-        "can_show_in_ze":true,
-        "can_show_in_ze_formatted":"Yes",
-        "parent_account_id":"5975823000000102967",
-        "parent_account_name":"Marketing expenses - 72 -  مصاريف تسويقية",
-        "depth":2,
-        "has_attachment":false,
-        "is_child_present":false,
-        "child_count":"",
-        "documents":[
-
-        ],
-        "created_time":"2025-01-27T14:59:28+0300",
-        "is_standalone_account":false,
-        "last_modified_time":"2025-01-27T14:59:28+0300"
-    },
-    {
         "account_id":"5975823000000103159",
         "account_name":"Training fees - 730501 - رسوم تدريب",
         "account_code":"730501",
@@ -8454,13 +8454,44 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":23,
+        "child_count":25,
         "documents":[
 
         ],
         "created_time":"2025-01-27T14:57:45+0300",
         "is_standalone_account":false,
         "last_modified_time":"2026-09-16T17:08:38+0300"
+    },
+    {
+        "account_id":"5975823000000101471",
+        "account_name":"Annual bonus - 630201 - مكافأة سنوية",
+        "account_code":"630201",
+        "account_type":"expense",
+        "description":"",
+        "currency_id":"5975823000000091149",
+        "currency_code":"SAR",
+        "show_on_dashboard":false,
+        "show_on_dashboard_formatted":"No",
+        "placeholder":"gl_annual_bonus_630201",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "is_active_formatted":"Active",
+        "can_show_in_ze":true,
+        "can_show_in_ze_formatted":"Yes",
+        "parent_account_id":"5975823000000101213",
+        "parent_account_name":"Payroll and Payroll Related - 61 - الرواتب الادارية وملحقاتها",
+        "depth":2,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2025-01-27T14:57:54+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-11-26T11:08:19+0300"
     },
     {
         "account_id":"5975823000000101219",
@@ -9021,6 +9052,37 @@
         "last_modified_time":"2026-09-18T10:14:15+0300"
     },
     {
+        "account_id":"5975823000000101849",
+        "account_name":"Performance bonus - 630202 - مكافأة تميز",
+        "account_code":"630202",
+        "account_type":"expense",
+        "description":"",
+        "currency_id":"5975823000000091149",
+        "currency_code":"SAR",
+        "show_on_dashboard":false,
+        "show_on_dashboard_formatted":"No",
+        "placeholder":"gl_performance_bonus_630202",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "is_active_formatted":"Active",
+        "can_show_in_ze":true,
+        "can_show_in_ze_formatted":"Yes",
+        "parent_account_id":"5975823000000101213",
+        "parent_account_name":"Payroll and Payroll Related - 61 - الرواتب الادارية وملحقاتها",
+        "depth":2,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2025-01-27T14:58:07+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-11-26T11:08:44+0300"
+    },
+    {
         "account_id":"5975823000005143008",
         "account_name":"Other Deduction - 610115- خصومات اخرى",
         "account_code":"610115",
@@ -9198,7 +9260,7 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":98,
+        "child_count":96,
         "documents":[
 
         ],
@@ -10321,37 +10383,6 @@
         "created_time":"2025-01-27T14:58:03+0300",
         "is_standalone_account":false,
         "last_modified_time":"2025-01-27T14:58:03+0300"
-    },
-    {
-        "account_id":"5975823000000101471",
-        "account_name":"Annual bonus - 630201 - مكافأة سنوية",
-        "account_code":"630201",
-        "account_type":"expense",
-        "description":"",
-        "currency_id":"5975823000000091149",
-        "currency_code":"SAR",
-        "show_on_dashboard":false,
-        "show_on_dashboard_formatted":"No",
-        "placeholder":"",
-        "is_register_supported_account":false,
-        "is_user_created":true,
-        "is_system_account":false,
-        "is_active":true,
-        "is_active_formatted":"Active",
-        "can_show_in_ze":true,
-        "can_show_in_ze_formatted":"Yes",
-        "parent_account_id":"5975823000000101327",
-        "parent_account_name":"G & A Expenses- 62 - مصاريف ادارية وعمومية",
-        "depth":2,
-        "has_attachment":false,
-        "is_child_present":false,
-        "child_count":"",
-        "documents":[
-
-        ],
-        "created_time":"2025-01-27T14:57:54+0300",
-        "is_standalone_account":false,
-        "last_modified_time":"2025-01-27T14:57:54+0300"
     },
     {
         "account_id":"5975823000000101729",
@@ -11623,37 +11654,6 @@
         "created_time":"2025-01-27T14:57:58+0300",
         "is_standalone_account":false,
         "last_modified_time":"2025-01-27T14:57:58+0300"
-    },
-    {
-        "account_id":"5975823000000101849",
-        "account_name":"Performance bonus - 630202 - مكافأة تميز",
-        "account_code":"630202",
-        "account_type":"expense",
-        "description":"",
-        "currency_id":"5975823000000091149",
-        "currency_code":"SAR",
-        "show_on_dashboard":false,
-        "show_on_dashboard_formatted":"No",
-        "placeholder":"",
-        "is_register_supported_account":false,
-        "is_user_created":true,
-        "is_system_account":false,
-        "is_active":true,
-        "is_active_formatted":"Active",
-        "can_show_in_ze":true,
-        "can_show_in_ze_formatted":"Yes",
-        "parent_account_id":"5975823000000101327",
-        "parent_account_name":"G & A Expenses- 62 - مصاريف ادارية وعمومية",
-        "depth":2,
-        "has_attachment":false,
-        "is_child_present":false,
-        "child_count":"",
-        "documents":[
-
-        ],
-        "created_time":"2025-01-27T14:58:07+0300",
-        "is_standalone_account":false,
-        "last_modified_time":"2025-01-27T14:58:07+0300"
     },
     {
         "account_id":"5975823000000101339",
@@ -13445,13 +13445,44 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":18,
+        "child_count":19,
         "documents":[
 
         ],
         "created_time":"2025-01-27T14:57:22+0300",
         "is_standalone_account":false,
         "last_modified_time":"2026-09-16T17:09:46+0300"
+    },
+    {
+        "account_id":"5975823000000101141",
+        "account_name":"Empoyees bonus - 530203 - مكافاة موظفين",
+        "account_code":"530203",
+        "account_type":"cost_of_goods_sold",
+        "description":"",
+        "currency_id":"5975823000000091149",
+        "currency_code":"SAR",
+        "show_on_dashboard":false,
+        "show_on_dashboard_formatted":"No",
+        "placeholder":"gl_empoyees_bonus_530203",
+        "is_register_supported_account":false,
+        "is_user_created":true,
+        "is_system_account":false,
+        "is_active":true,
+        "is_active_formatted":"Active",
+        "can_show_in_ze":true,
+        "can_show_in_ze_formatted":"Yes",
+        "parent_account_id":"5975823000000100487",
+        "parent_account_name":"Operating Payroll and Related - 51 - الرواتب المباشرة وملحقاتها",
+        "depth":2,
+        "has_attachment":false,
+        "is_child_present":false,
+        "child_count":"",
+        "documents":[
+
+        ],
+        "created_time":"2025-01-27T14:57:43+0300",
+        "is_standalone_account":false,
+        "last_modified_time":"2026-11-26T11:08:00+0300"
     },
     {
         "account_id":"5975823000000100493",
@@ -14034,7 +14065,7 @@
         "depth":1,
         "has_attachment":false,
         "is_child_present":true,
-        "child_count":106,
+        "child_count":105,
         "documents":[
 
         ],
@@ -14351,37 +14382,6 @@
         "created_time":"2025-01-27T14:57:35+0300",
         "is_standalone_account":false,
         "last_modified_time":"2025-01-27T14:57:35+0300"
-    },
-    {
-        "account_id":"5975823000000101141",
-        "account_name":"Empoyees bonus - 530203 - مكافاة موظفين",
-        "account_code":"530203",
-        "account_type":"cost_of_goods_sold",
-        "description":"",
-        "currency_id":"5975823000000091149",
-        "currency_code":"SAR",
-        "show_on_dashboard":false,
-        "show_on_dashboard_formatted":"No",
-        "placeholder":"",
-        "is_register_supported_account":false,
-        "is_user_created":true,
-        "is_system_account":false,
-        "is_active":true,
-        "is_active_formatted":"Active",
-        "can_show_in_ze":true,
-        "can_show_in_ze_formatted":"Yes",
-        "parent_account_id":"5975823000000100577",
-        "parent_account_name":"Projects Direct Operating Cost 52 - تكلفة المشاريع المباشرة",
-        "depth":2,
-        "has_attachment":false,
-        "is_child_present":false,
-        "child_count":"",
-        "documents":[
-
-        ],
-        "created_time":"2025-01-27T14:57:43+0300",
-        "is_standalone_account":false,
-        "last_modified_time":"2025-01-27T14:57:43+0300"
     },
     {
         "account_id":"5975823000000100631",
