@@ -13583,5 +13583,24 @@
         "last_modified_time":"2026-11-26T15:29:01+0300",
         "created_by_id":"5975823000004746001",
         "created_by_name":"Kareem Maged"
+    },
+    {
+        "journal_id":"5975823000005679007",
+        "journal_date":"2026-11-28",
+        "entry_number":"JE -000714",
+        "reference_number":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "currency_id":"5975823000000091149",
+        "status":"published",
+        "notes":"اطفاء مصروف - اقامة ومكتب العمل - انس لطفي والسعداوي ",
+        "journal_type":"both",
+        "entity_type":"journal",
+        "total":1525.0,
+        "bcy_total":1525.0,
+        "tags":[
+
+        ],
+        "last_modified_time":"2026-11-28T12:30:45+0300",
+        "created_by_id":"",
+        "created_by_name":""
     }
 ]
